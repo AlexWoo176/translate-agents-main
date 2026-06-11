@@ -12,7 +12,7 @@ Tôi hiểu bạn muốn: [mô tả ngắn intent]
 📋 Phân tích:
 - Phạm vi: [new book / chapter X / full book / book-level]
 - Mức rủi ro: [Level 0 / 1 / 2 / 3 / 4]
-- Provider: [mock / manual / external AI]
+- Provider: [mock / manual / antigravity-selected-model / external-ai]
 - Thông tin còn thiếu: [liệt kê nếu có, hoặc "Không có"]
 
 📝 Bước an toàn tôi đề xuất:

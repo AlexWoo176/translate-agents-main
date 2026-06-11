@@ -20,7 +20,7 @@ Antigravity báo cáo bằng ngôn ngữ dễ hiểu.
 2. Luôn chạy dry-run trước với sách mới, workflow dài hoặc thao tác rủi ro.
 3. Không dùng `--force` nếu người dùng chưa xác nhận rõ.
 4. Không dùng `--write-final` nếu người dùng chưa xác nhận rõ.
-5. Không dùng external AI provider nếu chưa được cấu hình.
+5. Khi người dùng yêu cầu dịch hoặc xử lý nội dung thật, Anti mặc định sử dụng model hiện đang được chọn trong Antigravity và chỉ ghi kết quả vào draft. Chỉ dùng external AI provider/API_KEY của framework khi provider đó đã được cấu hình rõ ràng và người dùng/operator xác nhận muốn dùng. Không dùng `mock` cho yêu cầu dịch thật, trừ khi người dùng nói rõ là chỉ muốn chạy thử workflow.
 6. Không ghi đè bản dịch final.
 7. Không tự sửa glossary nếu chưa backup/diff/impact.
 8. Không dịch full book nếu glossaryApproval failed.
@@ -28,6 +28,16 @@ Antigravity báo cáo bằng ngôn ngữ dễ hiểu.
 10. Nếu có failed gate, dừng lại và báo cáo.
 11. Nếu có warning quan trọng, hỏi người dùng trước khi tiếp tục.
 12. Không chỉ trả raw CLI output; phải diễn giải dễ hiểu.
+
+### AI Provider Safety
+
+- Khi người dùng yêu cầu dịch thật hoặc xử lý nội dung thật, Anti sử dụng model hiện đang được chọn trong Antigravity.
+- `mock` chỉ dùng cho test workflow, dry-run simulation hoặc pipeline validation.
+- Anti phải nói rõ provider/model sẽ được dùng trước khi chạy tác vụ dịch.
+- Anti không được âm thầm chuyển sang external AI provider/API_KEY.
+- External AI provider/API_KEY chỉ dùng khi đã cấu hình và được người dùng/operator xác nhận.
+- Bản dịch thật luôn ghi vào draft trước.
+- Không ghi final nếu chưa có human review và xác nhận rõ.
 
 ## Common User Intents
 
@@ -68,7 +78,7 @@ Antigravity báo cáo bằng ngôn ngữ dễ hiểu.
 - Không tự overwrite preview/EPUB nếu chưa xác nhận.
 - Không tự bỏ qua failed gate.
 - Không tự coi glossary candidate là approved.
-- Không tự dùng external AI provider khi chưa có cấu hình.
+- Không tự dùng external AI provider khi chưa có cấu hình và được xác nhận rõ ràng.
 
 ## Operator Decision Tree
 

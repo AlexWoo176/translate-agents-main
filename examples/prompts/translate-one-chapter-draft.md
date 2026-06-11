@@ -24,9 +24,17 @@ Tôi muốn dịch thử một chương trước khi dịch toàn bộ sách.
    - Có vấn đề gì không.
    - Bước tiếp theo được đề xuất.
 
+## AI Provider
+
+- Nếu đây là yêu cầu dịch thật, hãy sử dụng model hiện đang được chọn trong Antigravity.
+- Không dùng `mock` trừ khi tôi nói rõ là chỉ muốn test workflow.
+- Trước khi chạy, hãy nói rõ provider/model nào sẽ được dùng.
+- Chỉ ghi kết quả vào draft.
+- Không ghi final.
+
 ## Yêu cầu an toàn
 
 - Không ghi đè bản dịch chính thức (`05-translated`).
 - Không dùng `--write-final`.
-- Không dùng external AI provider nếu chưa được cấu hình — dùng mock.
+- Khi người dùng yêu cầu dịch thật, Anti mặc định sử dụng model hiện đang được chọn trong Antigravity và chỉ ghi kết quả vào draft. Chỉ dùng external AI provider/API_KEY của framework khi provider đó đã được cấu hình rõ ràng và tôi xác nhận muốn dùng. Không dùng `mock` cho yêu cầu dịch thật, trừ khi tôi nói rõ là chỉ muốn chạy thử workflow.
 - Không tự tiếp tục nếu có failed gate.

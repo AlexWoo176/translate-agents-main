@@ -138,7 +138,23 @@ Không. Antigravity luôn tạo backup trước khi ghi đè. Dry-run không bao
 Framework đã được cài đặt sẵn. Bạn chỉ cần mô tả nhu cầu của mình.
 
 **Tôi có thể dịch bằng AI không?**
-Có, nhưng cần cấu hình AI provider. Mặc định framework dùng bản dịch mock (mẫu).
+
+Có.
+
+Nếu bạn đang vận hành framework trong Google Antigravity, Anti sẽ mặc định sử dụng model hiện đang được chọn trong Antigravity để hỗ trợ dịch, review, tạo glossary hoặc xử lý nội dung.
+
+Framework cũng có chế độ `mock`, nhưng `mock` không phải bản dịch thật. `mock` chỉ dùng để kiểm tra workflow, chạy thử pipeline hoặc xác nhận hệ thống có hoạt động đúng hay không.
+
+Nếu framework được cấu hình thêm AI provider riêng bằng API key, ví dụ OpenAI, Gemini, Claude, Azure hoặc API nội bộ, Anti chỉ được dùng provider đó khi bạn hoặc operator xác nhận rõ. Anti không được âm thầm chuyển sang external AI provider vì thao tác này có thể phát sinh chi phí.
+
+Mặc định an toàn là:
+
+```text
+Dịch thật → dùng model hiện tại trong Antigravity → ghi vào draft.
+Test workflow → dùng mock.
+External AI API → chỉ dùng khi đã cấu hình và được xác nhận.
+Final translation → chỉ sau human review và xác nhận rõ.
+```
 
 **Glossary là gì và tại sao cần duyệt?**
 Glossary là danh sách thuật ngữ chuẩn. Nếu không duyệt, các thuật ngữ chuyên ngành có thể dịch không nhất quán giữa các chương.

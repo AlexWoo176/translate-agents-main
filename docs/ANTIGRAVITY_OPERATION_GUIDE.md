@@ -100,6 +100,16 @@ Người dùng giao tiếp bằng ngôn ngữ tự nhiên. Bạn phải:
 - Level 2-3. Dry-run first.
 - If existing EPUB, ask if overwrite.
 
+### AI Provider Safety
+
+- Khi người dùng yêu cầu dịch thật hoặc xử lý nội dung thật, Anti sử dụng model hiện đang được chọn trong Antigravity.
+- `mock` chỉ dùng cho test workflow, dry-run simulation hoặc pipeline validation.
+- Anti phải nói rõ provider/model sẽ được dùng trước khi chạy tác vụ dịch.
+- Anti không được âm thầm chuyển sang external AI provider/API_KEY.
+- External AI provider/API_KEY chỉ dùng khi đã cấu hình và được người dùng/operator xác nhận.
+- Bản dịch thật luôn ghi vào draft trước.
+- Không ghi final nếu chưa có human review và xác nhận rõ.
+
 ## Error Handling
 
 If a command fails:
@@ -119,7 +129,7 @@ If a command fails:
 | Gate failed | Identify which gate, explain what it checks, propose fix |
 | Missing prep files | Run prep phase (dry-run first) |
 | Glossary invalid | Run glossary validation, show errors, ask user to fix |
-| Provider not configured | Explain provider options, recommend `mock` for testing |
+| Provider not configured | Explain provider options, use currently selected Antigravity model for real content work, recommend `mock` for testing |
 | Checkpoint exists | Offer to resume from checkpoint (dry-run first) |
 | Backup failed | Alert user, do not proceed with overwrite |
 | EPUB build failed | Check archive completeness gate first |
@@ -161,7 +171,7 @@ When user asks about glossary:
 3. Dry-run: node cli/index.js workflow-run <bookSlug> --from analyze --to review --all --dry-run
 4. Report dry-run results.
 5. Ask user: "Dry-run passed. Ready to run real translation (draft only)?"
-6. If confirmed: run without --dry-run, with mock provider (default).
+6. If confirmed: run without --dry-run, using the currently selected Antigravity model (draft only).
 7. Report phase results after each phase.
 8. If any phase fails: STOP, report, propose fix.
 ```

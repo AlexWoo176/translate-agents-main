@@ -93,7 +93,7 @@ Thay vì hiển thị CLI commands, Web App nên có các nút hành động:
 - Phase selector (từ... đến...)
 - Chapter selector (one chapter / all)
 - Translation mode (draft / final)
-- Provider selector (mock / manual / AI)
+- Provider selector (mock / manual / antigravity-selected-model / external-ai)
 - Dry-run toggle (bật mặc định)
 
 **Flow**:
@@ -179,13 +179,13 @@ Thay vì hiển thị CLI commands, Web App nên có các nút hành động:
 **Mục đích**: Cấu hình translation provider.
 
 **Fields**:
-- Provider type (mock / manual / OpenAI / Gemini / custom)
+- Provider type (mock / manual / antigravity-selected-model / external-ai)
 - API key (masked)
 - Model selection
 - Cost estimate per 1000 tokens
 
 **Safety UX**:
-- Warning khi switch từ mock sang real AI
+- Warning khi switch từ mock sang real AI (antigravity-selected-model hoặc external-ai)
 - Cost estimate hiển thị trước khi run full book với AI
 - Provider test button (runs translate on 1 block)
 

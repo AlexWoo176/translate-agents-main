@@ -18,9 +18,9 @@ Bảng mapping giúp Antigravity chuyển đổi intent tự nhiên của ngư�
 | Áp dụng glossary vào draft | bookSlug | `node cli/index.js glossary <bookSlug> --apply-to-draft --chapters affected --dry-run` | `node cli/index.js glossary <bookSlug> --apply-to-draft --chapters affected` (after confirmation) |
 | Validate glossary structure | bookSlug | `node cli/index.js qa <bookSlug> --gate glossaryApproval` | — |
 | Dịch thử một chương (dry-run) | bookSlug, chapterId | `node cli/index.js workflow-run <bookSlug> --from analyze --to review --chapter <chapterId> --provider mock --dry-run` | — |
-| Dịch thử một chương (thật) | bookSlug, chapterId | `node cli/index.js workflow-run <bookSlug> --from analyze --to review --chapter <chapterId> --provider mock` | — |
+| Dịch thử một chương (thật) | bookSlug, chapterId | *Anti chạy bằng model đang chọn trong Antigravity (ghi vào draft)* | Chỉ dùng `--provider external-ai` (nếu đã cấu hình) hoặc `--provider manual` |
 | Dịch nháp toàn bộ sách (dry-run) | bookSlug | `node cli/index.js workflow-run <bookSlug> --from analyze --to review --all --provider mock --dry-run` | — |
-| Dịch nháp toàn bộ sách (thật) | bookSlug | `node cli/index.js workflow-run <bookSlug> --from analyze --to review --all --provider mock` | Review sau khi xong |
+| Dịch nháp toàn bộ sách (thật) | bookSlug | *Anti chạy bằng model đang chọn trong Antigravity (ghi vào draft)* | Chỉ dùng `--provider external-ai` (nếu đã cấu hình) hoặc `--provider manual` |
 | Chạy workflow từ đầu đến EPUB | bookSlug | `node cli/index.js workflow-run <bookSlug> --from plan --to export_epub --dry-run` | Chạy từng segment sau xác nhận |
 | Chạy một phase cụ thể | bookSlug, phase | `node cli/index.js run <bookSlug> --phase <phase> --dry-run` | `node cli/index.js run <bookSlug> --phase <phase>` |
 | Tạo preview HTML | bookSlug | `node cli/index.js run <bookSlug> --phase build_preview --dry-run` | `node cli/index.js run <bookSlug> --phase build_preview` (sau xác nhận nếu overwrite) |
@@ -44,7 +44,7 @@ Bảng mapping giúp Antigravity chuyển đổi intent tự nhiên của ngư�
 | analyze | `run <bookSlug> --phase analyze` | `--dry-run` | `--force` |
 | glossary | `run <bookSlug> --phase glossary` | `--dry-run` | — |
 | prep | `run <bookSlug> --phase prep` | `--dry-run` | `--force` |
-| translate | `run <bookSlug> --phase translate` | `--dry-run`, `--provider mock` | `--write-final`, `--force` |
+| translate | `run <bookSlug> --phase translate` | `--dry-run`, `--provider mock` (cho test workflow) | `--write-final`, `--force`, `--provider external-ai` (khi đã cấu hình) |
 | review | `run <bookSlug> --phase review` | `--dry-run` | — |
 | archive | `run <bookSlug> --phase archive` | `--dry-run` | `--force` |
 | build_preview | `run <bookSlug> --phase build_preview` | `--dry-run` | `--force` |

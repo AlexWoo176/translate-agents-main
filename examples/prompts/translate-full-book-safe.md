@@ -23,11 +23,27 @@ Tôi muốn chạy quy trình dịch nháp cho toàn bộ sách.
 8. Dừng nếu có failed gate — không tự bỏ qua.
 9. Báo cáo kết quả cuối cùng bằng tiếng Việt dễ hiểu.
 
+## AI Provider
+
+- Nếu đây là yêu cầu dịch thật, hãy sử dụng model hiện đang được chọn trong Antigravity.
+- Không dùng `mock` trừ khi tôi nói rõ là chỉ muốn test workflow.
+- Trước khi chạy, hãy nói rõ provider/model nào sẽ được dùng.
+- Chỉ ghi kết quả vào draft.
+- Không ghi final.
+
+Nếu cần dịch toàn bộ sách bằng AI, hãy:
+1. cảnh báo đây là thao tác lớn;
+2. khuyến nghị dịch thử một chương trước;
+3. kiểm tra glossaryApproval;
+4. chạy dry-run trước;
+5. chỉ ghi vào draft;
+6. không dùng external AI provider/API_KEY nếu chưa được xác nhận rõ.
+
 ## Yêu cầu an toàn
 
 - Không dùng `--write-final` — chỉ tạo bản nháp.
 - Không dùng `--force` nếu tôi chưa xác nhận.
-- Không dùng external AI provider nếu chưa cấu hình — dùng mock.
+- Khi người dùng yêu cầu dịch thật, Anti mặc định sử dụng model hiện đang được chọn trong Antigravity và chỉ ghi kết quả vào draft. Chỉ dùng external AI provider/API_KEY của framework khi provider đó đã được cấu hình rõ ràng và tôi xác nhận muốn dùng. Không dùng `mock` cho yêu cầu dịch thật, trừ khi tôi nói rõ là chỉ muốn chạy thử workflow.
 - Không bỏ qua failed gate.
 - Không tự approve glossary.
 - Nếu có ghi đè dữ liệu cũ: hỏi tôi trước.

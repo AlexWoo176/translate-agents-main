@@ -39,7 +39,7 @@ Phase 5: Glossary human review + approval
           ↓
 Phase 6: Prep (create bilingual HTML)
           ↓
-Phase 7: Translate ONE PILOT CHAPTER (draft, mock provider)
+Phase 7: Translate ONE PILOT CHAPTER (draft, using selected Antigravity model or mock)
           ↓
 Phase 8: Review pilot chapter
           ↓
@@ -92,7 +92,7 @@ Bạn muốn chọn A hay B?
 | Project đã tồn tại | ✅ Bắt buộc |
 | Workflow dry-run đã pass | ✅ Bắt buộc |
 | `glossaryApproval` gate không bị FAILED | ✅ Bắt buộc |
-| Translation provider được cấu hình hoặc mock | ✅ Bắt buộc |
+| Translation provider hoặc Antigravity model đã sẵn sàng | ✅ Bắt buộc |
 | Output ở dạng draft (không `--write-final`) | ✅ Mặc định |
 | Người dùng xác nhận rõ ràng lựa chọn A hoặc B | ✅ Bắt buộc |
 | Review reports của pilot chapter sạch | ⭐ Khuyến nghị mạnh |
@@ -123,15 +123,27 @@ Requirements before any final translation:
 
 ## Provider Policy
 
-| Provider | Use Case | Risk |
-|---|---|---|
-| `mock` | Testing, dry-run, pilot | Low — no cost, placeholder output |
-| `manual` | Human translator input | Low — no AI cost |
-| External AI (OpenAI, Gemini, etc.) | Production translation | High — API cost, needs configuration |
+| Provider | Khi nào dùng | Output | Rủi ro |
+|---|---|---|---|
+| `mock` | Test workflow, dry-run simulation, pipeline validation | Placeholder output, không phải bản dịch thật | Thấp |
+| `manual` | Người dịch hoặc người dùng cung cấp bản dịch | Bản dịch thật nếu do người cung cấp | Thấp |
+| `antigravity-selected-model` | Mặc định khi người dùng yêu cầu dịch, review, tạo glossary hoặc xử lý nội dung thật trong Antigravity | Bản nháp thật do model hiện tại tạo | Trung bình/Cao |
+| `external-ai` | Framework gọi AI API riêng qua API_KEY/provider config | Bản nháp thật do API tạo | Cao, có thể phát sinh chi phí |
 
-Default provider: `mock` (always safe for testing).
+Default for real content work in Antigravity:
+- Use the currently selected Antigravity model.
+- Write output to draft.
+- Do not write final.
+
+Default for testing workflow:
+- Use mock provider.
+- Do not create real translation.
+- Do not consume external AI/API cost.
+
+Default for framework external AI provider:
+- Do not use unless configured and explicitly confirmed.
 
 Antigravity must:
-- Always state which provider will be used before running.
+- Always state which provider/model will be used before running.
 - Never silently switch to an external AI provider.
-- Warn if external AI provider would be used on full book.
+- Warn if external AI provider or real AI translation would be used on full book.

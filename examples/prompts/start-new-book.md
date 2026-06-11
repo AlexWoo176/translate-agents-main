@@ -21,6 +21,14 @@ D. Khởi tạo và dịch thử một chương draft — để kiểm tra chấ
 E. Chuẩn bị dịch nháp toàn bộ sách — tôi đã sẵn sàng đi đường dài.
 F. Tôi chưa chắc nên chọn gì, hãy đề xuất cách an toàn nhất cho tôi.
 
+## AI Provider
+
+- Nếu đây là yêu cầu dịch thật, hãy sử dụng model hiện đang được chọn trong Antigravity.
+- Không dùng `mock` trừ khi tôi nói rõ là chỉ muốn test workflow.
+- Trước khi chạy, hãy nói rõ provider/model nào sẽ được dùng.
+- Chỉ ghi kết quả vào draft.
+- Không ghi final.
+
 ## Yêu cầu an toàn (Antigravity phải tuân theo)
 
 1. Kiểm tra framework đã sẵn sàng chưa trước khi bắt đầu.

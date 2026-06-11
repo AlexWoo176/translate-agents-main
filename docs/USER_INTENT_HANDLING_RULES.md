@@ -157,7 +157,7 @@ Safe response:
 | bookSlug không có | Hỏi: "Sách nào? Cho tôi biết tên hoặc mã sách." |
 | Chapter không rõ | Hỏi: "Muốn chạy chương nào? Nếu không chắc, tôi đề xuất chapter-1." |
 | Draft hay final không rõ | Mặc định draft. Nói rõ: "Tôi sẽ tạo bản nháp, không ghi final." |
-| Provider không rõ | Mặc định mock. Nói rõ: "Tôi sẽ dùng mock provider (bản test)." |
+| Provider không rõ | Dịch thật: mặc định dùng model Antigravity hiện tại (ghi vào draft). Test workflow: mặc định dùng mock. Nói rõ: "Tôi sẽ dùng model hiện tại trong Antigravity để dịch thật sang draft" hoặc "Tôi sẽ dùng mock provider để test workflow". |
 | File thay đổi glossary không có | Hỏi: "Bạn có file CSV thay đổi thuật ngữ không? Vui lòng cung cấp đường dẫn." |
 | Scope (one chapter/full) không rõ | Hỏi + Đề xuất pilot chapter trước. |
 

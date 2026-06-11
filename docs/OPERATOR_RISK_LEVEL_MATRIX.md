@@ -91,7 +91,7 @@ Mọi thao tác trong framework đều được phân loại theo 5 mức rủi 
 **Ví dụ**:
 - `translate` với `--write-final`
 - Apply glossary changes to final (`--apply-to-draft` target `final` + `--confirm-final`)
-- Full book translation với external AI provider (chi phí thực)
+- Full book translation với external AI provider (chi phí thực) hoặc thực hiện tác vụ dịch thật trên phạm vi lớn
 - Ghi đè `05-translated/` (bản dịch chính thức)
 - Final publication approval
 

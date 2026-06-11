@@ -41,7 +41,7 @@ node cli/index.js workflow-run <bookSlug> [options]
 - `--continue-on-warning`: Overrides the risk stop guard, executing high-risk phases even if prior phases generated warnings or need review.
 - `--chapter <chapterId>`: Run only for a specific chapter (e.g. `chapter-2`).
 - `--all`: Run for all chapters.
-- `--provider <mock|manual|external-ai>`: Select translation provider.
+- `--provider <mock|manual|external-ai>`: Select translation provider. (Note: In the Google Antigravity environment, the operator defaults to using the currently selected Antigravity model (`antigravity-selected-model`) for real content translation, writing to draft).
 - `--write-final`: Enables writing translation to final HTML files.
 
 ---

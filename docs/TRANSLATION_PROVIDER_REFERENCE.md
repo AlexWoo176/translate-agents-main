@@ -6,9 +6,25 @@ This document explains the translation abstraction layer, memory, and safety mod
 
 The translation engine operates on a unified abstraction:
 - **`TranslationProvider`**: Base class defining the common interface.
-- **`MockTranslationProvider`**: Simulates translation by mapping input segments to pseudo-Vietnamese text (useful for dry-runs and integration tests).
-- **`ManualTranslationProvider`**: Imports pre-existing Vietnamese segments or prompts human users for translations.
-- **`ExternalAiTranslationProvider`**: Integrates with LLM APIs (OpenAI GPT, Gemini, etc.) using terms and glossary contexts.
+- **`MockTranslationProvider`** (`mock`): Simulates translation by mapping input segments to pseudo-Vietnamese text (useful for dry-runs and integration tests).
+- **`ManualTranslationProvider`** (`manual`): Imports pre-existing Vietnamese segments or prompts human users for translations.
+- **`AntigravitySelectedModelProvider`** (`antigravity-selected-model`): Default provider for real content work in Antigravity. Uses the currently selected Antigravity model.
+- **`ExternalAiTranslationProvider`** (`external-ai`): Integrates with external LLM APIs (OpenAI GPT, Gemini, etc.) via framework configuration and API keys.
+
+### Provider Matrix
+
+| Provider | Khi nào dùng | Output | Rủi ro |
+|---|---|---|---|
+| `mock` | Test workflow, dry-run simulation, pipeline validation | Placeholder output, không phải bản dịch thật | Thấp |
+| `manual` | Người dịch hoặc người dùng cung cấp bản dịch | Bản dịch thật nếu do người cung cấp | Thấp |
+| `antigravity-selected-model` | Mặc định khi người dùng yêu cầu dịch, review, tạo glossary hoặc xử lý nội dung thật trong Antigravity | Bản nháp thật do model hiện tại tạo | Trung bình/Cao |
+| `external-ai` | Framework gọi AI API riêng qua API_KEY/provider config | Bản nháp thật do API tạo | Cao, có thể phát sinh chi phí |
+
+### Default Policies
+
+- **Default for real content work in Antigravity**: Use `antigravity-selected-model`. Write output to draft. Do not write final automatically.
+- **Default for testing workflow**: Use `mock` provider. Do not create real translation. Do not consume external AI/API cost.
+- **Default for framework external AI provider**: Do not use unless configured and explicitly confirmed.
 
 ---
 
