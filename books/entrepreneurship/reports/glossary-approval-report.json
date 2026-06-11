@@ -1,0 +1,21 @@
+{
+  "gateId": "glossaryApproval",
+  "status": "passed",
+  "success": true,
+  "checks": {
+    "exists": true,
+    "validSchema": true,
+    "noDuplicates": true,
+    "approvedForFullBook": true
+  },
+  "metrics": {
+    "totalTerms": 498,
+    "approved": 498,
+    "needsReview": 0,
+    "candidate": 0,
+    "locked": 0,
+    "rejected": 0
+  },
+  "warnings": [],
+  "errors": []
+}

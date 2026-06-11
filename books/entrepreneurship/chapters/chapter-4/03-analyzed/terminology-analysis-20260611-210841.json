@@ -1,0 +1,713 @@
+{
+  "knownTerms": [
+    {
+      "term": "disruptive technology",
+      "glossaryTranslation": "công nghệ đột phá",
+      "frequency": 4,
+      "context": "Table 4.1 provides some examples of companies using disruptive technology."
+    },
+    {
+      "term": "entrepreneur",
+      "glossaryTranslation": "doanh nhân/nhà khởi nghiệp",
+      "frequency": 7,
+      "context": "This makes sense: If, as an entrepreneur or an innovative corporation, you are going to look beyond your own ideation, research, and development capabilities for solutions, you must expect that others will look to your solutions for ideas to borrow."
+    },
+    {
+      "term": "entrepreneurial journey",
+      "glossaryTranslation": "hành trình khởi nghiệp",
+      "frequency": 2,
+      "context": "4.1 Tools for Creativity and Innovation Learning Objectives By the end of this section, you will be able to: Describe popular, well-supported, creative problem-solving methods Understand which innovation or problem-solving methods apply best in different settings Know where to look for emerging innovation practices, research, and tools Creativity, innovation, and invention are key concepts for your entrepreneurial journey."
+    },
+    {
+      "term": "entrepreneurial spirit",
+      "glossaryTranslation": "tinh thần khởi nghiệp",
+      "frequency": 1,
+      "context": "In this section, we’ll discuss each of the key terms and how they relate to the entrepreneurial spirit."
+    },
+    {
+      "term": "framework",
+      "glossaryTranslation": "khuôn khổ",
+      "frequency": 2,
+      "context": "If stagnant thinking has begun to dominate an ongoing discussion, it can be helpful to inject an ideation framework."
+    },
+    {
+      "term": "innovation",
+      "glossaryTranslation": "đổi mới",
+      "frequency": 152,
+      "context": "4.1 Tools for Creativity and Innovation Learning Objectives By the end of this section, you will be able to: Describe popular, well-supported, creative problem-solving methods Understand which innovation or problem-solving methods apply best in different settings Know where to look for emerging innovation practices, research, and tools Creativity, innovation, and invention are key concepts for your entrepreneurial journey."
+    },
+    {
+      "term": "patent",
+      "glossaryTranslation": "bằng sáng chế",
+      "frequency": 30,
+      "context": "Stern assembled a research team to perfect the product and obtained a patent ( Figure 4.6 )."
+    },
+    {
+      "term": "copyright",
+      "glossaryTranslation": "bản quyền",
+      "frequency": 9,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Link to Learning Watch this video on human-centered design for more information, including an explanation of the phases involved."
+    },
+    {
+      "term": "intellectual property",
+      "glossaryTranslation": "tài sản trí tuệ",
+      "frequency": 8,
+      "context": "You may seek patents for your intellectual property, particularly in fixed product or service practice form, but you should expect, or even encourage, the widespread circulation of key elements of your solutions."
+    },
+    {
+      "term": "social entrepreneurship",
+      "glossaryTranslation": "khởi nghiệp xã hội",
+      "frequency": 1,
+      "context": "In a sense, you allow others to solve problems in your business, startup, or social entrepreneurship project."
+    },
+    {
+      "term": "trademark",
+      "glossaryTranslation": "nhãn hiệu",
+      "frequency": 1,
+      "context": "The patent basics page of the US Patent and Trademark Office’s website is roughly forty pages long."
+    },
+    {
+      "term": "utility patent",
+      "glossaryTranslation": "bằng sáng chế tiện ích",
+      "frequency": 1,
+      "context": "49 The utility patent process includes a thirteen-step flow chart 50 that outlines the process."
+    },
+    {
+      "term": "social impact",
+      "glossaryTranslation": "tác động xã hội",
+      "frequency": 1,
+      "context": "So is the concept of invention, but conceptualizing invention this way sets a high bar for entrepreneurs who truly wish to make a social impact."
+    },
+    {
+      "term": "brainstorming",
+      "glossaryTranslation": "động não",
+      "frequency": 7,
+      "context": "This practice is the quintessential design thinking practice, or human-centric design thinking exercise, and it consists of five parts: accessing and expressing empathy, defining the problem, ideating solutions (brainstorming), prototyping, and testing ( Figure 4.3 )."
+    },
+    {
+      "term": "creativity",
+      "glossaryTranslation": "sự sáng tạo",
+      "frequency": 75,
+      "context": "4.1 Tools for Creativity and Innovation Learning Objectives By the end of this section, you will be able to: Describe popular, well-supported, creative problem-solving methods Understand which innovation or problem-solving methods apply best in different settings Know where to look for emerging innovation practices, research, and tools Creativity, innovation, and invention are key concepts for your entrepreneurial journey."
+    },
+    {
+      "term": "design thinking",
+      "glossaryTranslation": "tư duy thiết kế",
+      "frequency": 16,
+      "context": "The science, study, and practice of creativity and design thinking are constantly evolving."
+    },
+    {
+      "term": "diffusion chasm",
+      "glossaryTranslation": "khoảng cách khuếch tán",
+      "frequency": 12,
+      "context": "This is called the diffusion chasm (though this process is usually called the diffusion of innovations , for our purposes, it applies quite well to new inventions as we define them here)."
+    },
+    {
+      "term": "disruptive innovation",
+      "glossaryTranslation": "đổi mới đột phá",
+      "frequency": 7,
+      "context": "Open innovation is a simple but essential framework for future innovation and for managing, even possibly guiding, disruption in an industry as discussed previously (i.e., disruptive innovation)."
+    },
+    {
+      "term": "empathy",
+      "glossaryTranslation": "sự thấu cảm",
+      "frequency": 10,
+      "context": "This practice is the quintessential design thinking practice, or human-centric design thinking exercise, and it consists of five parts: accessing and expressing empathy, defining the problem, ideating solutions (brainstorming), prototyping, and testing ( Figure 4.3 )."
+    },
+    {
+      "term": "ideation",
+      "glossaryTranslation": "quá trình hình thành ý tưởng",
+      "frequency": 26,
+      "context": "After discussing ideation practices that you can try, we conclude with a discussion of an in-depth innovation exercise that can help you develop a habit of turning creative ideas into innovative products and services."
+    },
+    {
+      "term": "incremental innovation",
+      "glossaryTranslation": "đổi mới gia tăng",
+      "frequency": 5,
+      "context": "Then, we’ll define and distinguish creativity, innovation, and invention, and note the differences between pioneering and incremental innovation."
+    },
+    {
+      "term": "invention",
+      "glossaryTranslation": "phát minh",
+      "frequency": 78,
+      "context": "4.1 Tools for Creativity and Innovation Learning Objectives By the end of this section, you will be able to: Describe popular, well-supported, creative problem-solving methods Understand which innovation or problem-solving methods apply best in different settings Know where to look for emerging innovation practices, research, and tools Creativity, innovation, and invention are key concepts for your entrepreneurial journey."
+    },
+    {
+      "term": "iterative development",
+      "glossaryTranslation": "phát triển lặp",
+      "frequency": 6,
+      "context": "Iterative development is more common, particularly in fields with high levels of complexity and in service-oriented ventures."
+    },
+    {
+      "term": "lateral thinking",
+      "glossaryTranslation": "tư duy phi tuyến",
+      "frequency": 8,
+      "context": "In contrast, creative thinking is more often lateral thinking , free and open thinking in which established patterns of logical thought are purposefully ignored or even challenged."
+    },
+    {
+      "term": "linear thinking",
+      "glossaryTranslation": "tư duy tuyến tính",
+      "frequency": 6,
+      "context": "Linear thinking —sometimes called vertical thinking —involves a logical, step-by-step process."
+    },
+    {
+      "term": "open innovation",
+      "glossaryTranslation": "đổi mới mở",
+      "frequency": 19,
+      "context": "Simply put, open innovation involves searching for and finding solutions outside of the organizational structure."
+    },
+    {
+      "term": "pain point",
+      "glossaryTranslation": "điểm đau (vấn đề của khách hàng)",
+      "frequency": 8,
+      "context": "A pain point is a problem that people have with a product or service that might be addressed by creating a modified version that solves the problem more efficiently."
+    },
+    {
+      "term": "pioneering innovation",
+      "glossaryTranslation": "đổi mới tiên phong",
+      "frequency": 8,
+      "context": "20 In contrast, a pioneering innovation is one based on a new technology, a new advancement in the field, and/or an advancement in a related field that leads to the development of a new product."
+    },
+    {
+      "term": "scientific method",
+      "glossaryTranslation": "phương pháp khoa học",
+      "frequency": 8,
+      "context": "In other words, the constant underlying Musk’s decision process is the scientific method."
+    },
+    {
+      "term": "user interface",
+      "glossaryTranslation": "giao diện người dùng",
+      "frequency": 2,
+      "context": "In humans, it certainly can be, but for someone using an innovative product, feeling indulgent can relate to a richness of experience with the user interface (UI)."
+    },
+    {
+      "term": "competitive advantage",
+      "glossaryTranslation": "lợi thế cạnh tranh",
+      "frequency": 1,
+      "context": "Staying on top of well-documented, successful approaches can give you a competitive advantage and may remind you that entrepreneurship can be fun, exciting, and refreshing, as long as you keep your creative spirit alive and in constant motion."
+    },
+    {
+      "term": "customers",
+      "glossaryTranslation": "khách hàng",
+      "frequency": 10,
+      "context": "These kiosks address the need of younger generations to interact more with technology and gives customers faster service in most cases."
+    },
+    {
+      "term": "demand",
+      "glossaryTranslation": "nhu cầu",
+      "frequency": 3,
+      "context": "Inventors and economists alike became aware of consumer demand and realized that demand can influence which inventions take off at a given time."
+    },
+    {
+      "term": "demographics",
+      "glossaryTranslation": "nhân khẩu học",
+      "frequency": 3,
+      "context": "13 Drucker’s Seven Sources of Innovation 14 Source Description The unexpected Looking for new opportunities in the market; unexpected product performance; unexpected new products as examples The incongruity Discrepancies between what you think should be and what is reality Process need Weaknesses in the organization, product, or service Changes in industry/market New regulations; new technologies Demographics Understanding needs and wants of target markets Changes in perceptions Changes in perceptions of life events and values New knowledge New technologies; advancements in thinking; new research Table 4.3 One innovation that demonstrates several of Drucker’s sources is the use of cashier kiosks in fast-food restaurants."
+    },
+    {
+      "term": "develop",
+      "glossaryTranslation": "phát triển",
+      "frequency": 25,
+      "context": "After discussing ideation practices that you can try, we conclude with a discussion of an in-depth innovation exercise that can help you develop a habit of turning creative ideas into innovative products and services."
+    },
+    {
+      "term": "evaluate",
+      "glossaryTranslation": "đánh giá (evaluate)",
+      "frequency": 1,
+      "context": "15 Another leading expert on innovation, Tony Ulwick , focuses on understanding how the customer will judge or evaluate the quality and value of the product."
+    },
+    {
+      "term": "evaluation",
+      "glossaryTranslation": "giai đoạn đánh giá (evaluation)",
+      "frequency": 7,
+      "context": "34 It requires: Preparation Incubation Insight Evaluation Elaboration Figure 4.11 These are the five stages of creativity, according to Graham Wallas in The Art of Thought ."
+    },
+    {
+      "term": "human-centered design",
+      "glossaryTranslation": "thiết kế lấy con người làm trung tâm",
+      "frequency": 2,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Link to Learning Watch this video on human-centered design for more information, including an explanation of the phases involved."
+    },
+    {
+      "term": "implement",
+      "glossaryTranslation": "triển khai",
+      "frequency": 2,
+      "context": "This game is not always easy to implement."
+    },
+    {
+      "term": "observation",
+      "glossaryTranslation": "quan sát",
+      "frequency": 1,
+      "context": "Defining the problem must be based on honest, rational, and emotional observation for human-centric design to work."
+    },
+    {
+      "term": "ask",
+      "glossaryTranslation": "khoản yêu cầu (ask)",
+      "frequency": 2,
+      "context": "5 Ask, “How might we ________?” or “What if we ________?” in order to open up new possibilities when you seem to have reached the limits of creativity."
+    },
+    {
+      "term": "corporate narrative",
+      "glossaryTranslation": "câu chuyện doanh nghiệp",
+      "frequency": 3,
+      "context": "True inventiveness is often recognized in the marketplace, and it can help build a valuable reputation and help establish market position if the company can build a future-oriented corporate narrative around the invention."
+    },
+    {
+      "term": "brand",
+      "glossaryTranslation": "thương hiệu",
+      "frequency": 1,
+      "context": "Very few products or procedures are actually brand-new ideas."
+    },
+    {
+      "term": "market research",
+      "glossaryTranslation": "nghiên cứu thị trường",
+      "frequency": 4,
+      "context": "46 Step 3: Conduct Market Research Market research is an obvious must, but many entrepreneurs fail to go as deeply as they should in researching their competition."
+    },
+    {
+      "term": "marketing",
+      "glossaryTranslation": "tiếp thị",
+      "frequency": 7,
+      "context": "Early adopters generally pay more than those who wait, but if the invention gives them a perceived practical, social, or cultural advantage, members of the population, the popularity of the invention itself, and marketing can all drive the invention over the diffusion chasm."
+    },
+    {
+      "term": "people",
+      "glossaryTranslation": "con người (nguồn nhân lực)",
+      "frequency": 29,
+      "context": "Practicing empathy enables us to relate to people and see the problem through the eyes and feelings of those who experience it."
+    },
+    {
+      "term": "place",
+      "glossaryTranslation": "phân phối (place)",
+      "frequency": 2,
+      "context": "Just as those ships and cars moved down an assembly line until they were ready to be put into service, start thinking about moving down the “who I know” line so that you will eventually have a successful business in place."
+    },
+    {
+      "term": "process",
+      "glossaryTranslation": "quy trình",
+      "frequency": 62,
+      "context": "Figure 4.2 When your process hits a sticking point, a walk—or a walk and talk—can help boost your creativity in thinking through solutions."
+    },
+    {
+      "term": "product",
+      "glossaryTranslation": "sản phẩm",
+      "frequency": 95,
+      "context": "Once you apply this process to developing a product or service, you need to return to the empathetic mindset to examine whether you have reached a viable solution and, thus, an opportunity."
+    },
+    {
+      "term": "accounting",
+      "glossaryTranslation": "kế toán",
+      "frequency": 1,
+      "context": "For example, the invention of desktop computing put accounting and word processing into the hands of nearly every office worker."
+    },
+    {
+      "term": "credit",
+      "glossaryTranslation": "tín dụng",
+      "frequency": 10,
+      "context": "(credit: “beard business city colleague” by “rawpixel”/Pixabay, CC0) Three ideation practices are discussed here."
+    },
+    {
+      "term": "crowdfunding",
+      "glossaryTranslation": "gọi vốn cộng đồng",
+      "frequency": 3,
+      "context": "Another option is to get funding for your invention on Kickstarter or some other crowdfunding site, but again you must beware that establishing such a campaign puts your idea in the public sphere."
+    },
+    {
+      "term": "revenue",
+      "glossaryTranslation": "doanh thu",
+      "frequency": 1,
+      "context": "As a result of this experiment, weekly revenue doubled."
+    },
+    {
+      "term": "early adopters",
+      "glossaryTranslation": "người chấp nhận sớm",
+      "frequency": 5,
+      "context": "First is the question of who adopts inventions and innovations in society: The main groups are innovators, early adopters, early and late-majority adopters, and “laggards” (Rogers’s own term)."
+    },
+    {
+      "term": "lean startup",
+      "glossaryTranslation": "khởi nghiệp tinh gọn",
+      "frequency": 2,
+      "context": "In this text, we reference the concept of the lean startup from time to time."
+    },
+    {
+      "term": "business plan",
+      "glossaryTranslation": "kế hoạch kinh doanh",
+      "frequency": 1,
+      "context": "You must organize information related to your business idea, your business plan, and your potential teammates in the process."
+    },
+    {
+      "term": "relationship management",
+      "glossaryTranslation": "quản lý quan hệ",
+      "frequency": 1,
+      "context": "Insightly ( www.insightly.com ) is a customer relationship management tool to stay better connected to your customers."
+    },
+    {
+      "term": "capital",
+      "glossaryTranslation": "vốn",
+      "frequency": 2,
+      "context": "This requires serious investment capital, but the payoff is that users will interact with a version of the product that looks and functions more like what you had in mind during your ideation phase."
+    },
+    {
+      "term": "corporation",
+      "glossaryTranslation": "công ty cổ phần",
+      "frequency": 2,
+      "context": "This makes sense: If, as an entrepreneur or an innovative corporation, you are going to look beyond your own ideation, research, and development capabilities for solutions, you must expect that others will look to your solutions for ideas to borrow."
+    },
+    {
+      "term": "entrepreneur in action",
+      "glossaryTranslation": "doanh nhân thực chiến",
+      "frequency": 1,
+      "context": "Entrepreneur In Action Pioneering Innovation in the Personal Care Industry In his ninth-grade biology class, Benjamin Stern came up with an idea to change the personal care industry."
+    },
+    {
+      "term": "mcdonald’s",
+      "glossaryTranslation": "McDonald’s",
+      "frequency": 2,
+      "context": "McDonald’s was one of the first to launch these self-serve kiosks."
+    },
+    {
+      "term": "stakeholders",
+      "glossaryTranslation": "stakeholders",
+      "frequency": 4,
+      "context": "For example, the question, “How might we keep rivers clean?” is similar to the question, “How might we prevent animal waste runoff from entering our city’s waterways?” but the implications of each question are different for different stakeholders."
+    },
+    {
+      "term": "tesla",
+      "glossaryTranslation": "Tesla",
+      "frequency": 1,
+      "context": "The development processes for PayPal , Solar City , SpaceX , and Tesla differed widely; however, Musk does outline a six-step decision-making process ( Figure 4.8 ): Ask a question."
+    },
+    {
+      "term": "toyota",
+      "glossaryTranslation": "Toyota",
+      "frequency": 1,
+      "context": "Examples of Disruptive Technology Company Disruptive technology Amazon Speed based delivery Multiple delivery processes from drones to strategically located fulfillment centers Disruptive technology including processing the customer order before the customer has even finished the purchase, so that the product is already moving toward delivery Uber&nbsp;and&nbsp;Lyft Ride sharing versus taxi driving Apps and Beacon and Amp-color coded alert communication system disrupted the taxi system Bitcoin Digital currency not connected to a specific country or monetary standard Value based on market forces Toyota&nbsp;E-Palette Remote controlled driverless electric shuttle that brings the service to the customer rather than the customer going to the service Table 4.1 Another element of the open innovation model is the connection between academic research and practical solutions."
+    },
+    {
+      "term": "link to learning",
+      "glossaryTranslation": "liên kết học tập",
+      "frequency": 4,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Link to Learning Watch this video on human-centered design for more information, including an explanation of the phases involved."
+    },
+    {
+      "term": "work it out",
+      "glossaryTranslation": "thực hành",
+      "frequency": 1,
+      "context": "Work It Out Razors The safety razor was an innovation over the straight razor."
+    },
+    {
+      "term": "learning objectives",
+      "glossaryTranslation": "mục tiêu học tập",
+      "frequency": 3,
+      "context": "4.1 Tools for Creativity and Innovation Learning Objectives By the end of this section, you will be able to: Describe popular, well-supported, creative problem-solving methods Understand which innovation or problem-solving methods apply best in different settings Know where to look for emerging innovation practices, research, and tools Creativity, innovation, and invention are key concepts for your entrepreneurial journey."
+    },
+    {
+      "term": "suggested resources",
+      "glossaryTranslation": "tài nguyên gợi ý",
+      "frequency": 1,
+      "context": "creativity in practice innovative products inventions building creative teams Suggested Resources 4.1 Tools for Creativity and Innovation The World’s 25 Best Design Schools: https://www.businessinsider.com/the-worlds-25-best-design-schools-2012-11 Open Innovation Community: http://openinnovation.net/ The Seven All-Time Greatest Ideation Techniques: http://www.innovationmanagement.se/2013/05/30/the-7-all-time-greatest-ideation-techniques/ Ideation Method: Mash-Up: https://www.ideou.com/pages/ideation-method-mash-up LUMA Institute’s LUMA System of Innovation: https://www.youtube.com/watch?v=qDyElJ0xe2o Ideation Method: Top Five: http://www.designkit.org/methods/15 4.3 Developing Ideas, Innovations, and Inventions Additional information about product development: https://www.smartsheet.com/all-about-new-product-development-process A summary of various leadership styles and traits that are essential for a changing business environment: https://www.christinespeaks.com/management/demonstrate-dynamic-leadership Summary 4.1 Tools for Creativity and Innovation There are many practical approaches to being creative and developing innovations."
+    },
+    {
+      "term": "key terms",
+      "glossaryTranslation": "thuật ngữ chính",
+      "frequency": 2,
+      "context": "In this section, we’ll discuss each of the key terms and how they relate to the entrepreneurial spirit."
+    },
+    {
+      "term": "review questions",
+      "glossaryTranslation": "câu hỏi ôn tập",
+      "frequency": 1,
+      "context": "Key Terms brainstorming generation of ideas in an environment free of judgment or dissension with the goal of creating solutions creativity development of original ideas design thinking method to focus the design and development decisions of a product on the needs of the customer, typically involving an empathy-driven process to define complex problems and create solutions that address those problems diffusion chasm most critical point of adoption, which often occurs at the end of the early adoption phase, before the early majority steps in and truly confirms (or not) the diffusion of an invention disruptive innovation process that significantly impacts the market by making a product or service more affordable and/or accessible often by smaller companies in an industry empathy human ability to feel what other humans are feeling, which in the context of creativity, innovation, and invention is essential to beginning a process of human-centric design ideation purposeful process of opening up one’s mind to new trains of thought that branch out in many directions from a stated purpose or problem incremental innovation innovation that modifies an existing product or service innovation new idea, process, or product, or a change to an existing product or process invention truly novel product, service, or process that, though based on ideas and products that have come before, represents a leap, a creation truly novel and different iterative development process in which inventors and innovators continuously engage with potential customers in order to develop their products and their consumer bases at the same time lateral thinking free and open thinking in which established patterns of logical thought are purposefully ignored or even challenged linear thinking logical, step-by-step process minimum viable product (MVP) early version or prototype of a product that may not be polished or complete but that functions well enough that you can begin to market it or test it with potential users open innovation searching for and finding solutions outside of the organizational structure pain point problem that people have with a product or service that might be addressed by creating a modified version that solves the problem pioneering innovation one based on a new technology, a new advancement in the field, and/or an advancement in a related field that leads to the development of a new product scientific method most often associated with the natural sciences, outlines the process to discover an answer to a question or a problem user interface what the user sees and interacts with Review Questions 1 ."
+    },
+    {
+      "term": "discussion questions",
+      "glossaryTranslation": "câu hỏi thảo luận",
+      "frequency": 1,
+      "context": "https://www.viima.com/blog/16-examples-of-open-innovation-what-can-we-learn-from-them Discussion Questions 1 ."
+    },
+    {
+      "term": "case questions",
+      "glossaryTranslation": "câu hỏi tình huống",
+      "frequency": 1,
+      "context": "Case Questions 1 ."
+    },
+    {
+      "term": "chapter outline",
+      "glossaryTranslation": "dàn ý chương",
+      "frequency": 1,
+      "context": "(credit: modification of “On creativity” by Linus Bohman/Flickr, CC BY 2.0) Chapter Outline 4.1 Tools for Creativity and Innovation 4.2 Creativity, Innovation, and Invention: How They Differ 4.3 Developing Ideas, Innovations, and Inventions Introduction We enter the world as curious beings."
+    }
+  ],
+  "candidateTerms": [
+    {
+      "term": "Objectives By",
+      "frequency": 3,
+      "context": "4.1 Tools for Creativity and Innovation Learning Objectives By the end of this section, you will be able to: Describe popular, well-supported, creative problem-solving methods Understand which innovation or problem-solving methods apply best in different settings Know where to look for emerging innovation practices, research, and tools Creativity, innovation, and invention are key concepts for your entrepreneurial journey."
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 9,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Link to Learning Watch this video on human-centered design for more information, including an explanation of the phases involved."
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 9,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Link to Learning Watch this video on human-centered design for more information, including an explanation of the phases involved."
+    },
+    {
+      "term": "Six Thinking Hats",
+      "frequency": 4,
+      "context": "To delve more deeply into ideation as a practice, we introduce here the Six Thinking Hats method ( Figure 4.4 )."
+    },
+    {
+      "term": "Red Hat",
+      "frequency": 2,
+      "context": "The six hats are: White Hat: acts as information gatherer by conducting research and bringing quantitative analysis to the discussion; sticks to the facts Red Hat: brings raw emotion to the mix and offers sensibilities without having to justify them Black Hat: employs logic and caution; warns participants about institutional limitations; also known as the “devil’s advocate” Yellow Hat: brings the “logical positive” of optimism to the group; encourages solving small and large problems Green Hat: thinks creatively; introduces change and provokes other members when needed; new ideas are the purview of the Green Hat Blue Hat: maintains the broader structure of the discussion and may set the terms by which progress will be judged; makes sure the other hats play by the rules, or stay in their respective lanes, so to speak Figure 4.4 The Six Thinking Hats exercise is designed to have each participant focus on a particular approach to the problem or discussion."
+    },
+    {
+      "term": "Black Hat",
+      "frequency": 2,
+      "context": "The six hats are: White Hat: acts as information gatherer by conducting research and bringing quantitative analysis to the discussion; sticks to the facts Red Hat: brings raw emotion to the mix and offers sensibilities without having to justify them Black Hat: employs logic and caution; warns participants about institutional limitations; also known as the “devil’s advocate” Yellow Hat: brings the “logical positive” of optimism to the group; encourages solving small and large problems Green Hat: thinks creatively; introduces change and provokes other members when needed; new ideas are the purview of the Green Hat Blue Hat: maintains the broader structure of the discussion and may set the terms by which progress will be judged; makes sure the other hats play by the rules, or stay in their respective lanes, so to speak Figure 4.4 The Six Thinking Hats exercise is designed to have each participant focus on a particular approach to the problem or discussion."
+    },
+    {
+      "term": "Green Hat",
+      "frequency": 3,
+      "context": "The six hats are: White Hat: acts as information gatherer by conducting research and bringing quantitative analysis to the discussion; sticks to the facts Red Hat: brings raw emotion to the mix and offers sensibilities without having to justify them Black Hat: employs logic and caution; warns participants about institutional limitations; also known as the “devil’s advocate” Yellow Hat: brings the “logical positive” of optimism to the group; encourages solving small and large problems Green Hat: thinks creatively; introduces change and provokes other members when needed; new ideas are the purview of the Green Hat Blue Hat: maintains the broader structure of the discussion and may set the terms by which progress will be judged; makes sure the other hats play by the rules, or stay in their respective lanes, so to speak Figure 4.4 The Six Thinking Hats exercise is designed to have each participant focus on a particular approach to the problem or discussion."
+    },
+    {
+      "term": "The Six Thinking Hats",
+      "frequency": 4,
+      "context": "To delve more deeply into ideation as a practice, we introduce here the Six Thinking Hats method ( Figure 4.4 )."
+    },
+    {
+      "term": "Blue Hat",
+      "frequency": 3,
+      "context": "The six hats are: White Hat: acts as information gatherer by conducting research and bringing quantitative analysis to the discussion; sticks to the facts Red Hat: brings raw emotion to the mix and offers sensibilities without having to justify them Black Hat: employs logic and caution; warns participants about institutional limitations; also known as the “devil’s advocate” Yellow Hat: brings the “logical positive” of optimism to the group; encourages solving small and large problems Green Hat: thinks creatively; introduces change and provokes other members when needed; new ideas are the purview of the Green Hat Blue Hat: maintains the broader structure of the discussion and may set the terms by which progress will be judged; makes sure the other hats play by the rules, or stay in their respective lanes, so to speak Figure 4.4 The Six Thinking Hats exercise is designed to have each participant focus on a particular approach to the problem or discussion."
+    },
+    {
+      "term": "Nohbo Drops",
+      "frequency": 2,
+      "context": "He developed Nohbo Drops , single-use personal cleansing products with water-soluble packaging."
+    },
+    {
+      "term": "Public Domain",
+      "frequency": 3,
+      "context": "(credit: modification of “US Patent US20170014313A1” by Nohbo LLC/Google Patents, Public Domain) Is a pioneering innovation an invention?"
+    },
+    {
+      "term": "Assembly Line",
+      "frequency": 7,
+      "context": "Did Henry Ford Invent the Assembly Line?"
+    },
+    {
+      "term": "Henry Ford",
+      "frequency": 4,
+      "context": "Did Henry Ford Invent the Assembly Line?"
+    },
+    {
+      "term": "Venetian Arsenal",
+      "frequency": 2,
+      "context": "Various components (ropes, sails, and so on) were prefabricated in different parts of the Venetian Arsenal, a huge, complex construction site along one of Venice’s canals."
+    },
+    {
+      "term": "The Venetian Arsenal",
+      "frequency": 2,
+      "context": "Various components (ropes, sails, and so on) were prefabricated in different parts of the Venetian Arsenal, a huge, complex construction site along one of Venice’s canals."
+    },
+    {
+      "term": "Wikimedia Commons",
+      "frequency": 3,
+      "context": "(credit (a): modification of “Ford assembly line – 1913” by “Hohum”/Wikimedia Commons, Public Domain; credit (b): modification of “venice-arsenal-italy” by “irenetriches1”/Pixabay, CC0) Opportunities to bring new products and processes to market are in front of us every day."
+    },
+    {
+      "term": "Elon Musk",
+      "frequency": 2,
+      "context": "Elon Musk is famous for founding four different billion-dollar companies."
+    },
+    {
+      "term": "Everett Rogers",
+      "frequency": 2,
+      "context": "28 The Rogers Adoption Curve was popularized through the research and publications of the author and scientist Everett Rogers ."
+    },
+    {
+      "term": "Shave Club",
+      "frequency": 2,
+      "context": "33 Still other innovations in the shaving genre include gender-specific razors, beard trimmers, and, more recently, online clubs such as Dollar Shave Club and Harry’s Shave Club ."
+    },
+    {
+      "term": "Safety Razor",
+      "frequency": 8,
+      "context": "Work It Out Razors The safety razor was an innovation over the straight razor."
+    },
+    {
+      "term": "Creative Commons",
+      "frequency": 2,
+      "context": "(credit (a): modification of “barber-beard-razor-shaving” by “jackmac34”/Pixabay, CC0; credit (b): modification of “Safety Razor vs Cartridge Razor” by “Tools of Men”/Creative Commons, CC BY 2.0; credit (c): modification of “Philips 8290 shaver unboxing” by “renaissancechambara”/Creative Commons, CC BY 2.0) Think about the conceptual difference between innovation and invention."
+    },
+    {
+      "term": "CC BY",
+      "frequency": 13,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Link to Learning Watch this video on human-centered design for more information, including an explanation of the phases involved."
+    },
+    {
+      "term": "Developing Ideas",
+      "frequency": 4,
+      "context": "4.3 Developing Ideas, Innovations, and Inventions Learning Objectives By the end of this section, you will be able to: Describe and apply the five stages of creativity Discuss innovation as a system for problem solving and much more Outline the sequence of steps in developing an invention The previous section defined creativity, innovation, and invention, and provided examples."
+    },
+    {
+      "term": "The Creative Process",
+      "frequency": 4,
+      "context": "The Creative Process: The Five Stages of Creativity Raw creativity and an affinity for lateral thinking may be innate, but creative people must refine these skills in order to become masters in their respective fields."
+    },
+    {
+      "term": "The Five Stages of Creativity",
+      "frequency": 3,
+      "context": "4.3 Developing Ideas, Innovations, and Inventions Learning Objectives By the end of this section, you will be able to: Describe and apply the five stages of creativity Discuss innovation as a system for problem solving and much more Outline the sequence of steps in developing an invention The previous section defined creativity, innovation, and invention, and provided examples."
+    },
+    {
+      "term": "When I",
+      "frequency": 2,
+      "context": "Mozart stated, “When I am, as it were, completely myself, entirely alone, and of good cheer—say, traveling in a carriage, or walking after a good meal, or during the night when I cannot sleep; it is on such occasions that my ideas flow best and most abundantly.” 37 Incubation allows your mind to integrate your creative problem with your stored memories and with other thoughts or emotions you might have."
+    },
+    {
+      "term": "For Kawasaki",
+      "frequency": 2,
+      "context": "For Kawasaki, this builds the “ total user experience .” 43 If you truly have solved a problem in the marketplace, users will understand what that problem is and how your product and related services deliver."
+    },
+    {
+      "term": "Developing an Invention The",
+      "frequency": 2,
+      "context": "4.3 Developing Ideas, Innovations, and Inventions Learning Objectives By the end of this section, you will be able to: Describe and apply the five stages of creativity Discuss innovation as a system for problem solving and much more Outline the sequence of steps in developing an invention The previous section defined creativity, innovation, and invention, and provided examples."
+    },
+    {
+      "term": "Merit Morikawa",
+      "frequency": 2,
+      "context": "56 Think of an example of a firm (other than Samsung, the example from Merit Morikawa’s article, and Apple, the “easy” answer) that has engaged in all of these practices."
+    },
+    {
+      "term": "Tools for Creativity and Innovation",
+      "frequency": 4,
+      "context": "4.1 Tools for Creativity and Innovation Learning Objectives By the end of this section, you will be able to: Describe popular, well-supported, creative problem-solving methods Understand which innovation or problem-solving methods apply best in different settings Know where to look for emerging innovation practices, research, and tools Creativity, innovation, and invention are key concepts for your entrepreneurial journey."
+    },
+    {
+      "term": "How They Differ",
+      "frequency": 3,
+      "context": "4.2 Creativity, Innovation, and Invention: How They Differ Learning Objectives By the end of this section, you will be able to: Distinguish between creativity, innovation, and invention Explain the difference between pioneering and incremental innovation, and which processes are best suited to each One of the key requirements for entrepreneurial success is your ability to develop and offer something unique to the marketplace."
+    },
+    {
+      "term": "Ideation Method",
+      "frequency": 2,
+      "context": "creativity in practice innovative products inventions building creative teams Suggested Resources 4.1 Tools for Creativity and Innovation The World’s 25 Best Design Schools: https://www.businessinsider.com/the-worlds-25-best-design-schools-2012-11 Open Innovation Community: http://openinnovation.net/ The Seven All-Time Greatest Ideation Techniques: http://www.innovationmanagement.se/2013/05/30/the-7-all-time-greatest-ideation-techniques/ Ideation Method: Mash-Up: https://www.ideou.com/pages/ideation-method-mash-up LUMA Institute’s LUMA System of Innovation: https://www.youtube.com/watch?v=qDyElJ0xe2o Ideation Method: Top Five: http://www.designkit.org/methods/15 4.3 Developing Ideas, Innovations, and Inventions Additional information about product development: https://www.smartsheet.com/all-about-new-product-development-process A summary of various leadership styles and traits that are essential for a changing business environment: https://www.christinespeaks.com/management/demonstrate-dynamic-leadership Summary 4.1 Tools for Creativity and Innovation There are many practical approaches to being creative and developing innovations."
+    }
+  ],
+  "missingGlossaryTerms": [],
+  "termFrequency": {
+    "disruptive technology": 4,
+    "entrepreneur": 7,
+    "entrepreneurial journey": 2,
+    "entrepreneurial spirit": 1,
+    "framework": 2,
+    "innovation": 152,
+    "patent": 30,
+    "copyright": 9,
+    "intellectual property": 8,
+    "social entrepreneurship": 1,
+    "trademark": 1,
+    "utility patent": 1,
+    "social impact": 1,
+    "brainstorming": 7,
+    "creativity": 75,
+    "design thinking": 16,
+    "diffusion chasm": 12,
+    "disruptive innovation": 7,
+    "empathy": 10,
+    "ideation": 26,
+    "incremental innovation": 5,
+    "invention": 78,
+    "iterative development": 6,
+    "lateral thinking": 8,
+    "linear thinking": 6,
+    "open innovation": 19,
+    "pain point": 8,
+    "pioneering innovation": 8,
+    "scientific method": 8,
+    "user interface": 2,
+    "competitive advantage": 1,
+    "customers": 10,
+    "demand": 3,
+    "demographics": 3,
+    "develop": 25,
+    "evaluate": 1,
+    "evaluation": 7,
+    "human-centered design": 2,
+    "implement": 2,
+    "observation": 1,
+    "ask": 2,
+    "corporate narrative": 3,
+    "brand": 1,
+    "market research": 4,
+    "marketing": 7,
+    "people": 29,
+    "place": 2,
+    "process": 62,
+    "product": 95,
+    "accounting": 1,
+    "credit": 10,
+    "crowdfunding": 3,
+    "revenue": 1,
+    "early adopters": 5,
+    "lean startup": 2,
+    "business plan": 1,
+    "relationship management": 1,
+    "capital": 2,
+    "corporation": 2,
+    "entrepreneur in action": 1,
+    "mcdonald’s": 2,
+    "stakeholders": 4,
+    "tesla": 1,
+    "toyota": 1,
+    "link to learning": 4,
+    "work it out": 1,
+    "learning objectives": 3,
+    "suggested resources": 1,
+    "key terms": 2,
+    "review questions": 1,
+    "discussion questions": 1,
+    "case questions": 1,
+    "chapter outline": 1,
+    "Objectives By": 3,
+    "Copyright Rice University": 9,
+    "CC BY NC-SA": 9,
+    "Six Thinking Hats": 4,
+    "Red Hat": 2,
+    "Black Hat": 2,
+    "Green Hat": 3,
+    "The Six Thinking Hats": 4,
+    "Blue Hat": 3,
+    "Nohbo Drops": 2,
+    "Public Domain": 3,
+    "Assembly Line": 7,
+    "Henry Ford": 4,
+    "Venetian Arsenal": 2,
+    "The Venetian Arsenal": 2,
+    "Wikimedia Commons": 3,
+    "Elon Musk": 2,
+    "Everett Rogers": 2,
+    "Shave Club": 2,
+    "Safety Razor": 8,
+    "Creative Commons": 2,
+    "CC BY": 13,
+    "Developing Ideas": 4,
+    "The Creative Process": 4,
+    "The Five Stages of Creativity": 3,
+    "When I": 2,
+    "For Kawasaki": 2,
+    "Developing an Invention The": 2,
+    "Merit Morikawa": 2,
+    "Tools for Creativity and Innovation": 4,
+    "How They Differ": 3,
+    "Ideation Method": 2
+  },
+  "warnings": []
+}

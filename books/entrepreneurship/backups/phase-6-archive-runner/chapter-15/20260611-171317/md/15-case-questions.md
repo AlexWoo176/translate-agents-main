@@ -1,0 +1,9 @@
+## Câu Hỏi Tình Huống
+
+1 . Hãy xem lại thông tin về YouTube trong phần này của chương và tiến hành nghiên cứu của riêng bạn. Bằng chứng nào cho thấy việc bắt đầu với mục tiêu cuối cùng trong tâm trí là một phần trong kế hoạch ban đầu của những nhà sáng lập YouTube?
+
+2 . Hãy xem lại câu chuyện của LuminAid. Tại sao Sreshta và Stork lại tập trung vào ánh sáng như ý tưởng kinh doanh của họ thay vì tập trung vào các lĩnh vực khác cần thiết cho những người sống sót sau một thảm họa tự nhiên?
+
+3 . Tham khảo câu chuyện về xe đẩy thức ăn của Stacy Madison. Hiểu biết quan trọng nhất mà bạn thu được khi đọc về hoạt động kinh doanh xe đẩy thức ăn của Stacy là gì?
+
+4 . Everlane khởi đầu là một cửa hàng quần áo trực tuyến tập trung vào các hoạt động kinh doanh có đạo đức. Một phần cam kết của họ đối với các hoạt động có đạo đức bao gồm việc thường xuyên đến thăm các nhà máy của mình để đảm bảo mọi người nhận được mức lương công bằng và làm việc với số giờ hợp lý, giải quyết các mối quan ngại về môi trường và minh bạch trong các quyết định cũng như giao dịch, chẳng hạn như tiết lộ chi phí để sản xuất một món đồ quần áo. Với doanh thu 100 triệu đô la vào năm 2016 và hơn 44.000 người trong danh sách chờ cho dòng quần denim mới ra mắt vào tháng 9 năm 2018, Everlane đang làm rung chuyển ngành công nghiệp thời trang. Nếu doanh nghiệp mới của bạn phải đối mặt với kiểu cạnh tranh này, bạn sẽ thực hiện những hành động nào? Hãy xem xét liệu bạn có áp dụng chiến lược minh bạch tương tự này không, tham gia nhiều hơn vào chuỗi cung ứng để xác định cách các công nhân nhà máy may mặc bị đối xử tại các nhà máy ở nước ngoài của bạn do các thực thể khác sở hữu, tăng cường tiếp thị tên tuổi thương hiệu để hỗ trợ mức tăng giá bán trên quần áo của bạn, hay một hành động nào khác? Bạn sẽ sử dụng quy trình nào để đưa ra những quyết định này?

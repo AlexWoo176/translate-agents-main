@@ -1,0 +1,107 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-9",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:48:59.392Z",
+  "finishedAt": "2026-06-11T10:48:59.457Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "9-1-overview-of-entrepreneurial-finance-and-accounting-strategies.html",
+    "9-2-special-funding-strategies.html",
+    "9-3-accounting-basics-for-entrepreneurs.html",
+    "9-4-developing-startup-financial-statements-and-projections.html",
+    "9-case-questions.html",
+    "9-discussion-questions.html",
+    "9-introduction.html",
+    "9-key-terms.html",
+    "9-review-questions.html",
+    "9-suggested-resources.html",
+    "9-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-174858.json",
+    "glossary-review-20260611-174858.json",
+    "semantic-review-20260611-174858.json"
+  ],
+  "issues": [
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm306544576-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Kickstarter: www.kickstarter.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm312534352-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Indiegogo, “The Essential Guide to Crowdfunding”: ...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm352741840-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Startupfest, “The $100K Investment Prize”: http://...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm202937056-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"U.S. Small Business Administration: https://www.sb...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm208415888-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"U.S. Securities and Exchange Commission: https://w...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

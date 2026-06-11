@@ -1,0 +1,18 @@
+{
+  "gateId": "planCompleteness",
+  "status": "passed",
+  "success": true,
+  "checks": {
+    "configExists": true,
+    "slugValid": true,
+    "titleExists": true,
+    "sourceProviderExists": true,
+    "sourceUrlExists": true,
+    "foldersValid": true,
+    "glossaryValid": true,
+    "workflowStateExists": true,
+    "projectPlanExists": true
+  },
+  "warnings": [],
+  "errors": []
+}

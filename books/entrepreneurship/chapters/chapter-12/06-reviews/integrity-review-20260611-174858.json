@@ -1,0 +1,14 @@
+{
+  "chapterId": "chapter-12",
+  "status": "failed",
+  "issues": [
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 30,
+      "actual": 32,
+      "message": "Tag <a> count mismatch. Expected prep count: 30, found in translated: 32"
+    }
+  ]
+}

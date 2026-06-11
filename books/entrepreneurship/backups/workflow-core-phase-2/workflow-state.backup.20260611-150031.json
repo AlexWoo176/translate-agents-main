@@ -1,0 +1,1386 @@
+{
+  "schemaVersion": "1.0",
+  "bookSlug": "entrepreneurship",
+  "title": "Entrepreneurship",
+  "datasetVersion": "v1",
+  "datasetStatus": "normalizing",
+  "generatedAt": "2026-06-11T07:57:55.049Z",
+  "generatedBy": "core/state/generate-workflow-state.js",
+  "source": {
+    "provider": "openstax",
+    "license": "CC BY",
+    "attribution": "Vietnamese translation adapted from OpenStax Entrepreneurship."
+  },
+  "language": {
+    "source": "en",
+    "target": "vi"
+  },
+  "translation": {
+    "audience": "Vietnamese learners",
+    "tone": "academic-friendly",
+    "preserveBilingual": true
+  },
+  "overallStatus": "passed_with_warnings",
+  "appReadiness": {
+    "status": "ready_with_warnings",
+    "canLoadInDashboard": true,
+    "canShowChapterProgress": true,
+    "canShowQualityGates": true,
+    "canShowReports": true,
+    "canPreviewHtml": true,
+    "requiresHumanReview": false,
+    "reason": "Dataset passed quality gates. Status: passed_with_warnings.",
+    "warnings": []
+  },
+  "chapters": {
+    "chapter-1": {
+      "chapterId": "chapter-1",
+      "status": "imported",
+      "path": "chapters/chapter-1",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-1/01-raw",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-1/02-clean",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-1/03-analyzed",
+          "fileCount": 11,
+          "htmlCount": 0,
+          "mdCount": 10,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-1/04-prep",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-1/05-translated",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-1/06-reviews",
+          "fileCount": 26,
+          "htmlCount": 0,
+          "mdCount": 26,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-1/07-archive",
+          "fileCount": 40,
+          "htmlCount": 10,
+          "mdCount": 10,
+          "assetCount": 10
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-1/assets",
+          "fileCount": 10,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 10
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-2": {
+      "chapterId": "chapter-2",
+      "status": "imported",
+      "path": "chapters/chapter-2",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-2/01-raw",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-2/02-clean",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-2/03-analyzed",
+          "fileCount": 12,
+          "htmlCount": 0,
+          "mdCount": 11,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-2/04-prep",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-2/05-translated",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-2/06-reviews",
+          "fileCount": 22,
+          "htmlCount": 0,
+          "mdCount": 22,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-2/07-archive",
+          "fileCount": 59,
+          "htmlCount": 11,
+          "mdCount": 11,
+          "assetCount": 26
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-2/assets",
+          "fileCount": 26,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 26
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-3": {
+      "chapterId": "chapter-3",
+      "status": "imported",
+      "path": "chapters/chapter-3",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-3/01-raw",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-3/02-clean",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-3/03-analyzed",
+          "fileCount": 11,
+          "htmlCount": 0,
+          "mdCount": 10,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-3/04-prep",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-3/05-translated",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-3/06-reviews",
+          "fileCount": 9,
+          "htmlCount": 0,
+          "mdCount": 9,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-3/07-archive",
+          "fileCount": 37,
+          "htmlCount": 10,
+          "mdCount": 10,
+          "assetCount": 7
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-3/assets",
+          "fileCount": 7,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 7
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-4": {
+      "chapterId": "chapter-4",
+      "status": "imported",
+      "path": "chapters/chapter-4",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-4/01-raw",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-4/02-clean",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-4/03-analyzed",
+          "fileCount": 4,
+          "htmlCount": 0,
+          "mdCount": 4,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-4/04-prep",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-4/05-translated",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-4/06-reviews",
+          "fileCount": 10,
+          "htmlCount": 0,
+          "mdCount": 10,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-4/07-archive",
+          "fileCount": 45,
+          "htmlCount": 10,
+          "mdCount": 10,
+          "assetCount": 15
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-4/assets",
+          "fileCount": 15,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 15
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-5": {
+      "chapterId": "chapter-5",
+      "status": "imported",
+      "path": "chapters/chapter-5",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-5/01-raw",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-5/02-clean",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-5/03-analyzed",
+          "fileCount": 5,
+          "htmlCount": 0,
+          "mdCount": 4,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-5/04-prep",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-5/05-translated",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-5/06-reviews",
+          "fileCount": 9,
+          "htmlCount": 0,
+          "mdCount": 9,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-5/07-archive",
+          "fileCount": 44,
+          "htmlCount": 10,
+          "mdCount": 11,
+          "assetCount": 12
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-5/assets",
+          "fileCount": 12,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 12
+        }
+      },
+      "quarantine": {
+        "exists": true,
+        "path": "chapters/chapter-5/_quarantine"
+      },
+      "qa": {
+        "status": "resolved",
+        "note": "Duplicate page resolved in Step 3. Quarantine folder exists.",
+        "issues": []
+      }
+    },
+    "chapter-6": {
+      "chapterId": "chapter-6",
+      "status": "imported",
+      "path": "chapters/chapter-6",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-6/01-raw",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-6/02-clean",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-6/03-analyzed",
+          "fileCount": 6,
+          "htmlCount": 0,
+          "mdCount": 5,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-6/04-prep",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-6/05-translated",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-6/06-reviews",
+          "fileCount": 8,
+          "htmlCount": 0,
+          "mdCount": 8,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-6/07-archive",
+          "fileCount": 50,
+          "htmlCount": 11,
+          "mdCount": 11,
+          "assetCount": 17
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-6/assets",
+          "fileCount": 17,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 17
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-7": {
+      "chapterId": "chapter-7",
+      "status": "imported",
+      "path": "chapters/chapter-7",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-7/01-raw",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-7/02-clean",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-7/03-analyzed",
+          "fileCount": 7,
+          "htmlCount": 0,
+          "mdCount": 6,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-7/04-prep",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-7/05-translated",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-7/06-reviews",
+          "fileCount": 20,
+          "htmlCount": 0,
+          "mdCount": 20,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-7/07-archive",
+          "fileCount": 56,
+          "htmlCount": 24,
+          "mdCount": 12,
+          "assetCount": 8
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-7/assets",
+          "fileCount": 8,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 8
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-8": {
+      "chapterId": "chapter-8",
+      "status": "imported",
+      "path": "chapters/chapter-8",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-8/01-raw",
+          "fileCount": 13,
+          "htmlCount": 13,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-8/02-clean",
+          "fileCount": 13,
+          "htmlCount": 13,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-8/03-analyzed",
+          "fileCount": 7,
+          "htmlCount": 0,
+          "mdCount": 7,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-8/04-prep",
+          "fileCount": 13,
+          "htmlCount": 13,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "resolved",
+          "path": "chapters/chapter-8/05-translated",
+          "fileCount": 13,
+          "htmlCount": 13,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-8/06-reviews",
+          "fileCount": 23,
+          "htmlCount": 0,
+          "mdCount": 23,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-8/07-archive",
+          "fileCount": 55,
+          "htmlCount": 13,
+          "mdCount": 13,
+          "assetCount": 16
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-8/assets",
+          "fileCount": 16,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 16
+        }
+      },
+      "qa": {
+        "status": "resolved",
+        "note": "Bilingual pair mismatch resolved in Step 4.",
+        "issues": []
+      }
+    },
+    "chapter-9": {
+      "chapterId": "chapter-9",
+      "status": "imported",
+      "path": "chapters/chapter-9",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-9/01-raw",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-9/02-clean",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-9/03-analyzed",
+          "fileCount": 5,
+          "htmlCount": 0,
+          "mdCount": 5,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-9/04-prep",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-9/05-translated",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-9/06-reviews",
+          "fileCount": 18,
+          "htmlCount": 0,
+          "mdCount": 18,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-9/07-archive",
+          "fileCount": 49,
+          "htmlCount": 11,
+          "mdCount": 11,
+          "assetCount": 16
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-9/assets",
+          "fileCount": 16,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 16
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-10": {
+      "chapterId": "chapter-10",
+      "status": "imported",
+      "path": "chapters/chapter-10",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-10/01-raw",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-10/02-clean",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-10/03-analyzed",
+          "fileCount": 6,
+          "htmlCount": 0,
+          "mdCount": 6,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-10/04-prep",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-10/05-translated",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-10/06-reviews",
+          "fileCount": 21,
+          "htmlCount": 0,
+          "mdCount": 21,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-10/07-archive",
+          "fileCount": 54,
+          "htmlCount": 12,
+          "mdCount": 12,
+          "assetCount": 18
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-10/assets",
+          "fileCount": 18,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 18
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-11": {
+      "chapterId": "chapter-11",
+      "status": "imported",
+      "path": "chapters/chapter-11",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-11/01-raw",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-11/02-clean",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-11/03-analyzed",
+          "fileCount": 5,
+          "htmlCount": 0,
+          "mdCount": 5,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-11/04-prep",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-11/05-translated",
+          "fileCount": 11,
+          "htmlCount": 11,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-11/06-reviews",
+          "fileCount": 18,
+          "htmlCount": 0,
+          "mdCount": 18,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-11/07-archive",
+          "fileCount": 53,
+          "htmlCount": 11,
+          "mdCount": 11,
+          "assetCount": 20
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-11/assets",
+          "fileCount": 20,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 20
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-12": {
+      "chapterId": "chapter-12",
+      "status": "imported",
+      "path": "chapters/chapter-12",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-12/01-raw",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-12/02-clean",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-12/03-analyzed",
+          "fileCount": 4,
+          "htmlCount": 0,
+          "mdCount": 4,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-12/04-prep",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-12/05-translated",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-12/06-reviews",
+          "fileCount": 16,
+          "htmlCount": 0,
+          "mdCount": 16,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-12/07-archive",
+          "fileCount": 43,
+          "htmlCount": 10,
+          "mdCount": 10,
+          "assetCount": 13
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-12/assets",
+          "fileCount": 13,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 13
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-13": {
+      "chapterId": "chapter-13",
+      "status": "imported",
+      "path": "chapters/chapter-13",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-13/01-raw",
+          "fileCount": 14,
+          "htmlCount": 14,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-13/02-clean",
+          "fileCount": 14,
+          "htmlCount": 14,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-13/03-analyzed",
+          "fileCount": 8,
+          "htmlCount": 0,
+          "mdCount": 8,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-13/04-prep",
+          "fileCount": 14,
+          "htmlCount": 14,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-13/05-translated",
+          "fileCount": 14,
+          "htmlCount": 14,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-13/06-reviews",
+          "fileCount": 23,
+          "htmlCount": 0,
+          "mdCount": 23,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-13/07-archive",
+          "fileCount": 53,
+          "htmlCount": 14,
+          "mdCount": 14,
+          "assetCount": 11
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-13/assets",
+          "fileCount": 11,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 11
+        }
+      },
+      "qa": {
+        "status": "not_checked",
+        "issues": []
+      }
+    },
+    "chapter-14": {
+      "chapterId": "chapter-14",
+      "status": "imported",
+      "path": "chapters/chapter-14",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-14/01-raw",
+          "fileCount": 10,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-14/02-clean",
+          "fileCount": 11,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 1
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-14/03-analyzed",
+          "fileCount": 5,
+          "htmlCount": 0,
+          "mdCount": 4,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-14/04-prep",
+          "fileCount": 11,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 1
+        },
+        "translated": {
+          "status": "resolved",
+          "path": "chapters/chapter-14/05-translated",
+          "fileCount": 11,
+          "htmlCount": 10,
+          "mdCount": 0,
+          "assetCount": 1
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-14/06-reviews",
+          "fileCount": 15,
+          "htmlCount": 0,
+          "mdCount": 15,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-14/07-archive",
+          "fileCount": 46,
+          "htmlCount": 10,
+          "mdCount": 10,
+          "assetCount": 16
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-14/assets",
+          "fileCount": 16,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 16
+        }
+      },
+      "qa": {
+        "status": "resolved",
+        "note": "Missing <td> table integrity resolved in Step 5. CSS refs fixed in Step 6.",
+        "issues": []
+      }
+    },
+    "chapter-15": {
+      "chapterId": "chapter-15",
+      "status": "imported",
+      "path": "chapters/chapter-15",
+      "phases": {
+        "raw": {
+          "status": "done",
+          "path": "chapters/chapter-15/01-raw",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "clean": {
+          "status": "done",
+          "path": "chapters/chapter-15/02-clean",
+          "fileCount": 13,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 1
+        },
+        "analyzed": {
+          "status": "done",
+          "path": "chapters/chapter-15/03-analyzed",
+          "fileCount": 13,
+          "htmlCount": 0,
+          "mdCount": 12,
+          "assetCount": 0
+        },
+        "prep": {
+          "status": "done",
+          "path": "chapters/chapter-15/04-prep",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "translated": {
+          "status": "done",
+          "path": "chapters/chapter-15/05-translated",
+          "fileCount": 12,
+          "htmlCount": 12,
+          "mdCount": 0,
+          "assetCount": 0
+        },
+        "reviews": {
+          "status": "done",
+          "path": "chapters/chapter-15/06-reviews",
+          "fileCount": 25,
+          "htmlCount": 0,
+          "mdCount": 25,
+          "assetCount": 0
+        },
+        "archive": {
+          "status": "done",
+          "path": "chapters/chapter-15/07-archive",
+          "fileCount": 49,
+          "htmlCount": 12,
+          "mdCount": 12,
+          "assetCount": 13
+        },
+        "assets": {
+          "status": "done",
+          "path": "chapters/chapter-15/assets",
+          "fileCount": 13,
+          "htmlCount": 0,
+          "mdCount": 0,
+          "assetCount": 13
+        }
+      },
+      "qa": {
+        "status": "resolved",
+        "note": "CSS refs fixed in Step 6.",
+        "issues": []
+      }
+    }
+  },
+  "_bookLevel": {
+    "status": "imported",
+    "path": "_book-level",
+    "phases": {
+      "raw": {
+        "status": "done",
+        "path": "_book-level/01-raw",
+        "fileCount": 3,
+        "htmlCount": 3,
+        "mdCount": 0,
+        "assetCount": 0
+      },
+      "clean": {
+        "status": "done",
+        "path": "_book-level/02-clean",
+        "fileCount": 3,
+        "htmlCount": 3,
+        "mdCount": 0,
+        "assetCount": 0
+      },
+      "prep": {
+        "status": "done",
+        "path": "_book-level/04-prep",
+        "fileCount": 3,
+        "htmlCount": 3,
+        "mdCount": 0,
+        "assetCount": 0
+      },
+      "translated": {
+        "status": "done",
+        "path": "_book-level/05-translated",
+        "fileCount": 3,
+        "htmlCount": 3,
+        "mdCount": 0,
+        "assetCount": 0
+      },
+      "reviews": {
+        "status": "done",
+        "path": "_book-level/06-reviews",
+        "fileCount": 1,
+        "htmlCount": 0,
+        "mdCount": 1,
+        "assetCount": 0
+      }
+    },
+    "qa": {
+      "status": "not_checked",
+      "issues": []
+    }
+  },
+  "assets": {
+    "glossary": {
+      "path": "glossary.csv",
+      "exists": true
+    },
+    "previewHtml": {
+      "path": "preview/html",
+      "exists": true,
+      "fileCount": 395
+    },
+    "epub": {
+      "path": "exports/epub/book.epub",
+      "exists": true,
+      "note": "EPUB may need rebuild after dataset normalization steps."
+    }
+  },
+  "qualityGates": {
+    "folderStructure": {
+      "status": "passed",
+      "source": "qa-summary.json",
+      "chaptersFound": 15,
+      "chaptersExpected": 15
+    },
+    "glossary": {
+      "status": "validated",
+      "report": "reports/glossary-validation-report.md"
+    },
+    "prepCompleteness": {
+      "status": "passed",
+      "report": "reports/prep-rebuild-report.md"
+    },
+    "duplicatePages": {
+      "status": "resolved",
+      "report": "reports/chapter-5-duplicate-page-report.md"
+    },
+    "bilingualPairs": {
+      "status": "resolved",
+      "report": "reports/chapter-8-bilingual-pair-report.md"
+    },
+    "tableIntegrity": {
+      "status": "resolved",
+      "report": "reports/chapter-14-table-integrity-report.md"
+    },
+    "previewCssReferences": {
+      "status": "resolved",
+      "report": "reports/preview-css-refs-report.md"
+    },
+    "localPathLeaks": {
+      "status": "resolved",
+      "report": "reports/local-path-leaks-report.md"
+    },
+    "finalValidation": {
+      "status": "passed_with_warnings",
+      "report": "reports/final-validation-report.md"
+    }
+  },
+  "reports": {
+    "qaSummary": {
+      "json": "qa-summary.json",
+      "markdown": "qa-summary.md",
+      "status": "available"
+    },
+    "glossaryValidation": {
+      "json": "reports/glossary-validation-report.json",
+      "markdown": "reports/glossary-validation-report.md",
+      "status": "available"
+    },
+    "prepCompleteness": {
+      "json": "reports/prep-rebuild-report.json",
+      "markdown": "reports/prep-rebuild-report.md",
+      "status": "available"
+    },
+    "duplicatePages": {
+      "json": "reports/chapter-5-duplicate-page-report.json",
+      "markdown": "reports/chapter-5-duplicate-page-report.md",
+      "status": "available"
+    },
+    "bilingualPairs": {
+      "json": "reports/chapter-8-bilingual-pair-report.json",
+      "markdown": "reports/chapter-8-bilingual-pair-report.md",
+      "status": "available"
+    },
+    "tableIntegrity": {
+      "json": "reports/chapter-14-table-integrity-report.json",
+      "markdown": "reports/chapter-14-table-integrity-report.md",
+      "status": "available"
+    },
+    "previewCssReferences": {
+      "json": "reports/preview-css-refs-report.json",
+      "markdown": "reports/preview-css-refs-report.md",
+      "status": "available"
+    },
+    "localPathLeaks": {
+      "json": "reports/local-path-leaks-report.json",
+      "markdown": "reports/local-path-leaks-report.md",
+      "status": "available"
+    },
+    "finalValidation": {
+      "json": "reports/final-validation-report.json",
+      "markdown": "reports/final-validation-report.md",
+      "status": "available"
+    }
+  },
+  "knownRemainingIssues": [
+    "EPUB may still need rebuild in a later export step.",
+    "Full preview rebuild/export validation may still be required.",
+    "Workflow state may still need final consolidation."
+  ],
+  "changelog": {
+    "file": "REFERENCE_DATASET_CHANGELOG.md",
+    "steps": {
+      "step-1": {
+        "name": "Normalize folder structure",
+        "verificationResult": "Passed"
+      },
+      "step-2": {
+        "name": "Fix and validate glossary.csv",
+        "verificationResult": "Passed"
+      },
+      "step-3": {
+        "name": "Detect and resolve Chapter 5 duplicate page/slug conflict",
+        "verificationResult": "Passed"
+      },
+      "step-4": {
+        "name": "Bilingual Pair Check for Chapter 8",
+        "verificationResult": "Passed"
+      },
+      "step-5": {
+        "name": "Fix Chapter 14 table integrity issue: missing <td> tags",
+        "verificationResult": "Passed"
+      },
+      "step-6": {
+        "name": "Fix broken CSS references in Chapter 14/15 preview",
+        "verificationResult": "Passed"
+      },
+      "step-7": {
+        "name": "Detect and remove local path leaks in tasks.md",
+        "verificationResult": "Passed"
+      },
+      "step-8": {
+        "name": "Generate dataset-level QA summary",
+        "verificationResult": "Passed"
+      },
+      "step-9": {
+        "name": "Generate complete workflow-state.json from real dataset and QA summary",
+        "verificationResult": "Passed"
+      },
+      "step-10": {
+        "name": "Final validation for Entrepreneurship Reference Dataset v1",
+        "verificationResult": "Passed with warnings"
+      },
+      "step-11": {
+        "name": "Rebuild missing 04-prep folders and files",
+        "verificationResult": "Passed"
+      },
+      "step-12": {
+        "name": "Fix CSS references for active 05-translated HTML files",
+        "verificationResult": "Passed"
+      }
+    }
+  },
+  "nextRecommendedSteps": [
+    "Verify and rebuild the EPUB export to ensure all resolved changes are compiled into the final EPUB.",
+    "Conduct a final validation of preview files inside a browser reader environment.",
+    "Consolidate and archive the verified reference dataset v1 release."
+  ]
+}

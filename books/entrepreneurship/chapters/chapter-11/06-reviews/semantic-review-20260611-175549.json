@@ -1,0 +1,20 @@
+{
+  "chapterId": "chapter-11",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "11-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm360265376-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://bizfluent.com/how-8048004-prepare-financia...\""
+    },
+    {
+      "file": "11-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm359584112-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://thebusinessprofessor.com/knowledge-base/fi...\""
+    }
+  ]
+}

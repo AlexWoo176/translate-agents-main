@@ -1,0 +1,69 @@
+{
+  "chapterId": "chapter-9",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty."
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty."
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty."
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty."
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm306544576-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Kickstarter: www.kickstarter.com...\""
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm312534352-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Indiegogo, “The Essential Guide to Crowdfunding”: ...\""
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm352741840-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Startupfest, “The $100K Investment Prize”: http://...\""
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm202937056-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"U.S. Small Business Administration: https://www.sb...\""
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm208415888-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"U.S. Securities and Exchange Commission: https://w...\""
+    }
+  ]
+}

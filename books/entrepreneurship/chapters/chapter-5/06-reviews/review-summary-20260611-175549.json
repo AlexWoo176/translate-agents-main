@@ -1,0 +1,58 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-5",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:55:49.556Z",
+  "finishedAt": "2026-06-11T10:55:49.602Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "5-1-entrepreneurial-opportunity.html",
+    "5-2-researching-potential-business-opportunities.html",
+    "5-3-competitive-analysis.html",
+    "5-case-questions.html",
+    "5-discussion-questions.html",
+    "5-introduction.html",
+    "5-key-terms.html",
+    "5-review-questions.html",
+    "5-suggested-resources.html",
+    "5-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-175549.json",
+    "glossary-review-20260611-175549.json",
+    "semantic-review-20260611-175549.json"
+  ],
+  "issues": [
+    {
+      "file": "5-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm251681056-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"National Federation of Independent Business: https...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "5-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm253149056-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"The U.S. Small Business Administration (SBA): www....\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "5-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm256419424-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.sba.gov/business-guide/plan-your-busin...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

@@ -1,0 +1,20 @@
+{
+  "gateId": "planCompleteness",
+  "status": "passed_with_warnings",
+  "success": true,
+  "checks": {
+    "configExists": true,
+    "slugValid": true,
+    "titleExists": true,
+    "sourceProviderExists": true,
+    "sourceUrlExists": false,
+    "foldersValid": true,
+    "glossaryValid": true,
+    "workflowStateExists": true,
+    "projectPlanExists": true
+  },
+  "warnings": [
+    "Book config missing or empty 'source.bookUrl' property. Project will run in offline/local mode."
+  ],
+  "errors": []
+}

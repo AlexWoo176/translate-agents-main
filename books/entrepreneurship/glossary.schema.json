@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Entrepreneurship Glossary Schema",
+  "type": "object",
+  "properties": {
+    "key": {
+      "type": "string",
+      "description": "The original English term",
+      "minLength": 1
+    },
+    "translation": {
+      "type": "string",
+      "description": "The Vietnamese translation of the term",
+      "minLength": 1
+    },
+    "options": {
+      "type": "string",
+      "description": "Alternative translations or options"
+    },
+    "desc_en": {
+      "type": "string",
+      "description": "English description/definition"
+    },
+    "desc_vi": {
+      "type": "string",
+      "description": "Vietnamese description/definition"
+    },
+    "chapter": {
+      "type": "string",
+      "description": "The chapter the term belongs to"
+    },
+    "status": {
+      "type": "string",
+      "description": "The approval status of the term",
+      "enum": [
+        "draft",
+        "pending_review",
+        "approved",
+        "needs_context",
+        "deprecated"
+      ]
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional notes about the term or translation"
+    }
+  },
+  "required": [
+    "key",
+    "translation",
+    "status"
+  ]
+}

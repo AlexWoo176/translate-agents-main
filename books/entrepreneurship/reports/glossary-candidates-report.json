@@ -1,0 +1,6162 @@
+{
+  "generatedAt": "2026-06-11T17:21:28.615Z",
+  "totalCandidates": 1026,
+  "candidates": [
+    {
+      "term": "entrepreneur",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "copyright",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "bản quyền"
+    },
+    {
+      "term": "customers",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "khách hàng"
+    },
+    {
+      "term": "develop",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "phát triển"
+    },
+    {
+      "term": "ask",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "marketing",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "tiếp thị"
+    },
+    {
+      "term": "people",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "place",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "phân phối (place)"
+    },
+    {
+      "term": "process",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "quy trình"
+    },
+    {
+      "term": "product",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "sản phẩm"
+    },
+    {
+      "term": "accounting",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "kế toán"
+    },
+    {
+      "term": "credit",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "tín dụng"
+    },
+    {
+      "term": "revenue",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "doanh thu"
+    },
+    {
+      "term": "link to learning",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "liên kết học tập"
+    },
+    {
+      "term": "learning objectives",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "mục tiêu học tập"
+    },
+    {
+      "term": "suggested resources",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "key terms",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "thuật ngữ chính"
+    },
+    {
+      "term": "review questions",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "dàn ý chương"
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 15,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "business model",
+      "frequency": 14,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "mô hình kinh doanh"
+    },
+    {
+      "term": "venture",
+      "frequency": 14,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "doanh nghiệp (venture)"
+    },
+    {
+      "term": "entrepreneur in action",
+      "frequency": 14,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "work it out",
+      "frequency": 14,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "thực hành"
+    },
+    {
+      "term": "CC BY",
+      "frequency": 14,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "innovation",
+      "frequency": 13,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "đổi mới"
+    },
+    {
+      "term": "creativity",
+      "frequency": 13,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "sự sáng tạo"
+    },
+    {
+      "term": "demand",
+      "frequency": 13,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "nhu cầu"
+    },
+    {
+      "term": "implement",
+      "frequency": 13,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "triển khai"
+    },
+    {
+      "term": "social media",
+      "frequency": 13,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "mạng xã hội"
+    },
+    {
+      "term": "funds",
+      "frequency": 13,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "nguồn vốn"
+    },
+    {
+      "term": "business plan",
+      "frequency": 13,
+      "chapterRefs": "chapter-1, chapter-2, chapter-4, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "kế hoạch kinh doanh"
+    },
+    {
+      "term": "Are You Ready",
+      "frequency": 13,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "price",
+      "frequency": 13,
+      "chapterRefs": "chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "giá"
+    },
+    {
+      "term": "capital",
+      "frequency": 13,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "vốn"
+    },
+    {
+      "term": "close",
+      "frequency": 12,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "chốt bán hàng"
+    },
+    {
+      "term": "financing",
+      "frequency": 12,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "huy động vốn"
+    },
+    {
+      "term": "stakeholders",
+      "frequency": 12,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "stakeholders"
+    },
+    {
+      "term": "invention",
+      "frequency": 11,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-10, chapter-11, chapter-12, chapter-14",
+      "suggestedTranslation": "phát minh"
+    },
+    {
+      "term": "supply",
+      "frequency": 11,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-8, chapter-9, chapter-11, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "cung"
+    },
+    {
+      "term": "equity",
+      "frequency": 11,
+      "chapterRefs": "chapter-1, chapter-3, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "vốn chủ sở hữu"
+    },
+    {
+      "term": "expenses",
+      "frequency": 11,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "chi phí"
+    },
+    {
+      "term": "corporation",
+      "frequency": 11,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-9, chapter-10, chapter-12, chapter-13",
+      "suggestedTranslation": "công ty cổ phần"
+    },
+    {
+      "term": "United States",
+      "frequency": 11,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "evaluate",
+      "frequency": 11,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-8, chapter-10, chapter-11, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "đánh giá (evaluate)"
+    },
+    {
+      "term": "entrepreneurial journey",
+      "frequency": 10,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-6, chapter-7, chapter-11, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "hành trình khởi nghiệp"
+    },
+    {
+      "term": "Objectives By",
+      "frequency": 10,
+      "chapterRefs": "chapter-1, chapter-4, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "framework",
+      "frequency": 10,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-7, chapter-8, chapter-10, chapter-11, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "khuôn khổ"
+    },
+    {
+      "term": "competitive advantage",
+      "frequency": 10,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-8, chapter-10, chapter-11, chapter-12, chapter-14",
+      "suggestedTranslation": "lợi thế cạnh tranh"
+    },
+    {
+      "term": "brand",
+      "frequency": 10,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-8, chapter-10, chapter-11, chapter-14, chapter-15",
+      "suggestedTranslation": "thương hiệu"
+    },
+    {
+      "term": "networking",
+      "frequency": 10,
+      "chapterRefs": "chapter-2, chapter-3, chapter-6, chapter-7, chapter-8, chapter-10, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "xây dựng mạng lưới quan hệ"
+    },
+    {
+      "term": "advertising",
+      "frequency": 10,
+      "chapterRefs": "chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "quảng cáo"
+    },
+    {
+      "term": "target market",
+      "frequency": 9,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-8, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "thị trường mục tiêu"
+    },
+    {
+      "term": "social entrepreneurship",
+      "frequency": 9,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-9, chapter-11, chapter-15",
+      "suggestedTranslation": "khởi nghiệp xã hội"
+    },
+    {
+      "term": "infrastructure",
+      "frequency": 9,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-7, chapter-9, chapter-10, chapter-11, chapter-12, chapter-15",
+      "suggestedTranslation": "cơ sở hạ tầng"
+    },
+    {
+      "term": "assessment",
+      "frequency": 9,
+      "chapterRefs": "chapter-2, chapter-3, chapter-5, chapter-6, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "giai đoạn đánh giá (assessment)"
+    },
+    {
+      "term": "assets",
+      "frequency": 9,
+      "chapterRefs": "chapter-2, chapter-5, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "tài sản"
+    },
+    {
+      "term": "grant",
+      "frequency": 9,
+      "chapterRefs": "chapter-2, chapter-6, chapter-7, chapter-9, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "khoản tài trợ"
+    },
+    {
+      "term": "contracts",
+      "frequency": 9,
+      "chapterRefs": "chapter-2, chapter-3, chapter-7, chapter-8, chapter-9, chapter-10, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "Contracts"
+    },
+    {
+      "term": "Learning Objectives By",
+      "frequency": 9,
+      "chapterRefs": "chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-11, chapter-12, chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "intellectual property",
+      "frequency": 9,
+      "chapterRefs": "chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-10, chapter-11, chapter-14, chapter-15",
+      "suggestedTranslation": "tài sản trí tuệ"
+    },
+    {
+      "term": "entrepreneurial venture",
+      "frequency": 8,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-6, chapter-9, chapter-11, chapter-12, chapter-15",
+      "suggestedTranslation": "dự án khởi nghiệp"
+    },
+    {
+      "term": "value proposition",
+      "frequency": 8,
+      "chapterRefs": "chapter-1, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11",
+      "suggestedTranslation": "giá trị đề xuất"
+    },
+    {
+      "term": "entrepreneurial opportunity",
+      "frequency": 8,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-10",
+      "suggestedTranslation": "cơ hội khởi nghiệp"
+    },
+    {
+      "term": "patent",
+      "frequency": 8,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-10, chapter-11, chapter-14",
+      "suggestedTranslation": "bằng sáng chế"
+    },
+    {
+      "term": "pitch",
+      "frequency": 8,
+      "chapterRefs": "chapter-2, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-14, chapter-15",
+      "suggestedTranslation": "bài thuyết trình gọi vốn (pitch)"
+    },
+    {
+      "term": "sample",
+      "frequency": 8,
+      "chapterRefs": "chapter-2, chapter-6, chapter-8, chapter-10, chapter-11, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": "mẫu khảo sát"
+    },
+    {
+      "term": "insurance",
+      "frequency": 8,
+      "chapterRefs": "chapter-3, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "bảo hiểm"
+    },
+    {
+      "term": "brainstorming",
+      "frequency": 7,
+      "chapterRefs": "chapter-1, chapter-2, chapter-4, chapter-6, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "động não"
+    },
+    {
+      "term": "cash flow",
+      "frequency": 7,
+      "chapterRefs": "chapter-2, chapter-9, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "dòng tiền"
+    },
+    {
+      "term": "clarify",
+      "frequency": 7,
+      "chapterRefs": "chapter-3, chapter-6, chapter-7, chapter-8, chapter-10, chapter-14, chapter-15",
+      "suggestedTranslation": "làm rõ"
+    },
+    {
+      "term": "crowdfunding",
+      "frequency": 7,
+      "chapterRefs": "chapter-3, chapter-4, chapter-6, chapter-9, chapter-11, chapter-13, chapter-14",
+      "suggestedTranslation": "gọi vốn cộng đồng"
+    },
+    {
+      "term": "toyota",
+      "frequency": 7,
+      "chapterRefs": "chapter-3, chapter-4, chapter-6, chapter-10, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "Toyota"
+    },
+    {
+      "term": "evaluation",
+      "frequency": 7,
+      "chapterRefs": "chapter-4, chapter-6, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "giai đoạn đánh giá (evaluation)"
+    },
+    {
+      "term": "marketing plan",
+      "frequency": 7,
+      "chapterRefs": "chapter-5, chapter-8, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "kế hoạch marketing"
+    },
+    {
+      "term": "targeting",
+      "frequency": 7,
+      "chapterRefs": "chapter-5, chapter-6, chapter-7, chapter-8, chapter-10, chapter-11, chapter-15",
+      "suggestedTranslation": "lựa chọn thị trường mục tiêu"
+    },
+    {
+      "term": "Small Business Administration",
+      "frequency": 7,
+      "chapterRefs": "chapter-5, chapter-8, chapter-9, chapter-10, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "mission statement",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-3, chapter-7, chapter-9, chapter-11, chapter-13",
+      "suggestedTranslation": "tuyên bố sứ mệnh"
+    },
+    {
+      "term": "serial entrepreneur",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-2, chapter-7, chapter-10, chapter-11, chapter-15",
+      "suggestedTranslation": "doanh nhân khởi nghiệp liên tiếp"
+    },
+    {
+      "term": "social entrepreneur",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-7, chapter-8, chapter-15",
+      "suggestedTranslation": "doanh nhân xã hội"
+    },
+    {
+      "term": "demographics",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-8",
+      "suggestedTranslation": "nhân khẩu học"
+    },
+    {
+      "term": "entrepreneurial marketing",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-5, chapter-7, chapter-8, chapter-10, chapter-14",
+      "suggestedTranslation": "tiếp thị khởi nghiệp"
+    },
+    {
+      "term": "projection",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-8, chapter-9, chapter-11",
+      "suggestedTranslation": "dự báo"
+    },
+    {
+      "term": "business model canvas",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-2, chapter-6, chapter-7, chapter-8, chapter-11",
+      "suggestedTranslation": "mô hình kinh doanh canvas"
+    },
+    {
+      "term": "partnership",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-2, chapter-10, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "hợp danh"
+    },
+    {
+      "term": "mcdonald’s",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-3, chapter-4, chapter-10, chapter-12, chapter-14",
+      "suggestedTranslation": "McDonald’s"
+    },
+    {
+      "term": "What Can You Do",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-2, chapter-7, chapter-10, chapter-11, chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurial Finance and Accounting",
+      "frequency": 6,
+      "chapterRefs": "chapter-1, chapter-2, chapter-7, chapter-11, chapter-13, chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "lean startup",
+      "frequency": 6,
+      "chapterRefs": "chapter-2, chapter-4, chapter-7, chapter-8, chapter-10, chapter-11",
+      "suggestedTranslation": "khởi nghiệp tinh gọn"
+    },
+    {
+      "term": "business structure",
+      "frequency": 6,
+      "chapterRefs": "chapter-2, chapter-3, chapter-5, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "cấu trúc doanh nghiệp"
+    },
+    {
+      "term": "human resources",
+      "frequency": 6,
+      "chapterRefs": "chapter-2, chapter-3, chapter-8, chapter-10, chapter-12, chapter-14",
+      "suggestedTranslation": "nguồn nhân lực"
+    },
+    {
+      "term": "independent contractors",
+      "frequency": 6,
+      "chapterRefs": "chapter-2, chapter-5, chapter-9, chapter-12, chapter-13, chapter-14",
+      "suggestedTranslation": "nhà thầu độc lập"
+    },
+    {
+      "term": "sustainability",
+      "frequency": 6,
+      "chapterRefs": "chapter-3, chapter-5, chapter-9, chapter-11, chapter-13, chapter-14",
+      "suggestedTranslation": "tính bền vững"
+    },
+    {
+      "term": "New York",
+      "frequency": 6,
+      "chapterRefs": "chapter-3, chapter-5, chapter-9, chapter-10, chapter-11, chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "due diligence",
+      "frequency": 5,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-8, chapter-15",
+      "suggestedTranslation": "thẩm định kỹ lưỡng"
+    },
+    {
+      "term": "harvest",
+      "frequency": 5,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3, chapter-6, chapter-15",
+      "suggestedTranslation": "thoái vốn/hiện thực hóa giá trị"
+    },
+    {
+      "term": "entrepreneurial process",
+      "frequency": 5,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-6, chapter-11",
+      "suggestedTranslation": "quy trình khởi nghiệp"
+    },
+    {
+      "term": "angel investor",
+      "frequency": 5,
+      "chapterRefs": "chapter-1, chapter-7, chapter-9, chapter-14, chapter-15",
+      "suggestedTranslation": "nhà đầu tư thiên thần"
+    },
+    {
+      "term": "financial risk",
+      "frequency": 5,
+      "chapterRefs": "chapter-1, chapter-2, chapter-10, chapter-12, chapter-13",
+      "suggestedTranslation": "rủi ro tài chính"
+    },
+    {
+      "term": "techcrunch",
+      "frequency": 5,
+      "chapterRefs": "chapter-1, chapter-3, chapter-8, chapter-10, chapter-14",
+      "suggestedTranslation": "TechCrunch"
+    },
+    {
+      "term": "Warby Parker",
+      "frequency": 5,
+      "chapterRefs": "chapter-1, chapter-5, chapter-6, chapter-8, chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "opportunity recognition",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-5, chapter-6, chapter-8, chapter-15",
+      "suggestedTranslation": "nhận diện cơ hội kinh doanh"
+    },
+    {
+      "term": "e-commerce",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-8, chapter-10, chapter-13, chapter-14",
+      "suggestedTranslation": "thương mại điện tử"
+    },
+    {
+      "term": "diversity",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-3, chapter-11, chapter-12, chapter-15",
+      "suggestedTranslation": "đa dạng"
+    },
+    {
+      "term": "ideation",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-4, chapter-6, chapter-7, chapter-11",
+      "suggestedTranslation": "quá trình hình thành ý tưởng"
+    },
+    {
+      "term": "market opportunity",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-5, chapter-7, chapter-8, chapter-11",
+      "suggestedTranslation": "cơ hội thị trường"
+    },
+    {
+      "term": "early stage",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-9, chapter-11, chapter-12, chapter-15",
+      "suggestedTranslation": "giai đoạn đầu"
+    },
+    {
+      "term": "licensing",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-5, chapter-10, chapter-12, chapter-14",
+      "suggestedTranslation": "cấp phép"
+    },
+    {
+      "term": "outsourcing",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-6, chapter-12, chapter-14, chapter-15",
+      "suggestedTranslation": "thuê ngoài"
+    },
+    {
+      "term": "Wikimedia Commons",
+      "frequency": 5,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-10, chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "trademark",
+      "frequency": 5,
+      "chapterRefs": "chapter-3, chapter-4, chapter-5, chapter-12, chapter-14",
+      "suggestedTranslation": "nhãn hiệu"
+    },
+    {
+      "term": "empathy",
+      "frequency": 5,
+      "chapterRefs": "chapter-3, chapter-4, chapter-6, chapter-7, chapter-11",
+      "suggestedTranslation": "sự thấu cảm"
+    },
+    {
+      "term": "marketing strategy",
+      "frequency": 5,
+      "chapterRefs": "chapter-3, chapter-8, chapter-11, chapter-12, chapter-14",
+      "suggestedTranslation": "chiến lược marketing"
+    },
+    {
+      "term": "collateral",
+      "frequency": 5,
+      "chapterRefs": "chapter-3, chapter-9, chapter-11, chapter-12, chapter-14",
+      "suggestedTranslation": "tài sản thế chấp"
+    },
+    {
+      "term": "liability",
+      "frequency": 5,
+      "chapterRefs": "chapter-3, chapter-9, chapter-10, chapter-12, chapter-13",
+      "suggestedTranslation": "nợ phải trả"
+    },
+    {
+      "term": "market research",
+      "frequency": 5,
+      "chapterRefs": "chapter-4, chapter-5, chapter-8, chapter-10, chapter-14",
+      "suggestedTranslation": "nghiên cứu thị trường"
+    },
+    {
+      "term": "promotion",
+      "frequency": 5,
+      "chapterRefs": "chapter-5, chapter-8, chapter-10, chapter-11, chapter-14",
+      "suggestedTranslation": "xúc tiến"
+    },
+    {
+      "term": "The SBA",
+      "frequency": 5,
+      "chapterRefs": "chapter-9, chapter-12, chapter-13, chapter-14, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "bootstrapping",
+      "frequency": 4,
+      "chapterRefs": "chapter-1, chapter-2, chapter-9, chapter-14",
+      "suggestedTranslation": "tự huy động vốn"
+    },
+    {
+      "term": "design thinking",
+      "frequency": 4,
+      "chapterRefs": "chapter-1, chapter-2, chapter-4, chapter-6",
+      "suggestedTranslation": "tư duy thiết kế"
+    },
+    {
+      "term": "gig economy",
+      "frequency": 4,
+      "chapterRefs": "chapter-1, chapter-2, chapter-5, chapter-13",
+      "suggestedTranslation": "nền kinh tế gig"
+    },
+    {
+      "term": "swot analysis",
+      "frequency": 4,
+      "chapterRefs": "chapter-1, chapter-5, chapter-8, chapter-11",
+      "suggestedTranslation": "phân tích SWOT"
+    },
+    {
+      "term": "venture capitalist",
+      "frequency": 4,
+      "chapterRefs": "chapter-1, chapter-9, chapter-11, chapter-14",
+      "suggestedTranslation": "nhà đầu tư mạo hiểm"
+    },
+    {
+      "term": "In the United States",
+      "frequency": 4,
+      "chapterRefs": "chapter-1, chapter-2, chapter-8, chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Identifying Entrepreneurial Opportunity",
+      "frequency": 4,
+      "chapterRefs": "chapter-1, chapter-6, chapter-7, chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "social impact",
+      "frequency": 4,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-11",
+      "suggestedTranslation": "tác động xã hội"
+    },
+    {
+      "term": "advisory board",
+      "frequency": 4,
+      "chapterRefs": "chapter-2, chapter-5, chapter-11, chapter-14",
+      "suggestedTranslation": "hội đồng cố vấn"
+    },
+    {
+      "term": "Public Domain",
+      "frequency": 4,
+      "chapterRefs": "chapter-2, chapter-3, chapter-4, chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Risk Issues",
+      "frequency": 4,
+      "chapterRefs": "chapter-2, chapter-3, chapter-12, chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Model and Plan",
+      "frequency": 4,
+      "chapterRefs": "chapter-2, chapter-7, chapter-8, chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Structure Options",
+      "frequency": 4,
+      "chapterRefs": "chapter-2, chapter-3, chapter-12, chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "for-profit business",
+      "frequency": 4,
+      "chapterRefs": "chapter-3, chapter-6, chapter-12, chapter-13",
+      "suggestedTranslation": "doanh nghiệp vì lợi nhuận"
+    },
+    {
+      "term": "Link to Learning Read",
+      "frequency": 4,
+      "chapterRefs": "chapter-3, chapter-6, chapter-10, chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "observation",
+      "frequency": 4,
+      "chapterRefs": "chapter-4, chapter-6, chapter-8, chapter-11",
+      "suggestedTranslation": "quan sát"
+    },
+    {
+      "term": "external environment",
+      "frequency": 4,
+      "chapterRefs": "chapter-5, chapter-6, chapter-12, chapter-14",
+      "suggestedTranslation": "môi trường bên ngoài"
+    },
+    {
+      "term": "profit margin",
+      "frequency": 4,
+      "chapterRefs": "chapter-5, chapter-8, chapter-9, chapter-10",
+      "suggestedTranslation": "biên lợi nhuận"
+    },
+    {
+      "term": "data analysis",
+      "frequency": 4,
+      "chapterRefs": "chapter-6, chapter-8, chapter-11, chapter-15",
+      "suggestedTranslation": "phân tích dữ liệu"
+    },
+    {
+      "term": "executive summary",
+      "frequency": 4,
+      "chapterRefs": "chapter-7, chapter-8, chapter-10, chapter-11",
+      "suggestedTranslation": "tóm tắt điều hành"
+    },
+    {
+      "term": "valuation",
+      "frequency": 4,
+      "chapterRefs": "chapter-7, chapter-9, chapter-11, chapter-14",
+      "suggestedTranslation": "định giá"
+    },
+    {
+      "term": "disruptive technology",
+      "frequency": 3,
+      "chapterRefs": "chapter-1, chapter-4, chapter-11",
+      "suggestedTranslation": "công nghệ đột phá"
+    },
+    {
+      "term": "entrepreneurial mindset",
+      "frequency": 3,
+      "chapterRefs": "chapter-1, chapter-2, chapter-3",
+      "suggestedTranslation": "tư duy khởi nghiệp"
+    },
+    {
+      "term": "entrepreneurial vision",
+      "frequency": 3,
+      "chapterRefs": "chapter-1, chapter-11, chapter-15",
+      "suggestedTranslation": "tầm nhìn khởi nghiệp"
+    },
+    {
+      "term": "vision statement",
+      "frequency": 3,
+      "chapterRefs": "chapter-1, chapter-7, chapter-15",
+      "suggestedTranslation": "tuyên bố tầm nhìn"
+    },
+    {
+      "term": "entrepreneurial spirit",
+      "frequency": 3,
+      "chapterRefs": "chapter-1, chapter-2, chapter-4",
+      "suggestedTranslation": "tinh thần khởi nghiệp"
+    },
+    {
+      "term": "franchising",
+      "frequency": 3,
+      "chapterRefs": "chapter-1, chapter-2, chapter-10",
+      "suggestedTranslation": "nhượng quyền thương mại"
+    },
+    {
+      "term": "sole proprietorship",
+      "frequency": 3,
+      "chapterRefs": "chapter-1, chapter-12, chapter-13",
+      "suggestedTranslation": "doanh nghiệp tư nhân"
+    },
+    {
+      "term": "action plan",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-8, chapter-13",
+      "suggestedTranslation": "kế hoạch hành động"
+    },
+    {
+      "term": "breakeven point",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-9, chapter-11",
+      "suggestedTranslation": "điểm hòa vốn"
+    },
+    {
+      "term": "creative destruction",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-5, chapter-11",
+      "suggestedTranslation": "sự hủy diệt sáng tạo"
+    },
+    {
+      "term": "independent contractor",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-12, chapter-14",
+      "suggestedTranslation": "nhà thầu độc lập"
+    },
+    {
+      "term": "milestone",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-8, chapter-15",
+      "suggestedTranslation": "cột mốc"
+    },
+    {
+      "term": "prejudice",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-3, chapter-7",
+      "suggestedTranslation": "định kiến"
+    },
+    {
+      "term": "accountability",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-3, chapter-13",
+      "suggestedTranslation": "trách nhiệm giải trình"
+    },
+    {
+      "term": "critical thinking",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-6, chapter-13",
+      "suggestedTranslation": "tư duy phản biện"
+    },
+    {
+      "term": "validation",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-8, chapter-10",
+      "suggestedTranslation": "xác thực"
+    },
+    {
+      "term": "donation",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-3, chapter-9",
+      "suggestedTranslation": "khoản quyên góp"
+    },
+    {
+      "term": "economic factors",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-5, chapter-14",
+      "suggestedTranslation": "các yếu tố kinh tế"
+    },
+    {
+      "term": "funding sources",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-14, chapter-15",
+      "suggestedTranslation": "nguồn vốn"
+    },
+    {
+      "term": "New York City",
+      "frequency": 3,
+      "chapterRefs": "chapter-2, chapter-5, chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "disclosure",
+      "frequency": 3,
+      "chapterRefs": "chapter-3, chapter-13, chapter-15",
+      "suggestedTranslation": "công bố thông tin"
+    },
+    {
+      "term": "trade secret",
+      "frequency": 3,
+      "chapterRefs": "chapter-3, chapter-5, chapter-14",
+      "suggestedTranslation": "bí mật thương mại"
+    },
+    {
+      "term": "utility patent",
+      "frequency": 3,
+      "chapterRefs": "chapter-3, chapter-4, chapter-14",
+      "suggestedTranslation": "bằng sáng chế tiện ích"
+    },
+    {
+      "term": "jingle",
+      "frequency": 3,
+      "chapterRefs": "chapter-3, chapter-8, chapter-14",
+      "suggestedTranslation": "đoạn nhạc quảng cáo"
+    },
+    {
+      "term": "public relations",
+      "frequency": 3,
+      "chapterRefs": "chapter-3, chapter-8, chapter-11",
+      "suggestedTranslation": "quan hệ công chúng"
+    },
+    {
+      "term": "tesla",
+      "frequency": 3,
+      "chapterRefs": "chapter-3, chapter-4, chapter-11",
+      "suggestedTranslation": "Tesla"
+    },
+    {
+      "term": "early adopters",
+      "frequency": 3,
+      "chapterRefs": "chapter-4, chapter-10, chapter-11",
+      "suggestedTranslation": "người chấp nhận sớm"
+    },
+    {
+      "term": "relationship management",
+      "frequency": 3,
+      "chapterRefs": "chapter-4, chapter-8, chapter-14",
+      "suggestedTranslation": "quản lý quan hệ"
+    },
+    {
+      "term": "financial viability",
+      "frequency": 3,
+      "chapterRefs": "chapter-5, chapter-9, chapter-11",
+      "suggestedTranslation": "tính khả thi tài chính"
+    },
+    {
+      "term": "unique selling proposition",
+      "frequency": 3,
+      "chapterRefs": "chapter-5, chapter-8, chapter-10",
+      "suggestedTranslation": "đề xuất bán hàng độc nhất (USP)"
+    },
+    {
+      "term": "crowdsourcing",
+      "frequency": 3,
+      "chapterRefs": "chapter-5, chapter-6, chapter-14",
+      "suggestedTranslation": "huy động trí tuệ đám đông"
+    },
+    {
+      "term": "market analysis",
+      "frequency": 3,
+      "chapterRefs": "chapter-5, chapter-8, chapter-11",
+      "suggestedTranslation": "phân tích thị trường"
+    },
+    {
+      "term": "operational expenses",
+      "frequency": 3,
+      "chapterRefs": "chapter-5, chapter-9, chapter-12",
+      "suggestedTranslation": "chi phí vận hành"
+    },
+    {
+      "term": "pivoting",
+      "frequency": 3,
+      "chapterRefs": "chapter-7, chapter-8, chapter-10",
+      "suggestedTranslation": "chuyển hướng chiến lược"
+    },
+    {
+      "term": "nondisclosure agreement",
+      "frequency": 3,
+      "chapterRefs": "chapter-7, chapter-11, chapter-15",
+      "suggestedTranslation": "thỏa thuận không tiết lộ"
+    },
+    {
+      "term": "Shark Tank",
+      "frequency": 3,
+      "chapterRefs": "chapter-7, chapter-9, chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "digital marketing",
+      "frequency": 3,
+      "chapterRefs": "chapter-8, chapter-14, chapter-15",
+      "suggestedTranslation": "tiếp thị kỹ thuật số"
+    },
+    {
+      "term": "customer acquisition",
+      "frequency": 3,
+      "chapterRefs": "chapter-8, chapter-10, chapter-11",
+      "suggestedTranslation": "thu hút khách hàng"
+    },
+    {
+      "term": "balance sheet",
+      "frequency": 3,
+      "chapterRefs": "chapter-9, chapter-11, chapter-12",
+      "suggestedTranslation": "bảng cân đối kế toán"
+    },
+    {
+      "term": "financial statement",
+      "frequency": 3,
+      "chapterRefs": "chapter-9, chapter-11, chapter-12",
+      "suggestedTranslation": "báo cáo tài chính"
+    },
+    {
+      "term": "variable costs",
+      "frequency": 3,
+      "chapterRefs": "chapter-9, chapter-11, chapter-12",
+      "suggestedTranslation": "chi phí biến đổi"
+    },
+    {
+      "term": "working capital",
+      "frequency": 3,
+      "chapterRefs": "chapter-9, chapter-11, chapter-14",
+      "suggestedTranslation": "vốn lưu động"
+    },
+    {
+      "term": "joint venture",
+      "frequency": 3,
+      "chapterRefs": "chapter-10, chapter-13, chapter-14",
+      "suggestedTranslation": "liên doanh"
+    },
+    {
+      "term": "quantifiable manner",
+      "frequency": 2,
+      "chapterRefs": "chapter-1, chapter-7",
+      "suggestedTranslation": "cách thức đo lường được"
+    },
+    {
+      "term": "smart goals",
+      "frequency": 2,
+      "chapterRefs": "chapter-1, chapter-7",
+      "suggestedTranslation": "mục tiêu SMART"
+    },
+    {
+      "term": "pain point",
+      "frequency": 2,
+      "chapterRefs": "chapter-1, chapter-4",
+      "suggestedTranslation": "điểm đau (vấn đề của khách hàng)"
+    },
+    {
+      "term": "accounts receivable",
+      "frequency": 2,
+      "chapterRefs": "chapter-1, chapter-9",
+      "suggestedTranslation": "các khoản phải thu"
+    },
+    {
+      "term": "lifestyle business",
+      "frequency": 2,
+      "chapterRefs": "chapter-1, chapter-15",
+      "suggestedTranslation": "doanh nghiệp phục vụ lối sống"
+    },
+    {
+      "term": "Red Cross",
+      "frequency": 2,
+      "chapterRefs": "chapter-1, chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Ted Talk",
+      "frequency": 2,
+      "chapterRefs": "chapter-1, chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Problem Solving and Need Recognition",
+      "frequency": 2,
+      "chapterRefs": "chapter-1, chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "benchmarking",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-12",
+      "suggestedTranslation": "so sánh chuẩn (benchmarking)"
+    },
+    {
+      "term": "capitalism",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-3",
+      "suggestedTranslation": "chủ nghĩa tư bản"
+    },
+    {
+      "term": "vertical integration",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-14",
+      "suggestedTranslation": "tích hợp dọc"
+    },
+    {
+      "term": "resourcefulness",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-6",
+      "suggestedTranslation": "tính tháo vát"
+    },
+    {
+      "term": "bundling",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-8",
+      "suggestedTranslation": "bán gộp sản phẩm"
+    },
+    {
+      "term": "bartering",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-9",
+      "suggestedTranslation": "trao đổi hàng hóa (barter)"
+    },
+    {
+      "term": "tax-exempt status",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-9",
+      "suggestedTranslation": "tình trạng miễn thuế"
+    },
+    {
+      "term": "liquidity",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-12",
+      "suggestedTranslation": "tính thanh khoản"
+    },
+    {
+      "term": "Building Networks and Foundations",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Launch for Growth to Success",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Joseph Schumpeter",
+      "frequency": 2,
+      "chapterRefs": "chapter-2, chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "business ethics",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-15",
+      "suggestedTranslation": "đạo đức kinh doanh"
+    },
+    {
+      "term": "design patent",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-14",
+      "suggestedTranslation": "bằng sáng chế kiểu dáng"
+    },
+    {
+      "term": "ethics",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-15",
+      "suggestedTranslation": "đạo đức"
+    },
+    {
+      "term": "integrity",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-14",
+      "suggestedTranslation": "tính chính trực"
+    },
+    {
+      "term": "truthfulness",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-13",
+      "suggestedTranslation": "tính trung thực"
+    },
+    {
+      "term": "legal compliance",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-6",
+      "suggestedTranslation": "tuân thủ pháp luật"
+    },
+    {
+      "term": "code of conduct",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-15",
+      "suggestedTranslation": "quy tắc ứng xử"
+    },
+    {
+      "term": "codes of conduct",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-15",
+      "suggestedTranslation": "các quy tắc ứng xử"
+    },
+    {
+      "term": "shareholders",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-13",
+      "suggestedTranslation": "shareholders"
+    },
+    {
+      "term": "torts",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-13",
+      "suggestedTranslation": "Torts"
+    },
+    {
+      "term": "Silicon Valley",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "US Department of Labor",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Harvard Business Review",
+      "frequency": 2,
+      "chapterRefs": "chapter-3, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "disruptive innovation",
+      "frequency": 2,
+      "chapterRefs": "chapter-4, chapter-11",
+      "suggestedTranslation": "đổi mới đột phá"
+    },
+    {
+      "term": "user interface",
+      "frequency": 2,
+      "chapterRefs": "chapter-4, chapter-7",
+      "suggestedTranslation": "giao diện người dùng"
+    },
+    {
+      "term": "human-centered design",
+      "frequency": 2,
+      "chapterRefs": "chapter-4, chapter-6",
+      "suggestedTranslation": "thiết kế lấy con người làm trung tâm"
+    },
+    {
+      "term": "corporate narrative",
+      "frequency": 2,
+      "chapterRefs": "chapter-4, chapter-7",
+      "suggestedTranslation": "câu chuyện doanh nghiệp"
+    },
+    {
+      "term": "Henry Ford",
+      "frequency": 2,
+      "chapterRefs": "chapter-4, chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Elon Musk",
+      "frequency": 2,
+      "chapterRefs": "chapter-4, chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "(a)",
+      "frequency": 2,
+      "chapterRefs": "chapter-4, chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "(b)",
+      "frequency": 2,
+      "chapterRefs": "chapter-4, chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "primary research",
+      "frequency": 2,
+      "chapterRefs": "chapter-5, chapter-8",
+      "suggestedTranslation": "nghiên cứu sơ cấp"
+    },
+    {
+      "term": "secondary research",
+      "frequency": 2,
+      "chapterRefs": "chapter-5, chapter-8",
+      "suggestedTranslation": "nghiên cứu thứ cấp"
+    },
+    {
+      "term": "fixed assets",
+      "frequency": 2,
+      "chapterRefs": "chapter-5, chapter-9",
+      "suggestedTranslation": "tài sản cố định"
+    },
+    {
+      "term": "financial sustainability",
+      "frequency": 2,
+      "chapterRefs": "chapter-5, chapter-9",
+      "suggestedTranslation": "tính bền vững tài chính"
+    },
+    {
+      "term": "business failure",
+      "frequency": 2,
+      "chapterRefs": "chapter-5, chapter-10",
+      "suggestedTranslation": "thất bại kinh doanh"
+    },
+    {
+      "term": "inventory management",
+      "frequency": 2,
+      "chapterRefs": "chapter-5, chapter-12",
+      "suggestedTranslation": "quản lý tồn kho"
+    },
+    {
+      "term": "political factors",
+      "frequency": 2,
+      "chapterRefs": "chapter-5, chapter-14",
+      "suggestedTranslation": "các yếu tố chính trị"
+    },
+    {
+      "term": "Sara Blakely",
+      "frequency": 2,
+      "chapterRefs": "chapter-5, chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "communication skills",
+      "frequency": 2,
+      "chapterRefs": "chapter-6, chapter-8",
+      "suggestedTranslation": "kỹ năng giao tiếp"
+    },
+    {
+      "term": "ideate",
+      "frequency": 2,
+      "chapterRefs": "chapter-6, chapter-7",
+      "suggestedTranslation": "hình thành ý tưởng"
+    },
+    {
+      "term": "lean process",
+      "frequency": 2,
+      "chapterRefs": "chapter-6, chapter-10",
+      "suggestedTranslation": "quy trình tinh gọn"
+    },
+    {
+      "term": "Rebus Community",
+      "frequency": 2,
+      "chapterRefs": "chapter-6, chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Link to Learning Watch",
+      "frequency": 2,
+      "chapterRefs": "chapter-6, chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Stanford University",
+      "frequency": 2,
+      "chapterRefs": "chapter-6, chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "noncompete agreement",
+      "frequency": 2,
+      "chapterRefs": "chapter-7, chapter-15",
+      "suggestedTranslation": "thỏa thuận không cạnh tranh"
+    },
+    {
+      "term": "brand advocate",
+      "frequency": 2,
+      "chapterRefs": "chapter-7, chapter-8",
+      "suggestedTranslation": "người ủng hộ thương hiệu"
+    },
+    {
+      "term": "tagline",
+      "frequency": 2,
+      "chapterRefs": "chapter-7, chapter-8",
+      "suggestedTranslation": "khẩu hiệu thương hiệu"
+    },
+    {
+      "term": "How I Built This",
+      "frequency": 2,
+      "chapterRefs": "chapter-7, chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "personal selling",
+      "frequency": 2,
+      "chapterRefs": "chapter-8, chapter-11",
+      "suggestedTranslation": "bán hàng cá nhân"
+    },
+    {
+      "term": "physical environment",
+      "frequency": 2,
+      "chapterRefs": "chapter-8, chapter-10",
+      "suggestedTranslation": "môi trường vật lý"
+    },
+    {
+      "term": "sales promotion",
+      "frequency": 2,
+      "chapterRefs": "chapter-8, chapter-11",
+      "suggestedTranslation": "xúc tiến bán hàng"
+    },
+    {
+      "term": "customer retention",
+      "frequency": 2,
+      "chapterRefs": "chapter-8, chapter-11",
+      "suggestedTranslation": "giữ chân khách hàng"
+    },
+    {
+      "term": "accounting equation",
+      "frequency": 2,
+      "chapterRefs": "chapter-9, chapter-11",
+      "suggestedTranslation": "phương trình kế toán"
+    },
+    {
+      "term": "accounts payable",
+      "frequency": 2,
+      "chapterRefs": "chapter-9, chapter-12",
+      "suggestedTranslation": "các khoản phải trả"
+    },
+    {
+      "term": "burn rate",
+      "frequency": 2,
+      "chapterRefs": "chapter-9, chapter-15",
+      "suggestedTranslation": "tốc độ đốt tiền"
+    },
+    {
+      "term": "cost of goods sold",
+      "frequency": 2,
+      "chapterRefs": "chapter-9, chapter-14",
+      "suggestedTranslation": "giá vốn hàng bán"
+    },
+    {
+      "term": "fixed costs",
+      "frequency": 2,
+      "chapterRefs": "chapter-9, chapter-11",
+      "suggestedTranslation": "chi phí cố định"
+    },
+    {
+      "term": "funding resources",
+      "frequency": 2,
+      "chapterRefs": "chapter-9, chapter-14",
+      "suggestedTranslation": "nguồn tài trợ"
+    },
+    {
+      "term": "entrepreneurial ecosystem",
+      "frequency": 2,
+      "chapterRefs": "chapter-10, chapter-11",
+      "suggestedTranslation": "hệ sinh thái khởi nghiệp"
+    },
+    {
+      "term": "iterations",
+      "frequency": 2,
+      "chapterRefs": "chapter-10, chapter-11",
+      "suggestedTranslation": "các lần lặp cải tiến"
+    },
+    {
+      "term": "Entrepreneurial Marketing and Sales",
+      "frequency": 2,
+      "chapterRefs": "chapter-10, chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Joint Ventures",
+      "frequency": 2,
+      "chapterRefs": "chapter-10, chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "pro forma",
+      "frequency": 2,
+      "chapterRefs": "chapter-11, chapter-12",
+      "suggestedTranslation": "báo cáo tài chính dự kiến"
+    },
+    {
+      "term": "creditworthiness",
+      "frequency": 2,
+      "chapterRefs": "chapter-12, chapter-14",
+      "suggestedTranslation": "mức độ tín nhiệm tín dụng"
+    },
+    {
+      "term": "production time",
+      "frequency": 2,
+      "chapterRefs": "chapter-12, chapter-14",
+      "suggestedTranslation": "thời gian sản xuất"
+    },
+    {
+      "term": "general partnership",
+      "frequency": 2,
+      "chapterRefs": "chapter-12, chapter-13",
+      "suggestedTranslation": "hợp danh chung"
+    },
+    {
+      "term": "line of credit",
+      "frequency": 2,
+      "chapterRefs": "chapter-12, chapter-14",
+      "suggestedTranslation": "hạn mức tín dụng"
+    },
+    {
+      "term": "quotas",
+      "frequency": 2,
+      "chapterRefs": "chapter-12, chapter-14",
+      "suggestedTranslation": "hạn ngạch"
+    },
+    {
+      "term": "Service Corps of Retired Executives",
+      "frequency": 2,
+      "chapterRefs": "chapter-12, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "tariffs",
+      "frequency": 2,
+      "chapterRefs": "chapter-13, chapter-14",
+      "suggestedTranslation": "thuế quan"
+    },
+    {
+      "term": "JOBS Act",
+      "frequency": 2,
+      "chapterRefs": "chapter-13, chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "tangible resources",
+      "frequency": 2,
+      "chapterRefs": "chapter-14, chapter-15",
+      "suggestedTranslation": "nguồn lực hữu hình"
+    },
+    {
+      "term": "company culture",
+      "frequency": 2,
+      "chapterRefs": "chapter-14, chapter-15",
+      "suggestedTranslation": "văn hóa công ty"
+    },
+    {
+      "term": "Y Combinator",
+      "frequency": 2,
+      "chapterRefs": "chapter-14, chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "career entrepreneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": "doanh nhân theo đuổi sự nghiệp lâu dài"
+    },
+    {
+      "term": "divergent thinking",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": "tư duy phân kỳ"
+    },
+    {
+      "term": "lifestyle venture",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": "doanh nghiệp phục vụ lối sống"
+    },
+    {
+      "term": "opportunity-identifying perspective",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": "góc nhìn nhận diện cơ hội"
+    },
+    {
+      "term": "How Do You Define",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Gilboa and Blumenthal",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Wander Girls",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Roxanne Quimby",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Entrepreneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Solving and Need Recognition Techniques",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Chloe Huang",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Education for Sustainable Development",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Factors Driving the Growth of Entrepreneurship",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Entrepreneurial Mindset",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Angad Daryani",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Kevin F",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Miracle Messages",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Coastal Tractor",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Phil Libin",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "CEO of Evernote",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Heisenberg Media",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurship Today",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurial Vision and Goals",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Global Action Programme on Education",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sustainable Development",
+      "frequency": 1,
+      "chapterRefs": "chapter-1",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "market entry",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "gia nhập thị trường"
+    },
+    {
+      "term": "cash management",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "quản lý dòng tiền"
+    },
+    {
+      "term": "corporate entrepreneurship",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "khởi nghiệp trong doanh nghiệp"
+    },
+    {
+      "term": "intrapreneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "doanh nhân nội bộ"
+    },
+    {
+      "term": "situational opportunity",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "cơ hội tình huống"
+    },
+    {
+      "term": "soft launch",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "ra mắt thử nghiệm (soft launch)"
+    },
+    {
+      "term": "entrepreneurial exposure",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "mức độ tiếp xúc với môi trường khởi nghiệp"
+    },
+    {
+      "term": "self-employment",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "tự kinh doanh (tự làm chủ)"
+    },
+    {
+      "term": "entrepreneurship in action",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": "khởi nghiệp thực chiến"
+    },
+    {
+      "term": "Glacier National Park",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurial Potential Self-Assessment",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Entrepreneurial Journey",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The U",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Exploring Resources",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Jitterbug",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "How I Built a Subscription",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business That",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Structure Options",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "PopUp Business School",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Surge Cities",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "These Are",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Best Places in America for Starting",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Think of Us",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Process of Becoming an Entrepreneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurial Personality Test",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The United States",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Pembina",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Madam C",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "African American",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Charles Drew",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "World War II",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Jean-Baptiste Say",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "William Penn",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sybilla Masters",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Benjamin Franklin",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Commonwealth of Pennsylvania",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Frame of Government",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Adam Smith",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The First Industrial Revolution",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Eli Whitney",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Elias Howe",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Samuel Morse",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "First Industrial Revolution",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "African Americans",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Second Industrial Revolution",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Second Industrial Revolution",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "World War I",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The American",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Great Depression",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "After World War II",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Knowledge Economy",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Entrepreneurial Process",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "In Stage",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Man Crates",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurial Pathways",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Family Obligations",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Gordon Moore and Fairchild Semiconductor",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Gordon Moore",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Fairchild Semiconductor",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Your Personal Path",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Frameworks to Inform Your Entrepreneurial",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Lean Strategy Canvas",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Design Thinking Process",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Four Lenses Strategic Framework",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Applying the Framework",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Action Plan Support Tools",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Capitol Hill",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Kauffman Foundation",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Alan Donegan",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Kauffman Foundation",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "College Entrepreneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Franchise Entrepreneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Immigrant Entrepreneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Minority Entrepreneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sixto Cancel",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Startup Ideas Feature Box",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Visit the SBA",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Global Entrepreneurship",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "YouTube Video",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurial Journey As",
+      "frequency": 1,
+      "chapterRefs": "chapter-2",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "anchoring strategies",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "chiến lược neo (đạo đức)"
+    },
+    {
+      "term": "antitrust laws",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "luật chống độc quyền"
+    },
+    {
+      "term": "conflict of interest",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "xung đột lợi ích"
+    },
+    {
+      "term": "environmental entrepreneurship",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "khởi nghiệp môi trường"
+    },
+    {
+      "term": "fairness",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "sự công bằng"
+    },
+    {
+      "term": "ethical standards",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "chuẩn mực đạo đức"
+    },
+    {
+      "term": "american micro devices",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "American Micro Devices"
+    },
+    {
+      "term": "arrington",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Arrington"
+    },
+    {
+      "term": "bayh-dole act",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Bayh-Dole Act"
+    },
+    {
+      "term": "business for social responsibility",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Business for Social Responsibility"
+    },
+    {
+      "term": "business roundtable",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Business Roundtable"
+    },
+    {
+      "term": "clayton act",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Clayton Act"
+    },
+    {
+      "term": "code of ethics",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "bộ quy tắc đạo đức"
+    },
+    {
+      "term": "competition laws",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "luật cạnh tranh"
+    },
+    {
+      "term": "continental edison company",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Continental Edison Company"
+    },
+    {
+      "term": "da silva",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "da Silva"
+    },
+    {
+      "term": "deontology",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "đạo đức học nghĩa vụ"
+    },
+    {
+      "term": "dodge",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Dodge"
+    },
+    {
+      "term": "dodge motor company",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Dodge Motor Company"
+    },
+    {
+      "term": "duty-based ethics",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "đạo đức dựa trên bổn phận"
+    },
+    {
+      "term": "eli lilly",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Eli Lilly"
+    },
+    {
+      "term": "equifax",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Equifax"
+    },
+    {
+      "term": "federal trade commission act",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Federal Trade Commission Act"
+    },
+    {
+      "term": "ford motor company",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Ford Motor Company"
+    },
+    {
+      "term": "fryman",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Fryman"
+    },
+    {
+      "term": "hippocrates",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Hippocrates"
+    },
+    {
+      "term": "hippocratic oath",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Hippocratic Oath"
+    },
+    {
+      "term": "intel corporation",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Intel Corporation"
+    },
+    {
+      "term": "kaizen",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Kaizen"
+    },
+    {
+      "term": "kantian",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Kantian"
+    },
+    {
+      "term": "lula",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Lula"
+    },
+    {
+      "term": "moral compass",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "moral compass"
+    },
+    {
+      "term": "morals",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "morals"
+    },
+    {
+      "term": "normative ethical theories",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "normative ethical theories"
+    },
+    {
+      "term": "petrobras",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Petrobras"
+    },
+    {
+      "term": "protestant work ethic",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Protestant work ethic"
+    },
+    {
+      "term": "rousseff",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Rousseff"
+    },
+    {
+      "term": "samsung electronics",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Samsung Electronics"
+    },
+    {
+      "term": "shareholder primacy",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "shareholder primacy"
+    },
+    {
+      "term": "sherman act",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Sherman Act"
+    },
+    {
+      "term": "shkreli",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Shkreli"
+    },
+    {
+      "term": "stumpf",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Stumpf"
+    },
+    {
+      "term": "tesla electric light",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Tesla Electric Light"
+    },
+    {
+      "term": "turing pharmaceuticals",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Turing Pharmaceuticals"
+    },
+    {
+      "term": "utilitarian ethics",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Utilitarian ethics"
+    },
+    {
+      "term": "utilitarianism",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "utilitarianism"
+    },
+    {
+      "term": "vicarious liability",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "vicarious liability"
+    },
+    {
+      "term": "virtue ethics",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "virtue ethics"
+    },
+    {
+      "term": "volkswagen",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Volkswagen"
+    },
+    {
+      "term": "wells fargo",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Wells Fargo"
+    },
+    {
+      "term": "winterkorn",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "Winterkorn"
+    },
+    {
+      "term": "world’s most ethical companies",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": "World’s Most Ethical Companies"
+    },
+    {
+      "term": "Ethical and Legal Issues in Entrepreneurship",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "You Value",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "On September",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Martin Shkreli",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Nikola Tesla",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "In the US",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "US Department of Justice",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Corporate Social Responsibility and Social",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurship Learning Objectives By",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Corporate Social Responsibility",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The NBBC",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sarbanes-Oxley Act",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "British Petroleum",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "TOMS Shoes",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Dow Jones",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Own Words",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Better Tomorrow",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Blake Mycoskie",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The TOMS Story",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Grameen Bank",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Interest Profiler",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Interest Profiler",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Identifying Your Values",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Rise Products",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Developing a Workplace Culture of Ethical",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Society for Human Resource Management",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Walt Disney",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Kerrie Laird",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Project Shakti",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Hindustan Lever",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Wall Street Journal",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sherron Watkins",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Sarbanes-Oxley Act",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Workers Party",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Operation Car Wash",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Galaxy Note",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Kathy Fryman",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Car Wash",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "People Inside",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Resource Management",
+      "frequency": 1,
+      "chapterRefs": "chapter-3",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "diffusion chasm",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": "khoảng cách khuếch tán"
+    },
+    {
+      "term": "incremental innovation",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": "đổi mới gia tăng"
+    },
+    {
+      "term": "iterative development",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": "phát triển lặp"
+    },
+    {
+      "term": "lateral thinking",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": "tư duy phi tuyến"
+    },
+    {
+      "term": "linear thinking",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": "tư duy tuyến tính"
+    },
+    {
+      "term": "open innovation",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": "đổi mới mở"
+    },
+    {
+      "term": "pioneering innovation",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": "đổi mới tiên phong"
+    },
+    {
+      "term": "scientific method",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": "phương pháp khoa học"
+    },
+    {
+      "term": "Six Thinking Hats",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Red Hat",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Black Hat",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Green Hat",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Six Thinking Hats",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Blue Hat",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Nohbo Drops",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Assembly Line",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Venetian Arsenal",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Venetian Arsenal",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Everett Rogers",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Shave Club",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Safety Razor",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Creative Commons",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Developing Ideas",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Creative Process",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Five Stages of Creativity",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "When I",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "For Kawasaki",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Developing an Invention The",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Merit Morikawa",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Tools for Creativity and Innovation",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "How They Differ",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Ideation Method",
+      "frequency": 1,
+      "chapterRefs": "chapter-4",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "opportunity screening",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": "sàng lọc cơ hội"
+    },
+    {
+      "term": "shared economy",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": "nền kinh tế chia sẻ"
+    },
+    {
+      "term": "According to Schumpeter",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Federal Express",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Researching Potential Business Opportunities",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Common Sources of Research Data",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "US Census",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Small Business Development Center",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Administration",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Claritas Research",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sweet Beginnings",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "North Lawndale",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Palms Barber",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Bee Love",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Veterans Community Project",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Competitive Analysis A",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "A SWOT",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Fundamentals of Resource Planning",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "A PEST",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Travis and Katelyn",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Chris Johnson",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Rapid Brands",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Rapid Ramen Cooker",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Economic Indicators",
+      "frequency": 1,
+      "chapterRefs": "chapter-5",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "adaptive model",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "mô hình thích ứng"
+    },
+    {
+      "term": "decisiveness",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "tính quyết đoán"
+    },
+    {
+      "term": "entrepreneurial problem solving",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "giải quyết vấn đề khởi nghiệp"
+    },
+    {
+      "term": "hackathon",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "hackathon"
+    },
+    {
+      "term": "innovative model",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "mô hình đổi mới"
+    },
+    {
+      "term": "internal environment",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "môi trường bên trong"
+    },
+    {
+      "term": "need awareness",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "nhận thức nhu cầu"
+    },
+    {
+      "term": "petitioner problem solvers",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "người tìm kiếm giải pháp từ người khác"
+    },
+    {
+      "term": "self-regulating problem solvers",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "người giải quyết vấn đề tự chủ"
+    },
+    {
+      "term": "storyboarding",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "xây dựng bảng phân cảnh"
+    },
+    {
+      "term": "team creativity",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "sáng tạo nhóm"
+    },
+    {
+      "term": "theorist problem solvers",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "người giải quyết vấn đề theo lý thuyết"
+    },
+    {
+      "term": "whiteboarding",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": "phác thảo trên bảng trắng"
+    },
+    {
+      "term": "Problem Solving to Find Entrepreneurial",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Geoffrey Graybeal",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Hirabayashi and Lidey",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Fast Company Innovation Festival",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Vital Vio",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Katie Witkin",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "AGW Group",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Steps",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Mechanical Turk",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Taaluma Totes",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "DuFour and Heffern",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "David Kelley",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Design School",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Tim Brown",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Top Five",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "How Might We",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Co-Creation Session",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Frame Your Design",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Innovation Flowchart",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Question Ladder",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "IDEO Design Kit",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Centered Design",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Google Ventures Design Sprint",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Design Thinking Mix Tapes",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Six Sigma",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Process Excellence",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "New Balance",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Ford",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Kiichiro Toyoda",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Design Thinking for Educators",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Creative Problem-Solving Process",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Lean Processes Lean",
+      "frequency": 1,
+      "chapterRefs": "chapter-6",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "elevator pitch",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "bài pitch ngắn (elevator pitch)"
+    },
+    {
+      "term": "entrepreneurial contest",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "cuộc thi khởi nghiệp"
+    },
+    {
+      "term": "iceberg principle",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "nguyên tắc tảng băng trôi"
+    },
+    {
+      "term": "pitch competition",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "cuộc thi pitch"
+    },
+    {
+      "term": "pitch deck",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "bộ slide pitch"
+    },
+    {
+      "term": "problem-solution narrative",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "câu chuyện vấn đề – giải pháp"
+    },
+    {
+      "term": "work-for-hire agreement",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "thỏa thuận làm thuê (work-for-hire)"
+    },
+    {
+      "term": "growth strategy",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "chiến lược tăng trưởng"
+    },
+    {
+      "term": "contractual agreement",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "thỏa thuận hợp đồng"
+    },
+    {
+      "term": "pitch competitions",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": "các cuộc thi pitch"
+    },
+    {
+      "term": "Clarifying Your Vision",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Goals Portions",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Mark Poepsel",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Entrepreneurial Perspective",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sara Minkara",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Middle East",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Vision and Mission Statements",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Mission Statement To",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "American Red Cross",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The American Red Cross",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Link to Learning Check",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Toys Inc",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "March of Dimes",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sharing Your Entrepreneurial Story",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The One",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Steve Jobs",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Bill Hewlett and David Packard",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Advantages and Disadvantages of Using",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Developing Pitches for Various Audiences",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Investors You",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Reality Check",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Contests and Competitions",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Key Elements",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Media Innovation and Entrepreneurship",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Entrepreneurial Marketing and Sales",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Airbnb",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Protecting Your Idea and Polishing",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Road to GES",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Global Entrepreneurship Summit",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "American Idol",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Collegiate Entrepreneurs",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Plan Competition",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Venture Competition",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The John Deere Company",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "John Deere",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "John Deere Company",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Anne-Marie Slaughter",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Atlantic",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Wattage Inc",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "That It",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Why Women Still Can",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Have It All",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Risk City",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Global Entrepreneur Week",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Model Competition",
+      "frequency": 1,
+      "chapterRefs": "chapter-7",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "market validation",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "kiểm chứng thị trường"
+    },
+    {
+      "term": "brand strategy",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "chiến lược thương hiệu"
+    },
+    {
+      "term": "causal research",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "nghiên cứu nhân quả"
+    },
+    {
+      "term": "conjoint analysis",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "phân tích kết hợp"
+    },
+    {
+      "term": "cost-led pricing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "định giá dựa trên chi phí"
+    },
+    {
+      "term": "customer-led pricing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "định giá theo khách hàng"
+    },
+    {
+      "term": "direct mail",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "thư trực tiếp"
+    },
+    {
+      "term": "ethnographic research",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "nghiên cứu dân tộc học"
+    },
+    {
+      "term": "expeditionary marketing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "tiếp thị thăm dò"
+    },
+    {
+      "term": "focus group",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "nhóm thảo luận"
+    },
+    {
+      "term": "guerrilla marketing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "tiếp thị du kích"
+    },
+    {
+      "term": "introductory offers",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "ưu đãi giới thiệu"
+    },
+    {
+      "term": "loss leader pricing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "định giá mồi"
+    },
+    {
+      "term": "marketing mix",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "marketing mix (4P)"
+    },
+    {
+      "term": "odd numbers strategy",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "chiến lược giá số lẻ"
+    },
+    {
+      "term": "penetration pricing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "định giá thâm nhập"
+    },
+    {
+      "term": "premium pricing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "định giá cao cấp"
+    },
+    {
+      "term": "qualitative research",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "nghiên cứu định tính"
+    },
+    {
+      "term": "quantitative research",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "nghiên cứu định lượng"
+    },
+    {
+      "term": "real-time marketing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "tiếp thị thời gian thực"
+    },
+    {
+      "term": "relationship marketing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "tiếp thị quan hệ"
+    },
+    {
+      "term": "sales strategy",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "chiến lược bán hàng"
+    },
+    {
+      "term": "segmenting",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "phân khúc thị trường"
+    },
+    {
+      "term": "situation analysis",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "phân tích tình huống"
+    },
+    {
+      "term": "skimming",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "định giá hớt váng"
+    },
+    {
+      "term": "viral marketing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "tiếp thị lan truyền"
+    },
+    {
+      "term": "word-of-mouth (wom) marketing",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": "tiếp thị truyền miệng (WOM)"
+    },
+    {
+      "term": "Product Within",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Under Armour",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Marketing Techniques and Tools for Entrepreneurs",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Dave Gilboa and Neil Blumenthal",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Market Opportunity Recognition",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Merkadoteknia Research and Consulting",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Fact Finder",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Pew Research Center",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Current Population Survey",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Texas State Data Center",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Wag",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Constant Contact",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Mad Mimi",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Los Angeles",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Marketing Opportunity",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Unmet Need",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Model and Plan",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Marketing Strategies As",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Spin Selling",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Can I",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "According to Hubspot",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Katia Beauchamp and Hayley Barna",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurial Branding",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Google Ads",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Google Analytics",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Zig Ziglar",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Target Market Market",
+      "frequency": 1,
+      "chapterRefs": "chapter-8",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "charitable organization",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "tổ chức từ thiện"
+    },
+    {
+      "term": "contribution margin",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "lợi nhuận đóng góp"
+    },
+    {
+      "term": "debt financing",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "tài trợ bằng nợ"
+    },
+    {
+      "term": "equity financing",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "tài trợ bằng vốn chủ sở hữu"
+    },
+    {
+      "term": "financing activities",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "hoạt động tài chính"
+    },
+    {
+      "term": "gross profit",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "lợi nhuận gộp"
+    },
+    {
+      "term": "income (profit-and-loss) statement",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "báo cáo kết quả kinh doanh"
+    },
+    {
+      "term": "investing activities",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "hoạt động đầu tư"
+    },
+    {
+      "term": "mature stage",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "giai đoạn trưởng thành"
+    },
+    {
+      "term": "moonlighting",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "làm thêm ngoài giờ"
+    },
+    {
+      "term": "net income",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "lợi nhuận ròng"
+    },
+    {
+      "term": "operating activities",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "hoạt động kinh doanh"
+    },
+    {
+      "term": "program services",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "dịch vụ chương trình"
+    },
+    {
+      "term": "run rate",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "tốc độ vận hành (run rate)"
+    },
+    {
+      "term": "seed stage",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "giai đoạn hạt giống"
+    },
+    {
+      "term": "statement of cash flows",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "báo cáo lưu chuyển tiền tệ"
+    },
+    {
+      "term": "sustainable strategy",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": "chiến lược bền vững"
+    },
+    {
+      "term": "Overview of Entrepreneurial Finance and Accounting",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Strategies Learning Objectives By",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Ted Herget",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Accounting Basics for Entrepreneurs",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Securities and Exchange Commission",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The IPO",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Special Funding Strategies",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Small Loan",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "In Special Funding Strategies",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Metropolitan Museum of Art",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Internal Revenue Service",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "National Institutes of Health",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The NIH",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The TOMS",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Plan Competition",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Boston Beer Company",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Boston Beer Company",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Developing Startup Financial Statements",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Balance Sheet The",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Hometown Pizzeria",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Income Statement The",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "When Shanti",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Statement of Cash Flows",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "If Shanti",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Best Buy",
+      "frequency": 1,
+      "chapterRefs": "chapter-9",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "born global",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": "doanh nghiệp toàn cầu ngay từ đầu"
+    },
+    {
+      "term": "build-measure-learn loop",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": "vòng lặp xây dựng – đo lường – học hỏi"
+    },
+    {
+      "term": "business lifecycle",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": "vòng đời doanh nghiệp"
+    },
+    {
+      "term": "innovation accounting",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": "kế toán đổi mới"
+    },
+    {
+      "term": "lean pitch",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": "bài thuyết trình tinh gọn"
+    },
+    {
+      "term": "lean plan",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": "kế hoạch kinh doanh tinh gọn"
+    },
+    {
+      "term": "mergers and acquisitions",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": "sáp nhập và mua lại"
+    },
+    {
+      "term": "strategic alliance",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": "liên minh chiến lược"
+    },
+    {
+      "term": "Launching the Imperfect Business",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The CEO",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Drew Houston",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Eric Ries",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "After Ries",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "General Electric",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Fast Works",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Telling Your Entrepreneurial Story",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Pitching the Idea",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Types of Pivots",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Internet",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Lean Startup",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Color TV Block Breaker",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Why Early Failure Can",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "El Paso",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Michael Jordan",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Dual Cyclone",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Fear of Failure",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Global Entrepreneurship Monitor",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Global Entrepreneurship Monitor",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Evan Williams",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Kathryn Minshew",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Muse",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Challenging Truth",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Pros and Cons of Business Ownership",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Marketing and Sales",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Because I",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Center",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "National Association for Women Owners",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Female Entrepreneur Association",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Ladies Who Launch",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Minority Business Development Agency",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "National Association of Professional Women",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Enterprise National Council",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Asian Americans",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Write a Short and Simple Document",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Test Your MVP",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Tim Berry",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "For Berry",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "GoPro and Fitbit",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Johnson Security",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Red Bull",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Pros and Cons of Growth Strategies",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Drew Houston and Arash Ferdowsi",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Lead to Success Later",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Ownership",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Adjusting the Initial Plan",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurship Monitor",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Chamber of Commerce",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Female Entrepreneur Association",
+      "frequency": 1,
+      "chapterRefs": "chapter-10",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "value creation",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "tạo ra giá trị"
+    },
+    {
+      "term": "cost structure",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "cơ cấu chi phí"
+    },
+    {
+      "term": "business model innovation",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "đổi mới mô hình kinh doanh"
+    },
+    {
+      "term": "competitive matrix",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "ma trận cạnh tranh"
+    },
+    {
+      "term": "customer empathy map",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "bản đồ thấu cảm khách hàng"
+    },
+    {
+      "term": "feasibility analysis",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "phân tích tính khả thi"
+    },
+    {
+      "term": "financial analysis",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "phân tích tài chính"
+    },
+    {
+      "term": "go-or-no-go decision",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "quyết định tiếp tục hoặc dừng"
+    },
+    {
+      "term": "lean model canvas",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "mô hình lean canvas"
+    },
+    {
+      "term": "projected cash flow",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "dòng tiền dự kiến"
+    },
+    {
+      "term": "social business model canvas",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "mô hình kinh doanh xã hội canvas"
+    },
+    {
+      "term": "value proposition canvas",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": "mô hình giá trị đề xuất canvas"
+    },
+    {
+      "term": "Field of Dreams",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "San Francisco",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Steve Blank",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Scaling Lean",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Ash Maurya",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Clayton Christensen",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Designing the Business Model",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Model Generation",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Osterwalder and Pigneur",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Link to Learning Visit",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Model Canvases",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Lean Model Canvas",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Unfair Advantage",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Link to Learning This",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Birthday Party Project",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Birthday Party Project",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Business Plan",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "S T",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Average Revenue",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Love Beyond Walls",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Pretty Young Professional",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Cut Buddy",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Daymond John",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Cut Buddy",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Joshua Esnard",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Brief Business Plan",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Rice University",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Create a Brief Business Plan",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "La Vida Lola",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Vida Lola",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Latin American and Caribbean",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Puerto Rican and Cuban",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Lola Gonz",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Description for La Vida",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Mobile Food Services",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Conducting a Feasibility Analysis",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Industry Analysis and Market Strategy",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Mobile Food Trends and Insights",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Off the Grid",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Atlanta",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The SAM",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Atlanta Journal-Constitution",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Bento Bus",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Fry Guy",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Blaxican",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Operations and Management Plan for La",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Cameron Hamilton",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Chef Lola Gonz",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Marketing Plan for La Vida",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Instagram and Twitter",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Hugh Jackman",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Laughing Man Coffee",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Laughing Man",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Laughing Man Foundation",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Textbooks for Change",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Innovation Challenge",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Innovation Center",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Good Sports",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "State Department",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Tech Talent South",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Vita Coco",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Michael Kirban and Ira Liran",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Kirban and Liran",
+      "frequency": 1,
+      "chapterRefs": "chapter-11",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "absolute capacity",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "công suất tối đa tuyệt đối"
+    },
+    {
+      "term": "baselining",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "thiết lập đường cơ sở"
+    },
+    {
+      "term": "business accelerator",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "chương trình tăng tốc khởi nghiệp"
+    },
+    {
+      "term": "business incubator",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "vườn ươm doanh nghiệp"
+    },
+    {
+      "term": "capital expense",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "chi phí đầu tư tài sản"
+    },
+    {
+      "term": "capital improvements",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "cải tiến tài sản"
+    },
+    {
+      "term": "closed group",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "nhóm đóng"
+    },
+    {
+      "term": "debt service",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "nghĩa vụ trả nợ"
+    },
+    {
+      "term": "ergonomics",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "công thái học"
+    },
+    {
+      "term": "flat organization",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "tổ chức phẳng"
+    },
+    {
+      "term": "hybrid group",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "nhóm lai"
+    },
+    {
+      "term": "nepotism",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "chủ nghĩa thân hữu"
+    },
+    {
+      "term": "open group",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "nhóm mở"
+    },
+    {
+      "term": "operational capacity",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "công suất vận hành"
+    },
+    {
+      "term": "operational reserve",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "dự trữ vận hành"
+    },
+    {
+      "term": "self-performing",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "tự thực hiện"
+    },
+    {
+      "term": "total cost of ownership",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "tổng chi phí sở hữu"
+    },
+    {
+      "term": "trade association",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": "hiệp hội ngành nghề"
+    },
+    {
+      "term": "Key West",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Do I",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "National Association",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Network International",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Small Business Development Centers",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Centers",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Department of Commerce",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The WBC",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "SDVO SBC",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Building the Entrepreneurial Dream Team",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "North American Industry Classification",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Who Am I",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Make a List",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Should I",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Designing a Startup Operational Plan",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Frederick Taylor",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Avni Patel Thompson",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Link to Learning The",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Industrial Revolution",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Scheduling Sounds Simple",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Entrepreneurial Dream Team",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Checklist of Operational Needs",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The IA",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Dallas Cowboys",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Jimmy Johnson",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Jiffy Lube",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "SuperGlass Windshield Repair",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Florida Keys",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Building and Connecting to Networks",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "US Department of Commerce",
+      "frequency": 1,
+      "chapterRefs": "chapter-12",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "b corporation",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "doanh nghiệp B Corp"
+    },
+    {
+      "term": "business purpose",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "mục đích kinh doanh"
+    },
+    {
+      "term": "c corporation",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "công ty C"
+    },
+    {
+      "term": "economic nexus",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "liên kết kinh tế"
+    },
+    {
+      "term": "enterprise risk management",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "quản trị rủi ro doanh nghiệp"
+    },
+    {
+      "term": "equity crowdfunding",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "gọi vốn cộng đồng bằng vốn cổ phần"
+    },
+    {
+      "term": "legal risk",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "rủi ro pháp lý"
+    },
+    {
+      "term": "privately held corporation",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "công ty tư nhân (không niêm yết)"
+    },
+    {
+      "term": "public corporation",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "công ty công"
+    },
+    {
+      "term": "publicly held corporation",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "công ty đại chúng"
+    },
+    {
+      "term": "s corporation",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "công ty S"
+    },
+    {
+      "term": "ownership structure",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "cơ cấu sở hữu"
+    },
+    {
+      "term": "business continuity",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": "duy trì hoạt động kinh doanh"
+    },
+    {
+      "term": "Business Structures",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Overview of Legal and Tax Considerations",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Internal Revenue Code",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Purpose of Your Business",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Gravity Payments",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Dan Price",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "C Corporations",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "S Corporations",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Secretary of State",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Piercing the Veil",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "An S",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The B",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Public Transparency",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Privately Held",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The PCAOB",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Bombas Socks",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Is Bombas",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Tax Cuts and Jobs Act",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "A C",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The IRS",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "In GPs",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "An LLP",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "A GP",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Tax Foundation",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "A DBA",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Leroy Bautista",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Additional Considerations",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Capital Acquisition",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business Domicile",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "South Dakota",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Balance",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sole Proprietor",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Limited Partnership",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Limited Liability Company",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Risk Appetite",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Information Technology",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Step Action",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Partnerships and Joint Ventures",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Limited Liability Companies",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sole Proprietorships",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Create a Business Plan",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Corporations A",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Sole Proprietorships The",
+      "frequency": 1,
+      "chapterRefs": "chapter-13",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "decision tree",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "cây quyết định"
+    },
+    {
+      "term": "intangible resources",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "nguồn lực vô hình"
+    },
+    {
+      "term": "pest framework",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "mô hình PEST"
+    },
+    {
+      "term": "pre-launch costs",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "chi phí trước khi ra mắt"
+    },
+    {
+      "term": "quota",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "hạn ngạch"
+    },
+    {
+      "term": "resource dependence theory (rdt) model",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "mô hình lý thuyết phụ thuộc nguồn lực (RDT)"
+    },
+    {
+      "term": "service mark",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "nhãn hiệu dịch vụ"
+    },
+    {
+      "term": "sociocultural factors",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "các yếu tố xã hội–văn hóa"
+    },
+    {
+      "term": "technological factors",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": "các yếu tố công nghệ"
+    },
+    {
+      "term": "See Business Structure Options",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Ethical and Social Responsibilities",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "US Patent and Trademark Office",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The USPTO",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Chuck Hull",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Copyright Office",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Determining Your Resource Needs",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Vehicles Are",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Business News Daily",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Johnny Cupcakes",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Johnny Earle",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Natalia Oberti Noguera",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Pipeline Angels",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "New Story",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Using the PEST Framework to Assess",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Light and Motion",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Types of Resources",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Managing Resources",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Katia Beauchamp",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Auntie Anne",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Link to Learning Take",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Will I",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Resource Needs",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "New York University",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Stern School of Business",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The PEST",
+      "frequency": 1,
+      "chapterRefs": "chapter-14",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "buyback clause",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "điều khoản mua lại"
+    },
+    {
+      "term": "delphi method",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "phương pháp Delphi"
+    },
+    {
+      "term": "escalation of commitment",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "sự leo thang cam kết"
+    },
+    {
+      "term": "fail-safe point",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "điểm an toàn"
+    },
+    {
+      "term": "founders’ agreement",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "thỏa thuận giữa các nhà sáng lập"
+    },
+    {
+      "term": "gantt chart",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "biểu đồ Gantt"
+    },
+    {
+      "term": "hindsight bias",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "thiên kiến nhìn lại"
+    },
+    {
+      "term": "hubris",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "sự tự cao"
+    },
+    {
+      "term": "nominal group technique",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "kỹ thuật nhóm danh nghĩa"
+    },
+    {
+      "term": "planning fallacy",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "ngụy biện lập kế hoạch"
+    },
+    {
+      "term": "social capital",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "vốn xã hội"
+    },
+    {
+      "term": "status quo bias",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "thiên kiến hiện trạng"
+    },
+    {
+      "term": "fail-safe points",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "điểm kiểm soát an toàn"
+    },
+    {
+      "term": "nominal group",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": "kỹ thuật nhóm danh nghĩa"
+    },
+    {
+      "term": "Making Difficult Business Decisions",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Response to Challenges",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Mike Smith",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Link to Learning This TED",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Rose and Wise",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Stacy Madison",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "National Business Ethics Survey",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Seeking Help",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Deciding What Advice to Follow",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Delphi",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Nominal Group",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Power of Intuition",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "How to Use Your Gut",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Feelings to Make Better Decisions",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Now What",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "The Startup Champions Network",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Startup Champions Network",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Rehman and Bailey",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Andrea Sreshta and Ana Stork",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Launching Your Venture",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Microsoft Excel",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    },
+    {
+      "term": "Support Entrepreneurs",
+      "frequency": 1,
+      "chapterRefs": "chapter-15",
+      "suggestedTranslation": ""
+    }
+  ]
+}

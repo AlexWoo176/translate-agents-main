@@ -1,0 +1,34 @@
+{
+  "bookSlug": "entrepreneurship",
+  "status": "production_ready_with_warnings",
+  "checkedAt": "2026-06-11T17:20:09.548Z",
+  "core": {
+    "config": "passed_with_warnings",
+    "workflow": "passed_with_warnings",
+    "environment": "passed_with_warnings"
+  },
+  "dataset": {
+    "workflowState": "passed",
+    "qualityGates": "needs_human_review",
+    "reports": "passed"
+  },
+  "cli": {
+    "statusCommand": "passed",
+    "qaCommand": "passed",
+    "workflowRunDryRun": "passed"
+  },
+  "docs": {
+    "cliReference": "passed",
+    "qualityGatesReference": "passed",
+    "releaseChecklist": "passed"
+  },
+  "warnings": [
+    "[Config] OpenStax provider enabled, but no 'source.bookUrl' or 'source.sourceUrl' is specified. Project will operate in local/offline mode.",
+    "[Workflow] Phase 'glossary' has no direct runner registration (unknown/custom phase)",
+    "[Environment] Optional translation API keys (OPENAI_API_KEY, GEMINI_API_KEY) are not configured. External translation provider will not work."
+  ],
+  "errors": [],
+  "recommendations": [
+    "Review warning logs. Ensure missing quality gate reports are generated and docs are created."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-13",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:55:50.155Z",
+  "finishedAt": "2026-06-11T10:55:50.195Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "13-1-business-structures-overview-of-legal-and-tax-considerations.html",
+    "13-2-corporations.html",
+    "13-3-partnerships-and-joint-ventures.html",
+    "13-4-limited-liability-companies.html",
+    "13-5-sole-proprietorships.html",
+    "13-6-additional-considerations-capital-acquisition-business-domicile-and-technology.html",
+    "13-7-mitigating-and-managing-risks.html",
+    "13-case-questions.html",
+    "13-discussion-questions.html",
+    "13-introduction.html",
+    "13-key-terms.html",
+    "13-review-questions.html",
+    "13-suggested-resources.html",
+    "13-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-175549.json",
+    "glossary-review-20260611-175549.json",
+    "semantic-review-20260611-175549.json"
+  ],
+  "issues": [
+    {
+      "file": "13-review-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm357590672-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Limited liability partnerships (LLPs) ________....\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "13-review-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm350812448-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Sole proprietorships ________....\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

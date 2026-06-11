@@ -1,0 +1,102 @@
+{
+  "workflowRunId": "wf-20260611-224137",
+  "bookSlug": "entrepreneurship",
+  "status": "passed_with_warnings",
+  "startedAt": "2026-06-11T15:41:37.974Z",
+  "finishedAt": "2026-06-11T15:41:55.837Z",
+  "durationSeconds": "17.9",
+  "mode": "normal",
+  "scope": {
+    "chapterId": "chapter-2",
+    "all": false
+  },
+  "phasesRequested": "all",
+  "phasesExecuted": [
+    "translate"
+  ],
+  "phasesSkipped": [],
+  "phaseResults": [
+    {
+      "phase": "translate",
+      "status": "passed_with_warnings",
+      "filesCreated": [],
+      "filesUpdated": [
+        {
+          "chapterId": "chapter-2",
+          "file": "2-1-overview-of-the-entrepreneurial-journey.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 114
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-2-the-process-of-becoming-an-entrepreneur.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 144
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-3-entrepreneurial-pathways.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 38
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 97
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-case-questions.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 13
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-discussion-questions.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 17
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-introduction.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 9
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-key-terms.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 1
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-review-questions.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 17
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-suggested-resources.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 29
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-summary.html",
+          "translatedBlocks": 0,
+          "skippedBlocks": 9
+        }
+      ],
+      "filesSkipped": [],
+      "warnings": [],
+      "errors": []
+    }
+  ],
+  "warnings": [
+    "[risk] translate phase will use provider: mock",
+    "[risk] final translation will not be overwritten unless --write-final is passed",
+    "[approval] Phase 'translate' requested to run, but --write-final was not passed. Using draft/mock translations (requiresHumanReview=true) instead."
+  ],
+  "errors": []
+}

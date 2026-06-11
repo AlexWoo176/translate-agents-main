@@ -1,0 +1,921 @@
+{
+  "knownTerms": [
+    {
+      "term": "entrepreneur",
+      "glossaryTranslation": "doanh nhân/nhà khởi nghiệp",
+      "frequency": 70,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) One of the most important initial decisions an entrepreneur must make, from a legal perspective, is the legal organization of a business, called the business structure or entity selection ."
+    },
+    {
+      "term": "mission statement",
+      "glossaryTranslation": "tuyên bố sứ mệnh",
+      "frequency": 1,
+      "context": "The mission statement of the COSO is “to provide thought leadership through the development of comprehensive frameworks and guidance on enterprise risk management, internal control and fraud deterrence designed to improve organizational performance and governance and to reduce the extent of fraud in organizations.” Legal Risk and Protection Business operations of any sort need to follow business regulations and laws."
+    },
+    {
+      "term": "action plan",
+      "glossaryTranslation": "kế hoạch hành động",
+      "frequency": 2,
+      "context": "The SBA recommends the ten-step action plan shown in Table 13.2 ."
+    },
+    {
+      "term": "business model",
+      "glossaryTranslation": "mô hình kinh doanh",
+      "frequency": 1,
+      "context": "A written business plan (see Business Model and Plan ) will help the entrepreneur develop the best legal structure in which the business is to operate because the legal structure of the business should be tied to the nature of the business."
+    },
+    {
+      "term": "e-commerce",
+      "glossaryTranslation": "thương mại điện tử",
+      "frequency": 1,
+      "context": "Small businesses running an e-commerce site must comply with the Payment Card Industry Data Security Standard ( https://www.pcisecuritystandards.org/ )."
+    },
+    {
+      "term": "framework",
+      "glossaryTranslation": "khuôn khổ",
+      "frequency": 1,
+      "context": "It has a wealth of helpful information for entrepreneurs on this topic: https://erm.ncsu.edu/library/article/coso-erm-framework Summary 13.1 Business Structures: Overview of Legal and Tax Considerations Being an entrepreneur carries with it the responsibility to make significant decisions, the first of which is to decide the business purpose: For example, who should benefit from the creation of the entity?"
+    },
+    {
+      "term": "venture",
+      "glossaryTranslation": "doanh nghiệp (venture)",
+      "frequency": 60,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "copyright",
+      "glossaryTranslation": "bản quyền",
+      "frequency": 7,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) One of the most important initial decisions an entrepreneur must make, from a legal perspective, is the legal organization of a business, called the business structure or entity selection ."
+    },
+    {
+      "term": "disclosure",
+      "glossaryTranslation": "công bố thông tin",
+      "frequency": 1,
+      "context": "According to most states’ corporation laws, as well as federal tax and securities laws, the corporation must have company bylaws and must file annual reports, financial disclosure reports, and financial statements."
+    },
+    {
+      "term": "sustainability",
+      "glossaryTranslation": "tính bền vững",
+      "frequency": 2,
+      "context": "Jai started a new sustainability-oriented business six years ago, making single-serve coffee pods out of recyclable paper, rather than plastic."
+    },
+    {
+      "term": "truthfulness",
+      "glossaryTranslation": "tính trung thực",
+      "frequency": 1,
+      "context": "Further, the chief executive office and chief financial officer of the publicly traded company must sign a certification of earnings report, guaranteeing their truthfulness."
+    },
+    {
+      "term": "accountability",
+      "glossaryTranslation": "trách nhiệm giải trình",
+      "frequency": 5,
+      "context": "A certified B corporation is a business that meets a very high standard of social and environmental performance, public transparency, and accountability to balance profit with social purpose."
+    },
+    {
+      "term": "customers",
+      "glossaryTranslation": "khách hàng",
+      "frequency": 5,
+      "context": "The business purpose is the reason the entrepreneur forms the company and determines who benefits from it, whether it is the entrepreneur, customers, or some other entity."
+    },
+    {
+      "term": "demand",
+      "glossaryTranslation": "nhu cầu",
+      "frequency": 1,
+      "context": "Consumers rightfully expect and demand a safe online experience when they visit your site."
+    },
+    {
+      "term": "gig economy",
+      "glossaryTranslation": "nền kinh tế gig",
+      "frequency": 4,
+      "context": "Another development related to the decision to be a sole proprietor is the rapid growth of the gig economy ."
+    },
+    {
+      "term": "assessment",
+      "glossaryTranslation": "giai đoạn đánh giá (assessment)",
+      "frequency": 2,
+      "context": "Specifically, a business will go through a process that involves a multistage process of risk identification, risk assessment, and risk abatement."
+    },
+    {
+      "term": "critical thinking",
+      "glossaryTranslation": "tư duy phản biện",
+      "frequency": 1,
+      "context": "(Note: Although it is true that LLCs have fewer formal requirements, this case would likely have had the same result if the owner were an LLC because the rules are essentially the same for piercing the veil of limited liability.) Critical Thinking: How can you protect yourself from this happening to you?"
+    },
+    {
+      "term": "develop",
+      "glossaryTranslation": "phát triển",
+      "frequency": 8,
+      "context": "A written business plan (see Business Model and Plan ) will help the entrepreneur develop the best legal structure in which the business is to operate because the legal structure of the business should be tied to the nature of the business."
+    },
+    {
+      "term": "evaluate",
+      "glossaryTranslation": "đánh giá (evaluate)",
+      "frequency": 2,
+      "context": "The use of a comprehensive approach allows a business entity to review and combine all risks into a functional perspective that allows the entrepreneur to evaluate risks and integrate new risks as different opportunities become more important to the business venture."
+    },
+    {
+      "term": "implement",
+      "glossaryTranslation": "triển khai",
+      "frequency": 1,
+      "context": "Thus, the best approach to risk is to consider and implement strategies to help you and your business deal with it such as incorporation, insurance, and monitoring."
+    },
+    {
+      "term": "ask",
+      "glossaryTranslation": "khoản yêu cầu (ask)",
+      "frequency": 2,
+      "context": "Becoming an Informed Entrepreneur If you are an entrepreneur with an idea for a startup, ask yourself if you are ready to make important decisions."
+    },
+    {
+      "term": "advertising",
+      "glossaryTranslation": "quảng cáo",
+      "frequency": 1,
+      "context": "If you spend too much money on advice, you have too little left for something else such as advertising and marketing."
+    },
+    {
+      "term": "close",
+      "glossaryTranslation": "chốt bán hàng",
+      "frequency": 5,
+      "context": "Closely Held Corporations A closely held corporation , also known as a close corporation , is the same as a privately held corporation for the purposes of securities laws."
+    },
+    {
+      "term": "marketing",
+      "glossaryTranslation": "tiếp thị",
+      "frequency": 3,
+      "context": "If you spend too much money on advice, you have too little left for something else such as advertising and marketing."
+    },
+    {
+      "term": "people",
+      "glossaryTranslation": "con người (nguồn nhân lực)",
+      "frequency": 15,
+      "context": "For example, if you think you want to share authority, responsibilities, and obligations with other people, your best choice would likely be a partnership, in which other people contribute money and help manage the business."
+    },
+    {
+      "term": "place",
+      "glossaryTranslation": "phân phối (place)",
+      "frequency": 2,
+      "context": "As a rule, a corporation is considered a citizen of both its state of incorporation and the state of its principal place of business."
+    },
+    {
+      "term": "price",
+      "glossaryTranslation": "giá",
+      "frequency": 6,
+      "context": "Is it a set price, a surge pricing model like Uber, or is it up to the tutor?"
+    },
+    {
+      "term": "process",
+      "glossaryTranslation": "quy trình",
+      "frequency": 11,
+      "context": "Registration is not the same as forming the initial corporation; it is simply the process of filing informational documents by entities that have already been incorporated in another state."
+    },
+    {
+      "term": "product",
+      "glossaryTranslation": "sản phẩm",
+      "frequency": 2,
+      "context": "They founded their company with the goal of giving back to the community by donating socks to the homeless, with its actual product idea as a secondary goal."
+    },
+    {
+      "term": "sample",
+      "glossaryTranslation": "mẫu khảo sát",
+      "frequency": 1,
+      "context": "Figure 13.4 This is a sample short form of the document that is filed with the Secretary of State’s Office to form a corporation."
+    },
+    {
+      "term": "social media",
+      "glossaryTranslation": "mạng xã hội",
+      "frequency": 2,
+      "context": "Likewise, a joint venture might be something smaller, such as an arrangement between a freelance IT engineer, a graphic designer, and a social media consultant to create a new cell phone app."
+    },
+    {
+      "term": "accounting",
+      "glossaryTranslation": "kế toán",
+      "frequency": 6,
+      "context": "Audits of publicly traded companies also have to follow the rules of the Public Company Accounting Oversight Board (PCAOB) ."
+    },
+    {
+      "term": "assets",
+      "glossaryTranslation": "tài sản",
+      "frequency": 15,
+      "context": "Nonprofits are allowed to provide assets or income to individuals only as fair compensation for their services."
+    },
+    {
+      "term": "credit",
+      "glossaryTranslation": "tín dụng",
+      "frequency": 12,
+      "context": "(credit: modification of photo provided by Gravity Payments) Sometimes, a business may be a for-profit company yet act in a way that some may think exhibits a not-for-profit philosophy."
+    },
+    {
+      "term": "crowdfunding",
+      "glossaryTranslation": "gọi vốn cộng đồng",
+      "frequency": 11,
+      "context": "Equity crowdfunding involves a startup raising capital through the online sale of securities to the general public."
+    },
+    {
+      "term": "equity",
+      "glossaryTranslation": "vốn chủ sở hữu",
+      "frequency": 21,
+      "context": "Conversely, if you think your idea is so popular that you may grow rapidly and want the ability to raise capital by selling interests in your business through equity or debt, then a corporation would be your best choice."
+    },
+    {
+      "term": "expenses",
+      "glossaryTranslation": "chi phí",
+      "frequency": 4,
+      "context": "A joint venture is, in essence, a temporary partnership that two businesses form to gain mutual benefits, such as sharing of expenses and to work toward shared goals and the associated potential revenue."
+    },
+    {
+      "term": "financing",
+      "glossaryTranslation": "huy động vốn",
+      "frequency": 2,
+      "context": "There will be more than one round of financing in most companies."
+    },
+    {
+      "term": "funds",
+      "glossaryTranslation": "nguồn vốn",
+      "frequency": 14,
+      "context": "Piercing the Veil: Evidence showed that although the defendant kept a separate bank account for the corporation, he had commingled its funds with his personal finances, which is a distinct violation of fiduciary duty."
+    },
+    {
+      "term": "liability",
+      "glossaryTranslation": "nợ phải trả",
+      "frequency": 76,
+      "context": "Partnerships may be structured as a general partnership (GP), a limited partnership (LP), or a limited liability partnership (LLP)."
+    },
+    {
+      "term": "revenue",
+      "glossaryTranslation": "doanh thu",
+      "frequency": 11,
+      "context": "For example, a business that plans to qualify as a nonprofit—Section 501(c) of the Internal Revenue Code—will be treated differently from a business that aims to earn a profit and distribute the profits to its owners."
+    },
+    {
+      "term": "joint venture",
+      "glossaryTranslation": "liên doanh",
+      "frequency": 30,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "business plan",
+      "glossaryTranslation": "kế hoạch kinh doanh",
+      "frequency": 7,
+      "context": "A written business plan (see Business Model and Plan ) will help the entrepreneur develop the best legal structure in which the business is to operate because the legal structure of the business should be tied to the nature of the business."
+    },
+    {
+      "term": "networking",
+      "glossaryTranslation": "xây dựng mạng lưới quan hệ",
+      "frequency": 1,
+      "context": "It also has free online training classes and a list of networking events."
+    },
+    {
+      "term": "b corporation",
+      "glossaryTranslation": "doanh nghiệp B Corp",
+      "frequency": 17,
+      "context": "A certified B corporation is a business that meets a very high standard of social and environmental performance, public transparency, and accountability to balance profit with social purpose."
+    },
+    {
+      "term": "business purpose",
+      "glossaryTranslation": "mục đích kinh doanh",
+      "frequency": 12,
+      "context": "Establishing a Business Purpose A clear understanding of the business purpose helps direct the entrepreneur toward the most appropriate business structure."
+    },
+    {
+      "term": "business structure",
+      "glossaryTranslation": "cấu trúc doanh nghiệp",
+      "frequency": 34,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "c corporation",
+      "glossaryTranslation": "công ty C",
+      "frequency": 13,
+      "context": "Alternatively, the government taxes a C corporation at the corporate level, and then levies taxes again on the owners’ personal income tax returns if corporate income is distributed to the shareholders as dividends."
+    },
+    {
+      "term": "capital",
+      "glossaryTranslation": "vốn",
+      "frequency": 38,
+      "context": "Conversely, if you think your idea is so popular that you may grow rapidly and want the ability to raise capital by selling interests in your business through equity or debt, then a corporation would be your best choice."
+    },
+    {
+      "term": "corporation",
+      "glossaryTranslation": "công ty cổ phần",
+      "frequency": 159,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "economic nexus",
+      "glossaryTranslation": "liên kết kinh tế",
+      "frequency": 2,
+      "context": "However, this case changed the rules by creating the concept of an economic nexus , a virtual connection with a state based on sales volume or number of transactions."
+    },
+    {
+      "term": "enterprise risk management",
+      "glossaryTranslation": "quản trị rủi ro doanh nghiệp",
+      "frequency": 9,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) 13.7 Mitigating and Managing Risks Learning Objectives By the end of this section, you will be able to: Explain Enterprise Risk Management and how a company uses it Describe litigation and financial risks Describe common insurance needs Risk management is key to operating any business in a profitable fashion."
+    },
+    {
+      "term": "equity crowdfunding",
+      "glossaryTranslation": "gọi vốn cộng đồng bằng vốn cổ phần",
+      "frequency": 8,
+      "context": "Equity crowdfunding involves a startup raising capital through the online sale of securities to the general public."
+    },
+    {
+      "term": "financial risk",
+      "glossaryTranslation": "rủi ro tài chính",
+      "frequency": 3,
+      "context": "Financial Risk and Protection An entrepreneur needs money to launch a business, whether that comes in the form of loans from family, their own savings, or investors."
+    },
+    {
+      "term": "for-profit business",
+      "glossaryTranslation": "doanh nghiệp vì lợi nhuận",
+      "frequency": 12,
+      "context": "Characteristics of For-Profit Businesses A for-profit business is designed to create profits that are distributed to the owners."
+    },
+    {
+      "term": "general partnership",
+      "glossaryTranslation": "hợp danh chung",
+      "frequency": 7,
+      "context": "Partnerships may be structured as a general partnership (GP), a limited partnership (LP), or a limited liability partnership (LLP)."
+    },
+    {
+      "term": "insurance",
+      "glossaryTranslation": "bảo hiểm",
+      "frequency": 19,
+      "context": "Additionally, most states do not permit banks or insurance companies to operate as LLCs."
+    },
+    {
+      "term": "legal risk",
+      "glossaryTranslation": "rủi ro pháp lý",
+      "frequency": 4,
+      "context": "The mission statement of the COSO is “to provide thought leadership through the development of comprehensive frameworks and guidance on enterprise risk management, internal control and fraud deterrence designed to improve organizational performance and governance and to reduce the extent of fraud in organizations.” Legal Risk and Protection Business operations of any sort need to follow business regulations and laws."
+    },
+    {
+      "term": "partnership",
+      "glossaryTranslation": "hợp danh",
+      "frequency": 60,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "privately held corporation",
+      "glossaryTranslation": "công ty tư nhân (không niêm yết)",
+      "frequency": 4,
+      "context": "A privately held corporation , common in Europe, is a company that does not allow members of the investing public to own stock."
+    },
+    {
+      "term": "public corporation",
+      "glossaryTranslation": "công ty công",
+      "frequency": 3,
+      "context": "A true public corporation is, in reality, a quasi-governmental entity, an entity owned or sponsored by the government."
+    },
+    {
+      "term": "publicly held corporation",
+      "glossaryTranslation": "công ty đại chúng",
+      "frequency": 3,
+      "context": "Publicly Traded Corporations A publicly held corporation is, as described, an entity in which members of the investing public own the stock."
+    },
+    {
+      "term": "s corporation",
+      "glossaryTranslation": "công ty S",
+      "frequency": 10,
+      "context": "An S corporation is a “pass-through” entity, where shareholders report and claim the business’s profits as their own and pay personal income taxes on it."
+    },
+    {
+      "term": "sole proprietorship",
+      "glossaryTranslation": "doanh nghiệp tư nhân",
+      "frequency": 21,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "ownership structure",
+      "glossaryTranslation": "cơ cấu sở hữu",
+      "frequency": 6,
+      "context": "13.3 Partnerships and Joint Ventures Learning Objectives By the end of this section, you will be able to: Describe the ownership structure of a partnership Describe the ownership structure of a joint venture Summarize the advantages and disadvantages of partnership and joint venture structures A partnership is a business entity formed by two or more individuals, or partners, each of whom contributes something such as capital, equipment, or skills."
+    },
+    {
+      "term": "independent contractors",
+      "glossaryTranslation": "nhà thầu độc lập",
+      "frequency": 1,
+      "context": "The new law is based on the presumption that when workers are misclassified as independent contractors rather than as employees, they lose basic benefits such as a minimum wage, paid sick days, and health insurance."
+    },
+    {
+      "term": "tariffs",
+      "glossaryTranslation": "thuế quan",
+      "frequency": 1,
+      "context": "An example of this would be unpredictable trade wars with China, leading to tariffs."
+    },
+    {
+      "term": "business continuity",
+      "glossaryTranslation": "duy trì hoạt động kinh doanh",
+      "frequency": 1,
+      "context": "In order to counter such causes, businesses need to plan ahead for business continuity, take out comprehensive insurance coverage, and have an evacuation/shut-down plan in place."
+    },
+    {
+      "term": "entrepreneur in action",
+      "glossaryTranslation": "doanh nhân thực chiến",
+      "frequency": 3,
+      "context": "Entrepreneur In Action Determining the Purpose of Your Business—Profit versus Non-Profit, or a Little of Both?"
+    },
+    {
+      "term": "contracts",
+      "glossaryTranslation": "Contracts",
+      "frequency": 8,
+      "context": "For example, individuals and corporations can sue and be sued, and corporations have the rights to own property, to enter into and enforce contracts, to make charitable and political donations, to borrow and lend money, and to operate a business as if the corporation were an individual."
+    },
+    {
+      "term": "shareholders",
+      "glossaryTranslation": "shareholders",
+      "frequency": 39,
+      "context": "The first consideration is whether the entity is being created to produce a profit for its owners or shareholders, or whether it will be structured as a not-for-profit entity."
+    },
+    {
+      "term": "stakeholders",
+      "glossaryTranslation": "stakeholders",
+      "frequency": 5,
+      "context": "The benefit corporation’s objective is directed toward maximization of benefits for all stakeholders, meaning that the company benefits any person with an interest or concern in the business."
+    },
+    {
+      "term": "torts",
+      "glossaryTranslation": "Torts",
+      "frequency": 4,
+      "context": "The partners are licensed professionals, with limited liability for financial obligations related to contracts or torts, but full liability for their own personal malpractice."
+    },
+    {
+      "term": "toyota",
+      "glossaryTranslation": "Toyota",
+      "frequency": 1,
+      "context": "One example of a joint venture involved BMW and Toyota working together to research how to improve the batteries in electric cars, a single purpose, over a period of limited duration, envisioned to be ten years."
+    },
+    {
+      "term": "link to learning",
+      "glossaryTranslation": "liên kết học tập",
+      "frequency": 4,
+      "context": "Link to Learning Go to the Bombas website to watch the video that explains what they do as part of their B corporation commitment."
+    },
+    {
+      "term": "work it out",
+      "glossaryTranslation": "thực hành",
+      "frequency": 1,
+      "context": "A failure to follow the rules could lead to the loss of limited liability, known as “piercing the corporate veil.” Work It Out Piercing the Corporate Veil of Limited Liability As we have discussed, entrepreneurs should generally form a separate legal entity to limit personal liability arising from business obligations, such as contracts."
+    },
+    {
+      "term": "learning objectives",
+      "glossaryTranslation": "mục tiêu học tập",
+      "frequency": 7,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "suggested resources",
+      "glossaryTranslation": "tài nguyên gợi ý",
+      "frequency": 1,
+      "context": "Suggested Resources 13.1 Business Structures: Overview of Legal and Tax Considerations The Small Business Administration (SBA) has a great “tool box” for entrepreneurs."
+    },
+    {
+      "term": "key terms",
+      "glossaryTranslation": "thuật ngữ chính",
+      "frequency": 1,
+      "context": "Key Terms B corporation business that meets a very high standard of social and environmental performance, public transparency, and accountability to balance profit with social purpose business purpose reason the entrepreneur forms the company and determines who benefits from it, whether it is the entrepreneur, customers, or some other entity business structure legal organization of a business; also called entity selection C corporation corporation taxed the corporate level, and then again on the owners’ personal income tax returns if corporate income is distributed to the shareholders as dividends capital money raised for operating a business corporation complex business structure created by filing the appropriate documents with the state of incorporation economic nexus virtual connection with a state based on sales volume or number of transactions enterprise risk management integrated cross-disciplinary approach to monitoring risk equity crowdfunding raising of capital through the online sale of securities to the general public financial risk starting a new business with insufficient funds to sustain operations over an extended period of time for-profit business business structure designed to create profits that are distributed to the owners general partnership business created when two or more individuals or entities agree to work together to operate a business for profit insurance spreading risk over a large number of people (policyholders) joint venture temporary partnership in which two different enterprises combine for the purpose of mutual benefits such as sharing of expenses and to work toward shared goals and the associated potential revenue legal risk risk stemming primarily from a breach of contract, a regulatory violation, and/or the commission of a tort limited liability company (LLC) hybrid of a corporation and a partnership that limits the owner’s liability limited liability partnership (LLP) business arrangement for professional partnerships, such as law firms or accounting firms, in which partners are licensed professionals, with limited liability for financial obligations related to contracts or torts, but full liability for their own personal malpractice limited partnership (LP) business arrangement that has at least one general partner and one or more limited partners not-for-profit organization (NFPO) business structure that is usually dedicated to furthering a particular social cause or for advocacy related to a common shared interest by using its surplus revenues to achieve its ultimate objective partnership business entity formed by two or more individuals, or partners, each of whom contributes something such as capital, equipment, or skills privately held corporation company that does not allow members of the investing public to own stock; instead, it is owned by the founder’s family or friends, or a private group of investors public corporation quasi-governmental entity, a corporation owned or sponsored by the government publicly held corporation entity in which members of the investing public own the stock S corporation “pass-through” entity, also known as a small corporation, where shareholders report and claim the business’s profits as their own and pay personal income taxes on it sole proprietorship business entity that is owned and managed by one individual that has very little formal structure and no mandatory filing/registration with the state Review Questions 1 ."
+    },
+    {
+      "term": "review questions",
+      "glossaryTranslation": "câu hỏi ôn tập",
+      "frequency": 1,
+      "context": "Key Terms B corporation business that meets a very high standard of social and environmental performance, public transparency, and accountability to balance profit with social purpose business purpose reason the entrepreneur forms the company and determines who benefits from it, whether it is the entrepreneur, customers, or some other entity business structure legal organization of a business; also called entity selection C corporation corporation taxed the corporate level, and then again on the owners’ personal income tax returns if corporate income is distributed to the shareholders as dividends capital money raised for operating a business corporation complex business structure created by filing the appropriate documents with the state of incorporation economic nexus virtual connection with a state based on sales volume or number of transactions enterprise risk management integrated cross-disciplinary approach to monitoring risk equity crowdfunding raising of capital through the online sale of securities to the general public financial risk starting a new business with insufficient funds to sustain operations over an extended period of time for-profit business business structure designed to create profits that are distributed to the owners general partnership business created when two or more individuals or entities agree to work together to operate a business for profit insurance spreading risk over a large number of people (policyholders) joint venture temporary partnership in which two different enterprises combine for the purpose of mutual benefits such as sharing of expenses and to work toward shared goals and the associated potential revenue legal risk risk stemming primarily from a breach of contract, a regulatory violation, and/or the commission of a tort limited liability company (LLC) hybrid of a corporation and a partnership that limits the owner’s liability limited liability partnership (LLP) business arrangement for professional partnerships, such as law firms or accounting firms, in which partners are licensed professionals, with limited liability for financial obligations related to contracts or torts, but full liability for their own personal malpractice limited partnership (LP) business arrangement that has at least one general partner and one or more limited partners not-for-profit organization (NFPO) business structure that is usually dedicated to furthering a particular social cause or for advocacy related to a common shared interest by using its surplus revenues to achieve its ultimate objective partnership business entity formed by two or more individuals, or partners, each of whom contributes something such as capital, equipment, or skills privately held corporation company that does not allow members of the investing public to own stock; instead, it is owned by the founder’s family or friends, or a private group of investors public corporation quasi-governmental entity, a corporation owned or sponsored by the government publicly held corporation entity in which members of the investing public own the stock S corporation “pass-through” entity, also known as a small corporation, where shareholders report and claim the business’s profits as their own and pay personal income taxes on it sole proprietorship business entity that is owned and managed by one individual that has very little formal structure and no mandatory filing/registration with the state Review Questions 1 ."
+    },
+    {
+      "term": "discussion questions",
+      "glossaryTranslation": "câu hỏi thảo luận",
+      "frequency": 1,
+      "context": "Discussion Questions 1 ."
+    },
+    {
+      "term": "case questions",
+      "glossaryTranslation": "câu hỏi tình huống",
+      "frequency": 1,
+      "context": "Case Questions 1 ."
+    },
+    {
+      "term": "chapter outline",
+      "glossaryTranslation": "dàn ý chương",
+      "frequency": 1,
+      "context": "(credit: modification of “hammer books law court lawyer” by “succo”/Pixabay, CC0) Chapter Outline 13.1 Business Structures: Overview of Legal and Tax Considerations 13.2 Corporations 13.3 Partnerships and Joint Ventures 13.4 Limited Liability Companies 13.5 Sole Proprietorships 13.6 Additional Considerations: Capital Acquisition, Business Domicile, and Technology 13.7 Mitigating and Managing Risks Introduction Entrepreneurial businesses are the heart of the US economy."
+    }
+  ],
+  "candidateTerms": [
+    {
+      "term": "Business Structures",
+      "frequency": 11,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "Overview of Legal and Tax Considerations",
+      "frequency": 4,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "Learning Objectives By",
+      "frequency": 7,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "Internal Revenue Code",
+      "frequency": 3,
+      "context": "For example, a business that plans to qualify as a nonprofit—Section 501(c) of the Internal Revenue Code—will be treated differently from a business that aims to earn a profit and distribute the profits to its owners."
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 7,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) One of the most important initial decisions an entrepreneur must make, from a legal perspective, is the legal organization of a business, called the business structure or entity selection ."
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 7,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) One of the most important initial decisions an entrepreneur must make, from a legal perspective, is the legal organization of a business, called the business structure or entity selection ."
+    },
+    {
+      "term": "Are You Ready",
+      "frequency": 4,
+      "context": "Are You Ready?"
+    },
+    {
+      "term": "Purpose of Your Business",
+      "frequency": 2,
+      "context": "In essence, you must determine the purpose of your business."
+    },
+    {
+      "term": "Gravity Payments",
+      "frequency": 5,
+      "context": "The Approach Used by Gravity Payments’ Entrepreneur Dan Price Figure 13.3 Gravity Payments has led the way in exploring how employee and C-level salaries function for the company in terms of profits, living wages, and ethical considerations related to those issues."
+    },
+    {
+      "term": "Dan Price",
+      "frequency": 2,
+      "context": "The Approach Used by Gravity Payments’ Entrepreneur Dan Price Figure 13.3 Gravity Payments has led the way in exploring how employee and C-level salaries function for the company in terms of profits, living wages, and ethical considerations related to those issues."
+    },
+    {
+      "term": "C Corporations",
+      "frequency": 14,
+      "context": "13.2 Corporations Learning Objectives By the end of this section, you will be able to: Distinguish between C Corporations, S Corporations, and B Corporations Distinguish between privately and publicly held corporations Explain how corporations are taxed A corporation is a complex business structure created by filing the appropriate documents with the state of incorporation ( Figure 13.4 )."
+    },
+    {
+      "term": "S Corporations",
+      "frequency": 16,
+      "context": "13.2 Corporations Learning Objectives By the end of this section, you will be able to: Distinguish between C Corporations, S Corporations, and B Corporations Distinguish between privately and publicly held corporations Explain how corporations are taxed A corporation is a complex business structure created by filing the appropriate documents with the state of incorporation ( Figure 13.4 )."
+    },
+    {
+      "term": "Secretary of State",
+      "frequency": 4,
+      "context": "The permission is typically an approval from the other state’s secretary of state memorialized in the form of official documents or permits."
+    },
+    {
+      "term": "Piercing the Veil",
+      "frequency": 2,
+      "context": "Piercing the Veil: Evidence showed that although the defendant kept a separate bank account for the corporation, he had commingled its funds with his personal finances, which is a distinct violation of fiduciary duty."
+    },
+    {
+      "term": "An S",
+      "frequency": 5,
+      "context": "An S corporation is a “pass-through” entity, where shareholders report and claim the business’s profits as their own and pay personal income taxes on it."
+    },
+    {
+      "term": "The B",
+      "frequency": 5,
+      "context": "Becoming a certified B corporation is a formal process that involves compliance with various standards and an audit of this compliance (managed by the B corporation organization)."
+    },
+    {
+      "term": "Public Transparency",
+      "frequency": 3,
+      "context": "A certified B corporation is a business that meets a very high standard of social and environmental performance, public transparency, and accountability to balance profit with social purpose."
+    },
+    {
+      "term": "Privately Held",
+      "frequency": 8,
+      "context": "(credit: modification of “Runa B Corp Label” by “Lelepanne”/Wikimedia Commons, CC0) Privately Held versus Publicly Held Corporations Terminology relating to whether a company is publicly or privately owned can sometimes be confusing."
+    },
+    {
+      "term": "The PCAOB",
+      "frequency": 2,
+      "context": "“The PCAOB oversees the audits of public companies and broker-dealers in order to protect investors and the public interest by promoting informative, accurate, and independent audit reports.” 8 Following the SEC and PCAOB rules emphasizes investor protection but can be complex, as it increases both startup and operating costs for the venture due to increased regulation and reporting."
+    },
+    {
+      "term": "Bombas Socks",
+      "frequency": 3,
+      "context": "Entrepreneur In Action Bombas: Achieving Profit and Nonprofit Goals In a 2017 interview with Robin Roberts of ABC News, Bombas socks ( Figure 13.8 ) co-founder David Heath said: “Back in 2011, I came across a quote on Facebook that said…that socks were the number one most requested clothing item in homeless shelters.” 10 So he decided to start a new company that was an overnight success, boosted by an appearance on Shark Tank in 2014."
+    },
+    {
+      "term": "CC BY",
+      "frequency": 8,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) One of the most important initial decisions an entrepreneur must make, from a legal perspective, is the legal organization of a business, called the business structure or entity selection ."
+    },
+    {
+      "term": "Is Bombas",
+      "frequency": 2,
+      "context": "Is Bombas really paying for this project to help the homeless or is the customer?"
+    },
+    {
+      "term": "Tax Cuts and Jobs Act",
+      "frequency": 2,
+      "context": "However, the historical tax disadvantage has been recently reduced because of the decrease in the income tax rate paid by C corporations by the Tax Cuts and Jobs Act."
+    },
+    {
+      "term": "A C",
+      "frequency": 12,
+      "context": "Alternatively, the government taxes a C corporation at the corporate level, and then levies taxes again on the owners’ personal income tax returns if corporate income is distributed to the shareholders as dividends."
+    },
+    {
+      "term": "The IRS",
+      "frequency": 5,
+      "context": "State incorporation law, coupled with federal tax law under the IRS, regulates the formation and operation of a closely held corporation."
+    },
+    {
+      "term": "Objectives By",
+      "frequency": 7,
+      "context": "13.1 Business Structures: Overview of Legal and Tax Considerations Learning Objectives By the end of this section, you will be able to: Understand why a business’s purpose is an important role in the initial business structure decision Identify major types of business structures (corporation, LLC, partnership, sole proprietorship, joint venture) Distinguish between for-profit and not-for-profit purposes and structures The structure of a new business creates the legal, tax, and operational environment in which the business will function."
+    },
+    {
+      "term": "In GPs",
+      "frequency": 2,
+      "context": "In GPs, liability of the owners is considered “joint and several,” meaning that not only is the partnership entity liable, so too is each general partner."
+    },
+    {
+      "term": "An LLP",
+      "frequency": 2,
+      "context": "An LLP’s legal liability is the same as that of an owner in a simple partnership."
+    },
+    {
+      "term": "A GP",
+      "frequency": 6,
+      "context": "A GP is not technically required to have a written agreement, or to file or register with the state government."
+    },
+    {
+      "term": "Joint Ventures",
+      "frequency": 13,
+      "context": "Business structure options include traditional choices such as corporations , partnerships , and sole proprietorships , and hybrid entities such as limited liability companies (LLCs) , limited liability partnerships (LLPs) , and joint ventures (JVs) ."
+    },
+    {
+      "term": "What Can You Do",
+      "frequency": 2,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) What Can You Do?"
+    },
+    {
+      "term": "Tax Foundation",
+      "frequency": 2,
+      "context": "According to the Tax Foundation, there are more than 23 million sole proprietorships in the US, far more than any other type of business entity."
+    },
+    {
+      "term": "A DBA",
+      "frequency": 6,
+      "context": "An owner can also operate under a DBA or “ doing business as ” filing."
+    },
+    {
+      "term": "Leroy Bautista",
+      "frequency": 2,
+      "context": "Entrepreneur In Action Nic &amp; Luc Jam 20 In an interview with the Balance, entrepreneur Leroy Bautista summarized his path to becoming a small business owner."
+    },
+    {
+      "term": "Additional Considerations",
+      "frequency": 4,
+      "context": "Additional considerations include how the structure facilitates bringing in new investors, allows the owners to transfer profits out of the business, and supports a potential subsequent sale of the entity."
+    },
+    {
+      "term": "Capital Acquisition",
+      "frequency": 7,
+      "context": "13.6 Additional Considerations: Capital Acquisition, Business Domicile, and Technology Learning Objectives By the end of this section, you will be able to: Describe the capital acquisition opportunities available to different types of business structures Explain how the advantages and disadvantages of where a business is registered should inform the decision of where to create a business domicile Understand the role technology considerations may play in selecting a business structure In addition to the main entity selection topics already discussed, such as ownership structure and taxation, there are other considerations that entrepreneurs might want to consider."
+    },
+    {
+      "term": "Business Domicile",
+      "frequency": 5,
+      "context": "13.6 Additional Considerations: Capital Acquisition, Business Domicile, and Technology Learning Objectives By the end of this section, you will be able to: Describe the capital acquisition opportunities available to different types of business structures Explain how the advantages and disadvantages of where a business is registered should inform the decision of where to create a business domicile Understand the role technology considerations may play in selecting a business structure In addition to the main entity selection topics already discussed, such as ownership structure and taxation, there are other considerations that entrepreneurs might want to consider."
+    },
+    {
+      "term": "Entrepreneurial Finance and Accounting",
+      "frequency": 2,
+      "context": "Each step of the way takes careful planning (see Entrepreneurial Finance and Accounting )."
+    },
+    {
+      "term": "JOBS Act",
+      "frequency": 3,
+      "context": "However, the historical tax disadvantage has been recently reduced because of the decrease in the income tax rate paid by C corporations by the Tax Cuts and Jobs Act."
+    },
+    {
+      "term": "New York",
+      "frequency": 5,
+      "context": "A term commonly applied to such corporations is a publicly traded corporation , meaning that the stock can be bought and sold in the public marketplace, such as the New York Stock Exchange ."
+    },
+    {
+      "term": "South Dakota",
+      "frequency": 3,
+      "context": "For example, some states, such as Wyoming and South Dakota, have no corporate income or gross receipts tax at all; other states, such as California and New York, do have a state corporate income tax."
+    },
+    {
+      "term": "The Balance",
+      "frequency": 2,
+      "context": "Entrepreneur In Action Nic &amp; Luc Jam 20 In an interview with the Balance, entrepreneur Leroy Bautista summarized his path to becoming a small business owner."
+    },
+    {
+      "term": "Sole Proprietor",
+      "frequency": 16,
+      "context": "If the LLC is operated to protect a sole proprietor, this might become an issue if the sole proprietor commingles funds."
+    },
+    {
+      "term": "Limited Partnership",
+      "frequency": 5,
+      "context": "Partnerships may be structured as a general partnership (GP), a limited partnership (LP), or a limited liability partnership (LLP)."
+    },
+    {
+      "term": "Limited Liability Company",
+      "frequency": 6,
+      "context": "Hybrids are usually formed as a limited liability company (LLC) or a joint venture (JV)."
+    },
+    {
+      "term": "Risk Appetite",
+      "frequency": 3,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Risk appetite is important for a business venture to consider, both when creating its business structure and during ongoing operations."
+    },
+    {
+      "term": "Information Technology",
+      "frequency": 2,
+      "context": "However, most small businesses face challenges in the areas of information technology security and compliance with legal and regulatory requirements."
+    },
+    {
+      "term": "The SBA",
+      "frequency": 7,
+      "context": "Another issue is the ability to raise capital through banks or by using the SBA to guarantee a loan through a participating bank."
+    },
+    {
+      "term": "Step Action",
+      "frequency": 2,
+      "context": "The SBA recommends the ten-step action plan shown in Table 13.2 ."
+    },
+    {
+      "term": "Partnerships and Joint Ventures",
+      "frequency": 5,
+      "context": "13.3 Partnerships and Joint Ventures Learning Objectives By the end of this section, you will be able to: Describe the ownership structure of a partnership Describe the ownership structure of a joint venture Summarize the advantages and disadvantages of partnership and joint venture structures A partnership is a business entity formed by two or more individuals, or partners, each of whom contributes something such as capital, equipment, or skills."
+    },
+    {
+      "term": "Limited Liability Companies",
+      "frequency": 6,
+      "context": "Business structure options include traditional choices such as corporations , partnerships , and sole proprietorships , and hybrid entities such as limited liability companies (LLCs) , limited liability partnerships (LLPs) , and joint ventures (JVs) ."
+    },
+    {
+      "term": "Sole Proprietorships",
+      "frequency": 20,
+      "context": "Figure 13.2 There are several basic business structures: sole proprietorships, partnerships, corporations, and hybrid forms."
+    },
+    {
+      "term": "Create a Business Plan",
+      "frequency": 2,
+      "context": "Tools include information on how to create a business plan and how to qualify for government contracts."
+    },
+    {
+      "term": "Corporations A",
+      "frequency": 4,
+      "context": "The Unique Nature of B Corporations and/or Benefit Corporations A new form of nontraditional, for-profit corporation is the benefit corporation , which may or may not also be a B corporation."
+    },
+    {
+      "term": "Sole Proprietorships The",
+      "frequency": 2,
+      "context": "Advantages and Disadvantages of Sole Proprietorships The sole proprietor is personally liable for everything."
+    }
+  ],
+  "missingGlossaryTerms": [],
+  "termFrequency": {
+    "entrepreneur": 70,
+    "mission statement": 1,
+    "action plan": 2,
+    "business model": 1,
+    "e-commerce": 1,
+    "framework": 1,
+    "venture": 60,
+    "copyright": 7,
+    "disclosure": 1,
+    "sustainability": 2,
+    "truthfulness": 1,
+    "accountability": 5,
+    "customers": 5,
+    "demand": 1,
+    "gig economy": 4,
+    "assessment": 2,
+    "critical thinking": 1,
+    "develop": 8,
+    "evaluate": 2,
+    "implement": 1,
+    "ask": 2,
+    "advertising": 1,
+    "close": 5,
+    "marketing": 3,
+    "people": 15,
+    "place": 2,
+    "price": 6,
+    "process": 11,
+    "product": 2,
+    "sample": 1,
+    "social media": 2,
+    "accounting": 6,
+    "assets": 15,
+    "credit": 12,
+    "crowdfunding": 11,
+    "equity": 21,
+    "expenses": 4,
+    "financing": 2,
+    "funds": 14,
+    "liability": 76,
+    "revenue": 11,
+    "joint venture": 30,
+    "business plan": 7,
+    "networking": 1,
+    "b corporation": 17,
+    "business purpose": 12,
+    "business structure": 34,
+    "c corporation": 13,
+    "capital": 38,
+    "corporation": 159,
+    "economic nexus": 2,
+    "enterprise risk management": 9,
+    "equity crowdfunding": 8,
+    "financial risk": 3,
+    "for-profit business": 12,
+    "general partnership": 7,
+    "insurance": 19,
+    "legal risk": 4,
+    "partnership": 60,
+    "privately held corporation": 4,
+    "public corporation": 3,
+    "publicly held corporation": 3,
+    "s corporation": 10,
+    "sole proprietorship": 21,
+    "ownership structure": 6,
+    "independent contractors": 1,
+    "tariffs": 1,
+    "business continuity": 1,
+    "entrepreneur in action": 3,
+    "contracts": 8,
+    "shareholders": 39,
+    "stakeholders": 5,
+    "torts": 4,
+    "toyota": 1,
+    "link to learning": 4,
+    "work it out": 1,
+    "learning objectives": 7,
+    "suggested resources": 1,
+    "key terms": 1,
+    "review questions": 1,
+    "discussion questions": 1,
+    "case questions": 1,
+    "chapter outline": 1,
+    "Business Structures": 11,
+    "Overview of Legal and Tax Considerations": 4,
+    "Learning Objectives By": 7,
+    "Internal Revenue Code": 3,
+    "Copyright Rice University": 7,
+    "CC BY NC-SA": 7,
+    "Are You Ready": 4,
+    "Purpose of Your Business": 2,
+    "Gravity Payments": 5,
+    "Dan Price": 2,
+    "C Corporations": 14,
+    "S Corporations": 16,
+    "Secretary of State": 4,
+    "Piercing the Veil": 2,
+    "An S": 5,
+    "The B": 5,
+    "Public Transparency": 3,
+    "Privately Held": 8,
+    "The PCAOB": 2,
+    "Bombas Socks": 3,
+    "CC BY": 8,
+    "Is Bombas": 2,
+    "Tax Cuts and Jobs Act": 2,
+    "A C": 12,
+    "The IRS": 5,
+    "Objectives By": 7,
+    "In GPs": 2,
+    "An LLP": 2,
+    "A GP": 6,
+    "Joint Ventures": 13,
+    "What Can You Do": 2,
+    "Tax Foundation": 2,
+    "A DBA": 6,
+    "Leroy Bautista": 2,
+    "Additional Considerations": 4,
+    "Capital Acquisition": 7,
+    "Business Domicile": 5,
+    "Entrepreneurial Finance and Accounting": 2,
+    "JOBS Act": 3,
+    "New York": 5,
+    "South Dakota": 3,
+    "The Balance": 2,
+    "Sole Proprietor": 16,
+    "Limited Partnership": 5,
+    "Limited Liability Company": 6,
+    "Risk Appetite": 3,
+    "Information Technology": 2,
+    "The SBA": 7,
+    "Step Action": 2,
+    "Partnerships and Joint Ventures": 5,
+    "Limited Liability Companies": 6,
+    "Sole Proprietorships": 20,
+    "Create a Business Plan": 2,
+    "Corporations A": 4,
+    "Sole Proprietorships The": 2
+  },
+  "warnings": []
+}

@@ -1,0 +1,26 @@
+.eng.hidden[data-prep-role="source"] {
+  display: block !important;
+  color: #555;
+  background: #f6f6f6;
+  border-left: 4px solid #999;
+  padding: 8px 12px;
+  margin: 8px 0 4px;
+}
+
+.vn.visible[data-prep-role="target"] {
+  display: block !important;
+  min-height: 24px;
+  background: #fff8e1;
+  border-left: 4px solid #f0b400;
+  padding: 8px 12px;
+  margin: 4px 0 12px;
+}
+
+.vn.visible[data-prep-status="pending-translation"]::before {
+  content: "[PENDING VI TRANSLATION]";
+  display: block;
+  font-size: 12px;
+  color: #9a6a00;
+  font-weight: 600;
+  margin-bottom: 4px;
+}

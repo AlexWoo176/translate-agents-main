@@ -1,0 +1,11 @@
+{
+  "chapterId": "chapter-5",
+  "status": "passed",
+  "stats": {
+    "total": 17,
+    "correct": 17,
+    "skipped": 74,
+    "issues": 0
+  },
+  "issues": []
+}

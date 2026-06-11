@@ -1,0 +1,25 @@
+{
+  "workflowRunId": "wf-20260611-224116",
+  "bookSlug": "psychology-2e",
+  "status": "failed",
+  "startedAt": "2026-06-11T15:41:16.013Z",
+  "finishedAt": "2026-06-11T15:41:16.018Z",
+  "durationSeconds": "0.0",
+  "mode": "normal",
+  "scope": {
+    "chapterId": null,
+    "all": false
+  },
+  "phasesRequested": "all",
+  "phasesExecuted": [],
+  "phasesSkipped": [],
+  "phaseResults": [],
+  "warnings": [
+    "[risk] translate phase will use provider: mock",
+    "[risk] final translation will not be overwritten unless --write-final is passed",
+    "[approval] Phase 'translate' requested to run, but --write-final was not passed. Using draft/mock translations (requiresHumanReview=true) instead."
+  ],
+  "errors": [
+    "Dependency block on phase 'translate': prep output (04-prep), analyze output (03-analyzed). Recommendation: Run 'prep' phase first to build bilingual HTML templates. Run 'analyze' phase first to extract terms and contexts."
+  ]
+}

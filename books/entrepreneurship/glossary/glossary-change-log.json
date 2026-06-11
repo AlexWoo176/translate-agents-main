@@ -1,0 +1,36 @@
+[
+  {
+    "changeId": "glossary-change-20260612-002104",
+    "changedAt": "2026-06-11T17:21:05.058Z",
+    "changedBy": "human_review_approver",
+    "reason": "Expert human review import",
+    "termsAdded": [],
+    "termsUpdated": [
+      {
+        "term": "career entrepreneur",
+        "oldTranslation": "doanh nhân theo đuổi sự nghiệp lâu dài",
+        "newTranslation": "doanh nhân chuyên nghiệp"
+      }
+    ],
+    "termsDeprecated": [],
+    "termsLocked": [],
+    "backup": "glossary/versions/glossary-20260612-002104.csv"
+  },
+  {
+    "changeId": "glossary-change-20260612-001900",
+    "changedAt": "2026-06-11T17:19:00.995Z",
+    "changedBy": "human_review_approver",
+    "reason": "Operator auto-approval",
+    "termsAdded": [],
+    "termsUpdated": [
+      {
+        "term": "career entrepreneur",
+        "oldTranslation": "doanh nhân theo đuổi sự nghiệp lâu dài",
+        "newTranslation": "doanh nhân theo đuổi sự nghiệp lâu dài"
+      }
+    ],
+    "termsDeprecated": [],
+    "termsLocked": [],
+    "backup": "glossary/versions/glossary-20260612-001900.csv"
+  }
+]

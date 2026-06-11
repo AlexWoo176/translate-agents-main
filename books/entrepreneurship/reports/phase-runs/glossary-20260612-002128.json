@@ -1,0 +1,34 @@
+{
+  "phase": "glossary",
+  "bookSlug": "entrepreneurship",
+  "scope": "book",
+  "status": "passed",
+  "startedAt": "2026-06-11T17:21:28.474Z",
+  "finishedAt": "2026-06-11T17:21:28.661Z",
+  "dryRun": false,
+  "force": false,
+  "validateOnly": false,
+  "inputs": [
+    "glossary.csv"
+  ],
+  "outputs": [
+    "glossary-candidates.csv",
+    "glossary.csv"
+  ],
+  "filesCreated": [
+    "glossary-candidates.csv",
+    "glossary-candidates.json",
+    "reports/glossary-candidates-report.md",
+    "reports/glossary-candidates-report.json"
+  ],
+  "filesUpdated": [],
+  "filesSkipped": [
+    "glossary.csv"
+  ],
+  "warnings": [],
+  "errors": [],
+  "qualityGate": {
+    "id": "glossaryApproval",
+    "status": "passed"
+  }
+}

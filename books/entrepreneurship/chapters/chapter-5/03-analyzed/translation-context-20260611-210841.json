@@ -1,0 +1,602 @@
+{
+  "chapterTitle": "Introduction",
+  "sections": [
+    {
+      "file": "5-1-entrepreneurial-opportunity.html",
+      "title": "5.1 Entrepreneurial Opportunity"
+    },
+    {
+      "file": "5-2-researching-potential-business-opportunities.html",
+      "title": "5.2 Researching Potential Business Opportunities"
+    },
+    {
+      "file": "5-3-competitive-analysis.html",
+      "title": "5.3 Competitive Analysis"
+    },
+    {
+      "file": "5-case-questions.html",
+      "title": "Case Questions"
+    },
+    {
+      "file": "5-discussion-questions.html",
+      "title": "Discussion Questions"
+    },
+    {
+      "file": "5-introduction.html",
+      "title": "Introduction"
+    },
+    {
+      "file": "5-key-terms.html",
+      "title": "Key Terms"
+    },
+    {
+      "file": "5-review-questions.html",
+      "title": "Review Questions"
+    },
+    {
+      "file": "5-suggested-resources.html",
+      "title": "Suggested Resources"
+    },
+    {
+      "file": "5-summary.html",
+      "title": "Summary"
+    }
+  ],
+  "learningObjectives": [
+    "5.1 Entrepreneurial Opportunity",
+    "5.2 Researching Potential Business Opportunities",
+    "5.3 Competitive Analysis"
+  ],
+  "keyConcepts": [
+    "offering",
+    "venture",
+    "product",
+    "entrepreneur",
+    "customers",
+    "entrepreneurial opportunity",
+    "demand",
+    "target market",
+    "supply",
+    "competitive advantage",
+    "process",
+    "business model",
+    "people",
+    "credit",
+    "develop",
+    "social media",
+    "demographics",
+    "unique selling proposition",
+    "value proposition",
+    "price",
+    "innovation",
+    "swot analysis",
+    "copyright",
+    "secondary research",
+    "marketing",
+    "due diligence",
+    "patent",
+    "financial viability",
+    "infrastructure",
+    "gig economy",
+    "primary research",
+    "funds",
+    "capital",
+    "creative destruction",
+    "opportunity screening",
+    "shared economy",
+    "evaluate",
+    "market research",
+    "place",
+    "entrepreneur in action",
+    "entrepreneurial venture",
+    "intellectual property",
+    "invention",
+    "external environment",
+    "ask",
+    "advertising",
+    "business failure",
+    "link to learning",
+    "work it out",
+    "learning objectives",
+    "sustainability",
+    "trademark",
+    "crowdsourcing",
+    "brand",
+    "targeting",
+    "accounting",
+    "assets",
+    "revenue",
+    "financial sustainability",
+    "corporation",
+    "economic factors",
+    "stakeholders",
+    "opportunity recognition",
+    "entrepreneurial process",
+    "social entrepreneurship",
+    "trade secret",
+    "creativity",
+    "assessment",
+    "entrepreneurial marketing",
+    "market analysis",
+    "market opportunity",
+    "marketing plan",
+    "profit margin",
+    "promotion",
+    "expenses",
+    "fixed assets",
+    "projection",
+    "licensing",
+    "business plan",
+    "inventory management",
+    "operational expenses",
+    "business structure",
+    "advisory board",
+    "independent contractors",
+    "political factors",
+    "suggested resources",
+    "key terms",
+    "review questions",
+    "discussion questions",
+    "case questions",
+    "chapter outline"
+  ],
+  "difficultTerms": [
+    "Copyright Rice University",
+    "CC BY NC-SA",
+    "Researching Potential Business Opportunities",
+    "Small Business Administration",
+    "Learning Objectives By",
+    "Rapid Ramen Cooker",
+    "According to Schumpeter",
+    "New York City",
+    "Common Sources of Research Data",
+    "Small Business Development Center",
+    "Are You Ready",
+    "Veterans Community Project",
+    "Competitive Analysis A",
+    "Fundamentals of Resource Planning",
+    "Travis and Katelyn"
+  ],
+  "tables": [
+    {
+      "file": "5-2-researching-potential-business-opportunities.html",
+      "id": "fs-idm241495616",
+      "summary": "No Summary"
+    },
+    {
+      "file": "5-3-competitive-analysis.html",
+      "id": "fs-idm365138800",
+      "summary": "No Summary"
+    }
+  ],
+  "figures": [
+    {
+      "file": "5-1-entrepreneurial-opportunity.html",
+      "id": "OSX_Eship_05_01_Schumpeter",
+      "caption": "Figure 5.2 Schumpeter believed that entrepreneurs create value in an economy. (credit: Joseph Alois Schumpeter, ca. 1910: HUGB S276.90 p (2), olvwork369436. Harvard University Archives)"
+    },
+    {
+      "file": "5-1-entrepreneurial-opportunity.html",
+      "id": "OSX_Eship_05_01_Blakely",
+      "caption": "Figure 5.3 (a) Spanx, a new product that was created to solve an everyday problem, was invented by (b) Entrepreneur Sara Blakely (far right). (credit (a): “Spanx” by Mike Mozart/Flickr, CC BY 2.0; credit (b): “Ed Bastian and Sara Blakely at the Fast Company Innovation Festival” by Nan Palmero/Flickr, CC B 2.0)"
+    },
+    {
+      "file": "5-2-researching-potential-business-opportunities.html",
+      "id": "OSX_Eship_05_02_Significant",
+      "caption": "Figure 5.4 When these criteria are met, an idea is recognized as an opportunity. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "5-2-researching-potential-business-opportunities.html",
+      "id": "OSX_Eship_05_04_SpaceX",
+      "caption": "Figure 5.5 SpaceX operations are centered in these headquarters. (credit: “Iridium-4 Mission (25557986177)” by Official SpaceX Photos/Wikimedia Commons, CC0 1.0)"
+    },
+    {
+      "file": "5-2-researching-potential-business-opportunities.html",
+      "id": "OSX_Eship_05_02_BeeLove",
+      "caption": "Figure 5.6 Bee Love products are part of a social entrepreneurship venture. Founder Palms Barber researched the opportunity carefully and has found success. (credit: “Bee Love” by Alisha McCarthy/Flickr, CC BY 4.0)"
+    },
+    {
+      "file": "5-2-researching-potential-business-opportunities.html",
+      "id": "OSX_Eship_05_02_WorkTime",
+      "caption": "Figure 5.7 This graph compares average annual hours worked by country. It does not distinguish between full-time and part-time employment. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "5-2-researching-potential-business-opportunities.html",
+      "id": "OSX_Eship_05_03_TinyHome",
+      "caption": "Figure 5.8 These tiny homes cost as little as $10,000 to build and come complete with one or two bedrooms, a small kitchen, and bath. (credit: photo provided by Veterans Community Project)"
+    },
+    {
+      "file": "5-3-competitive-analysis.html",
+      "id": "OSX_Eship_05_02_SWOT",
+      "caption": "Figure 5.9 A SWOT analysis can be used to identify the strengths, weaknesses, opportunities, and threats of a potential entrepreneurial opportunity. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "5-3-competitive-analysis.html",
+      "id": "OSX_Eship_05_03_PEST",
+      "caption": "Figure 5.10 A PEST analysis can help identify opportunities and threats that can be used in a SWOT analysis. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "5-3-competitive-analysis.html",
+      "id": "OSX_Eship_05_03_3Circles",
+      "caption": "Figure 5.11 The three circles competitive analysis helps to identify where there is overlap and where there may be a gap in the market that a new venture could fill. The overlaps identify points of parity, the areas where competitors offer the same value with the important identification of the areas of unmet customer needs and how unique your competitive advantage is within the industry. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "5-3-competitive-analysis.html",
+      "id": "OSX_Eship_05_02_Model",
+      "caption": "Figure 5.12 A business model has four components: the offering, customers, infrastructure, and financial viability. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "5-introduction.html",
+      "id": "OSX_Eship_05_00_Chris",
+      "caption": "Figure 5.1 Chris Johnson, CEO and founder of California-based company Rapid Brands, invented the Rapid Ramen Cooker and has since grown his offerings to a line of successful products. (credit: photo provided by Rapid Brands Inc.)"
+    }
+  ],
+  "relevantGlossaryTerms": [
+    {
+      "term": "venture",
+      "translation": "doanh nghiệp (venture)"
+    },
+    {
+      "term": "product",
+      "translation": "sản phẩm"
+    },
+    {
+      "term": "entrepreneur",
+      "translation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "customers",
+      "translation": "khách hàng"
+    },
+    {
+      "term": "entrepreneurial opportunity",
+      "translation": "cơ hội khởi nghiệp"
+    },
+    {
+      "term": "demand",
+      "translation": "nhu cầu"
+    },
+    {
+      "term": "target market",
+      "translation": "thị trường mục tiêu"
+    },
+    {
+      "term": "supply",
+      "translation": "cung"
+    },
+    {
+      "term": "competitive advantage",
+      "translation": "lợi thế cạnh tranh"
+    },
+    {
+      "term": "process",
+      "translation": "quy trình"
+    },
+    {
+      "term": "business model",
+      "translation": "mô hình kinh doanh"
+    },
+    {
+      "term": "people",
+      "translation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "credit",
+      "translation": "tín dụng"
+    },
+    {
+      "term": "develop",
+      "translation": "phát triển"
+    },
+    {
+      "term": "social media",
+      "translation": "mạng xã hội"
+    },
+    {
+      "term": "demographics",
+      "translation": "nhân khẩu học"
+    },
+    {
+      "term": "unique selling proposition",
+      "translation": "đề xuất bán hàng độc nhất (USP)"
+    },
+    {
+      "term": "value proposition",
+      "translation": "giá trị đề xuất"
+    },
+    {
+      "term": "price",
+      "translation": "giá"
+    },
+    {
+      "term": "innovation",
+      "translation": "đổi mới"
+    },
+    {
+      "term": "swot analysis",
+      "translation": "phân tích SWOT"
+    },
+    {
+      "term": "copyright",
+      "translation": "bản quyền"
+    },
+    {
+      "term": "secondary research",
+      "translation": "nghiên cứu thứ cấp"
+    },
+    {
+      "term": "marketing",
+      "translation": "tiếp thị"
+    },
+    {
+      "term": "due diligence",
+      "translation": "thẩm định kỹ lưỡng"
+    },
+    {
+      "term": "patent",
+      "translation": "bằng sáng chế"
+    },
+    {
+      "term": "financial viability",
+      "translation": "tính khả thi tài chính"
+    },
+    {
+      "term": "infrastructure",
+      "translation": "cơ sở hạ tầng"
+    },
+    {
+      "term": "gig economy",
+      "translation": "nền kinh tế gig"
+    },
+    {
+      "term": "primary research",
+      "translation": "nghiên cứu sơ cấp"
+    },
+    {
+      "term": "funds",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "capital",
+      "translation": "vốn"
+    },
+    {
+      "term": "creative destruction",
+      "translation": "sự hủy diệt sáng tạo"
+    },
+    {
+      "term": "opportunity screening",
+      "translation": "sàng lọc cơ hội"
+    },
+    {
+      "term": "shared economy",
+      "translation": "nền kinh tế chia sẻ"
+    },
+    {
+      "term": "evaluate",
+      "translation": "đánh giá (evaluate)"
+    },
+    {
+      "term": "market research",
+      "translation": "nghiên cứu thị trường"
+    },
+    {
+      "term": "place",
+      "translation": "phân phối (place)"
+    },
+    {
+      "term": "entrepreneur in action",
+      "translation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "entrepreneurial venture",
+      "translation": "dự án khởi nghiệp"
+    },
+    {
+      "term": "intellectual property",
+      "translation": "tài sản trí tuệ"
+    },
+    {
+      "term": "invention",
+      "translation": "phát minh"
+    },
+    {
+      "term": "external environment",
+      "translation": "môi trường bên ngoài"
+    },
+    {
+      "term": "ask",
+      "translation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "advertising",
+      "translation": "quảng cáo"
+    },
+    {
+      "term": "business failure",
+      "translation": "thất bại kinh doanh"
+    },
+    {
+      "term": "link to learning",
+      "translation": "liên kết học tập"
+    },
+    {
+      "term": "work it out",
+      "translation": "thực hành"
+    },
+    {
+      "term": "learning objectives",
+      "translation": "mục tiêu học tập"
+    },
+    {
+      "term": "sustainability",
+      "translation": "tính bền vững"
+    },
+    {
+      "term": "trademark",
+      "translation": "nhãn hiệu"
+    },
+    {
+      "term": "crowdsourcing",
+      "translation": "huy động trí tuệ đám đông"
+    },
+    {
+      "term": "brand",
+      "translation": "thương hiệu"
+    },
+    {
+      "term": "targeting",
+      "translation": "lựa chọn thị trường mục tiêu"
+    },
+    {
+      "term": "accounting",
+      "translation": "kế toán"
+    },
+    {
+      "term": "assets",
+      "translation": "tài sản"
+    },
+    {
+      "term": "revenue",
+      "translation": "doanh thu"
+    },
+    {
+      "term": "financial sustainability",
+      "translation": "tính bền vững tài chính"
+    },
+    {
+      "term": "corporation",
+      "translation": "công ty cổ phần"
+    },
+    {
+      "term": "economic factors",
+      "translation": "các yếu tố kinh tế"
+    },
+    {
+      "term": "stakeholders",
+      "translation": "stakeholders"
+    },
+    {
+      "term": "opportunity recognition",
+      "translation": "nhận diện cơ hội kinh doanh"
+    },
+    {
+      "term": "entrepreneurial process",
+      "translation": "quy trình khởi nghiệp"
+    },
+    {
+      "term": "social entrepreneurship",
+      "translation": "khởi nghiệp xã hội"
+    },
+    {
+      "term": "trade secret",
+      "translation": "bí mật thương mại"
+    },
+    {
+      "term": "creativity",
+      "translation": "sự sáng tạo"
+    },
+    {
+      "term": "assessment",
+      "translation": "giai đoạn đánh giá (assessment)"
+    },
+    {
+      "term": "entrepreneurial marketing",
+      "translation": "tiếp thị khởi nghiệp"
+    },
+    {
+      "term": "market analysis",
+      "translation": "phân tích thị trường"
+    },
+    {
+      "term": "market opportunity",
+      "translation": "cơ hội thị trường"
+    },
+    {
+      "term": "marketing plan",
+      "translation": "kế hoạch marketing"
+    },
+    {
+      "term": "profit margin",
+      "translation": "biên lợi nhuận"
+    },
+    {
+      "term": "promotion",
+      "translation": "xúc tiến"
+    },
+    {
+      "term": "expenses",
+      "translation": "chi phí"
+    },
+    {
+      "term": "fixed assets",
+      "translation": "tài sản cố định"
+    },
+    {
+      "term": "projection",
+      "translation": "dự báo"
+    },
+    {
+      "term": "licensing",
+      "translation": "cấp phép"
+    },
+    {
+      "term": "business plan",
+      "translation": "kế hoạch kinh doanh"
+    },
+    {
+      "term": "inventory management",
+      "translation": "quản lý tồn kho"
+    },
+    {
+      "term": "operational expenses",
+      "translation": "chi phí vận hành"
+    },
+    {
+      "term": "business structure",
+      "translation": "cấu trúc doanh nghiệp"
+    },
+    {
+      "term": "advisory board",
+      "translation": "hội đồng cố vấn"
+    },
+    {
+      "term": "independent contractors",
+      "translation": "nhà thầu độc lập"
+    },
+    {
+      "term": "political factors",
+      "translation": "các yếu tố chính trị"
+    },
+    {
+      "term": "suggested resources",
+      "translation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "key terms",
+      "translation": "thuật ngữ chính"
+    },
+    {
+      "term": "review questions",
+      "translation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "translation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "translation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "translation": "dàn ý chương"
+    }
+  ],
+  "translationNotes": [
+    "Chapter contains 2 tables. In the prep phase, table cells (td/th) will be wrapped in bilingual spans. Be careful to preserve cells layout and IDs during translation.",
+    "Chapter contains 12 figures. Figures captions must be prepped and translated, preserving media references and buttons.",
+    "Chapter contains 3 learning objectives. Objectives lists should be translated accurately following technical tone."
+  ],
+  "warnings": []
+}

@@ -1,0 +1,76 @@
+{
+  "bookSlug": "entrepreneurship",
+  "datasetVersion": "v1",
+  "status": "normalizing",
+  "glossary": {
+    "status": "validated",
+    "schema": "glossary.schema.json",
+    "validationReport": "reports/glossary-validation-report.md"
+  },
+  "chapters": {
+    "chapter-1": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-2": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-3": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-4": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-5": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-6": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-7": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-8": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-9": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-10": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-11": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-12": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-13": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-14": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-15": {
+      "status": "imported",
+      "phases": {}
+    },
+    "_book-level": {
+      "status": "imported",
+      "phases": {}
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-1",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:55:49.155Z",
+  "finishedAt": "2026-06-11T10:55:49.251Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "1-1-entrepreneurship-today.html",
+    "1-2-entrepreneurial-vision-and-goals.html",
+    "1-3-the-entrepreneurial-mindset.html",
+    "1-case-questions.html",
+    "1-discussion-questions.html",
+    "1-introduction.html",
+    "1-key-terms.html",
+    "1-review-questions.html",
+    "1-suggested-resources.html",
+    "1-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-175549.json",
+    "glossary-review-20260611-175549.json",
+    "semantic-review-20260611-175549.json"
+  ],
+  "issues": [
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm364119984-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.entrepreneurship-campus.org...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm325884688-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://youtu.be/zV2vi8FilLM...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm355409904-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://website-designs.com/business/the-importanc...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm325761056-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.businessnewsdaily.com/3882-vision-stat...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm806036688-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"M. M. Baluku, J. F. Kikooma, and K. Otto, “Positiv...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm407006624-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"E. Fleck, “Needed: Entrepreneurial mindset.” Centr...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm385506896-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"M. Israr and M. Saleem, “Entrepreneurial intention...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm388965936-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.christenseninstitute.org/results/?_sft...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

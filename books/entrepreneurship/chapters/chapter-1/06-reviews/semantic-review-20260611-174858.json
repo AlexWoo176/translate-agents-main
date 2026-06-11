@@ -1,0 +1,62 @@
+{
+  "chapterId": "chapter-1",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm364119984-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.entrepreneurship-campus.org...\""
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm325884688-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://youtu.be/zV2vi8FilLM...\""
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm355409904-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://website-designs.com/business/the-importanc...\""
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm325761056-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.businessnewsdaily.com/3882-vision-stat...\""
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm806036688-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"M. M. Baluku, J. F. Kikooma, and K. Otto, “Positiv...\""
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm407006624-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"E. Fleck, “Needed: Entrepreneurial mindset.” Centr...\""
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm385506896-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"M. Israr and M. Saleem, “Entrepreneurial intention...\""
+    },
+    {
+      "file": "1-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm388965936-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.christenseninstitute.org/results/?_sft...\""
+    }
+  ]
+}

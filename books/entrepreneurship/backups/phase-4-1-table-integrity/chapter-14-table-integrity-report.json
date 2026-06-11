@@ -1,0 +1,212 @@
+{
+  "status": "Failed",
+  "archiveCheck": {
+    "status": "Passed",
+    "reference": "F:\\LIBERO\\translate-agents-main\\books\\entrepreneurship\\chapters\\chapter-14\\02-clean\\14-1-types-of-resources.html",
+    "translated": "F:\\LIBERO\\translate-agents-main\\books\\entrepreneurship\\chapters\\chapter-14\\07-archive\\vn-only\\14-1-types-of-resources.html",
+    "tableDetails": [
+      {
+        "index": 0,
+        "refRows": 4,
+        "transRows": 4,
+        "refTd": 9,
+        "transTd": 9,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 1,
+        "refRows": 7,
+        "transRows": 7,
+        "refTd": 18,
+        "transTd": 18,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 2,
+        "refRows": 4,
+        "transRows": 4,
+        "refTd": 9,
+        "transTd": 9,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 3,
+        "refRows": 9,
+        "transRows": 9,
+        "refTd": 24,
+        "transTd": 24,
+        "diff": 0,
+        "status": "Passed"
+      }
+    ],
+    "mismatches": []
+  },
+  "bilingualCheck": {
+    "status": "Failed",
+    "reference": "F:\\LIBERO\\translate-agents-main\\books\\entrepreneurship\\chapters\\chapter-14\\04-prep\\14-1-types-of-resources.html",
+    "translated": "F:\\LIBERO\\translate-agents-main\\books\\entrepreneurship\\chapters\\chapter-14\\05-translated\\14-1-types-of-resources.html",
+    "tableDetails": [
+      {
+        "index": 0,
+        "refRows": 4,
+        "transRows": 4,
+        "refTd": 9,
+        "transTd": 18,
+        "diff": 9,
+        "status": "Failed"
+      },
+      {
+        "index": 1,
+        "refRows": 7,
+        "transRows": 7,
+        "refTd": 18,
+        "transTd": 30,
+        "diff": 12,
+        "status": "Failed"
+      },
+      {
+        "index": 2,
+        "refRows": 4,
+        "transRows": 4,
+        "refTd": 9,
+        "transTd": 15,
+        "diff": 6,
+        "status": "Failed"
+      },
+      {
+        "index": 3,
+        "refRows": 9,
+        "transRows": 9,
+        "refTd": 24,
+        "transTd": 32,
+        "diff": 8,
+        "status": "Failed"
+      }
+    ],
+    "mismatches": [
+      {
+        "tableIndex": 0,
+        "rowIndex": 0,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 0,
+        "rowIndex": 1,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 0,
+        "rowIndex": 2,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 0,
+        "rowIndex": 3,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 1,
+        "rowIndex": 0,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 1,
+        "rowIndex": 1,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 1,
+        "rowIndex": 2,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 1,
+        "rowIndex": 3,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 1,
+        "rowIndex": 4,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 1,
+        "rowIndex": 5,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 1,
+        "rowIndex": 6,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 2,
+        "rowIndex": 0,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 2,
+        "rowIndex": 1,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 2,
+        "rowIndex": 2,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 2,
+        "rowIndex": 3,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 0,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 1,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 2,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 3,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 4,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 5,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 6,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 7,
+        "description": "Row cell count mismatch"
+      },
+      {
+        "tableIndex": 3,
+        "rowIndex": 8,
+        "description": "Row cell count mismatch"
+      }
+    ]
+  }
+}

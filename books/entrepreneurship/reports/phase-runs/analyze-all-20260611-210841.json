@@ -1,0 +1,797 @@
+{
+  "phase": "analyze",
+  "bookSlug": "entrepreneurship",
+  "scope": "book",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T14:08:41.710Z",
+  "finishedAt": "2026-06-11T14:08:43.511Z",
+  "dryRun": false,
+  "force": true,
+  "validateOnly": false,
+  "inputs": [
+    "glossary.csv",
+    "book.config.json",
+    "chapters/chapter-1/02-clean/1-1-entrepreneurship-today.html",
+    "chapters/chapter-1/02-clean/1-2-entrepreneurial-vision-and-goals.html",
+    "chapters/chapter-1/02-clean/1-3-the-entrepreneurial-mindset.html",
+    "chapters/chapter-1/02-clean/1-case-questions.html",
+    "chapters/chapter-1/02-clean/1-discussion-questions.html",
+    "chapters/chapter-1/02-clean/1-introduction.html",
+    "chapters/chapter-1/02-clean/1-key-terms.html",
+    "chapters/chapter-1/02-clean/1-review-questions.html",
+    "chapters/chapter-1/02-clean/1-suggested-resources.html",
+    "chapters/chapter-1/02-clean/1-summary.html",
+    "chapters/chapter-2/02-clean/2-1-overview-of-the-entrepreneurial-journey.html",
+    "chapters/chapter-2/02-clean/2-2-the-process-of-becoming-an-entrepreneur.html",
+    "chapters/chapter-2/02-clean/2-3-entrepreneurial-pathways.html",
+    "chapters/chapter-2/02-clean/2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+    "chapters/chapter-2/02-clean/2-case-questions.html",
+    "chapters/chapter-2/02-clean/2-discussion-questions.html",
+    "chapters/chapter-2/02-clean/2-introduction.html",
+    "chapters/chapter-2/02-clean/2-key-terms.html",
+    "chapters/chapter-2/02-clean/2-review-questions.html",
+    "chapters/chapter-2/02-clean/2-suggested-resources.html",
+    "chapters/chapter-2/02-clean/2-summary.html",
+    "chapters/chapter-3/02-clean/3-1-ethical-and-legal-issues-in-entrepreneurship.html",
+    "chapters/chapter-3/02-clean/3-2-corporate-social-responsibility-and-social-entrepreneurship.html",
+    "chapters/chapter-3/02-clean/3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+    "chapters/chapter-3/02-clean/3-case-questions.html",
+    "chapters/chapter-3/02-clean/3-discussion-questions.html",
+    "chapters/chapter-3/02-clean/3-introduction.html",
+    "chapters/chapter-3/02-clean/3-key-terms.html",
+    "chapters/chapter-3/02-clean/3-review-questions.html",
+    "chapters/chapter-3/02-clean/3-suggested-resources.html",
+    "chapters/chapter-3/02-clean/3-summary.html",
+    "chapters/chapter-4/02-clean/4-1-tools-for-creativity-and-innovation.html",
+    "chapters/chapter-4/02-clean/4-2-creativity-innovation-and-invention-how-they-differ.html",
+    "chapters/chapter-4/02-clean/4-3-developing-ideas-innovations-and-inventions.html",
+    "chapters/chapter-4/02-clean/4-case-questions.html",
+    "chapters/chapter-4/02-clean/4-discussion-questions.html",
+    "chapters/chapter-4/02-clean/4-introduction.html",
+    "chapters/chapter-4/02-clean/4-key-terms.html",
+    "chapters/chapter-4/02-clean/4-review-questions.html",
+    "chapters/chapter-4/02-clean/4-suggested-resources.html",
+    "chapters/chapter-4/02-clean/4-summary.html",
+    "chapters/chapter-5/02-clean/5-1-entrepreneurial-opportunity.html",
+    "chapters/chapter-5/02-clean/5-2-researching-potential-business-opportunities.html",
+    "chapters/chapter-5/02-clean/5-3-competitive-analysis.html",
+    "chapters/chapter-5/02-clean/5-case-questions.html",
+    "chapters/chapter-5/02-clean/5-discussion-questions.html",
+    "chapters/chapter-5/02-clean/5-introduction.html",
+    "chapters/chapter-5/02-clean/5-key-terms.html",
+    "chapters/chapter-5/02-clean/5-review-questions.html",
+    "chapters/chapter-5/02-clean/5-suggested-resources.html",
+    "chapters/chapter-5/02-clean/5-summary.html",
+    "chapters/chapter-6/02-clean/6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+    "chapters/chapter-6/02-clean/6-2-creative-problem-solving-process.html",
+    "chapters/chapter-6/02-clean/6-3-design-thinking.html",
+    "chapters/chapter-6/02-clean/6-4-lean-processes.html",
+    "chapters/chapter-6/02-clean/6-case-questions.html",
+    "chapters/chapter-6/02-clean/6-discussion-questions.html",
+    "chapters/chapter-6/02-clean/6-introduction.html",
+    "chapters/chapter-6/02-clean/6-key-terms.html",
+    "chapters/chapter-6/02-clean/6-review-questions.html",
+    "chapters/chapter-6/02-clean/6-suggested-resources.html",
+    "chapters/chapter-6/02-clean/6-summary.html",
+    "chapters/chapter-7/02-clean/7-1-clarifying-your-vision-mission-and-goals.html",
+    "chapters/chapter-7/02-clean/7-2-sharing-your-entrepreneurial-story.html",
+    "chapters/chapter-7/02-clean/7-3-developing-pitches-for-various-audiences-and-goals.html",
+    "chapters/chapter-7/02-clean/7-4-protecting-your-idea-and-polishing-the-pitch-through-feedback.html",
+    "chapters/chapter-7/02-clean/7-5-reality-check-contests-and-competitions.html",
+    "chapters/chapter-7/02-clean/7-case-questions.html",
+    "chapters/chapter-7/02-clean/7-discussion-questions.html",
+    "chapters/chapter-7/02-clean/7-introduction.html",
+    "chapters/chapter-7/02-clean/7-key-terms.html",
+    "chapters/chapter-7/02-clean/7-review-questions.html",
+    "chapters/chapter-7/02-clean/7-suggested-resources.html",
+    "chapters/chapter-7/02-clean/7-summary.html",
+    "chapters/chapter-8/02-clean/8-1-entrepreneurial-marketing-and-the-marketing-mix.html",
+    "chapters/chapter-8/02-clean/8-2-market-research-market-opportunity-recognition-and-target-market.html",
+    "chapters/chapter-8/02-clean/8-3-marketing-techniques-and-tools-for-entrepreneurs.html",
+    "chapters/chapter-8/02-clean/8-4-entrepreneurial-branding.html",
+    "chapters/chapter-8/02-clean/8-5-marketing-strategy-and-the-marketing-plan.html",
+    "chapters/chapter-8/02-clean/8-6-sales-and-customer-service.html",
+    "chapters/chapter-8/02-clean/8-case-questions.html",
+    "chapters/chapter-8/02-clean/8-discussion-questions.html",
+    "chapters/chapter-8/02-clean/8-introduction.html",
+    "chapters/chapter-8/02-clean/8-key-terms.html",
+    "chapters/chapter-8/02-clean/8-review-questions.html",
+    "chapters/chapter-8/02-clean/8-suggested-resources.html",
+    "chapters/chapter-8/02-clean/8-summary.html",
+    "chapters/chapter-9/02-clean/9-1-overview-of-entrepreneurial-finance-and-accounting-strategies.html",
+    "chapters/chapter-9/02-clean/9-2-special-funding-strategies.html",
+    "chapters/chapter-9/02-clean/9-3-accounting-basics-for-entrepreneurs.html",
+    "chapters/chapter-9/02-clean/9-4-developing-startup-financial-statements-and-projections.html",
+    "chapters/chapter-9/02-clean/9-case-questions.html",
+    "chapters/chapter-9/02-clean/9-discussion-questions.html",
+    "chapters/chapter-9/02-clean/9-introduction.html",
+    "chapters/chapter-9/02-clean/9-key-terms.html",
+    "chapters/chapter-9/02-clean/9-review-questions.html",
+    "chapters/chapter-9/02-clean/9-suggested-resources.html",
+    "chapters/chapter-9/02-clean/9-summary.html",
+    "chapters/chapter-10/02-clean/10-1-launching-the-imperfect-business-lean-startup.html",
+    "chapters/chapter-10/02-clean/10-2-why-early-failure-can-lead-to-success-later.html",
+    "chapters/chapter-10/02-clean/10-3-the-challenging-truth-about-business-ownership.html",
+    "chapters/chapter-10/02-clean/10-4-managing-following-and-adjusting-the-initial-plan.html",
+    "chapters/chapter-10/02-clean/10-5-growth-signs-pains-and-cautions.html",
+    "chapters/chapter-10/02-clean/10-case-questions.html",
+    "chapters/chapter-10/02-clean/10-discussion-questions.html",
+    "chapters/chapter-10/02-clean/10-introduction.html",
+    "chapters/chapter-10/02-clean/10-key-terms.html",
+    "chapters/chapter-10/02-clean/10-review-questions.html",
+    "chapters/chapter-10/02-clean/10-suggested-resources.html",
+    "chapters/chapter-10/02-clean/10-summary.html",
+    "chapters/chapter-11/02-clean/11-1-avoiding-the-field-of-dreams-approach.html",
+    "chapters/chapter-11/02-clean/11-2-designing-the-business-model.html",
+    "chapters/chapter-11/02-clean/11-3-conducting-a-feasibility-analysis.html",
+    "chapters/chapter-11/02-clean/11-4-the-business-plan.html",
+    "chapters/chapter-11/02-clean/11-case-questions.html",
+    "chapters/chapter-11/02-clean/11-discussion-questions.html",
+    "chapters/chapter-11/02-clean/11-introduction.html",
+    "chapters/chapter-11/02-clean/11-key-terms.html",
+    "chapters/chapter-11/02-clean/11-review-questions.html",
+    "chapters/chapter-11/02-clean/11-suggested-resources.html",
+    "chapters/chapter-11/02-clean/11-summary.html",
+    "chapters/chapter-12/02-clean/12-1-building-and-connecting-to-networks.html",
+    "chapters/chapter-12/02-clean/12-2-building-the-entrepreneurial-dream-team.html",
+    "chapters/chapter-12/02-clean/12-3-designing-a-startup-operational-plan.html",
+    "chapters/chapter-12/02-clean/12-case-questions.html",
+    "chapters/chapter-12/02-clean/12-discussion-questions.html",
+    "chapters/chapter-12/02-clean/12-introduction.html",
+    "chapters/chapter-12/02-clean/12-key-terms.html",
+    "chapters/chapter-12/02-clean/12-review-questions.html",
+    "chapters/chapter-12/02-clean/12-suggested-resources.html",
+    "chapters/chapter-12/02-clean/12-summary.html",
+    "chapters/chapter-13/02-clean/13-1-business-structures-overview-of-legal-and-tax-considerations.html",
+    "chapters/chapter-13/02-clean/13-2-corporations.html",
+    "chapters/chapter-13/02-clean/13-3-partnerships-and-joint-ventures.html",
+    "chapters/chapter-13/02-clean/13-4-limited-liability-companies.html",
+    "chapters/chapter-13/02-clean/13-5-sole-proprietorships.html",
+    "chapters/chapter-13/02-clean/13-6-additional-considerations-capital-acquisition-business-domicile-and-technology.html",
+    "chapters/chapter-13/02-clean/13-7-mitigating-and-managing-risks.html",
+    "chapters/chapter-13/02-clean/13-case-questions.html",
+    "chapters/chapter-13/02-clean/13-discussion-questions.html",
+    "chapters/chapter-13/02-clean/13-introduction.html",
+    "chapters/chapter-13/02-clean/13-key-terms.html",
+    "chapters/chapter-13/02-clean/13-review-questions.html",
+    "chapters/chapter-13/02-clean/13-suggested-resources.html",
+    "chapters/chapter-13/02-clean/13-summary.html",
+    "chapters/chapter-14/02-clean/14-1-types-of-resources.html",
+    "chapters/chapter-14/02-clean/14-2-using-the-pest-framework-to-assess-resource-needs.html",
+    "chapters/chapter-14/02-clean/14-3-managing-resources-over-the-venture-life-cycle.html",
+    "chapters/chapter-14/02-clean/14-case-questions.html",
+    "chapters/chapter-14/02-clean/14-discussion-questions.html",
+    "chapters/chapter-14/02-clean/14-introduction.html",
+    "chapters/chapter-14/02-clean/14-key-terms.html",
+    "chapters/chapter-14/02-clean/14-review-questions.html",
+    "chapters/chapter-14/02-clean/14-suggested-resources.html",
+    "chapters/chapter-14/02-clean/14-summary.html",
+    "chapters/chapter-15/02-clean/15-1-launching-your-venture.html",
+    "chapters/chapter-15/02-clean/15-2-making-difficult-business-decisions-in-response-to-challenges.html",
+    "chapters/chapter-15/02-clean/15-3-seeking-help-or-support.html",
+    "chapters/chapter-15/02-clean/15-4-now-what-serving-as-a-mentor-consultant-or-champion.html",
+    "chapters/chapter-15/02-clean/15-5-reflections-documenting-the-journey.html",
+    "chapters/chapter-15/02-clean/15-case-questions.html",
+    "chapters/chapter-15/02-clean/15-discussion-questions.html",
+    "chapters/chapter-15/02-clean/15-introduction.html",
+    "chapters/chapter-15/02-clean/15-key-terms.html",
+    "chapters/chapter-15/02-clean/15-review-questions.html",
+    "chapters/chapter-15/02-clean/15-suggested-resources.html",
+    "chapters/chapter-15/02-clean/15-summary.html"
+  ],
+  "outputs": [
+    "chapters/chapter-1/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-1/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-1/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-1/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-1/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-1/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-1/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-1/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-2/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-2/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-2/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-2/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-2/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-2/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-2/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-2/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-3/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-3/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-3/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-3/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-3/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-3/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-3/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-3/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-4/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-4/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-4/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-4/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-4/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-4/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-4/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-4/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-5/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-5/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-5/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-5/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-5/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-5/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-5/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-5/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-6/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-6/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-6/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-6/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-6/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-6/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-6/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-6/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-7/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-7/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-7/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-7/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-7/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-7/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-7/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-7/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-8/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-8/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-8/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-8/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-8/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-8/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-8/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-8/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-9/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-9/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-9/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-9/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-9/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-9/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-9/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-9/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-10/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-10/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-10/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-10/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-10/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-10/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-10/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-10/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-11/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-11/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-11/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-11/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-11/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-11/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-11/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-11/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-12/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-12/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-12/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-12/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-12/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-12/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-12/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-12/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-13/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-13/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-13/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-13/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-13/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-13/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-13/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-13/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-14/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-14/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-14/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-14/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-14/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-14/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-14/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-14/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-15/03-analyzed/structure-analysis-20260611-210841.json",
+    "chapters/chapter-15/03-analyzed/structure-analysis-20260611-210841.md",
+    "chapters/chapter-15/03-analyzed/terminology-analysis-20260611-210841.json",
+    "chapters/chapter-15/03-analyzed/terminology-analysis-20260611-210841.md",
+    "chapters/chapter-15/03-analyzed/translation-context-20260611-210841.json",
+    "chapters/chapter-15/03-analyzed/translation-context-20260611-210841.md",
+    "chapters/chapter-15/03-analyzed/analysis-summary-20260611-210841.json",
+    "chapters/chapter-15/03-analyzed/analysis-summary-20260611-210841.md",
+    "chapters/chapter-1/03-analyzed/analysis-summary.json",
+    "chapters/chapter-1/03-analyzed/analysis-summary.md",
+    "chapters/chapter-2/03-analyzed/analysis-summary.json",
+    "chapters/chapter-2/03-analyzed/analysis-summary.md",
+    "chapters/chapter-3/03-analyzed/analysis-summary.json",
+    "chapters/chapter-3/03-analyzed/analysis-summary.md",
+    "chapters/chapter-4/03-analyzed/analysis-summary.json",
+    "chapters/chapter-4/03-analyzed/analysis-summary.md",
+    "chapters/chapter-5/03-analyzed/analysis-summary.json",
+    "chapters/chapter-5/03-analyzed/analysis-summary.md",
+    "chapters/chapter-6/03-analyzed/analysis-summary.json",
+    "chapters/chapter-6/03-analyzed/analysis-summary.md",
+    "chapters/chapter-7/03-analyzed/analysis-summary.json",
+    "chapters/chapter-7/03-analyzed/analysis-summary.md",
+    "chapters/chapter-8/03-analyzed/analysis-summary.json",
+    "chapters/chapter-8/03-analyzed/analysis-summary.md",
+    "chapters/chapter-9/03-analyzed/analysis-summary.json",
+    "chapters/chapter-9/03-analyzed/analysis-summary.md",
+    "chapters/chapter-10/03-analyzed/analysis-summary.json",
+    "chapters/chapter-10/03-analyzed/analysis-summary.md",
+    "chapters/chapter-11/03-analyzed/analysis-summary.json",
+    "chapters/chapter-11/03-analyzed/analysis-summary.md",
+    "chapters/chapter-12/03-analyzed/analysis-summary.json",
+    "chapters/chapter-12/03-analyzed/analysis-summary.md",
+    "chapters/chapter-13/03-analyzed/analysis-summary.json",
+    "chapters/chapter-13/03-analyzed/analysis-summary.md",
+    "chapters/chapter-14/03-analyzed/analysis-summary.json",
+    "chapters/chapter-14/03-analyzed/analysis-summary.md",
+    "chapters/chapter-15/03-analyzed/analysis-summary.json",
+    "chapters/chapter-15/03-analyzed/analysis-summary.md"
+  ],
+  "filesCreated": [
+    {
+      "file": "chapters/chapter-1/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-1/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-1/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-1/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-1/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-1/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-1/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-1/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/analysis-summary-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/structure-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/structure-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/terminology-analysis-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/terminology-analysis-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/translation-context-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/translation-context-20260611-210841.md"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/analysis-summary-20260611-210841.json"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/analysis-summary-20260611-210841.md"
+    }
+  ],
+  "filesUpdated": [
+    {
+      "file": "chapters/chapter-1/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-1/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-2/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-3/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-4/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-5/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-6/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-7/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-8/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-9/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-10/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-11/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-12/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-13/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-14/03-analyzed/analysis-summary.md"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/analysis-summary.json"
+    },
+    {
+      "file": "chapters/chapter-15/03-analyzed/analysis-summary.md"
+    }
+  ],
+  "filesSkipped": [],
+  "warnings": [
+    "Backup of existing analysis summaries for chapter-2 created at: backups/phase-9-analyze-runner/chapter-2/20260611-210841/"
+  ],
+  "errors": [],
+  "qualityGate": {
+    "id": "analysisCompleteness",
+    "status": "needs_human_review"
+  }
+}

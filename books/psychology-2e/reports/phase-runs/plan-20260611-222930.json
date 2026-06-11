@@ -1,0 +1,19 @@
+{
+  "phase": "plan",
+  "bookSlug": "psychology-2e",
+  "scope": "book",
+  "startedAt": "2026-06-11T15:29:30.932Z",
+  "finishedAt": "2026-06-11T15:29:30.961Z",
+  "filesCreated": [],
+  "filesUpdated": [
+    "project-plan.json",
+    "project-plan.md"
+  ],
+  "filesSkipped": [],
+  "warnings": 1,
+  "errors": 0,
+  "qualityGate": {
+    "id": "planCompleteness",
+    "status": "passed"
+  }
+}

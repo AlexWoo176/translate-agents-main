@@ -1,0 +1,41 @@
+{
+  "chapterId": "chapter-8",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "8-introduction.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm210524912-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"While Birchbox was initially an innovator and disr...\""
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm225958560-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Google Ads: https://ads.google.com/home/...\""
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm351462016-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Google Analytics: https://analytics.google.com/ana...\""
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm217081824-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Spin Selling: https://blog.hubspot.com/sales/spin-...\""
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm187604864-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Zig Ziglar: https://www.ziglar.com/...\""
+    }
+  ]
+}

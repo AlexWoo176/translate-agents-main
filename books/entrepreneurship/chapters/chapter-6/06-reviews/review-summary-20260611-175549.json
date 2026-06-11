@@ -1,0 +1,91 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-6",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:55:49.607Z",
+  "finishedAt": "2026-06-11T10:55:49.641Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+    "6-2-creative-problem-solving-process.html",
+    "6-3-design-thinking.html",
+    "6-4-lean-processes.html",
+    "6-case-questions.html",
+    "6-discussion-questions.html",
+    "6-introduction.html",
+    "6-key-terms.html",
+    "6-review-questions.html",
+    "6-suggested-resources.html",
+    "6-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-175549.json",
+    "glossary-review-20260611-175549.json",
+    "semantic-review-20260611-175549.json"
+  ],
+  "issues": [
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm199996224-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.nngroup.com/articles/storyboards-visua...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm221994752-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.studiobinder.com/blog/downloads/storyb...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm203593296-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.mturk.com/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm217192032-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.mindtools.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm189525856-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"IDEO Design Kit: http://www.designkit.org...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm282890304-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Stanford Design Thinking Mix Tapes: https://dschoo...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm182525744-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Lean Enterprise Institute: https://www.lean.org/Wh...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

@@ -1,0 +1,615 @@
+{
+  "chapterTitle": "Introduction",
+  "sections": [
+    {
+      "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+      "title": "6.1 Problem Solving to Find Entrepreneurial Solutions"
+    },
+    {
+      "file": "6-2-creative-problem-solving-process.html",
+      "title": "6.2 Creative Problem-Solving Process"
+    },
+    {
+      "file": "6-3-design-thinking.html",
+      "title": "6.3 Design Thinking"
+    },
+    {
+      "file": "6-4-lean-processes.html",
+      "title": "6.4 Lean Processes"
+    },
+    {
+      "file": "6-case-questions.html",
+      "title": "Case Questions"
+    },
+    {
+      "file": "6-discussion-questions.html",
+      "title": "Discussion Questions"
+    },
+    {
+      "file": "6-introduction.html",
+      "title": "Introduction"
+    },
+    {
+      "file": "6-key-terms.html",
+      "title": "Key Terms"
+    },
+    {
+      "file": "6-review-questions.html",
+      "title": "Review Questions"
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "title": "Suggested Resources"
+    },
+    {
+      "file": "6-summary.html",
+      "title": "Summary"
+    }
+  ],
+  "learningObjectives": [
+    "6.1 Problem Solving to Find Entrepreneurial Solutions",
+    "6.2 Creative Problem-Solving Process",
+    "6.3 Design Thinking",
+    "6.4 Lean Processes"
+  ],
+  "keyConcepts": [
+    "process",
+    "entrepreneur",
+    "design thinking",
+    "innovation",
+    "product",
+    "creativity",
+    "brainstorming",
+    "develop",
+    "crowdsourcing",
+    "social media",
+    "customers",
+    "lean process",
+    "people",
+    "credit",
+    "marketing",
+    "venture",
+    "ideation",
+    "decisiveness",
+    "implement",
+    "evaluate",
+    "resourcefulness",
+    "copyright",
+    "clarify",
+    "observation",
+    "storyboarding",
+    "link to learning",
+    "assessment",
+    "competitive advantage",
+    "critical thinking",
+    "human-centered design",
+    "ideate",
+    "ask",
+    "empathy",
+    "invention",
+    "entrepreneurial opportunity",
+    "adaptive model",
+    "entrepreneurial problem solving",
+    "evaluation",
+    "team creativity",
+    "whiteboarding",
+    "place",
+    "petitioner problem solvers",
+    "self-regulating problem solvers",
+    "theorist problem solvers",
+    "funds",
+    "networking",
+    "toyota",
+    "learning objectives",
+    "business model",
+    "data analysis",
+    "external environment",
+    "hackathon",
+    "innovative model",
+    "internal environment",
+    "close",
+    "crowdfunding",
+    "entrepreneur in action",
+    "opportunity recognition",
+    "entrepreneurial process",
+    "communication skills",
+    "need awareness",
+    "revenue",
+    "corporation",
+    "entrepreneurial venture",
+    "harvest",
+    "value proposition",
+    "entrepreneurial journey",
+    "intellectual property",
+    "supply",
+    "advertising",
+    "price",
+    "sample",
+    "targeting",
+    "accounting",
+    "grant",
+    "business model canvas",
+    "outsourcing",
+    "capital",
+    "for-profit business",
+    "legal compliance",
+    "work it out",
+    "suggested resources",
+    "key terms",
+    "review questions",
+    "discussion questions",
+    "case questions",
+    "chapter outline"
+  ],
+  "difficultTerms": [
+    "Creative Problem-Solving Process",
+    "Copyright Rice University",
+    "CC BY NC-SA",
+    "Problem Solving to Find Entrepreneurial",
+    "Learning Objectives By",
+    "How Might We",
+    "Hirabayashi and Lidey",
+    "Identifying Entrepreneurial Opportunity",
+    "Link to Learning Read",
+    "Fast Company Innovation Festival",
+    "Are You Ready",
+    "Link to Learning Watch",
+    "DuFour and Heffern",
+    "Frame Your Design",
+    "IDEO Design Kit",
+    "Google Ventures Design Sprint",
+    "Design Thinking Mix Tapes",
+    "Design Thinking for Educators",
+    "Lean Processes Lean"
+  ],
+  "tables": [
+    {
+      "file": "6-4-lean-processes.html",
+      "id": "fs-idm288966640",
+      "summary": "No Summary"
+    }
+  ],
+  "figures": [
+    {
+      "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+      "id": "OSX_Eship_06_01_SBlakely",
+      "caption": "Figure 6.2 Sara Blakely (right) participates in a discussion at the 2018 Fast Company Innovation Festival. (credit: “Ed Bastian and Sara Blakely at the Fast Company Innovation Festival” by “Nan Palmero”/Flickr, CC BY 2.0)"
+    },
+    {
+      "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+      "id": "OSX_Eship_06_01_Skills",
+      "caption": "Figure 6.3 These are a few of the skills that entrepreneurs possess that aid in solving problems. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+      "id": "OSX_Eship_06_01_Network",
+      "caption": "Figure 6.4 Networking results in connecting individuals who otherwise might not have met and who may be able to help each other solve problems. (credit: “social media connections networking” by “GDJ”/Pixabay, CC0)"
+    },
+    {
+      "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+      "id": "OSX_Eship_06_01_KWitkin",
+      "caption": "Figure 6.5 Pictured is AGW Group cofounder Katie Witkin. (credit: photo provided by AGW Group)"
+    },
+    {
+      "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+      "id": "OSX_Eship_06_01_SelfReg",
+      "caption": "Figure 6.6 A self-regulating problem solver identifies a problem, thinks of solution, and then implements the solution. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+      "id": "OSX_Eship_06_01_Theory",
+      "caption": "Figure 6.7 A theorist problem solver identifies a problem; implements a theory, sometimes repeatedly; and eventually arrives at a solution. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+      "id": "OSX_Eship_06_01_Petition",
+      "caption": "Figure 6.8 A petitioner problem solver identifies a problem, discusses it with others, and arrives at solution agreeable to others. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "6-2-creative-problem-solving-process.html",
+      "id": "OSX_Eship_06_02_CPSolve",
+      "caption": "Figure 6.9 The process of creativity is not random; it is a specific and logical process that includes evaluation. The entrepreneur repeats the creative process until reaching a successful solution. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "6-2-creative-problem-solving-process.html",
+      "id": "OSX_Eship_06_02_Fishbone",
+      "caption": "Figure 6.10 A quality problem has main causes—here designated as a, b, c, and d. Within these main causes, there are several causes that might need to be addressed to solve the quality problem. The goal of a fishbone diagram is to find the root causes of the quality problem. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "6-2-creative-problem-solving-process.html",
+      "id": "OSX_Eship_06_02_Fishbone2",
+      "caption": "Figure 6.11 Farm water pollution could have four main causes, such as livestock, pesticide and fertilizer, soil erosion, and other chemicals. For each of those, there are other related causes. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "6-2-creative-problem-solving-process.html",
+      "id": "OSX_Eship_06_02_Storyboarding",
+      "caption": "Figure 6.12 Storyboarding helps entrepreneurs and team members to visually represent steps in product creation and problem solving. (credit: “Clue storyboarding” by Adam Wiggins/Flickr, CC BY 2.0)"
+    },
+    {
+      "file": "6-2-creative-problem-solving-process.html",
+      "id": "OSX_Eship_06_02_Totes",
+      "caption": "Figure 6.13 This photograph was taken by a traveler, Kelsey Friedman, who studied abroad in Rwanda through Virginia Tech’s International Business in Lugano: Combining Theory and Practice program. (credit: photo provided by Taaluma Totes)"
+    },
+    {
+      "file": "6-3-design-thinking.html",
+      "id": "OSX_Eship_06_03_DTProcess",
+      "caption": "Figure 6.14 The design thinking process focuses on the spaces of inspiration, ideation, and implementation. (credit (left): modification of “thought idea innovation imagination” by “TeroVesalainen”/Pixabay, CC0; credit (center): modification of “document paper business chart” by “rawpixel”/Pixabay, CC0; credit (right): modification of “office business colleagues meeting” by “Free-Photos”/Pixabay, CC0)"
+    },
+    {
+      "file": "6-3-design-thinking.html",
+      "id": "OSX_Eship_06_03_QLadder",
+      "caption": "Figure 6.15 A question ladder can help refine questions. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "6-4-lean-processes.html",
+      "id": "OSX_Eship_06_04_Whiteboard",
+      "caption": "Figure 6.16 Whiteboarding is a technique that can help entrepreneurs visualize and analyze processes. (credit: “whiteboard man presentation write” by “StartupStockPhotos”/Pixabay, CC0)"
+    },
+    {
+      "file": "6-4-lean-processes.html",
+      "id": "OSX_Eship_06_05_Toyoda",
+      "caption": "Figure 6.17 Kiichiro Toyoda introduced new ways to improve processes. (credit: “Kiichiro Toyoda” by “Scanyaro”/Wikimedia Commons, Public Domain)"
+    },
+    {
+      "file": "6-introduction.html",
+      "id": "OSX_Eship_06_00_Maze",
+      "caption": "Figure 6.1 Sometimes, navigating from the recognition of an opportunity to overcoming problems in the development of that opportunity can feel like winding through a maze. (credit: modification of “human hand company paper solutions” by “Eluj”/Pixabay, CC0)"
+    }
+  ],
+  "relevantGlossaryTerms": [
+    {
+      "term": "process",
+      "translation": "quy trình"
+    },
+    {
+      "term": "entrepreneur",
+      "translation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "design thinking",
+      "translation": "tư duy thiết kế"
+    },
+    {
+      "term": "innovation",
+      "translation": "đổi mới"
+    },
+    {
+      "term": "product",
+      "translation": "sản phẩm"
+    },
+    {
+      "term": "creativity",
+      "translation": "sự sáng tạo"
+    },
+    {
+      "term": "brainstorming",
+      "translation": "động não"
+    },
+    {
+      "term": "develop",
+      "translation": "phát triển"
+    },
+    {
+      "term": "crowdsourcing",
+      "translation": "huy động trí tuệ đám đông"
+    },
+    {
+      "term": "social media",
+      "translation": "mạng xã hội"
+    },
+    {
+      "term": "customers",
+      "translation": "khách hàng"
+    },
+    {
+      "term": "lean process",
+      "translation": "quy trình tinh gọn"
+    },
+    {
+      "term": "people",
+      "translation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "credit",
+      "translation": "tín dụng"
+    },
+    {
+      "term": "marketing",
+      "translation": "tiếp thị"
+    },
+    {
+      "term": "venture",
+      "translation": "doanh nghiệp (venture)"
+    },
+    {
+      "term": "ideation",
+      "translation": "quá trình hình thành ý tưởng"
+    },
+    {
+      "term": "decisiveness",
+      "translation": "tính quyết đoán"
+    },
+    {
+      "term": "implement",
+      "translation": "triển khai"
+    },
+    {
+      "term": "evaluate",
+      "translation": "đánh giá (evaluate)"
+    },
+    {
+      "term": "resourcefulness",
+      "translation": "tính tháo vát"
+    },
+    {
+      "term": "copyright",
+      "translation": "bản quyền"
+    },
+    {
+      "term": "clarify",
+      "translation": "làm rõ"
+    },
+    {
+      "term": "observation",
+      "translation": "quan sát"
+    },
+    {
+      "term": "storyboarding",
+      "translation": "xây dựng bảng phân cảnh"
+    },
+    {
+      "term": "link to learning",
+      "translation": "liên kết học tập"
+    },
+    {
+      "term": "assessment",
+      "translation": "giai đoạn đánh giá (assessment)"
+    },
+    {
+      "term": "competitive advantage",
+      "translation": "lợi thế cạnh tranh"
+    },
+    {
+      "term": "critical thinking",
+      "translation": "tư duy phản biện"
+    },
+    {
+      "term": "human-centered design",
+      "translation": "thiết kế lấy con người làm trung tâm"
+    },
+    {
+      "term": "ideate",
+      "translation": "hình thành ý tưởng"
+    },
+    {
+      "term": "ask",
+      "translation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "empathy",
+      "translation": "sự thấu cảm"
+    },
+    {
+      "term": "invention",
+      "translation": "phát minh"
+    },
+    {
+      "term": "entrepreneurial opportunity",
+      "translation": "cơ hội khởi nghiệp"
+    },
+    {
+      "term": "adaptive model",
+      "translation": "mô hình thích ứng"
+    },
+    {
+      "term": "entrepreneurial problem solving",
+      "translation": "giải quyết vấn đề khởi nghiệp"
+    },
+    {
+      "term": "evaluation",
+      "translation": "giai đoạn đánh giá (evaluation)"
+    },
+    {
+      "term": "team creativity",
+      "translation": "sáng tạo nhóm"
+    },
+    {
+      "term": "whiteboarding",
+      "translation": "phác thảo trên bảng trắng"
+    },
+    {
+      "term": "place",
+      "translation": "phân phối (place)"
+    },
+    {
+      "term": "petitioner problem solvers",
+      "translation": "người tìm kiếm giải pháp từ người khác"
+    },
+    {
+      "term": "self-regulating problem solvers",
+      "translation": "người giải quyết vấn đề tự chủ"
+    },
+    {
+      "term": "theorist problem solvers",
+      "translation": "người giải quyết vấn đề theo lý thuyết"
+    },
+    {
+      "term": "funds",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "networking",
+      "translation": "xây dựng mạng lưới quan hệ"
+    },
+    {
+      "term": "toyota",
+      "translation": "Toyota"
+    },
+    {
+      "term": "learning objectives",
+      "translation": "mục tiêu học tập"
+    },
+    {
+      "term": "business model",
+      "translation": "mô hình kinh doanh"
+    },
+    {
+      "term": "data analysis",
+      "translation": "phân tích dữ liệu"
+    },
+    {
+      "term": "external environment",
+      "translation": "môi trường bên ngoài"
+    },
+    {
+      "term": "hackathon",
+      "translation": "hackathon"
+    },
+    {
+      "term": "innovative model",
+      "translation": "mô hình đổi mới"
+    },
+    {
+      "term": "internal environment",
+      "translation": "môi trường bên trong"
+    },
+    {
+      "term": "close",
+      "translation": "chốt bán hàng"
+    },
+    {
+      "term": "crowdfunding",
+      "translation": "gọi vốn cộng đồng"
+    },
+    {
+      "term": "entrepreneur in action",
+      "translation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "opportunity recognition",
+      "translation": "nhận diện cơ hội kinh doanh"
+    },
+    {
+      "term": "entrepreneurial process",
+      "translation": "quy trình khởi nghiệp"
+    },
+    {
+      "term": "communication skills",
+      "translation": "kỹ năng giao tiếp"
+    },
+    {
+      "term": "need awareness",
+      "translation": "nhận thức nhu cầu"
+    },
+    {
+      "term": "revenue",
+      "translation": "doanh thu"
+    },
+    {
+      "term": "corporation",
+      "translation": "công ty cổ phần"
+    },
+    {
+      "term": "entrepreneurial venture",
+      "translation": "dự án khởi nghiệp"
+    },
+    {
+      "term": "harvest",
+      "translation": "thoái vốn/hiện thực hóa giá trị"
+    },
+    {
+      "term": "value proposition",
+      "translation": "giá trị đề xuất"
+    },
+    {
+      "term": "entrepreneurial journey",
+      "translation": "hành trình khởi nghiệp"
+    },
+    {
+      "term": "intellectual property",
+      "translation": "tài sản trí tuệ"
+    },
+    {
+      "term": "supply",
+      "translation": "cung"
+    },
+    {
+      "term": "advertising",
+      "translation": "quảng cáo"
+    },
+    {
+      "term": "price",
+      "translation": "giá"
+    },
+    {
+      "term": "sample",
+      "translation": "mẫu khảo sát"
+    },
+    {
+      "term": "targeting",
+      "translation": "lựa chọn thị trường mục tiêu"
+    },
+    {
+      "term": "accounting",
+      "translation": "kế toán"
+    },
+    {
+      "term": "grant",
+      "translation": "khoản tài trợ"
+    },
+    {
+      "term": "business model canvas",
+      "translation": "mô hình kinh doanh canvas"
+    },
+    {
+      "term": "outsourcing",
+      "translation": "thuê ngoài"
+    },
+    {
+      "term": "capital",
+      "translation": "vốn"
+    },
+    {
+      "term": "for-profit business",
+      "translation": "doanh nghiệp vì lợi nhuận"
+    },
+    {
+      "term": "legal compliance",
+      "translation": "tuân thủ pháp luật"
+    },
+    {
+      "term": "work it out",
+      "translation": "thực hành"
+    },
+    {
+      "term": "suggested resources",
+      "translation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "key terms",
+      "translation": "thuật ngữ chính"
+    },
+    {
+      "term": "review questions",
+      "translation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "translation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "translation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "translation": "dàn ý chương"
+    }
+  ],
+  "translationNotes": [
+    "Chapter contains 1 tables. In the prep phase, table cells (td/th) will be wrapped in bilingual spans. Be careful to preserve cells layout and IDs during translation.",
+    "Chapter contains 17 figures. Figures captions must be prepped and translated, preserving media references and buttons.",
+    "Chapter contains 4 learning objectives. Objectives lists should be translated accurately following technical tone."
+  ],
+  "warnings": []
+}

@@ -1,0 +1,531 @@
+{
+  "chapterTitle": "Introduction",
+  "sections": [
+    {
+      "file": "4-1-tools-for-creativity-and-innovation.html",
+      "title": "4.1 Tools for Creativity and Innovation"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "title": "4.2 Creativity, Innovation, and Invention: How They Differ"
+    },
+    {
+      "file": "4-3-developing-ideas-innovations-and-inventions.html",
+      "title": "4.3 Developing Ideas, Innovations, and Inventions"
+    },
+    {
+      "file": "4-case-questions.html",
+      "title": "Case Questions"
+    },
+    {
+      "file": "4-discussion-questions.html",
+      "title": "Discussion Questions"
+    },
+    {
+      "file": "4-introduction.html",
+      "title": "Introduction"
+    },
+    {
+      "file": "4-key-terms.html",
+      "title": "Key Terms"
+    },
+    {
+      "file": "4-review-questions.html",
+      "title": "Review Questions"
+    },
+    {
+      "file": "4-suggested-resources.html",
+      "title": "Suggested Resources"
+    },
+    {
+      "file": "4-summary.html",
+      "title": "Summary"
+    }
+  ],
+  "learningObjectives": [
+    "4.1 Tools for Creativity and Innovation",
+    "4.2 Creativity, Innovation, and Invention: How They Differ",
+    "4.3 Developing Ideas, Innovations, and Inventions"
+  ],
+  "keyConcepts": [
+    "innovation",
+    "product",
+    "invention",
+    "creativity",
+    "process",
+    "patent",
+    "people",
+    "ideation",
+    "develop",
+    "open innovation",
+    "design thinking",
+    "diffusion chasm",
+    "empathy",
+    "customers",
+    "credit",
+    "copyright",
+    "intellectual property",
+    "lateral thinking",
+    "pain point",
+    "pioneering innovation",
+    "scientific method",
+    "entrepreneur",
+    "brainstorming",
+    "disruptive innovation",
+    "evaluation",
+    "marketing",
+    "iterative development",
+    "linear thinking",
+    "incremental innovation",
+    "early adopters",
+    "disruptive technology",
+    "market research",
+    "stakeholders",
+    "link to learning",
+    "demand",
+    "demographics",
+    "corporate narrative",
+    "crowdfunding",
+    "learning objectives",
+    "entrepreneurial journey",
+    "framework",
+    "user interface",
+    "human-centered design",
+    "implement",
+    "ask",
+    "place",
+    "lean startup",
+    "capital",
+    "corporation",
+    "mcdonald’s",
+    "key terms",
+    "entrepreneurial spirit",
+    "social entrepreneurship",
+    "trademark",
+    "utility patent",
+    "social impact",
+    "competitive advantage",
+    "evaluate",
+    "observation",
+    "brand",
+    "accounting",
+    "revenue",
+    "business plan",
+    "relationship management",
+    "entrepreneur in action",
+    "tesla",
+    "toyota",
+    "work it out",
+    "suggested resources",
+    "review questions",
+    "discussion questions",
+    "case questions",
+    "chapter outline"
+  ],
+  "difficultTerms": [
+    "Copyright Rice University",
+    "CC BY NC-SA",
+    "Six Thinking Hats",
+    "The Six Thinking Hats",
+    "The Creative Process",
+    "Tools for Creativity and Innovation",
+    "The Five Stages of Creativity",
+    "How They Differ",
+    "The Venetian Arsenal",
+    "Developing an Invention The"
+  ],
+  "tables": [
+    {
+      "file": "4-1-tools-for-creativity-and-innovation.html",
+      "id": "fs-idm352609680",
+      "summary": "No Summary"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "id": "fs-idm601260656",
+      "summary": "No Summary"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "id": "fs-idm353124912",
+      "summary": "No Summary"
+    }
+  ],
+  "figures": [
+    {
+      "file": "4-1-tools-for-creativity-and-innovation.html",
+      "id": "OSX_Eship_04_01_Walking",
+      "caption": "Figure 4.2 When your process hits a sticking point, a walk—or a walk and talk—can help boost your creativity in thinking through solutions. (credit: “beard business city colleague” by “rawpixel”/Pixabay, CC0)"
+    },
+    {
+      "file": "4-1-tools-for-creativity-and-innovation.html",
+      "id": "OSX_Eship_04_03_Empathic",
+      "caption": "Figure 4.3 The empathetic design cycle is human-centric. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-1-tools-for-creativity-and-innovation.html",
+      "id": "OSX_Eship_04_03_SixHats",
+      "caption": "Figure 4.4 The Six Thinking Hats exercise is designed to have each participant focus on a particular approach to the problem or discussion. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "id": "OSX_Eship_04_01_LLThink",
+      "caption": "Figure 4.5 Entrepreneurs can be most effective if they use both linear and lateral thinking. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "id": "OSX_Eship_04_01_Nohbo",
+      "caption": "Figure 4.6 This is part of the patent application for Nohbo drops. (credit: modification of “US Patent US20170014313A1” by Nohbo LLC/Google Patents, Public Domain)"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "id": "OSX_Eship_04_02_Assembly",
+      "caption": "Figure 4.7 (a) Workers assemble car parts on an early Ford factory assembly line. (b) The Venetian Arsenal was an early “assembly line” where workers could build a complete ship in a single day. (credit (a): modification of “Ford assembly line – 1913” by “Hohum”/Wikimedia Commons, Public Domain; credit (b): modification of “venice-arsenal-italy” by “irenetriches1”/Pixabay, CC0)"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "id": "OSX_Eship_04_01_DecScience",
+      "caption": "Figure 4.8 Elon Musk’s six-step decision making process follows a sequence of steps similar to the scientific method. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "id": "OSX_Eship_04_02_DiffCurve",
+      "caption": "Figure 4.9 The diffusion curve shows the adoption lifecycle according to the research of Everett Rogers. The diffusion chasm occurs during early adoption. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+      "id": "OSX_Eship_04_01_Razor",
+      "caption": "Figure 4.10 (a) The straight razor is still in use, but there are newer innovations that are more popular. (b) The safety razor is an innovation over the straight razor. (c) The electric razor is an innovation related to the safety razor. (credit (a): modification of “barber-beard-razor-shaving” by “jackmac34”/Pixabay, CC0; credit (b): modification of “Safety Razor vs Cartridge Razor” by “Tools of Men”/Creative Commons, CC BY 2.0; credit (c): modification of “Philips 8290 shaver unboxing” by “renaissancechambara”/Creative Commons, CC BY 2.0)"
+    },
+    {
+      "file": "4-3-developing-ideas-innovations-and-inventions.html",
+      "id": "OSX_Eship_04_02_FiveStages",
+      "caption": "Figure 4.11 These are the five stages of creativity, according to Graham Wallas in The Art of Thought . 35 (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-3-developing-ideas-innovations-and-inventions.html",
+      "id": "OSX_Eship_04_02_InnovPyr",
+      "caption": "Figure 4.12 The innovation pyramid is one multileveled approach to innovation. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-3-developing-ideas-innovations-and-inventions.html",
+      "id": "OSX_Eship_04_03_DICEE",
+      "caption": "Figure 4.13 Innovative products are deep, indulgent, complete, elegant, and emotive. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-3-developing-ideas-innovations-and-inventions.html",
+      "id": "OSX_Eship_04_02_JGutenberg",
+      "caption": "Figure 4.14 Gutenberg’s invention of movable type was an important innovation in printing. (credit (a): modification of “Printer in 1568-ce” by “Parhamr”/Wikimedia Commons, Public Domain; credit (b): modification of “Metal movable type” by Willi Heidelbach/Wikimedia Commons, CC BY 2.5)"
+    },
+    {
+      "file": "4-3-developing-ideas-innovations-and-inventions.html",
+      "id": "OSX_Eship_04_03_FiveSteps",
+      "caption": "Figure 4.15 These are the five steps for developing an invention, according to Sourcify. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "4-introduction.html",
+      "id": "OSX_Eship_04_00_Creativity",
+      "caption": "Figure 4.1 Creativity comes in many forms. It can be messy, but creativity is an essential element of innovation and inventiveness, both of which can drive entrepreneurship. (credit: modification of “On creativity” by Linus Bohman/Flickr, CC BY 2.0)"
+    }
+  ],
+  "relevantGlossaryTerms": [
+    {
+      "term": "innovation",
+      "translation": "đổi mới"
+    },
+    {
+      "term": "product",
+      "translation": "sản phẩm"
+    },
+    {
+      "term": "invention",
+      "translation": "phát minh"
+    },
+    {
+      "term": "creativity",
+      "translation": "sự sáng tạo"
+    },
+    {
+      "term": "process",
+      "translation": "quy trình"
+    },
+    {
+      "term": "patent",
+      "translation": "bằng sáng chế"
+    },
+    {
+      "term": "people",
+      "translation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "ideation",
+      "translation": "quá trình hình thành ý tưởng"
+    },
+    {
+      "term": "develop",
+      "translation": "phát triển"
+    },
+    {
+      "term": "open innovation",
+      "translation": "đổi mới mở"
+    },
+    {
+      "term": "design thinking",
+      "translation": "tư duy thiết kế"
+    },
+    {
+      "term": "diffusion chasm",
+      "translation": "khoảng cách khuếch tán"
+    },
+    {
+      "term": "empathy",
+      "translation": "sự thấu cảm"
+    },
+    {
+      "term": "customers",
+      "translation": "khách hàng"
+    },
+    {
+      "term": "credit",
+      "translation": "tín dụng"
+    },
+    {
+      "term": "copyright",
+      "translation": "bản quyền"
+    },
+    {
+      "term": "intellectual property",
+      "translation": "tài sản trí tuệ"
+    },
+    {
+      "term": "lateral thinking",
+      "translation": "tư duy phi tuyến"
+    },
+    {
+      "term": "pain point",
+      "translation": "điểm đau (vấn đề của khách hàng)"
+    },
+    {
+      "term": "pioneering innovation",
+      "translation": "đổi mới tiên phong"
+    },
+    {
+      "term": "scientific method",
+      "translation": "phương pháp khoa học"
+    },
+    {
+      "term": "entrepreneur",
+      "translation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "brainstorming",
+      "translation": "động não"
+    },
+    {
+      "term": "disruptive innovation",
+      "translation": "đổi mới đột phá"
+    },
+    {
+      "term": "evaluation",
+      "translation": "giai đoạn đánh giá (evaluation)"
+    },
+    {
+      "term": "marketing",
+      "translation": "tiếp thị"
+    },
+    {
+      "term": "iterative development",
+      "translation": "phát triển lặp"
+    },
+    {
+      "term": "linear thinking",
+      "translation": "tư duy tuyến tính"
+    },
+    {
+      "term": "incremental innovation",
+      "translation": "đổi mới gia tăng"
+    },
+    {
+      "term": "early adopters",
+      "translation": "người chấp nhận sớm"
+    },
+    {
+      "term": "disruptive technology",
+      "translation": "công nghệ đột phá"
+    },
+    {
+      "term": "market research",
+      "translation": "nghiên cứu thị trường"
+    },
+    {
+      "term": "stakeholders",
+      "translation": "stakeholders"
+    },
+    {
+      "term": "link to learning",
+      "translation": "liên kết học tập"
+    },
+    {
+      "term": "demand",
+      "translation": "nhu cầu"
+    },
+    {
+      "term": "demographics",
+      "translation": "nhân khẩu học"
+    },
+    {
+      "term": "corporate narrative",
+      "translation": "câu chuyện doanh nghiệp"
+    },
+    {
+      "term": "crowdfunding",
+      "translation": "gọi vốn cộng đồng"
+    },
+    {
+      "term": "learning objectives",
+      "translation": "mục tiêu học tập"
+    },
+    {
+      "term": "entrepreneurial journey",
+      "translation": "hành trình khởi nghiệp"
+    },
+    {
+      "term": "framework",
+      "translation": "khuôn khổ"
+    },
+    {
+      "term": "user interface",
+      "translation": "giao diện người dùng"
+    },
+    {
+      "term": "human-centered design",
+      "translation": "thiết kế lấy con người làm trung tâm"
+    },
+    {
+      "term": "implement",
+      "translation": "triển khai"
+    },
+    {
+      "term": "ask",
+      "translation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "place",
+      "translation": "phân phối (place)"
+    },
+    {
+      "term": "lean startup",
+      "translation": "khởi nghiệp tinh gọn"
+    },
+    {
+      "term": "capital",
+      "translation": "vốn"
+    },
+    {
+      "term": "corporation",
+      "translation": "công ty cổ phần"
+    },
+    {
+      "term": "mcdonald’s",
+      "translation": "McDonald’s"
+    },
+    {
+      "term": "key terms",
+      "translation": "thuật ngữ chính"
+    },
+    {
+      "term": "entrepreneurial spirit",
+      "translation": "tinh thần khởi nghiệp"
+    },
+    {
+      "term": "social entrepreneurship",
+      "translation": "khởi nghiệp xã hội"
+    },
+    {
+      "term": "trademark",
+      "translation": "nhãn hiệu"
+    },
+    {
+      "term": "utility patent",
+      "translation": "bằng sáng chế tiện ích"
+    },
+    {
+      "term": "social impact",
+      "translation": "tác động xã hội"
+    },
+    {
+      "term": "competitive advantage",
+      "translation": "lợi thế cạnh tranh"
+    },
+    {
+      "term": "evaluate",
+      "translation": "đánh giá (evaluate)"
+    },
+    {
+      "term": "observation",
+      "translation": "quan sát"
+    },
+    {
+      "term": "brand",
+      "translation": "thương hiệu"
+    },
+    {
+      "term": "accounting",
+      "translation": "kế toán"
+    },
+    {
+      "term": "revenue",
+      "translation": "doanh thu"
+    },
+    {
+      "term": "business plan",
+      "translation": "kế hoạch kinh doanh"
+    },
+    {
+      "term": "relationship management",
+      "translation": "quản lý quan hệ"
+    },
+    {
+      "term": "entrepreneur in action",
+      "translation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "tesla",
+      "translation": "Tesla"
+    },
+    {
+      "term": "toyota",
+      "translation": "Toyota"
+    },
+    {
+      "term": "work it out",
+      "translation": "thực hành"
+    },
+    {
+      "term": "suggested resources",
+      "translation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "review questions",
+      "translation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "translation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "translation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "translation": "dàn ý chương"
+    }
+  ],
+  "translationNotes": [
+    "Chapter contains 3 tables. In the prep phase, table cells (td/th) will be wrapped in bilingual spans. Be careful to preserve cells layout and IDs during translation.",
+    "Chapter contains 15 figures. Figures captions must be prepped and translated, preserving media references and buttons.",
+    "Chapter contains 3 learning objectives. Objectives lists should be translated accurately following technical tone."
+  ],
+  "warnings": []
+}

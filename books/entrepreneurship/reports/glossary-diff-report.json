@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-06-11T17:21:04.853Z",
+  "bookSlug": "entrepreneurship",
+  "summary": {
+    "added": 0,
+    "updated": 1,
+    "removed": 0,
+    "deprecated": 0,
+    "locked": 0
+  },
+  "diff": {
+    "added": [],
+    "updated": [
+      {
+        "term": "career entrepreneur",
+        "chapterRefs": "",
+        "changes": [
+          {
+            "field": "translation",
+            "oldVal": "doanh nhân theo đuổi sự nghiệp lâu dài",
+            "newVal": "doanh nhân chuyên nghiệp"
+          }
+        ]
+      }
+    ],
+    "removed": [],
+    "deprecated": [],
+    "locked": []
+  }
+}

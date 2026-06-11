@@ -1,0 +1,20 @@
+{
+  "chapterId": "chapter-13",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "13-review-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm357590672-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Limited liability partnerships (LLPs) ________....\""
+    },
+    {
+      "file": "13-review-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm350812448-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Sole proprietorships ________....\""
+    }
+  ]
+}

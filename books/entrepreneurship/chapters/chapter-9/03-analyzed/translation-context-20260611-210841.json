@@ -1,0 +1,689 @@
+{
+  "chapterTitle": "Introduction",
+  "sections": [
+    {
+      "file": "9-1-overview-of-entrepreneurial-finance-and-accounting-strategies.html",
+      "title": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies"
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "title": "9.2 Special Funding Strategies"
+    },
+    {
+      "file": "9-3-accounting-basics-for-entrepreneurs.html",
+      "title": "9.3 Accounting Basics for Entrepreneurs"
+    },
+    {
+      "file": "9-4-developing-startup-financial-statements-and-projections.html",
+      "title": "9.4 Developing Startup Financial Statements and Projections"
+    },
+    {
+      "file": "9-case-questions.html",
+      "title": "Case Questions"
+    },
+    {
+      "file": "9-discussion-questions.html",
+      "title": "Discussion Questions"
+    },
+    {
+      "file": "9-introduction.html",
+      "title": "Introduction"
+    },
+    {
+      "file": "9-key-terms.html",
+      "title": "Key Terms"
+    },
+    {
+      "file": "9-review-questions.html",
+      "title": "Review Questions"
+    },
+    {
+      "file": "9-suggested-resources.html",
+      "title": "Suggested Resources"
+    },
+    {
+      "file": "9-summary.html",
+      "title": "Summary"
+    }
+  ],
+  "learningObjectives": [
+    "9.1 Overview of Entrepreneurial Finance and Accounting Strategies",
+    "9.2 Special Funding Strategies",
+    "9.3 Accounting Basics for Entrepreneurs",
+    "9.4 Developing Startup Financial Statements and Projections"
+  ],
+  "keyConcepts": [
+    "accounting",
+    "financing",
+    "assets",
+    "equity",
+    "revenue",
+    "expenses",
+    "product",
+    "crowdfunding",
+    "funds",
+    "venture",
+    "accounting equation",
+    "credit",
+    "customers",
+    "entrepreneur",
+    "bootstrapping",
+    "balance sheet",
+    "capital",
+    "statement of cash flows",
+    "process",
+    "equity financing",
+    "copyright",
+    "debt financing",
+    "grant",
+    "bartering",
+    "collateral",
+    "price",
+    "contribution margin",
+    "financial statement",
+    "cash flow",
+    "people",
+    "fixed costs",
+    "gross profit",
+    "business plan",
+    "program services",
+    "social entrepreneurship",
+    "burn rate",
+    "cost of goods sold",
+    "early stage",
+    "liability",
+    "moonlighting",
+    "net income",
+    "run rate",
+    "variable costs",
+    "working capital",
+    "link to learning",
+    "business model",
+    "develop",
+    "marketing",
+    "profit margin",
+    "social media",
+    "angel investor",
+    "charitable organization",
+    "fixed assets",
+    "seed stage",
+    "learning objectives",
+    "demand",
+    "ask",
+    "pitch",
+    "advertising",
+    "place",
+    "donation",
+    "investing activities",
+    "mature stage",
+    "projection",
+    "tax-exempt status",
+    "stakeholders",
+    "key terms",
+    "mission statement",
+    "breakeven point",
+    "creativity",
+    "financial viability",
+    "implement",
+    "accounts payable",
+    "accounts receivable",
+    "financing activities",
+    "operating activities",
+    "sustainable strategy",
+    "valuation",
+    "venture capitalist",
+    "insurance",
+    "work it out",
+    "entrepreneurial venture",
+    "value proposition",
+    "sustainability",
+    "infrastructure",
+    "supply",
+    "close",
+    "income (profit-and-loss) statement",
+    "financial sustainability",
+    "operational expenses",
+    "corporation",
+    "independent contractors",
+    "entrepreneur in action",
+    "contracts",
+    "funding resources",
+    "suggested resources",
+    "review questions",
+    "discussion questions",
+    "case questions",
+    "chapter outline"
+  ],
+  "difficultTerms": [
+    "Copyright Rice University",
+    "CC BY NC-SA",
+    "The Statement of Cash Flows",
+    "Special Funding Strategies",
+    "Accounting Basics for Entrepreneurs",
+    "Small Business Administration",
+    "Overview of Entrepreneurial Finance and Accounting",
+    "Developing Startup Financial Statements",
+    "How I Built This",
+    "In Special Funding Strategies",
+    "Are You Ready",
+    "Metropolitan Museum of Art",
+    "Internal Revenue Service",
+    "Strategies Learning Objectives By",
+    "Securities and Exchange Commission",
+    "In the United States",
+    "New York City",
+    "National Institutes of Health",
+    "Business Plan Competition",
+    "The Boston Beer Company",
+    "Boston Beer Company",
+    "The Balance Sheet The",
+    "The Income Statement The"
+  ],
+  "tables": [
+    {
+      "file": "9-1-overview-of-entrepreneurial-finance-and-accounting-strategies.html",
+      "id": "fs-idm357454496",
+      "summary": "No Summary"
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "id": "fs-idm342536192",
+      "summary": "No Summary"
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "id": "fs-idm347916400",
+      "summary": "No Summary"
+    }
+  ],
+  "figures": [
+    {
+      "file": "9-1-overview-of-entrepreneurial-finance-and-accounting-strategies.html",
+      "id": "OSX_Eship_09_01_Stages",
+      "caption": "Figure 9.2 Funding strategies can change across different phases of the company lifecycle."
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "id": "OSX_Eship_09_02_MetMission",
+      "caption": "Figure 9.3 The mission statement of New York’s Metropolitan Museum of Art summarizes the purpose of this entity. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "id": "OSX_Eship_09_02_Toms",
+      "caption": "Figure 9.4 The TOMS origin story provides an example of social entrepreneurship. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-2-special-funding-strategies.html",
+      "id": "OSX_Eship_09_02_Funding",
+      "caption": "Figure 9.5 Entrepreneurs can explore a variety of no-loan funding options. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-3-accounting-basics-for-entrepreneurs.html",
+      "id": "OSX_Eship_09_03_AcctEq",
+      "caption": "Figure 9.6 The accounting equation provides the foundation of a company’s financial status and outlook. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-3-accounting-basics-for-entrepreneurs.html",
+      "id": "OSX_Eship_09_03_Equity01",
+      "caption": "Figure 9.7 An initial $1,000 contribution by the owner is recorded in the accounting equation. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-3-accounting-basics-for-entrepreneurs.html",
+      "id": "OSX_Eship_09_03_Equity02",
+      "caption": "Figure 9.8 The purchase of a laptop computer using existing cash is recorded in the accounting equation. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-3-accounting-basics-for-entrepreneurs.html",
+      "id": "OSX_Eship_09_03_Equity03",
+      "caption": "Figure 9.9 An owner contribution of $100 is recorded in the accounting equation. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-3-accounting-basics-for-entrepreneurs.html",
+      "id": "OSX_Eship_09_03_Equity04",
+      "caption": "Figure 9.10 The purchase of the computer asset using cash and a credit card is recorded in the accounting equation. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-4-developing-startup-financial-statements-and-projections.html",
+      "id": "OSX_Eship_09_04_HPBalance",
+      "caption": "Figure 9.11 This is Hometown Pizzeria’s balance sheet. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-4-developing-startup-financial-statements-and-projections.html",
+      "id": "OSX_Eship_09_04_HPIncome",
+      "caption": "Figure 9.12 This is Hometown Pizzeria’s income statement. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-4-developing-startup-financial-statements-and-projections.html",
+      "id": "OSX_Eship_09_04_Equity05",
+      "caption": "Figure 9.13 This shows recording a customer sale of $5,000. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-4-developing-startup-financial-statements-and-projections.html",
+      "id": "OSX_Eship_09_04_HPCashFlow",
+      "caption": "Figure 9.14 This is Hometown Pizzeria’s statement of cash flows. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-4-developing-startup-financial-statements-and-projections.html",
+      "id": "OSX_Eship_09_04_HPContMarg",
+      "caption": "Figure 9.15 This is Hometown Pizzeria’s contribution margin. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-4-developing-startup-financial-statements-and-projections.html",
+      "id": "OSX_Eship_09_04_HPBreakEv",
+      "caption": "Figure 9.16 This is Hometown Pizzeria’s break-even point. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "9-introduction.html",
+      "id": "OSX_Eship_09_00_Backpack",
+      "caption": "Figure 9.1 An advertisement showcasing the features of the iBackPack."
+    }
+  ],
+  "relevantGlossaryTerms": [
+    {
+      "term": "accounting",
+      "translation": "kế toán"
+    },
+    {
+      "term": "financing",
+      "translation": "huy động vốn"
+    },
+    {
+      "term": "assets",
+      "translation": "tài sản"
+    },
+    {
+      "term": "equity",
+      "translation": "vốn chủ sở hữu"
+    },
+    {
+      "term": "revenue",
+      "translation": "doanh thu"
+    },
+    {
+      "term": "expenses",
+      "translation": "chi phí"
+    },
+    {
+      "term": "product",
+      "translation": "sản phẩm"
+    },
+    {
+      "term": "crowdfunding",
+      "translation": "gọi vốn cộng đồng"
+    },
+    {
+      "term": "funds",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "venture",
+      "translation": "doanh nghiệp (venture)"
+    },
+    {
+      "term": "accounting equation",
+      "translation": "phương trình kế toán"
+    },
+    {
+      "term": "credit",
+      "translation": "tín dụng"
+    },
+    {
+      "term": "customers",
+      "translation": "khách hàng"
+    },
+    {
+      "term": "entrepreneur",
+      "translation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "bootstrapping",
+      "translation": "tự huy động vốn"
+    },
+    {
+      "term": "balance sheet",
+      "translation": "bảng cân đối kế toán"
+    },
+    {
+      "term": "capital",
+      "translation": "vốn"
+    },
+    {
+      "term": "statement of cash flows",
+      "translation": "báo cáo lưu chuyển tiền tệ"
+    },
+    {
+      "term": "process",
+      "translation": "quy trình"
+    },
+    {
+      "term": "equity financing",
+      "translation": "tài trợ bằng vốn chủ sở hữu"
+    },
+    {
+      "term": "copyright",
+      "translation": "bản quyền"
+    },
+    {
+      "term": "debt financing",
+      "translation": "tài trợ bằng nợ"
+    },
+    {
+      "term": "grant",
+      "translation": "khoản tài trợ"
+    },
+    {
+      "term": "bartering",
+      "translation": "trao đổi hàng hóa (barter)"
+    },
+    {
+      "term": "collateral",
+      "translation": "tài sản thế chấp"
+    },
+    {
+      "term": "price",
+      "translation": "giá"
+    },
+    {
+      "term": "contribution margin",
+      "translation": "lợi nhuận đóng góp"
+    },
+    {
+      "term": "financial statement",
+      "translation": "báo cáo tài chính"
+    },
+    {
+      "term": "cash flow",
+      "translation": "dòng tiền"
+    },
+    {
+      "term": "people",
+      "translation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "fixed costs",
+      "translation": "chi phí cố định"
+    },
+    {
+      "term": "gross profit",
+      "translation": "lợi nhuận gộp"
+    },
+    {
+      "term": "business plan",
+      "translation": "kế hoạch kinh doanh"
+    },
+    {
+      "term": "program services",
+      "translation": "dịch vụ chương trình"
+    },
+    {
+      "term": "social entrepreneurship",
+      "translation": "khởi nghiệp xã hội"
+    },
+    {
+      "term": "burn rate",
+      "translation": "tốc độ đốt tiền"
+    },
+    {
+      "term": "cost of goods sold",
+      "translation": "giá vốn hàng bán"
+    },
+    {
+      "term": "early stage",
+      "translation": "giai đoạn đầu"
+    },
+    {
+      "term": "liability",
+      "translation": "nợ phải trả"
+    },
+    {
+      "term": "moonlighting",
+      "translation": "làm thêm ngoài giờ"
+    },
+    {
+      "term": "net income",
+      "translation": "lợi nhuận ròng"
+    },
+    {
+      "term": "run rate",
+      "translation": "tốc độ vận hành (run rate)"
+    },
+    {
+      "term": "variable costs",
+      "translation": "chi phí biến đổi"
+    },
+    {
+      "term": "working capital",
+      "translation": "vốn lưu động"
+    },
+    {
+      "term": "link to learning",
+      "translation": "liên kết học tập"
+    },
+    {
+      "term": "business model",
+      "translation": "mô hình kinh doanh"
+    },
+    {
+      "term": "develop",
+      "translation": "phát triển"
+    },
+    {
+      "term": "marketing",
+      "translation": "tiếp thị"
+    },
+    {
+      "term": "profit margin",
+      "translation": "biên lợi nhuận"
+    },
+    {
+      "term": "social media",
+      "translation": "mạng xã hội"
+    },
+    {
+      "term": "angel investor",
+      "translation": "nhà đầu tư thiên thần"
+    },
+    {
+      "term": "charitable organization",
+      "translation": "tổ chức từ thiện"
+    },
+    {
+      "term": "fixed assets",
+      "translation": "tài sản cố định"
+    },
+    {
+      "term": "seed stage",
+      "translation": "giai đoạn hạt giống"
+    },
+    {
+      "term": "learning objectives",
+      "translation": "mục tiêu học tập"
+    },
+    {
+      "term": "demand",
+      "translation": "nhu cầu"
+    },
+    {
+      "term": "ask",
+      "translation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "pitch",
+      "translation": "bài thuyết trình gọi vốn (pitch)"
+    },
+    {
+      "term": "advertising",
+      "translation": "quảng cáo"
+    },
+    {
+      "term": "place",
+      "translation": "phân phối (place)"
+    },
+    {
+      "term": "donation",
+      "translation": "khoản quyên góp"
+    },
+    {
+      "term": "investing activities",
+      "translation": "hoạt động đầu tư"
+    },
+    {
+      "term": "mature stage",
+      "translation": "giai đoạn trưởng thành"
+    },
+    {
+      "term": "projection",
+      "translation": "dự báo"
+    },
+    {
+      "term": "tax-exempt status",
+      "translation": "tình trạng miễn thuế"
+    },
+    {
+      "term": "stakeholders",
+      "translation": "stakeholders"
+    },
+    {
+      "term": "key terms",
+      "translation": "thuật ngữ chính"
+    },
+    {
+      "term": "mission statement",
+      "translation": "tuyên bố sứ mệnh"
+    },
+    {
+      "term": "breakeven point",
+      "translation": "điểm hòa vốn"
+    },
+    {
+      "term": "creativity",
+      "translation": "sự sáng tạo"
+    },
+    {
+      "term": "financial viability",
+      "translation": "tính khả thi tài chính"
+    },
+    {
+      "term": "implement",
+      "translation": "triển khai"
+    },
+    {
+      "term": "accounts payable",
+      "translation": "các khoản phải trả"
+    },
+    {
+      "term": "accounts receivable",
+      "translation": "các khoản phải thu"
+    },
+    {
+      "term": "financing activities",
+      "translation": "hoạt động tài chính"
+    },
+    {
+      "term": "operating activities",
+      "translation": "hoạt động kinh doanh"
+    },
+    {
+      "term": "sustainable strategy",
+      "translation": "chiến lược bền vững"
+    },
+    {
+      "term": "valuation",
+      "translation": "định giá"
+    },
+    {
+      "term": "venture capitalist",
+      "translation": "nhà đầu tư mạo hiểm"
+    },
+    {
+      "term": "insurance",
+      "translation": "bảo hiểm"
+    },
+    {
+      "term": "work it out",
+      "translation": "thực hành"
+    },
+    {
+      "term": "entrepreneurial venture",
+      "translation": "dự án khởi nghiệp"
+    },
+    {
+      "term": "value proposition",
+      "translation": "giá trị đề xuất"
+    },
+    {
+      "term": "sustainability",
+      "translation": "tính bền vững"
+    },
+    {
+      "term": "infrastructure",
+      "translation": "cơ sở hạ tầng"
+    },
+    {
+      "term": "supply",
+      "translation": "cung"
+    },
+    {
+      "term": "close",
+      "translation": "chốt bán hàng"
+    },
+    {
+      "term": "income (profit-and-loss) statement",
+      "translation": "báo cáo kết quả kinh doanh"
+    },
+    {
+      "term": "financial sustainability",
+      "translation": "tính bền vững tài chính"
+    },
+    {
+      "term": "operational expenses",
+      "translation": "chi phí vận hành"
+    },
+    {
+      "term": "corporation",
+      "translation": "công ty cổ phần"
+    },
+    {
+      "term": "independent contractors",
+      "translation": "nhà thầu độc lập"
+    },
+    {
+      "term": "entrepreneur in action",
+      "translation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "contracts",
+      "translation": "Contracts"
+    },
+    {
+      "term": "funding resources",
+      "translation": "nguồn tài trợ"
+    },
+    {
+      "term": "suggested resources",
+      "translation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "review questions",
+      "translation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "translation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "translation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "translation": "dàn ý chương"
+    }
+  ],
+  "translationNotes": [
+    "Chapter contains 3 tables. In the prep phase, table cells (td/th) will be wrapped in bilingual spans. Be careful to preserve cells layout and IDs during translation.",
+    "Chapter contains 16 figures. Figures captions must be prepped and translated, preserving media references and buttons.",
+    "Chapter contains 4 learning objectives. Objectives lists should be translated accurately following technical tone."
+  ],
+  "warnings": []
+}

@@ -1,0 +1,235 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-12",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:48:59.669Z",
+  "finishedAt": "2026-06-11T10:48:59.831Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "12-1-building-and-connecting-to-networks.html",
+    "12-2-building-the-entrepreneurial-dream-team.html",
+    "12-3-designing-a-startup-operational-plan.html",
+    "12-case-questions.html",
+    "12-discussion-questions.html",
+    "12-introduction.html",
+    "12-key-terms.html",
+    "12-review-questions.html",
+    "12-suggested-resources.html",
+    "12-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-174858.json",
+    "glossary-review-20260611-174858.json",
+    "semantic-review-20260611-174858.json"
+  ],
+  "issues": [
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 30,
+      "actual": 32,
+      "message": "Tag <a> count mismatch. Expected prep count: 30, found in translated: 32",
+      "reviewType": "integrity"
+    },
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-3-designing-a-startup-operational-plan.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm346806144-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"BNI: Business Network International: https://www.b...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm351243808-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"HUBZone: https://www.sba.gov/offices/headquarters/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm359176544-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Service Corps of Retired Executives (SCORE): https...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm270939008-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Cattell’s 16PF: https://openpsychometrics.org/test...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm260229440-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://smallbusiness.chron.com/typical-traits-cha...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm226184368-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://smallbusiness.chron.com/good-characteristi...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm270542400-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"New York: http://www.nysba.org...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm349245280-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"California: http://www.calbar.ca.gov...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm277103888-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Texas: https://www.texasbar.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm279388384-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Florida: https://www.floridabar.org...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm231518960-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"http://www.entrepreneurshipinabox.com/852/entrepre...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm267846320-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.under30ceo.com/10-qualities-of-a-succe...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm389688032-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Yahoo Finance: https://finance.yahoo.com/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm390670256-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://getsling.com/blog/category/scheduling/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm390669872-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://wheniwork.com/features...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "12-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm393459872-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://schedulebuilder.org/...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

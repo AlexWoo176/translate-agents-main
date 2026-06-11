@@ -1,0 +1,801 @@
+{
+  "knownTerms": [
+    {
+      "term": "career entrepreneur",
+      "glossaryTranslation": "doanh nhân theo đuổi sự nghiệp lâu dài",
+      "frequency": 4,
+      "context": "But how do we achieve balance when our goal is to be a career entrepreneur?"
+    },
+    {
+      "term": "disruptive technology",
+      "glossaryTranslation": "công nghệ đột phá",
+      "frequency": 5,
+      "context": "The innovator’s dilemma was presented by Clayton Christensen to explain disruptive technology , which are technologies that, once introduced, displace established patterns, processes, and systems previously accepted as normal or accepted."
+    },
+    {
+      "term": "divergent thinking",
+      "glossaryTranslation": "tư duy phân kỳ",
+      "frequency": 11,
+      "context": "As part of the process of tapping into creative ideas, you can apply divergent thinking by generating as many ideas as possible, even when those ideas do not seem logical."
+    },
+    {
+      "term": "due diligence",
+      "glossaryTranslation": "thẩm định kỹ lưỡng",
+      "frequency": 2,
+      "context": "The difference between risk and calculated risk is due diligence , or conducting the necessary research and investigation to make informed decisions that minimize risk."
+    },
+    {
+      "term": "entrepreneur",
+      "glossaryTranslation": "doanh nhân/nhà khởi nghiệp",
+      "frequency": 79,
+      "context": "1.1 Entrepreneurship Today Learning Objectives By the end of this section, you will be able to: Define entrepreneur and entrepreneurship Describe types of entrepreneurial careers and lifestyles Understand entrepreneurs as problem solvers Explain current factors driving the growth of entrepreneurship Compare differences in entrepreneurial opportunities around the globe As we delve into the study of entrepreneurship, let’s define what we mean by the word entrepreneur ."
+    },
+    {
+      "term": "entrepreneurial mindset",
+      "glossaryTranslation": "tư duy khởi nghiệp",
+      "frequency": 21,
+      "context": "Although this might seem like a simple problem with a simple solution, persevering from the recognition of a problem to finding a realistic solution, then moving that solution forward into a successful venture, requires an entrepreneurial mindset."
+    },
+    {
+      "term": "entrepreneurial venture",
+      "glossaryTranslation": "dự án khởi nghiệp",
+      "frequency": 14,
+      "context": "Again, there is not complete agreement, with some claiming that a franchisee and entrepreneur cannot be the same, and others arguing that a franchise is, indeed, an entrepreneurial venture."
+    },
+    {
+      "term": "entrepreneurial vision",
+      "glossaryTranslation": "tầm nhìn khởi nghiệp",
+      "frequency": 14,
+      "context": "1.2 Entrepreneurial Vision and Goals Learning Objectives By the end of this section, you will be able to: Define an entrepreneurial vision Develop a vision statement When you think of yourself as a successful entrepreneur, what types of images or feelings do you experience?"
+    },
+    {
+      "term": "harvest",
+      "glossaryTranslation": "thoái vốn/hiện thực hóa giá trị",
+      "frequency": 3,
+      "context": "The harvest is the point at which the investors and entrepreneurial team receive their return on creating and building the venture."
+    },
+    {
+      "term": "lifestyle venture",
+      "glossaryTranslation": "doanh nghiệp phục vụ lối sống",
+      "frequency": 6,
+      "context": "(credit (a): modification of “775208326EC00084_TechCrunch” by TechCrunch/Flickr, CC BY 2.0; credit (b): modification of “Warby Parker Aventura Mall” by Phillip Pessar/Flickr, CC BY 2.0) Within the entrepreneurial world, the idea of a lifestyle venture has evolved to mean a business in which the founders’ primary focus is the lifestyle they will attain through becoming entrepreneurs, rather than a primary interest in financial rewards through the selling of the business."
+    },
+    {
+      "term": "mission statement",
+      "glossaryTranslation": "tuyên bố sứ mệnh",
+      "frequency": 4,
+      "context": "The mission statement is a formal declaration about what the venture will do, what value it will provide to the end customer, and how it will accomplish this action."
+    },
+    {
+      "term": "opportunity-identifying perspective",
+      "glossaryTranslation": "góc nhìn nhận diện cơ hội",
+      "frequency": 2,
+      "context": "We might identify feeling hungry as a problem, but an entrepreneur would identify the problem using an opportunity-identifying perspective by determining how the problem could be translated into an opportunity to create a new venture—perhaps combining the problem of feeling hungry between meals into a street kiosk or a vending machine with food choices or creating a new snack that is nutritious, satisfying, and portable."
+    },
+    {
+      "term": "quantifiable manner",
+      "glossaryTranslation": "cách thức đo lường được",
+      "frequency": 2,
+      "context": "Measurable: You should be able to test in some quantifiable manner whether a goal has been met, meaning that there needs to be some method to determine if the goal has been met or not."
+    },
+    {
+      "term": "serial entrepreneur",
+      "glossaryTranslation": "doanh nhân khởi nghiệp liên tiếp",
+      "frequency": 2,
+      "context": "Not only is Daryani interested in solutions for air pollution, but his product will also provide financial gains and add to his personal credibility as a serial entrepreneur , or someone who starts and harvests multiple entrepreneurial ventures."
+    },
+    {
+      "term": "smart goals",
+      "glossaryTranslation": "mục tiêu SMART",
+      "frequency": 5,
+      "context": "SMART goals are well-structured and defined goals that are specific, measurable, achievable, relevant, and timely ( Figure 1.9 )."
+    },
+    {
+      "term": "social entrepreneur",
+      "glossaryTranslation": "doanh nhân xã hội",
+      "frequency": 4,
+      "context": "19 Social and Environmental Issues and Opportunities A social entrepreneur has an interest in solving a social, environmental, or economic problem."
+    },
+    {
+      "term": "value proposition",
+      "glossaryTranslation": "giá trị đề xuất",
+      "frequency": 5,
+      "context": "In describing your mission, carefully think about the value proposition that you provide."
+    },
+    {
+      "term": "vision statement",
+      "glossaryTranslation": "tuyên bố tầm nhìn",
+      "frequency": 16,
+      "context": "It will also be helpful when you and your startup team create a vision statement for your venture."
+    },
+    {
+      "term": "bootstrapping",
+      "glossaryTranslation": "tự huy động vốn",
+      "frequency": 1,
+      "context": "(You will also learn about other types of financing, such as bank loans and bootstrapping, in Entrepreneurial Finance and Accounting .) In the United States, VCs contributed $72.3 billion in 2015 for 3,916 deals, or funding rounds."
+    },
+    {
+      "term": "business model",
+      "glossaryTranslation": "mô hình kinh doanh",
+      "frequency": 5,
+      "context": "The business model encourages homeless people to create short Miracle Messages through video, audio, or text, with messages then uploaded to social media and other methods to find that person’s loved one."
+    },
+    {
+      "term": "entrepreneurial journey",
+      "glossaryTranslation": "hành trình khởi nghiệp",
+      "frequency": 1,
+      "context": "There are many paths to becoming an entrepreneur, and many paths to creating a successful venture (see Entrepreneurial Journey and Pathways )."
+    },
+    {
+      "term": "entrepreneurial process",
+      "glossaryTranslation": "quy trình khởi nghiệp",
+      "frequency": 1,
+      "context": "Passion is a critical component of the entrepreneurial process."
+    },
+    {
+      "term": "entrepreneurial spirit",
+      "glossaryTranslation": "tinh thần khởi nghiệp",
+      "frequency": 8,
+      "context": "1.3 The Entrepreneurial Mindset Learning Objectives By the end of this section, you will be able to: Explain what it means to have an entrepreneurial mindset Describe what is meant by entrepreneurial spirit or passion Entrepreneurship takes many forms (see Table 1.1 ), but entrepreneurs share a major trait in common: An entrepreneur is someone who identifies an opportunity and chooses to act on that opportunity."
+    },
+    {
+      "term": "franchising",
+      "glossaryTranslation": "nhượng quyền thương mại",
+      "frequency": 2,
+      "context": "Key Terms career entrepreneur someone who takes on the daily management as the owner of the venture, accepting, and perhaps enjoying, the daily risks and rewards of managing and building the venture disruptive technology technology that once introduced, displaces established patterns, processes, and systems previously accepted as normal or accepted methods divergent thinking process of generating as many ideas as possible, even when those ideas do not seem logical; the list of ideas can be conflicting, diverse, and disparate due diligence conducting the necessary research and investigation to make informed decisions that minimize risk entrepreneur someone who identifies an idea that no one else has acted on or identified; small business ownership and franchising are also entrepreneurial options entrepreneurial mindset awareness and focus on identifying an opportunity through solving a problem, and a willingness to move forward to advance that idea entrepreneurial venture any business, organization, project, or operation of interest that includes a level of risk in acting on an opportunity that has not previously been established entrepreneurial vision idea of what an entrepreneur wants a venture to become, what it will look like, what the driving forces are, and what values and culture should surround it harvest point at which the venture is sold, at which time the investors receive a return on their investment lifestyle venture business whose founders’ primary focus is the lifestyle they will attain through becoming entrepreneurs, rather than a primary interest in financial rewards mission statement statement of an organization’s reason for being that defines its primary long-term goal, explains what the venture will do, what value it will provide to the end customer, and how it will accomplish that action opportunity-identifying perspective method for identifying a problem and determining how it could be translated into an opportunity to create a new venture quantifiable manner method to determine if a goal has been met or not serial entrepreneur entrepreneur who becomes involved in starting multiple entrepreneurial ventures SMART goals well-structured and defined goals that are specific, measurable, achievable, relevant, and timely social entrepreneur entrepreneur who has an interest in solving a social, environmental, or economic problem value proposition summary describing the benefits (value) customers can expect from a particular product or service vision statement picture of what the venture will become in the future or what the venture will grow into Review Questions 1 ."
+    },
+    {
+      "term": "innovation",
+      "glossaryTranslation": "đổi mới",
+      "frequency": 10,
+      "context": "As noted, the United States is a world leader in entrepreneurial innovation."
+    },
+    {
+      "term": "target market",
+      "glossaryTranslation": "thị trường mục tiêu",
+      "frequency": 3,
+      "context": "This new creation can be a new process or product, a business that identifies a new or unique target market, or a combination of ideas that creates a new approach or method, for example."
+    },
+    {
+      "term": "venture",
+      "glossaryTranslation": "doanh nghiệp (venture)",
+      "frequency": 107,
+      "context": "Someone may start a venture that is not a completely new idea, but that introduces a product or service to a new region or market."
+    },
+    {
+      "term": "copyright",
+      "glossaryTranslation": "bản quyền",
+      "frequency": 5,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Why is the United States leading with the greatest number of entrepreneurial ventures?"
+    },
+    {
+      "term": "social entrepreneurship",
+      "glossaryTranslation": "khởi nghiệp xã hội",
+      "frequency": 2,
+      "context": "A social entrepreneur identifies a problem with a social or community focus, a concern for quality of life, or concern for our entire planet’s health (you will learn more about social entrepreneurship in The Ethical and Social Responsibilities of Entrepreneurs )."
+    },
+    {
+      "term": "brainstorming",
+      "glossaryTranslation": "động não",
+      "frequency": 9,
+      "context": "Design thinking, brainstorming, and mind mapping are tools that you will learn about later in the course."
+    },
+    {
+      "term": "creativity",
+      "glossaryTranslation": "sự sáng tạo",
+      "frequency": 23,
+      "context": "To spur your creativity, you might research global problems to find an area that interests you, that sparks your passion for living a fulfilling life."
+    },
+    {
+      "term": "design thinking",
+      "glossaryTranslation": "tư duy thiết kế",
+      "frequency": 1,
+      "context": "Design thinking, brainstorming, and mind mapping are tools that you will learn about later in the course."
+    },
+    {
+      "term": "invention",
+      "glossaryTranslation": "phát minh",
+      "frequency": 2,
+      "context": "Creative Approaches to Developing Your Vision There are many definitions of and ways to express creativity (you will learn more about creativity in Creativity, Innovation, and Invention )."
+    },
+    {
+      "term": "pain point",
+      "glossaryTranslation": "điểm đau (vấn đề của khách hàng)",
+      "frequency": 1,
+      "context": "In any case, it is vital that the entrepreneur understand the market and target segment well, articulate a key unmet need (“pain point”), and develop and deliver a solution that is both viable and feasible."
+    },
+    {
+      "term": "customers",
+      "glossaryTranslation": "khách hàng",
+      "frequency": 8,
+      "context": "Among them are: The need for something to be better, faster, or easier The effects of changes in world on your industry, product, or service Market trends based on geography, demographics, or the psychology of the customers You will learn more about identifying opportunities in Identifying Entrepreneurial Opportunity and Problem Solving and Need Recognition Techniques ."
+    },
+    {
+      "term": "demand",
+      "glossaryTranslation": "nhu cầu",
+      "frequency": 1,
+      "context": "The old method was to use chemical sprays to kill the insects, but today, the growing demand for organic foods and increased awareness of the impact of chemical sprays on our environment are changing this scenario."
+    },
+    {
+      "term": "demographics",
+      "glossaryTranslation": "nhân khẩu học",
+      "frequency": 1,
+      "context": "Among them are: The need for something to be better, faster, or easier The effects of changes in world on your industry, product, or service Market trends based on geography, demographics, or the psychology of the customers You will learn more about identifying opportunities in Identifying Entrepreneurial Opportunity and Problem Solving and Need Recognition Techniques ."
+    },
+    {
+      "term": "entrepreneurial opportunity",
+      "glossaryTranslation": "cơ hội khởi nghiệp",
+      "frequency": 3,
+      "context": "Among them are: The need for something to be better, faster, or easier The effects of changes in world on your industry, product, or service Market trends based on geography, demographics, or the psychology of the customers You will learn more about identifying opportunities in Identifying Entrepreneurial Opportunity and Problem Solving and Need Recognition Techniques ."
+    },
+    {
+      "term": "gig economy",
+      "glossaryTranslation": "nền kinh tế gig",
+      "frequency": 1,
+      "context": "16 , 17 As the employment and entrepreneurial landscape continue to evolve, some institutions have started offering courses to prepare students for work in the gig economy."
+    },
+    {
+      "term": "infrastructure",
+      "glossaryTranslation": "cơ sở hạ tầng",
+      "frequency": 3,
+      "context": "The infrastructure developed with Miracle Messages could be replicated for other populations besides homeless people in the United States."
+    },
+    {
+      "term": "supply",
+      "glossaryTranslation": "cung",
+      "frequency": 1,
+      "context": "outpacing venture capitalists in access to startup funds directly investing in entrepreneurial startups holding seminars to teach people how to become an entrepreneur forming groups of other investors to supply greater quantities of investment funds to entrepreneurs."
+    },
+    {
+      "term": "swot analysis",
+      "glossaryTranslation": "phân tích SWOT",
+      "frequency": 1,
+      "context": "https://website-designs.com/business/the-importance-of-a-vision-statement-for-entrepreneurs/ https://www.businessnewsdaily.com/3882-vision-statement.html Check out this website’s ideas for developing your vision: https://www.executestrategy.net/blog/write-good-vision-statement Eleven Free Goal Setting Software &amp; Tools You Can Use: http://www.goal-setting-college.com/goal-setting-software/11-goal-setting-software-tools-you-can-use-for-free/ YouTube: Achieve More by Setting Smart Goals: https://www.youtube.com/watch?v=yA53yhiOe04 Twenty-four Essential Mind Mapping and Brainstorming Tools: http://mashable.com/2013/09/25/mind-mapping-tools/#jP47h7Q818qM Read more about the challenges of work-life balance and what brings satisfaction to entrepreneurs in this article: https://www.wsj.com/articles/why-some-entrepreneurs-feel-fulfilledbut-others-dont-1432610236 Learn about applying a SWOT analysis (strengths, weaknesses, obstacles, threats) to your personal life: https://www.forbes.com/sites/lisaquast/2013/04/15/how-to-conduct-a-personal-s-w-o-t-analysis/ 1.3 The Entrepreneurial Mindset M."
+    },
+    {
+      "term": "develop",
+      "glossaryTranslation": "phát triển",
+      "frequency": 9,
+      "context": "In one approach to minimizing personal financial risk, some startup entrepreneurs continue with their current employment while working on the side to develop their idea into a venture that eventually will generate an income."
+    },
+    {
+      "term": "implement",
+      "glossaryTranslation": "triển khai",
+      "frequency": 1,
+      "context": "In contrast, individualism is highly valued in the United States and so many US entrepreneurs will decide to implement a plan for the business without consulting others."
+    },
+    {
+      "term": "ask",
+      "glossaryTranslation": "khoản yêu cầu (ask)",
+      "frequency": 8,
+      "context": "If you need help creating your list, ask your friends or family what they believe you are good at doing."
+    },
+    {
+      "term": "close",
+      "glossaryTranslation": "chốt bán hàng",
+      "frequency": 1,
+      "context": "Discussions with family, close connections, and the entrepreneurial team should occur in the early idea-formulation stage to gauge the support of the people whose interests might be compromised by the entrepreneur’s dedication to advancing the venture."
+    },
+    {
+      "term": "entrepreneurial marketing",
+      "glossaryTranslation": "tiếp thị khởi nghiệp",
+      "frequency": 1,
+      "context": "You will learn more about research strategies in Identifying Entrepreneurial Opportunity , Problem Solving and Need Recognition Techniques , and Entrepreneurial Marketing and Sales ."
+    },
+    {
+      "term": "marketing",
+      "glossaryTranslation": "tiếp thị",
+      "frequency": 1,
+      "context": "You will learn more about research strategies in Identifying Entrepreneurial Opportunity , Problem Solving and Need Recognition Techniques , and Entrepreneurial Marketing and Sales ."
+    },
+    {
+      "term": "people",
+      "glossaryTranslation": "con người (nguồn nhân lực)",
+      "frequency": 67,
+      "context": "In a broader sense, what people consider an entrepreneur can vary."
+    },
+    {
+      "term": "place",
+      "glossaryTranslation": "phân phối (place)",
+      "frequency": 2,
+      "context": "Some cultures emphasize political, cultural, and economic unity, and place a strong value on not being noticed, blending in, and following prescribed habits and traditions."
+    },
+    {
+      "term": "process",
+      "glossaryTranslation": "quy trình",
+      "frequency": 17,
+      "context": "This new creation can be a new process or product, a business that identifies a new or unique target market, or a combination of ideas that creates a new approach or method, for example."
+    },
+    {
+      "term": "product",
+      "glossaryTranslation": "sản phẩm",
+      "frequency": 18,
+      "context": "This new creation can be a new process or product, a business that identifies a new or unique target market, or a combination of ideas that creates a new approach or method, for example."
+    },
+    {
+      "term": "social media",
+      "glossaryTranslation": "mạng xã hội",
+      "frequency": 2,
+      "context": "The business model encourages homeless people to create short Miracle Messages through video, audio, or text, with messages then uploaded to social media and other methods to find that person’s loved one."
+    },
+    {
+      "term": "accounting",
+      "glossaryTranslation": "kế toán",
+      "frequency": 3,
+      "context": "You will learn more about funding in Entrepreneurial Finance and Accounting , but as an introduction, you should know there are three primary sources of outside funding: family and friends, angel investors, and venture capitalists."
+    },
+    {
+      "term": "accounts receivable",
+      "glossaryTranslation": "các khoản phải thu",
+      "frequency": 1,
+      "context": "5 percent annual growth in sales increase market share by 2 percent decrease collection of accounts receivable by $5,000.00 increase creativity throughout the venture 9 ."
+    },
+    {
+      "term": "angel investor",
+      "glossaryTranslation": "nhà đầu tư thiên thần",
+      "frequency": 3,
+      "context": "Dave Gilboa and Neil Blumenthal , lead entrepreneurs for Warby Parker, were still working their normal jobs when they approached an angel investor with their idea."
+    },
+    {
+      "term": "credit",
+      "glossaryTranslation": "tín dụng",
+      "frequency": 8,
+      "context": "(credit (a): modification of “775208326EC00084_TechCrunch” by TechCrunch/Flickr, CC BY 2.0; credit (b): modification of “Warby Parker Aventura Mall” by Phillip Pessar/Flickr, CC BY 2.0) Within the entrepreneurial world, the idea of a lifestyle venture has evolved to mean a business in which the founders’ primary focus is the lifestyle they will attain through becoming entrepreneurs, rather than a primary interest in financial rewards through the selling of the business."
+    },
+    {
+      "term": "equity",
+      "glossaryTranslation": "vốn chủ sở hữu",
+      "frequency": 1,
+      "context": "In each funding round, investors receive an equity stake in the venture with expectations that at some point in the future, the venture will be sold, or harvested, at which time the investors will receive a return on their investment."
+    },
+    {
+      "term": "expenses",
+      "glossaryTranslation": "chi phí",
+      "frequency": 1,
+      "context": "The population received monthly allotments to cover expenses from state-owned oil production."
+    },
+    {
+      "term": "financing",
+      "glossaryTranslation": "huy động vốn",
+      "frequency": 1,
+      "context": "(You will also learn about other types of financing, such as bank loans and bootstrapping, in Entrepreneurial Finance and Accounting .) In the United States, VCs contributed $72.3 billion in 2015 for 3,916 deals, or funding rounds."
+    },
+    {
+      "term": "funds",
+      "glossaryTranslation": "nguồn vốn",
+      "frequency": 4,
+      "context": "An angel investor is someone who has available funds and an interest in supporting a new venture."
+    },
+    {
+      "term": "projection",
+      "glossaryTranslation": "dự báo",
+      "frequency": 1,
+      "context": "You would include financial goals tracked either monthly or yearly to save a set amount of money based on your projection of how much money it will take to own these two vacation homes."
+    },
+    {
+      "term": "revenue",
+      "glossaryTranslation": "doanh thu",
+      "frequency": 1,
+      "context": "In the past, employment was less of a concern because of dependency on state support from oil revenue."
+    },
+    {
+      "term": "venture capitalist",
+      "glossaryTranslation": "nhà đầu tư mạo hiểm",
+      "frequency": 2,
+      "context": "A venture capitalist (VC) is a group of people (or organizations) who pool resources to invest in entrepreneurial ventures, contributing larger sums of funds than are available through angel investors."
+    },
+    {
+      "term": "business model canvas",
+      "glossaryTranslation": "mô hình kinh doanh canvas",
+      "frequency": 1,
+      "context": "Once we further develop and crystallize our ideas (the Business Model Canvas discussed in Launch for Growth to Success is a good tool for this activity), we provide an opening for a creative and viable solution as we continue to think about the issue."
+    },
+    {
+      "term": "business plan",
+      "glossaryTranslation": "kế hoạch kinh doanh",
+      "frequency": 1,
+      "context": "Alternatively, if your vision is to be a small business owner, such as owning a franchise, then you are buying into a business plan package that has already fine-tuned the processes and decisions to support your success as the owner/manager of that business."
+    },
+    {
+      "term": "corporation",
+      "glossaryTranslation": "công ty cổ phần",
+      "frequency": 5,
+      "context": "Eventually, Quimby’s lifestyle candle-making business expanded into the highly successful Burt’s Bees Corporation , moving her lifestyle business into a career as the CEO of Burt’s Bees ( Figure 1.3 )."
+    },
+    {
+      "term": "financial risk",
+      "glossaryTranslation": "rủi ro tài chính",
+      "frequency": 1,
+      "context": "In one approach to minimizing personal financial risk, some startup entrepreneurs continue with their current employment while working on the side to develop their idea into a venture that eventually will generate an income."
+    },
+    {
+      "term": "partnership",
+      "glossaryTranslation": "hợp danh",
+      "frequency": 1,
+      "context": "Could your idea of creating a snack bar fit into a partnership with the Red Cross?"
+    },
+    {
+      "term": "sole proprietorship",
+      "glossaryTranslation": "doanh nghiệp tư nhân",
+      "frequency": 1,
+      "context": "Soraya is currently the only employee in her sole proprietorship, but she hopes to hire more employees soon."
+    },
+    {
+      "term": "lifestyle business",
+      "glossaryTranslation": "doanh nghiệp phục vụ lối sống",
+      "frequency": 1,
+      "context": "Eventually, Quimby’s lifestyle candle-making business expanded into the highly successful Burt’s Bees Corporation , moving her lifestyle business into a career as the CEO of Burt’s Bees ( Figure 1.3 )."
+    },
+    {
+      "term": "entrepreneur in action",
+      "glossaryTranslation": "doanh nhân thực chiến",
+      "frequency": 2,
+      "context": "Entrepreneur In Action Angad Daryani Research Angad Daryani and his technology to remove air pollution ( https://www.cnn.com/2018/03/28/health/angad-daryani-tomorrows-hero/index.html )."
+    },
+    {
+      "term": "mcdonald’s",
+      "glossaryTranslation": "McDonald’s",
+      "frequency": 3,
+      "context": "And, no, the McDonald’s franchisee didn’t create McDonald’s."
+    },
+    {
+      "term": "techcrunch",
+      "glossaryTranslation": "TechCrunch",
+      "frequency": 1,
+      "context": "(credit (a): modification of “775208326EC00084_TechCrunch” by TechCrunch/Flickr, CC BY 2.0; credit (b): modification of “Warby Parker Aventura Mall” by Phillip Pessar/Flickr, CC BY 2.0) Within the entrepreneurial world, the idea of a lifestyle venture has evolved to mean a business in which the founders’ primary focus is the lifestyle they will attain through becoming entrepreneurs, rather than a primary interest in financial rewards through the selling of the business."
+    },
+    {
+      "term": "link to learning",
+      "glossaryTranslation": "liên kết học tập",
+      "frequency": 2,
+      "context": "Link to Learning Transparency International is an organization that tracks corruption, which can be an inhibitor to entrepreneurship."
+    },
+    {
+      "term": "work it out",
+      "glossaryTranslation": "thực hành",
+      "frequency": 2,
+      "context": "Work It Out Finding a Mentor Mentorships can provide you with numerous benefits ( Figure 1.7 )."
+    },
+    {
+      "term": "learning objectives",
+      "glossaryTranslation": "mục tiêu học tập",
+      "frequency": 3,
+      "context": "1.1 Entrepreneurship Today Learning Objectives By the end of this section, you will be able to: Define entrepreneur and entrepreneurship Describe types of entrepreneurial careers and lifestyles Understand entrepreneurs as problem solvers Explain current factors driving the growth of entrepreneurship Compare differences in entrepreneurial opportunities around the globe As we delve into the study of entrepreneurship, let’s define what we mean by the word entrepreneur ."
+    },
+    {
+      "term": "suggested resources",
+      "glossaryTranslation": "tài nguyên gợi ý",
+      "frequency": 1,
+      "context": "a willingness to develop ideas that are not always initially popular a willingness to wait for an idea to become popular before moving forward with that idea an ability to focus on past successes a belief in following tradition and established patterns Suggested Resources 1.1 Entrepreneurship Today https://www.entrepreneurship-campus.org https://youtu.be/zV2vi8FilLM 1.2 Entrepreneurial Vision and Goals The following links might provide you with more ideas about creating a vision statement."
+    },
+    {
+      "term": "key terms",
+      "glossaryTranslation": "thuật ngữ chính",
+      "frequency": 1,
+      "context": "Key Terms career entrepreneur someone who takes on the daily management as the owner of the venture, accepting, and perhaps enjoying, the daily risks and rewards of managing and building the venture disruptive technology technology that once introduced, displaces established patterns, processes, and systems previously accepted as normal or accepted methods divergent thinking process of generating as many ideas as possible, even when those ideas do not seem logical; the list of ideas can be conflicting, diverse, and disparate due diligence conducting the necessary research and investigation to make informed decisions that minimize risk entrepreneur someone who identifies an idea that no one else has acted on or identified; small business ownership and franchising are also entrepreneurial options entrepreneurial mindset awareness and focus on identifying an opportunity through solving a problem, and a willingness to move forward to advance that idea entrepreneurial venture any business, organization, project, or operation of interest that includes a level of risk in acting on an opportunity that has not previously been established entrepreneurial vision idea of what an entrepreneur wants a venture to become, what it will look like, what the driving forces are, and what values and culture should surround it harvest point at which the venture is sold, at which time the investors receive a return on their investment lifestyle venture business whose founders’ primary focus is the lifestyle they will attain through becoming entrepreneurs, rather than a primary interest in financial rewards mission statement statement of an organization’s reason for being that defines its primary long-term goal, explains what the venture will do, what value it will provide to the end customer, and how it will accomplish that action opportunity-identifying perspective method for identifying a problem and determining how it could be translated into an opportunity to create a new venture quantifiable manner method to determine if a goal has been met or not serial entrepreneur entrepreneur who becomes involved in starting multiple entrepreneurial ventures SMART goals well-structured and defined goals that are specific, measurable, achievable, relevant, and timely social entrepreneur entrepreneur who has an interest in solving a social, environmental, or economic problem value proposition summary describing the benefits (value) customers can expect from a particular product or service vision statement picture of what the venture will become in the future or what the venture will grow into Review Questions 1 ."
+    },
+    {
+      "term": "review questions",
+      "glossaryTranslation": "câu hỏi ôn tập",
+      "frequency": 1,
+      "context": "Key Terms career entrepreneur someone who takes on the daily management as the owner of the venture, accepting, and perhaps enjoying, the daily risks and rewards of managing and building the venture disruptive technology technology that once introduced, displaces established patterns, processes, and systems previously accepted as normal or accepted methods divergent thinking process of generating as many ideas as possible, even when those ideas do not seem logical; the list of ideas can be conflicting, diverse, and disparate due diligence conducting the necessary research and investigation to make informed decisions that minimize risk entrepreneur someone who identifies an idea that no one else has acted on or identified; small business ownership and franchising are also entrepreneurial options entrepreneurial mindset awareness and focus on identifying an opportunity through solving a problem, and a willingness to move forward to advance that idea entrepreneurial venture any business, organization, project, or operation of interest that includes a level of risk in acting on an opportunity that has not previously been established entrepreneurial vision idea of what an entrepreneur wants a venture to become, what it will look like, what the driving forces are, and what values and culture should surround it harvest point at which the venture is sold, at which time the investors receive a return on their investment lifestyle venture business whose founders’ primary focus is the lifestyle they will attain through becoming entrepreneurs, rather than a primary interest in financial rewards mission statement statement of an organization’s reason for being that defines its primary long-term goal, explains what the venture will do, what value it will provide to the end customer, and how it will accomplish that action opportunity-identifying perspective method for identifying a problem and determining how it could be translated into an opportunity to create a new venture quantifiable manner method to determine if a goal has been met or not serial entrepreneur entrepreneur who becomes involved in starting multiple entrepreneurial ventures SMART goals well-structured and defined goals that are specific, measurable, achievable, relevant, and timely social entrepreneur entrepreneur who has an interest in solving a social, environmental, or economic problem value proposition summary describing the benefits (value) customers can expect from a particular product or service vision statement picture of what the venture will become in the future or what the venture will grow into Review Questions 1 ."
+    },
+    {
+      "term": "discussion questions",
+      "glossaryTranslation": "câu hỏi thảo luận",
+      "frequency": 1,
+      "context": "Discussion Questions 1 ."
+    },
+    {
+      "term": "case questions",
+      "glossaryTranslation": "câu hỏi tình huống",
+      "frequency": 1,
+      "context": "Case Questions 1 ."
+    },
+    {
+      "term": "chapter outline",
+      "glossaryTranslation": "dàn ý chương",
+      "frequency": 1,
+      "context": "(credit (a): modification of “Phil Libin and Loic Le Meur - LeWeb Day 1 - Dan Taylor/Heisenberg Media” by Heisenberg Media/Flickr, CC BY 2.0; credit (b): modification of “screenshot of the old Evernote iPhone app” by Jason Jones/Flickr, CC BY 2.0) Chapter Outline 1.1 Entrepreneurship Today 1.2 Entrepreneurial Vision and Goals 1.3 The Entrepreneurial Mindset Introduction Phil Libin , cofounder and former CEO of Evernote , once said there are “lots of bad reasons to start a company."
+    }
+  ],
+  "candidateTerms": [
+    {
+      "term": "Are You Ready",
+      "frequency": 3,
+      "context": "Are You Ready?"
+    },
+    {
+      "term": "How Do You Define",
+      "frequency": 2,
+      "context": "How Do You Define Success?"
+    },
+    {
+      "term": "Warby Parker",
+      "frequency": 7,
+      "context": "Consider the eyeglass startup Warby Parker ( Figure 1.2 )."
+    },
+    {
+      "term": "Gilboa and Blumenthal",
+      "frequency": 2,
+      "context": "This investor believed that Gilboa and Blumenthal should demonstrate their solid commitment to the venture by quitting their day jobs to dedicate more time and energy to Warby Parker."
+    },
+    {
+      "term": "CC BY",
+      "frequency": 11,
+      "context": "(credit (a): modification of “775208326EC00084_TechCrunch” by TechCrunch/Flickr, CC BY 2.0; credit (b): modification of “Warby Parker Aventura Mall” by Phillip Pessar/Flickr, CC BY 2.0) Within the entrepreneurial world, the idea of a lifestyle venture has evolved to mean a business in which the founders’ primary focus is the lifestyle they will attain through becoming entrepreneurs, rather than a primary interest in financial rewards through the selling of the business."
+    },
+    {
+      "term": "The Wander Girls",
+      "frequency": 2,
+      "context": "An example of a startup lifestyle venture is The Wander Girls , a company that identified the unique concerns of women traveling alone."
+    },
+    {
+      "term": "Roxanne Quimby",
+      "frequency": 6,
+      "context": "Roxanne Quimby had a passion for living off the grid, creating her own life in the woods of Maine, and not being restricted by the rules and regulations required when working as an employee."
+    },
+    {
+      "term": "What Can You Do",
+      "frequency": 6,
+      "context": "What Can You Do?"
+    },
+    {
+      "term": "The Entrepreneur",
+      "frequency": 16,
+      "context": "For a lifestyle venture, the entrepreneur is more likely to be a solo entrepreneur, someone who moves forward in starting a new venture without the support of a team or group of likeminded individuals who recognize the value or potential of an entrepreneurial idea that could potentially result in significant returns."
+    },
+    {
+      "term": "Solving and Need Recognition Techniques",
+      "frequency": 2,
+      "context": "Among them are: The need for something to be better, faster, or easier The effects of changes in world on your industry, product, or service Market trends based on geography, demographics, or the psychology of the customers You will learn more about identifying opportunities in Identifying Entrepreneurial Opportunity and Problem Solving and Need Recognition Techniques ."
+    },
+    {
+      "term": "Red Cross",
+      "frequency": 2,
+      "context": "Red Cross emergency response vehicles traveled 2.5 million miles to deliver food, relief supplies, and support to communities affected by disasters during 2017."
+    },
+    {
+      "term": "Chloe Huang",
+      "frequency": 2,
+      "context": "For more ideas like Chloe Huang ’s, visit the UNESCO Global Action Programme on Education for Sustainable Development ( https://en.unesco.org/gap ) and review other submissions that may activate your own creativity in thinking about how you want to contribute your skills and knowledge to improve our world."
+    },
+    {
+      "term": "Education for Sustainable Development",
+      "frequency": 3,
+      "context": "For more ideas like Chloe Huang ’s, visit the UNESCO Global Action Programme on Education for Sustainable Development ( https://en.unesco.org/gap ) and review other submissions that may activate your own creativity in thinking about how you want to contribute your skills and knowledge to improve our world."
+    },
+    {
+      "term": "Factors Driving the Growth of Entrepreneurship",
+      "frequency": 3,
+      "context": "1.1 Entrepreneurship Today Learning Objectives By the end of this section, you will be able to: Define entrepreneur and entrepreneurship Describe types of entrepreneurial careers and lifestyles Understand entrepreneurs as problem solvers Explain current factors driving the growth of entrepreneurship Compare differences in entrepreneurial opportunities around the globe As we delve into the study of entrepreneurship, let’s define what we mean by the word entrepreneur ."
+    },
+    {
+      "term": "United States",
+      "frequency": 16,
+      "context": "Entrepreneurship around the Globe In the United States, entrepreneurial opportunities abound, relatively speaking."
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 5,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Why is the United States leading with the greatest number of entrepreneurial ventures?"
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 5,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Why is the United States leading with the greatest number of entrepreneurial ventures?"
+    },
+    {
+      "term": "The Entrepreneurial Mindset",
+      "frequency": 11,
+      "context": "In addition to having an entrepreneurial mindset (see The Entrepreneurial Mindset ), entrepreneurs also need education and funding to support their new ventures."
+    },
+    {
+      "term": "Entrepreneurial Finance and Accounting",
+      "frequency": 2,
+      "context": "You will learn more about funding in Entrepreneurial Finance and Accounting , but as an introduction, you should know there are three primary sources of outside funding: family and friends, angel investors, and venture capitalists."
+    },
+    {
+      "term": "In the United States",
+      "frequency": 7,
+      "context": "Entrepreneurship around the Globe In the United States, entrepreneurial opportunities abound, relatively speaking."
+    },
+    {
+      "term": "Angad Daryani",
+      "frequency": 6,
+      "context": "One such person is Angad Daryani , a young serial inventor."
+    },
+    {
+      "term": "Ted Talk",
+      "frequency": 3,
+      "context": "Watch Johann Hari’s Ted Talk on addiction to learn more."
+    },
+    {
+      "term": "Objectives By",
+      "frequency": 3,
+      "context": "1.1 Entrepreneurship Today Learning Objectives By the end of this section, you will be able to: Define entrepreneur and entrepreneurship Describe types of entrepreneurial careers and lifestyles Understand entrepreneurs as problem solvers Explain current factors driving the growth of entrepreneurship Compare differences in entrepreneurial opportunities around the globe As we delve into the study of entrepreneurship, let’s define what we mean by the word entrepreneur ."
+    },
+    {
+      "term": "Kevin F",
+      "frequency": 2,
+      "context": "For example, Kevin F."
+    },
+    {
+      "term": "Miracle Messages",
+      "frequency": 13,
+      "context": "He created Miracle Messages , a volunteer-based nonprofit organization with a goal of helping homeless people reconnect with loved ones."
+    },
+    {
+      "term": "Identifying Entrepreneurial Opportunity",
+      "frequency": 2,
+      "context": "Among them are: The need for something to be better, faster, or easier The effects of changes in world on your industry, product, or service Market trends based on geography, demographics, or the psychology of the customers You will learn more about identifying opportunities in Identifying Entrepreneurial Opportunity and Problem Solving and Need Recognition Techniques ."
+    },
+    {
+      "term": "Problem Solving and Need Recognition",
+      "frequency": 2,
+      "context": "Among them are: The need for something to be better, faster, or easier The effects of changes in world on your industry, product, or service Market trends based on geography, demographics, or the psychology of the customers You will learn more about identifying opportunities in Identifying Entrepreneurial Opportunity and Problem Solving and Need Recognition Techniques ."
+    },
+    {
+      "term": "Coastal Tractor",
+      "frequency": 3,
+      "context": "Review the website http://www.coastaltractor.com/ to learn more of about Coastal Tractor ."
+    },
+    {
+      "term": "Phil Libin",
+      "frequency": 3,
+      "context": "Figure 1.1 Phil Libin, former CEO of Evernote, discusses his product."
+    },
+    {
+      "term": "CEO of Evernote",
+      "frequency": 2,
+      "context": "Figure 1.1 Phil Libin, former CEO of Evernote, discusses his product."
+    },
+    {
+      "term": "Heisenberg Media",
+      "frequency": 2,
+      "context": "(credit (a): modification of “Phil Libin and Loic Le Meur - LeWeb Day 1 - Dan Taylor/Heisenberg Media” by Heisenberg Media/Flickr, CC BY 2.0; credit (b): modification of “screenshot of the old Evernote iPhone app” by Jason Jones/Flickr, CC BY 2.0) Chapter Outline 1.1 Entrepreneurship Today 1.2 Entrepreneurial Vision and Goals 1.3 The Entrepreneurial Mindset Introduction Phil Libin , cofounder and former CEO of Evernote , once said there are “lots of bad reasons to start a company."
+    },
+    {
+      "term": "Entrepreneurship Today",
+      "frequency": 4,
+      "context": "1.1 Entrepreneurship Today Learning Objectives By the end of this section, you will be able to: Define entrepreneur and entrepreneurship Describe types of entrepreneurial careers and lifestyles Understand entrepreneurs as problem solvers Explain current factors driving the growth of entrepreneurship Compare differences in entrepreneurial opportunities around the globe As we delve into the study of entrepreneurship, let’s define what we mean by the word entrepreneur ."
+    },
+    {
+      "term": "Entrepreneurial Vision and Goals",
+      "frequency": 4,
+      "context": "1.2 Entrepreneurial Vision and Goals Learning Objectives By the end of this section, you will be able to: Define an entrepreneurial vision Develop a vision statement When you think of yourself as a successful entrepreneur, what types of images or feelings do you experience?"
+    },
+    {
+      "term": "Global Action Programme on Education",
+      "frequency": 2,
+      "context": "For more ideas like Chloe Huang ’s, visit the UNESCO Global Action Programme on Education for Sustainable Development ( https://en.unesco.org/gap ) and review other submissions that may activate your own creativity in thinking about how you want to contribute your skills and knowledge to improve our world."
+    },
+    {
+      "term": "Sustainable Development",
+      "frequency": 3,
+      "context": "For more ideas like Chloe Huang ’s, visit the UNESCO Global Action Programme on Education for Sustainable Development ( https://en.unesco.org/gap ) and review other submissions that may activate your own creativity in thinking about how you want to contribute your skills and knowledge to improve our world."
+    }
+  ],
+  "missingGlossaryTerms": [],
+  "termFrequency": {
+    "career entrepreneur": 4,
+    "disruptive technology": 5,
+    "divergent thinking": 11,
+    "due diligence": 2,
+    "entrepreneur": 79,
+    "entrepreneurial mindset": 21,
+    "entrepreneurial venture": 14,
+    "entrepreneurial vision": 14,
+    "harvest": 3,
+    "lifestyle venture": 6,
+    "mission statement": 4,
+    "opportunity-identifying perspective": 2,
+    "quantifiable manner": 2,
+    "serial entrepreneur": 2,
+    "smart goals": 5,
+    "social entrepreneur": 4,
+    "value proposition": 5,
+    "vision statement": 16,
+    "bootstrapping": 1,
+    "business model": 5,
+    "entrepreneurial journey": 1,
+    "entrepreneurial process": 1,
+    "entrepreneurial spirit": 8,
+    "franchising": 2,
+    "innovation": 10,
+    "target market": 3,
+    "venture": 107,
+    "copyright": 5,
+    "social entrepreneurship": 2,
+    "brainstorming": 9,
+    "creativity": 23,
+    "design thinking": 1,
+    "invention": 2,
+    "pain point": 1,
+    "customers": 8,
+    "demand": 1,
+    "demographics": 1,
+    "entrepreneurial opportunity": 3,
+    "gig economy": 1,
+    "infrastructure": 3,
+    "supply": 1,
+    "swot analysis": 1,
+    "develop": 9,
+    "implement": 1,
+    "ask": 8,
+    "close": 1,
+    "entrepreneurial marketing": 1,
+    "marketing": 1,
+    "people": 67,
+    "place": 2,
+    "process": 17,
+    "product": 18,
+    "social media": 2,
+    "accounting": 3,
+    "accounts receivable": 1,
+    "angel investor": 3,
+    "credit": 8,
+    "equity": 1,
+    "expenses": 1,
+    "financing": 1,
+    "funds": 4,
+    "projection": 1,
+    "revenue": 1,
+    "venture capitalist": 2,
+    "business model canvas": 1,
+    "business plan": 1,
+    "corporation": 5,
+    "financial risk": 1,
+    "partnership": 1,
+    "sole proprietorship": 1,
+    "lifestyle business": 1,
+    "entrepreneur in action": 2,
+    "mcdonald’s": 3,
+    "techcrunch": 1,
+    "link to learning": 2,
+    "work it out": 2,
+    "learning objectives": 3,
+    "suggested resources": 1,
+    "key terms": 1,
+    "review questions": 1,
+    "discussion questions": 1,
+    "case questions": 1,
+    "chapter outline": 1,
+    "Are You Ready": 3,
+    "How Do You Define": 2,
+    "Warby Parker": 7,
+    "Gilboa and Blumenthal": 2,
+    "CC BY": 11,
+    "The Wander Girls": 2,
+    "Roxanne Quimby": 6,
+    "What Can You Do": 6,
+    "The Entrepreneur": 16,
+    "Solving and Need Recognition Techniques": 2,
+    "Red Cross": 2,
+    "Chloe Huang": 2,
+    "Education for Sustainable Development": 3,
+    "Factors Driving the Growth of Entrepreneurship": 3,
+    "United States": 16,
+    "Copyright Rice University": 5,
+    "CC BY NC-SA": 5,
+    "The Entrepreneurial Mindset": 11,
+    "Entrepreneurial Finance and Accounting": 2,
+    "In the United States": 7,
+    "Angad Daryani": 6,
+    "Ted Talk": 3,
+    "Objectives By": 3,
+    "Kevin F": 2,
+    "Miracle Messages": 13,
+    "Identifying Entrepreneurial Opportunity": 2,
+    "Problem Solving and Need Recognition": 2,
+    "Coastal Tractor": 3,
+    "Phil Libin": 3,
+    "CEO of Evernote": 2,
+    "Heisenberg Media": 2,
+    "Entrepreneurship Today": 4,
+    "Entrepreneurial Vision and Goals": 4,
+    "Global Action Programme on Education": 2,
+    "Sustainable Development": 3
+  },
+  "warnings": []
+}

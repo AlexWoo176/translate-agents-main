@@ -1,0 +1,11 @@
+## Câu hỏi tình huống
+
+1 . Christina luôn mong muốn mở một tiệm bánh nhỏ trong khu phố, Christina's Confections. Cô hiện đang làm việc tại nhà, kiếm thu nhập từ việc làm bánh ngọt và các loại bánh nướng cho đám cưới, tiệc tùng và các dịp đặc biệt khác. Cô muốn tìm một địa điểm cho tiệm bánh của mình, vì cô tin rằng có thị trường, và cô muốn mở rộng kinh doanh sang hoạt động bán lẻ. Cô có một khoản tiết kiệm và tín dụng tốt, nhưng lo ngại rằng việc vay vốn sẽ là thách thức. Doanh số bán hàng liên tục tăng, và cô hiện có một nhân viên bán thời gian, nhưng cô nghĩ rằng với một cửa hàng bán lẻ, cô sẽ cần thuê thêm hai người làm bán thời gian. Nếu thuê nhân viên, cô sẽ cần tính đến chi phí lao động, số giờ cần cho mỗi nhân viên, và các nhiệm vụ cô cần họ thực hiện ở giai đoạn kinh doanh này. Kết quả là cô sẽ cần coi tiền lương của họ như chi phí lao động, cộng thêm tất cả các chi phí khác về vật tư, bảo hiểm, tiền thuê, quảng cáo, thiết bị bán hàng, và nhiều chi phí khác mà cô không có khi hoạt động tại nhà. Cô cần tìm ra cách kiếm tiền và cách tài trợ hoặc chi trả cho các chi phí khởi nghiệp mới tại cửa hàng bán lẻ.
+
+Christina cần đánh giá tất cả các nguồn lực cần thiết cho doanh nghiệp này và tạo một danh sách kiểm tra để xác định liệu đây có phải là thời điểm thích hợp để cô thực hiện bước đi quan trọng này với tiệm bánh của mình. Khi cô tiến triển qua quy trình, các câu hỏi trở nên cụ thể hơn và các câu trả lời chi tiết hơn nhiều.
+
+Hãy xem xét nhu cầu nguồn lực của Christina và lập danh sách các nguồn lực đó.
+
+2 . Quay lại [câu hỏi tình huống này](14-1-types-of-resources) về Christina's Confections, hãy xem lại danh sách nguồn lực mà Bạn đã tạo. Bây giờ khi đã có thêm thông tin, hãy xác định xem đó có phải là danh sách tốt không; nếu không, hãy thêm hoặc bớt các mục cần thiết để cô ấy vận hành doanh nghiệp. Bạn đã tìm ra những nguồn lực bổ sung nào? Cô ấy có thể làm gì để đảm bảo trang trải được tất cả chi phí?
+
+3 . Hãy xem xét ví dụ về tiệm bánh Christina's Confectionaries và tập trung vào giai đoạn trưởng thành của doanh nghiệp. Mô tả cách Christina có thể phát triển thương hiệu để tạo sự khác biệt so với các tiệm bánh khác và loại chi phí nào cô có thể phải chịu khi thực hiện điều này.

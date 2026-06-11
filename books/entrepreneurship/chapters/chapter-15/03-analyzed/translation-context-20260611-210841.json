@@ -1,0 +1,636 @@
+{
+  "chapterTitle": "Introduction",
+  "sections": [
+    {
+      "file": "15-1-launching-your-venture.html",
+      "title": "15.1 Launching Your Venture"
+    },
+    {
+      "file": "15-2-making-difficult-business-decisions-in-response-to-challenges.html",
+      "title": "15.2 Making Difficult Business Decisions in Response to Challenges"
+    },
+    {
+      "file": "15-3-seeking-help-or-support.html",
+      "title": "15.3 Seeking Help or Support"
+    },
+    {
+      "file": "15-4-now-what-serving-as-a-mentor-consultant-or-champion.html",
+      "title": "15.4 Now What? Serving as a Mentor, Consultant, or Champion"
+    },
+    {
+      "file": "15-5-reflections-documenting-the-journey.html",
+      "title": "15.5 Reflections: Documenting the Journey"
+    },
+    {
+      "file": "15-case-questions.html",
+      "title": "Case Questions"
+    },
+    {
+      "file": "15-discussion-questions.html",
+      "title": "Discussion Questions"
+    },
+    {
+      "file": "15-introduction.html",
+      "title": "Introduction"
+    },
+    {
+      "file": "15-key-terms.html",
+      "title": "Key Terms"
+    },
+    {
+      "file": "15-review-questions.html",
+      "title": "Review Questions"
+    },
+    {
+      "file": "15-suggested-resources.html",
+      "title": "Suggested Resources"
+    },
+    {
+      "file": "15-summary.html",
+      "title": "Summary"
+    }
+  ],
+  "learningObjectives": [
+    "15.1 Launching Your Venture",
+    "15.2 Making Difficult Business Decisions in Response to Challenges",
+    "15.3 Seeking Help or Support",
+    "15.4 Now What? Serving as a Mentor, Consultant, or Champion",
+    "15.5 Reflections: Documenting the Journey"
+  ],
+  "keyConcepts": [
+    "Gannt chart",
+    "venture",
+    "entrepreneur",
+    "people",
+    "process",
+    "code of conduct",
+    "angel investor",
+    "target market",
+    "marketing",
+    "founders’ agreement",
+    "product",
+    "equity",
+    "business plan",
+    "brainstorming",
+    "gantt chart",
+    "copyright",
+    "customers",
+    "develop",
+    "ethics",
+    "evaluate",
+    "harvest",
+    "vision statement",
+    "place",
+    "grant",
+    "buyback clause",
+    "company culture",
+    "escalation of commitment",
+    "nominal group technique",
+    "nondisclosure agreement",
+    "nominal group",
+    "learning objectives",
+    "serial entrepreneur",
+    "business model",
+    "noncompete agreement",
+    "credit",
+    "funds",
+    "delphi method",
+    "planning fallacy",
+    "sample",
+    "accounting",
+    "burn rate",
+    "financing",
+    "hindsight bias",
+    "hubris",
+    "status quo bias",
+    "link to learning",
+    "due diligence",
+    "entrepreneurial venture",
+    "social entrepreneur",
+    "entrepreneurial journey",
+    "innovation",
+    "business ethics",
+    "intellectual property",
+    "infrastructure",
+    "supply",
+    "clarify",
+    "ask",
+    "marketing plan",
+    "revenue",
+    "networking",
+    "outsourcing",
+    "capital",
+    "lifestyle business",
+    "social capital",
+    "entrepreneur in action",
+    "codes of conduct",
+    "suggested resources",
+    "entrepreneurial vision",
+    "opportunity recognition",
+    "cash flow",
+    "framework",
+    "milestone",
+    "disclosure",
+    "diversity",
+    "social entrepreneurship",
+    "creativity",
+    "data analysis",
+    "evaluation",
+    "pitch",
+    "brand",
+    "close",
+    "digital marketing",
+    "price",
+    "targeting",
+    "assets",
+    "early stage",
+    "funding sources",
+    "tangible resources",
+    "fail-safe point",
+    "stakeholders",
+    "fail-safe points",
+    "key terms",
+    "review questions",
+    "discussion questions",
+    "case questions",
+    "chapter outline"
+  ],
+  "difficultTerms": [
+    "Copyright Rice University",
+    "CC BY NC-SA",
+    "Making Difficult Business Decisions",
+    "Response to Challenges",
+    "Launching Your Venture",
+    "The Nominal Group",
+    "Startup Champions Network",
+    "Small Business Administration",
+    "The Startup Champions Network",
+    "Rehman and Bailey",
+    "Harvard Business Review",
+    "Are You Ready",
+    "Link to Learning This TED",
+    "Rose and Wise",
+    "National Business Ethics Survey",
+    "Service Corps of Retired Executives",
+    "Deciding What Advice to Follow",
+    "The Power of Intuition",
+    "How to Use Your Gut",
+    "Feelings to Make Better Decisions",
+    "Andrea Sreshta and Ana Stork"
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "file": "15-1-launching-your-venture.html",
+      "id": "OSX_Eship_16_01_Conduct",
+      "caption": "Figure 15.2 This sample code of conduct demonstrates how a code of conduct needs to fit the specific organization’s needs. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-1-launching-your-venture.html",
+      "id": "OSX_Eship_16_01_Conduct2",
+      "caption": "Figure 15.3 This code of conduct addresses more traditional and general topics than in the first example. In all cases, the code of conduct needs to address your unique venture including awareness of how the code of conduct aligns with the leadership and culture that you want to develop. 1 (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-1-launching-your-venture.html",
+      "id": "OSX_Eship_16_01_Gantt",
+      "caption": "Figure 15.4 This sample Gantt chart demonstrates how activities are listed and tracked over time to assist in organizing and planning a sequence of activities. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-2-making-difficult-business-decisions-in-response-to-challenges.html",
+      "id": "OSX_Eship_16_02_Biases",
+      "caption": "Figure 15.5 The biases shown in this image are areas that can contribute to the failure of the venture. Being aware of these biases provides a reality checkpoint. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-2-making-difficult-business-decisions-in-response-to-challenges.html",
+      "id": "OSX_Eship_16_02_Ethics",
+      "caption": "Figure 15.6 The Ethics and Compliance Initiative from the National Business Ethics Survey outlines policies and processes that encourage ethical behavior. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-2-making-difficult-business-decisions-in-response-to-challenges.html",
+      "id": "OSX_Eship_16_02_Mindmap",
+      "caption": "Figure 15.7 Example of a mindmap. Mindmaps can be created to inform and increase creativity in both understanding the topic or problem, and in discovering connections. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-3-seeking-help-or-support.html",
+      "id": "OSX_Eship_16_03_YComb",
+      "caption": "Figure 15.8 Y Combinator provides support for new startup companies. (credit: modification of “Max Levchin speaks to Startup School” by Robert Scoble/Flickr, CC BY 2.0)"
+    },
+    {
+      "file": "15-3-seeking-help-or-support.html",
+      "id": "OSX_Eship_16_03_Startup",
+      "caption": "Figure 15.9 There are many potential contributors to business incubation programs. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-3-seeking-help-or-support.html",
+      "id": "OSX_Eship_16_03_QualQuant",
+      "caption": "Figure 15.10 Both qualitative and quantitative factors inform decisions through ideas and numbers. (credit “left”: modification of “Articulamos nuestras ideas” by Cultura de Red/Flickr, CC BY 2.0; attribution “right”: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-3-seeking-help-or-support.html",
+      "id": "OSX_Eship_16_03_Delphi",
+      "caption": "Figure 15.11 The Delphi process proceeds through repetitions of the process until an agreed-upon final answer is identified. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "15-4-now-what-serving-as-a-mentor-consultant-or-champion.html",
+      "id": "OSX_Eship_16_04_MalMap",
+      "caption": "Figure 15.12 What can you do to help solve this global problem? What potential solutions might also be entrepreneurial opportunities?"
+    },
+    {
+      "file": "15-5-reflections-documenting-the-journey.html",
+      "id": "OSX_Eship_16_05_Reflect",
+      "caption": "Figure 15.13 Taking the time to record your thoughts and activities provides new learning opportunities. (credit: “Journaling” by Vic/Flickr, CC B 2.0)"
+    },
+    {
+      "file": "15-introduction.html",
+      "id": "OSX_Eship_16_00_LuminAid",
+      "caption": "Figure 15.1 Consider the importance of having a source of light when the sky is dark, or when disaster strikes and electricity is lost, or for some people, when the infrastructure for electricity doesn’t exist. Andrea Sreshta and Ana Stork identified this situation as an opportunity to create a new product that provides light when the infrastructure does not. (credit: modification of work by LuminAID)"
+    }
+  ],
+  "relevantGlossaryTerms": [
+    {
+      "term": "venture",
+      "translation": "doanh nghiệp (venture)"
+    },
+    {
+      "term": "entrepreneur",
+      "translation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "people",
+      "translation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "process",
+      "translation": "quy trình"
+    },
+    {
+      "term": "code of conduct",
+      "translation": "quy tắc ứng xử"
+    },
+    {
+      "term": "angel investor",
+      "translation": "nhà đầu tư thiên thần"
+    },
+    {
+      "term": "target market",
+      "translation": "thị trường mục tiêu"
+    },
+    {
+      "term": "marketing",
+      "translation": "tiếp thị"
+    },
+    {
+      "term": "founders’ agreement",
+      "translation": "thỏa thuận giữa các nhà sáng lập"
+    },
+    {
+      "term": "product",
+      "translation": "sản phẩm"
+    },
+    {
+      "term": "equity",
+      "translation": "vốn chủ sở hữu"
+    },
+    {
+      "term": "business plan",
+      "translation": "kế hoạch kinh doanh"
+    },
+    {
+      "term": "brainstorming",
+      "translation": "động não"
+    },
+    {
+      "term": "gantt chart",
+      "translation": "biểu đồ Gantt"
+    },
+    {
+      "term": "copyright",
+      "translation": "bản quyền"
+    },
+    {
+      "term": "customers",
+      "translation": "khách hàng"
+    },
+    {
+      "term": "develop",
+      "translation": "phát triển"
+    },
+    {
+      "term": "ethics",
+      "translation": "đạo đức"
+    },
+    {
+      "term": "evaluate",
+      "translation": "đánh giá (evaluate)"
+    },
+    {
+      "term": "harvest",
+      "translation": "thoái vốn/hiện thực hóa giá trị"
+    },
+    {
+      "term": "vision statement",
+      "translation": "tuyên bố tầm nhìn"
+    },
+    {
+      "term": "place",
+      "translation": "phân phối (place)"
+    },
+    {
+      "term": "grant",
+      "translation": "khoản tài trợ"
+    },
+    {
+      "term": "buyback clause",
+      "translation": "điều khoản mua lại"
+    },
+    {
+      "term": "company culture",
+      "translation": "văn hóa công ty"
+    },
+    {
+      "term": "escalation of commitment",
+      "translation": "sự leo thang cam kết"
+    },
+    {
+      "term": "nominal group technique",
+      "translation": "kỹ thuật nhóm danh nghĩa"
+    },
+    {
+      "term": "nondisclosure agreement",
+      "translation": "thỏa thuận không tiết lộ"
+    },
+    {
+      "term": "nominal group",
+      "translation": "kỹ thuật nhóm danh nghĩa"
+    },
+    {
+      "term": "learning objectives",
+      "translation": "mục tiêu học tập"
+    },
+    {
+      "term": "serial entrepreneur",
+      "translation": "doanh nhân khởi nghiệp liên tiếp"
+    },
+    {
+      "term": "business model",
+      "translation": "mô hình kinh doanh"
+    },
+    {
+      "term": "noncompete agreement",
+      "translation": "thỏa thuận không cạnh tranh"
+    },
+    {
+      "term": "credit",
+      "translation": "tín dụng"
+    },
+    {
+      "term": "funds",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "delphi method",
+      "translation": "phương pháp Delphi"
+    },
+    {
+      "term": "planning fallacy",
+      "translation": "ngụy biện lập kế hoạch"
+    },
+    {
+      "term": "sample",
+      "translation": "mẫu khảo sát"
+    },
+    {
+      "term": "accounting",
+      "translation": "kế toán"
+    },
+    {
+      "term": "burn rate",
+      "translation": "tốc độ đốt tiền"
+    },
+    {
+      "term": "financing",
+      "translation": "huy động vốn"
+    },
+    {
+      "term": "hindsight bias",
+      "translation": "thiên kiến nhìn lại"
+    },
+    {
+      "term": "hubris",
+      "translation": "sự tự cao"
+    },
+    {
+      "term": "status quo bias",
+      "translation": "thiên kiến hiện trạng"
+    },
+    {
+      "term": "link to learning",
+      "translation": "liên kết học tập"
+    },
+    {
+      "term": "due diligence",
+      "translation": "thẩm định kỹ lưỡng"
+    },
+    {
+      "term": "entrepreneurial venture",
+      "translation": "dự án khởi nghiệp"
+    },
+    {
+      "term": "social entrepreneur",
+      "translation": "doanh nhân xã hội"
+    },
+    {
+      "term": "entrepreneurial journey",
+      "translation": "hành trình khởi nghiệp"
+    },
+    {
+      "term": "innovation",
+      "translation": "đổi mới"
+    },
+    {
+      "term": "business ethics",
+      "translation": "đạo đức kinh doanh"
+    },
+    {
+      "term": "intellectual property",
+      "translation": "tài sản trí tuệ"
+    },
+    {
+      "term": "infrastructure",
+      "translation": "cơ sở hạ tầng"
+    },
+    {
+      "term": "supply",
+      "translation": "cung"
+    },
+    {
+      "term": "clarify",
+      "translation": "làm rõ"
+    },
+    {
+      "term": "ask",
+      "translation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "marketing plan",
+      "translation": "kế hoạch marketing"
+    },
+    {
+      "term": "revenue",
+      "translation": "doanh thu"
+    },
+    {
+      "term": "networking",
+      "translation": "xây dựng mạng lưới quan hệ"
+    },
+    {
+      "term": "outsourcing",
+      "translation": "thuê ngoài"
+    },
+    {
+      "term": "capital",
+      "translation": "vốn"
+    },
+    {
+      "term": "lifestyle business",
+      "translation": "doanh nghiệp phục vụ lối sống"
+    },
+    {
+      "term": "social capital",
+      "translation": "vốn xã hội"
+    },
+    {
+      "term": "entrepreneur in action",
+      "translation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "codes of conduct",
+      "translation": "các quy tắc ứng xử"
+    },
+    {
+      "term": "suggested resources",
+      "translation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "entrepreneurial vision",
+      "translation": "tầm nhìn khởi nghiệp"
+    },
+    {
+      "term": "opportunity recognition",
+      "translation": "nhận diện cơ hội kinh doanh"
+    },
+    {
+      "term": "cash flow",
+      "translation": "dòng tiền"
+    },
+    {
+      "term": "framework",
+      "translation": "khuôn khổ"
+    },
+    {
+      "term": "milestone",
+      "translation": "cột mốc"
+    },
+    {
+      "term": "disclosure",
+      "translation": "công bố thông tin"
+    },
+    {
+      "term": "diversity",
+      "translation": "đa dạng"
+    },
+    {
+      "term": "social entrepreneurship",
+      "translation": "khởi nghiệp xã hội"
+    },
+    {
+      "term": "creativity",
+      "translation": "sự sáng tạo"
+    },
+    {
+      "term": "data analysis",
+      "translation": "phân tích dữ liệu"
+    },
+    {
+      "term": "evaluation",
+      "translation": "giai đoạn đánh giá (evaluation)"
+    },
+    {
+      "term": "pitch",
+      "translation": "bài thuyết trình gọi vốn (pitch)"
+    },
+    {
+      "term": "brand",
+      "translation": "thương hiệu"
+    },
+    {
+      "term": "close",
+      "translation": "chốt bán hàng"
+    },
+    {
+      "term": "digital marketing",
+      "translation": "tiếp thị kỹ thuật số"
+    },
+    {
+      "term": "price",
+      "translation": "giá"
+    },
+    {
+      "term": "targeting",
+      "translation": "lựa chọn thị trường mục tiêu"
+    },
+    {
+      "term": "assets",
+      "translation": "tài sản"
+    },
+    {
+      "term": "early stage",
+      "translation": "giai đoạn đầu"
+    },
+    {
+      "term": "funding sources",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "tangible resources",
+      "translation": "nguồn lực hữu hình"
+    },
+    {
+      "term": "fail-safe point",
+      "translation": "điểm an toàn"
+    },
+    {
+      "term": "stakeholders",
+      "translation": "stakeholders"
+    },
+    {
+      "term": "fail-safe points",
+      "translation": "điểm kiểm soát an toàn"
+    },
+    {
+      "term": "key terms",
+      "translation": "thuật ngữ chính"
+    },
+    {
+      "term": "review questions",
+      "translation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "translation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "translation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "translation": "dàn ý chương"
+    }
+  ],
+  "translationNotes": [
+    "Chapter contains 13 figures. Figures captions must be prepped and translated, preserving media references and buttons.",
+    "Chapter contains 5 learning objectives. Objectives lists should be translated accurately following technical tone."
+  ],
+  "warnings": []
+}

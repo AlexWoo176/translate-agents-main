@@ -1,0 +1,1012 @@
+{
+  "knownTerms": [
+    {
+      "term": "entrepreneur",
+      "glossaryTranslation": "doanh nhân/nhà khởi nghiệp",
+      "frequency": 48,
+      "context": "When an entrepreneur succeeds, others say “If only I’d thought of that!” But thinking isn’t enough."
+    },
+    {
+      "term": "mission statement",
+      "glossaryTranslation": "tuyên bố sứ mệnh",
+      "frequency": 35,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "quantifiable manner",
+      "glossaryTranslation": "cách thức đo lường được",
+      "frequency": 1,
+      "context": "Measurable: You should be able to test, in some quantifiable manner, whether a goal has been met, meaning that there needs to be some method to determine whether the goal has been met."
+    },
+    {
+      "term": "serial entrepreneur",
+      "glossaryTranslation": "doanh nhân khởi nghiệp liên tiếp",
+      "frequency": 1,
+      "context": "What do you think of the serial entrepreneur who builds a company to sell it and then takes time between ventures to spend time with family and friends?"
+    },
+    {
+      "term": "smart goals",
+      "glossaryTranslation": "mục tiêu SMART",
+      "frequency": 10,
+      "context": "Instead, set SMART goals , which you first were introduced to in The Entrepreneurial Perspective ."
+    },
+    {
+      "term": "social entrepreneur",
+      "glossaryTranslation": "doanh nhân xã hội",
+      "frequency": 1,
+      "context": "You should also have a basic understanding of how to pitch your innovation to different groups using different types of pitches to garner financial support, to attract skilled talent, and/or to garner contributions if you are a social entrepreneur."
+    },
+    {
+      "term": "value proposition",
+      "glossaryTranslation": "giá trị đề xuất",
+      "frequency": 34,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "vision statement",
+      "glossaryTranslation": "tuyên bố tầm nhìn",
+      "frequency": 36,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "business model",
+      "glossaryTranslation": "mô hình kinh doanh",
+      "frequency": 13,
+      "context": "We learned about value propositions in Identifying Entrepreneurial Opportunity as being integral to identifying opportunities, and you will learn how they figure into your business model in Business Model and Plan ."
+    },
+    {
+      "term": "entrepreneurial journey",
+      "glossaryTranslation": "hành trình khởi nghiệp",
+      "frequency": 2,
+      "context": "Of course, the fairy tale format is not a formula for giving a practical, professional pitch, but it can help you put the pieces of your own entrepreneurial journey on paper so you can weave key details into your pitch as it develops."
+    },
+    {
+      "term": "framework",
+      "glossaryTranslation": "khuôn khổ",
+      "frequency": 2,
+      "context": "As mapped out here, this could be the basic framework for your pitch deck for a short competition."
+    },
+    {
+      "term": "innovation",
+      "glossaryTranslation": "đổi mới",
+      "frequency": 34,
+      "context": "The original is freely available under the terms of the CC BY 4.0 license at https://press.rebus.community/media-innovation-and-entrepreneurship/ ."
+    },
+    {
+      "term": "patent",
+      "glossaryTranslation": "bằng sáng chế",
+      "frequency": 16,
+      "context": "24 Protecting your business idea with a patent , should you choose to apply for one, is important."
+    },
+    {
+      "term": "venture",
+      "glossaryTranslation": "doanh nghiệp (venture)",
+      "frequency": 36,
+      "context": "Successful entrepreneurs also understand the need to communicate the origin and value of their venture."
+    },
+    {
+      "term": "copyright",
+      "glossaryTranslation": "bản quyền",
+      "frequency": 4,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) This is a classic case of telling rather than showing ."
+    },
+    {
+      "term": "intellectual property",
+      "glossaryTranslation": "tài sản trí tuệ",
+      "frequency": 9,
+      "context": "Even so, it is common for entrepreneurs to want to protect their intellectual property because more well-established companies might leverage deeper wells of resources and broader, more powerful networks to bring an innovative product or service to market in the time it takes an entrepreneur to move from securing seed funding to landing their first support for their first venture capital round (after seed funding)."
+    },
+    {
+      "term": "prejudice",
+      "glossaryTranslation": "định kiến",
+      "frequency": 1,
+      "context": "It followed her experience facing prejudice in society."
+    },
+    {
+      "term": "social entrepreneurship",
+      "glossaryTranslation": "khởi nghiệp xã hội",
+      "frequency": 4,
+      "context": "Much more planning goes into successful demonstrations, but this should give you a sense of how SMART goal setting can be useful for social entrepreneurship."
+    },
+    {
+      "term": "creativity",
+      "glossaryTranslation": "sự sáng tạo",
+      "frequency": 4,
+      "context": "It should not limit innovation or creativity, and it should reference consumers or clients."
+    },
+    {
+      "term": "empathy",
+      "glossaryTranslation": "sự thấu cảm",
+      "frequency": 1,
+      "context": "CEO CFO Future Entrepreneurs of America Pitch Competitors International Suggested Resources 7.1 Clarifying Your Vision, Mission, and Goals This publication offers a thematic analysis of how mission statements are used in higher education: https://muse.jhu.edu/article/196947 This video provides a walkthrough for crafting your mission statement: https://www.entrepreneur.com/article/65230 7.2 Sharing Your Entrepreneurial Story Using empathy in storybuilding: https://www.inc.com/craig-bloem/all-strong-startup-brands-have-a-great-story-heres-how-to-tell-yours.html Harvard Business Review’s how to craft a corporate narrative: https://hbr.org/2016/03/how-to-build-a-strategic-narrative 7.3 Developing Pitches for Various Audiences and Goals Pitch deck templates: https://articles.bplans.com/what-to-include-in-your-pitch-deck/ and https://www.forbes.com/sites/allbusiness/2017/03/04/how-to-create-a-great-investor-pitch-deck-for-startups-seeking-financing/#4bbce7c2003e and https://www.startupgrind.com/blog/the-quick-and-dirty-guide-to-creating-a-winning-pitch-deck/ 7.4 Protecting Your Idea and Polishing the Pitch through Feedback Patent pitfalls to avoid: http://www.ipwatchdog.com/2016/01/23/patent-drafting-learning-from-common-patent-application-mistakes/id=65243/ Giving and receiving better: https://www.entrepreneur.com/article/219437 NDA templates: https://www.rocketlawyer.com/ 7.5 Reality Check: Contests and Competitions The International Business Model Competition that focuses on Lean Startup models, sponsored by BYU and Harvard: http://www.businessmodelcompetition.com/ Summary 7.1 Clarifying Your Vision, Mission, and Goals The most basic formula for telling the story of your innovation is the problem-solution narrative."
+    },
+    {
+      "term": "ideation",
+      "glossaryTranslation": "quá trình hình thành ý tưởng",
+      "frequency": 2,
+      "context": "Before you can create a focused mission statement and goals answering who you are, what you do, and what you plan to do in the future, you must develop a vision statement that allows you look into the future to answer this question: “What might we become someday if our organization were the best possible version of itself?” Drafting a vision statement is an exercise in ideation —a purposeful process of opening up one’s mind to new trains of thought that branch out in many directions from a stated purpose or problem—in this case, with the goal of generating new possibilities for goods, services, or processes to make your venture sucessful."
+    },
+    {
+      "term": "invention",
+      "glossaryTranslation": "phát minh",
+      "frequency": 3,
+      "context": "How would you weave fairy tale elements about this entrepreneur into a mock pitch for their most ingenious invention?"
+    },
+    {
+      "term": "user interface",
+      "glossaryTranslation": "giao diện người dùng",
+      "frequency": 7,
+      "context": "Steve Jobs and Steve Wozniak , cofounders of Apple , had a mission to put personal computing in the hands of everyday consumers, which meant they had to create simple tools (a graphic user interface, mouse, and so on) in parallel with hardware."
+    },
+    {
+      "term": "customers",
+      "glossaryTranslation": "khách hàng",
+      "frequency": 20,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "demand",
+      "glossaryTranslation": "nhu cầu",
+      "frequency": 2,
+      "context": "Again, the goal is not to develop unmanageable expectations or demand constant innovation from employees and contributors who have jobs that sustain day-to-day operations."
+    },
+    {
+      "term": "entrepreneurial opportunity",
+      "glossaryTranslation": "cơ hội khởi nghiệp",
+      "frequency": 3,
+      "context": "We learned about value propositions in Identifying Entrepreneurial Opportunity as being integral to identifying opportunities, and you will learn how they figure into your business model in Business Model and Plan ."
+    },
+    {
+      "term": "infrastructure",
+      "glossaryTranslation": "cơ sở hạ tầng",
+      "frequency": 3,
+      "context": "If you are in a college town, it may be a peculiar marketplace, but it will usually have an abundance of mentorship opportunities making up for what it may lack in business infrastructure."
+    },
+    {
+      "term": "clarify",
+      "glossaryTranslation": "làm rõ",
+      "frequency": 2,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "develop",
+      "glossaryTranslation": "phát triển",
+      "frequency": 28,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "ideate",
+      "glossaryTranslation": "hình thành ý tưởng",
+      "frequency": 2,
+      "context": "Ideate a potential startup, besides a food delivery service, built around efficiently or conveniently packing and shipping something others have already made."
+    },
+    {
+      "term": "implement",
+      "glossaryTranslation": "triển khai",
+      "frequency": 1,
+      "context": "For example, Patagonia , a well-known outdoor apparel company, has a compelling mission statement: “Patagonia: Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.” Link to Learning Check out this article on HubSpot about what makes an effective mission statement and tips on how to write them to learn more."
+    },
+    {
+      "term": "ask",
+      "glossaryTranslation": "khoản yêu cầu (ask)",
+      "frequency": 20,
+      "context": "A pitch is a formal presentation in which you ask for something."
+    },
+    {
+      "term": "corporate narrative",
+      "glossaryTranslation": "câu chuyện doanh nghiệp",
+      "frequency": 9,
+      "context": "This bigger story is called a corporate narrative."
+    },
+    {
+      "term": "elevator pitch",
+      "glossaryTranslation": "bài pitch ngắn (elevator pitch)",
+      "frequency": 20,
+      "context": "Learning Objectives By the end of this section, you will be able to: Understand the various audiences an entrepreneur may pitch to and how the pitch goals vary for each Define and develop the key elements of a pitch Describe a pitch deck and pitfalls to avoid Create and create an elevator pitch Let’s look more closely at how to develop pitches."
+    },
+    {
+      "term": "entrepreneurial contest",
+      "glossaryTranslation": "cuộc thi khởi nghiệp",
+      "frequency": 2,
+      "context": "An entrepreneurial contest is any entrepreneurial competition other than a pitch competition."
+    },
+    {
+      "term": "iceberg principle",
+      "glossaryTranslation": "nguyên tắc tảng băng trôi",
+      "frequency": 2,
+      "context": "To prepare for a contest, find out exactly what is expected of you and do as much research as you can so that you are writing using the iceberg principle ."
+    },
+    {
+      "term": "noncompete agreement",
+      "glossaryTranslation": "thỏa thuận không cạnh tranh",
+      "frequency": 2,
+      "context": "A noncompete agreement in a contract prevents an employee from working for the competition for a specified period of time after working for you."
+    },
+    {
+      "term": "pitch",
+      "glossaryTranslation": "bài thuyết trình gọi vốn (pitch)",
+      "frequency": 196,
+      "context": "You learned about these in The Entrepreneurial Perspective , but you should revisit them as you develop your story and refine how to pitch that story to potential investors, customers, and employees."
+    },
+    {
+      "term": "pitch competition",
+      "glossaryTranslation": "cuộc thi pitch",
+      "frequency": 18,
+      "context": "Entrepreneurs might make pitches in what is known as a pitch competition , hoping for a shot at funding and mentoring."
+    },
+    {
+      "term": "pitch deck",
+      "glossaryTranslation": "bộ slide pitch",
+      "frequency": 27,
+      "context": "Learning Objectives By the end of this section, you will be able to: Understand the various audiences an entrepreneur may pitch to and how the pitch goals vary for each Define and develop the key elements of a pitch Describe a pitch deck and pitfalls to avoid Create and create an elevator pitch Let’s look more closely at how to develop pitches."
+    },
+    {
+      "term": "problem-solution narrative",
+      "glossaryTranslation": "câu chuyện vấn đề – giải pháp",
+      "frequency": 11,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "work-for-hire agreement",
+      "glossaryTranslation": "thỏa thuận làm thuê (work-for-hire)",
+      "frequency": 3,
+      "context": "A work-for-hire agreement between an individual employee and a company states that ownership of innovations belongs to the company, even if an individual makes substantial contributions to the product, service, or process."
+    },
+    {
+      "term": "advertising",
+      "glossaryTranslation": "quảng cáo",
+      "frequency": 1,
+      "context": "Here are some classic problem-solution narratives in advertising and in corporate origin stories to think about as you consider how to craft a quick, compelling problem-solution narrative."
+    },
+    {
+      "term": "brand",
+      "glossaryTranslation": "thương hiệu",
+      "frequency": 21,
+      "context": "This vision statement is not framed as a political statement; rather, it is an ideal established for the global brand, and it indicates a broad positive outcome."
+    },
+    {
+      "term": "brand advocate",
+      "glossaryTranslation": "người ủng hộ thương hiệu",
+      "frequency": 2,
+      "context": "When making a pitch, it is best not only to convey the value proposition of your product but to convey the value in the way that a loyal, enthusiastic consumer of the product (a brand advocate ) would see it."
+    },
+    {
+      "term": "close",
+      "glossaryTranslation": "chốt bán hàng",
+      "frequency": 3,
+      "context": "Instead, it may hope to capture a percentage of a close competitor’s market share or create a new product to reach a niche market."
+    },
+    {
+      "term": "entrepreneurial marketing",
+      "glossaryTranslation": "tiếp thị khởi nghiệp",
+      "frequency": 2,
+      "context": "The Entrepreneurial Marketing and Sales chapter covers these concepts in detail."
+    },
+    {
+      "term": "executive summary",
+      "glossaryTranslation": "tóm tắt điều hành",
+      "frequency": 1,
+      "context": "Even if judges never see a long-form prospectus, a detailed summary of the business, the investment that the company is seeking, or the key risks that the company faces—ensuring you have the hard data to back up those points in your executive summary or introduction increases your chances of success in the competition."
+    },
+    {
+      "term": "market opportunity",
+      "glossaryTranslation": "cơ hội thị trường",
+      "frequency": 2,
+      "context": "As such, a pitch is designed to be clear, concise, and compelling around key areas, typically the key problem or unmet need, the market opportunity, the innovative solution, the management plan, the financial needs, and any risks."
+    },
+    {
+      "term": "marketing",
+      "glossaryTranslation": "tiếp thị",
+      "frequency": 8,
+      "context": "For a company with massive global reach and some of the best, most memorable marketing moments, the relatively lifeless nature of its vision stands out."
+    },
+    {
+      "term": "people",
+      "glossaryTranslation": "con người (nguồn nhân lực)",
+      "frequency": 49,
+      "context": "The problem-solution narrative concisely introduces a specific problem that affects many people and presents the good or service as an innovative, unique, and insightful solution."
+    },
+    {
+      "term": "place",
+      "glossaryTranslation": "phân phối (place)",
+      "frequency": 8,
+      "context": "The athlete drinks milk and gets stronger, earning the a place on the school team."
+    },
+    {
+      "term": "price",
+      "glossaryTranslation": "giá",
+      "frequency": 4,
+      "context": "Example Vision Statements Entity Vision Statement Alzheimer's Association A world without Alzheimer’s disease Teach for America One day, all children in this nation will have the opportunity to attain an excellent education Creative Commons Realizing the full potential of the Internet—universal access to research and education, full participation in culture—to drive a new era of development, growth, and productivity Warby Parker To offer designer eyewear at a revolutionary price, while leading the way for socially conscious businesses IKEA To create a better everyday life for the many people Table 7.2 Strong vision statements are forward-thinking."
+    },
+    {
+      "term": "process",
+      "glossaryTranslation": "quy trình",
+      "frequency": 11,
+      "context": "Before you can create a focused mission statement and goals answering who you are, what you do, and what you plan to do in the future, you must develop a vision statement that allows you look into the future to answer this question: “What might we become someday if our organization were the best possible version of itself?” Drafting a vision statement is an exercise in ideation —a purposeful process of opening up one’s mind to new trains of thought that branch out in many directions from a stated purpose or problem—in this case, with the goal of generating new possibilities for goods, services, or processes to make your venture sucessful."
+    },
+    {
+      "term": "product",
+      "glossaryTranslation": "sản phẩm",
+      "frequency": 74,
+      "context": "You’re not going to get a National Book Award for a Snickers commercial, but these are memorable narratives about people who have a problem that the product in question can solve."
+    },
+    {
+      "term": "social media",
+      "glossaryTranslation": "mạng xã hội",
+      "frequency": 6,
+      "context": "Fear of missing out (FOMO) refers to the sense that we need to keep up with our peers and the personas they represent in social settings, particularly on social media."
+    },
+    {
+      "term": "tagline",
+      "glossaryTranslation": "khẩu hiệu thương hiệu",
+      "frequency": 2,
+      "context": "18 Element 1: Brand identity image and tagline."
+    },
+    {
+      "term": "targeting",
+      "glossaryTranslation": "lựa chọn thị trường mục tiêu",
+      "frequency": 1,
+      "context": "How might you build different pitch decks targeting different types of investors (electronics investors, those who invest in value-added customization products, modular tech enthusiasts, and so on)?"
+    },
+    {
+      "term": "accounting",
+      "glossaryTranslation": "kế toán",
+      "frequency": 3,
+      "context": "Investors You have been introduced to different types of investors and will learn about them in more depth in Entrepreneurial Finance and Accounting ."
+    },
+    {
+      "term": "angel investor",
+      "glossaryTranslation": "nhà đầu tư thiên thần",
+      "frequency": 2,
+      "context": "It is suggested that you keep your core deck to no more than ten slides and that you practice a two-minute version that covers all six of these concepts in case you meet an angel investor on the street."
+    },
+    {
+      "term": "credit",
+      "glossaryTranslation": "tín dụng",
+      "frequency": 6,
+      "context": "(credit: “HP Garage in Silicon Valley” by “MGA73bot2”/Wikimedia Commons, CC BY 2.0) The Advantages and Disadvantages of Using Stories The primary advantage of using stories in pitch development is that they are relatable."
+    },
+    {
+      "term": "equity",
+      "glossaryTranslation": "vốn chủ sở hữu",
+      "frequency": 1,
+      "context": "Prepare to explain the value proposition and key features in detail and explain how the vendor shares in revenues, such as options about accepting equity in part or in lieu of cash payments for services."
+    },
+    {
+      "term": "expenses",
+      "glossaryTranslation": "chi phí",
+      "frequency": 1,
+      "context": "This is covered in Business Model and Plan , but just know that you must pay for inputs and overhead, and that revenues from outputs, sooner rather than later, ought to catch up to initial expenses."
+    },
+    {
+      "term": "financing",
+      "glossaryTranslation": "huy động vốn",
+      "frequency": 1,
+      "context": "CEO CFO Future Entrepreneurs of America Pitch Competitors International Suggested Resources 7.1 Clarifying Your Vision, Mission, and Goals This publication offers a thematic analysis of how mission statements are used in higher education: https://muse.jhu.edu/article/196947 This video provides a walkthrough for crafting your mission statement: https://www.entrepreneur.com/article/65230 7.2 Sharing Your Entrepreneurial Story Using empathy in storybuilding: https://www.inc.com/craig-bloem/all-strong-startup-brands-have-a-great-story-heres-how-to-tell-yours.html Harvard Business Review’s how to craft a corporate narrative: https://hbr.org/2016/03/how-to-build-a-strategic-narrative 7.3 Developing Pitches for Various Audiences and Goals Pitch deck templates: https://articles.bplans.com/what-to-include-in-your-pitch-deck/ and https://www.forbes.com/sites/allbusiness/2017/03/04/how-to-create-a-great-investor-pitch-deck-for-startups-seeking-financing/#4bbce7c2003e and https://www.startupgrind.com/blog/the-quick-and-dirty-guide-to-creating-a-winning-pitch-deck/ 7.4 Protecting Your Idea and Polishing the Pitch through Feedback Patent pitfalls to avoid: http://www.ipwatchdog.com/2016/01/23/patent-drafting-learning-from-common-patent-application-mistakes/id=65243/ Giving and receiving better: https://www.entrepreneur.com/article/219437 NDA templates: https://www.rocketlawyer.com/ 7.5 Reality Check: Contests and Competitions The International Business Model Competition that focuses on Lean Startup models, sponsored by BYU and Harvard: http://www.businessmodelcompetition.com/ Summary 7.1 Clarifying Your Vision, Mission, and Goals The most basic formula for telling the story of your innovation is the problem-solution narrative."
+    },
+    {
+      "term": "funds",
+      "glossaryTranslation": "nguồn vốn",
+      "frequency": 2,
+      "context": "Summary of Pitch Scenarios Audience Pitch Length Pitch Approach Key Content Notes Friends and family Fifteen minutes Usually verbal with a simple companion one-page handout explaining the concept, value proposition, and funds needed to get the enterprise off the ground Should cover basic elements of the business model and concept, unmet need, and solution (including if it seems patentable), market and sales potential, and high-level risks This common pitch can be emotional as founders are appealing to people they know well and are counting on their personal reputation and credibility vs."
+    },
+    {
+      "term": "grant",
+      "glossaryTranslation": "khoản tài trợ",
+      "frequency": 4,
+      "context": "Prizes range from free services to $1,000–2,000 Judges for pitch competition Five to fifteen minutes depending on venue/rules Varies from basic verbal to deck of one to eight slides, ending with a “call to action”; might require capital needs Presentation that may include slides and/or video as specified in competition rules These are very common and help the entrepreneur refine the pitch Early Investors Ten to twenty minutes, depending on venue/rules Standup presentation with slides and video or demo of product/service Presentation that may include slides and/or video; more formal than pitch competitions with a specific “ask” for capital needs and use Very common with angel investors; often the deck is required to be sent before the event Employees Ten to twenty minutes Standup presentation with slides and video or demo of product/service Major outcome is to inform and inspire; this can be a recurring event and should be informal Very common in startups; usually monthly until company is profitable Trade groups/associations Ten to twenty minutes Standup presentation with slides and video or demo of product/service; may be tailored to the specific group Major outcome is to inform and connect to other key groups (investors, customers, etc.) Very common at trade conferences; some have their own pitch competitions Grant-making agencies (such as NIH, NSF) Ten to twenty minutes if in person but usually embedded in grant application Usually written but can lead to face-to-face meeting, depending on agency rules Outcome is to get “scored” to gain grant funding; if not awarded, company can reapply in the next grant cycle Grants are often technical and usually awarded for research and cannot be used for any commercial activities Table 7.3 Pitch Audiences No matter to whom you are pitching, you usually need to include references to your problem-solution statement, value proposition, and key features, and how you prioritize that information will change for different audiences."
+    },
+    {
+      "term": "revenue",
+      "glossaryTranslation": "doanh thu",
+      "frequency": 5,
+      "context": "Lululemon Athletica , which pioneered customer-centered designs for women’s athletic apparel, recently established new growth goals that were consistent with its mission: “Management is hard set on growing the company to $4 billion in revenue by 2020."
+    },
+    {
+      "term": "valuation",
+      "glossaryTranslation": "định giá",
+      "frequency": 1,
+      "context": "Viewers learn what inspires entrepreneurs, how hard they have worked on their prototypes and pitches, and what they have riding on those few minutes in the room with the “sharks.” Only after the entrepreneur’s story is set up do we get to the punch line, so to speak—the five-minute memorized pitch—which, if the entrepreneurs’ ideas seem viable, is followed by further talk about valuation and mentoring."
+    },
+    {
+      "term": "lean startup",
+      "glossaryTranslation": "khởi nghiệp tinh gọn",
+      "frequency": 3,
+      "context": "In what ways is the Zappos lean startup story about feedback?"
+    },
+    {
+      "term": "pivoting",
+      "glossaryTranslation": "chuyển hướng chiến lược",
+      "frequency": 1,
+      "context": "Mission statements should not be crafted in a way that limits an organization’s ability to pivot—that is, to adjust the value proposition to better achieve product-market fit (see the Launch for Growth to Success for a more in-depth discussion of pivoting)."
+    },
+    {
+      "term": "growth strategy",
+      "glossaryTranslation": "chiến lược tăng trưởng",
+      "frequency": 1,
+      "context": "Companies and organizations usually change their mission statement when they have made a major shift (due to an acquisition, pivot to another market, new growth strategy, etc.) or if their purpose has changed in a major way."
+    },
+    {
+      "term": "business model canvas",
+      "glossaryTranslation": "mô hình kinh doanh canvas",
+      "frequency": 2,
+      "context": "The business model canvas (BMC) can help you understand and be able to visualize how your value proposition sits at the center of two dynamics: input and output cycles."
+    },
+    {
+      "term": "business plan",
+      "glossaryTranslation": "kế hoạch kinh doanh",
+      "frequency": 9,
+      "context": "You can line up several attainable goals over a period of several weeks or months, and build your way to a complex, realistic business plan."
+    },
+    {
+      "term": "networking",
+      "glossaryTranslation": "xây dựng mạng lưới quan hệ",
+      "frequency": 4,
+      "context": "It might be delivered informally at networking events or at dinner parties or other social engagements."
+    },
+    {
+      "term": "capital",
+      "glossaryTranslation": "vốn",
+      "frequency": 7,
+      "context": "Prizes range from free services to $1,000–2,000 Judges for pitch competition Five to fifteen minutes depending on venue/rules Varies from basic verbal to deck of one to eight slides, ending with a “call to action”; might require capital needs Presentation that may include slides and/or video as specified in competition rules These are very common and help the entrepreneur refine the pitch Early Investors Ten to twenty minutes, depending on venue/rules Standup presentation with slides and video or demo of product/service Presentation that may include slides and/or video; more formal than pitch competitions with a specific “ask” for capital needs and use Very common with angel investors; often the deck is required to be sent before the event Employees Ten to twenty minutes Standup presentation with slides and video or demo of product/service Major outcome is to inform and inspire; this can be a recurring event and should be informal Very common in startups; usually monthly until company is profitable Trade groups/associations Ten to twenty minutes Standup presentation with slides and video or demo of product/service; may be tailored to the specific group Major outcome is to inform and connect to other key groups (investors, customers, etc.) Very common at trade conferences; some have their own pitch competitions Grant-making agencies (such as NIH, NSF) Ten to twenty minutes if in person but usually embedded in grant application Usually written but can lead to face-to-face meeting, depending on agency rules Outcome is to get “scored” to gain grant funding; if not awarded, company can reapply in the next grant cycle Grants are often technical and usually awarded for research and cannot be used for any commercial activities Table 7.3 Pitch Audiences No matter to whom you are pitching, you usually need to include references to your problem-solution statement, value proposition, and key features, and how you prioritize that information will change for different audiences."
+    },
+    {
+      "term": "corporation",
+      "glossaryTranslation": "công ty cổ phần",
+      "frequency": 7,
+      "context": "But with this series of statements, Coca-Cola tries to cover all possible types of vision for almost every major relationship or facet of the corporation imaginable."
+    },
+    {
+      "term": "contractual agreement",
+      "glossaryTranslation": "thỏa thuận hợp đồng",
+      "frequency": 1,
+      "context": "You should expect to be required to list collaborators on patents, even those working under a work-for-hire clause, but the purpose of the contractual agreement is to ensure that you or your company maintains exclusive rights to the patent."
+    },
+    {
+      "term": "nondisclosure agreement",
+      "glossaryTranslation": "thỏa thuận không tiết lộ",
+      "frequency": 4,
+      "context": "27 You may wish to require partners to sign a nondisclosure agreement (NDA) ."
+    },
+    {
+      "term": "contracts",
+      "glossaryTranslation": "Contracts",
+      "frequency": 1,
+      "context": "Winners of pitch competitions would do well to examine any contracts they must sign before accepting cash awards or investments; some deals are structured unfavorably for the entrepreneur."
+    },
+    {
+      "term": "stakeholders",
+      "glossaryTranslation": "stakeholders",
+      "frequency": 2,
+      "context": "A strong mission statement helps stakeholders prioritize the entity’s action steps and should guide decisions."
+    },
+    {
+      "term": "pitch competitions",
+      "glossaryTranslation": "các cuộc thi pitch",
+      "frequency": 15,
+      "context": "detailed data to sell the idea Elevator pitch competitions Two to five minutes Usually a verbal pitch or single slide summarizing need, solution, market, opportunity Should cover high-level innovation, value proposition, and a “call to action” to close the audience Very common at accelerator or incubator events, university entrepreneurship events, etc."
+    },
+    {
+      "term": "link to learning",
+      "glossaryTranslation": "liên kết học tập",
+      "frequency": 6,
+      "context": "Link to Learning This Ted Talk from Simon Sinek is entitled “How Great Leaders Inspire Action.” Sinek is the author of two books: Start with Why and Leaders Eat Last ."
+    },
+    {
+      "term": "work it out",
+      "glossaryTranslation": "thực hành",
+      "frequency": 2,
+      "context": "Work It Out Writing Your Entrepreneurial Story Take the preceding fairy tale template and use it to write the story of the entrepreneur behind your favorite product or brand."
+    },
+    {
+      "term": "learning objectives",
+      "glossaryTranslation": "mục tiêu học tập",
+      "frequency": 5,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "suggested resources",
+      "glossaryTranslation": "tài nguyên gợi ý",
+      "frequency": 1,
+      "context": "CEO CFO Future Entrepreneurs of America Pitch Competitors International Suggested Resources 7.1 Clarifying Your Vision, Mission, and Goals This publication offers a thematic analysis of how mission statements are used in higher education: https://muse.jhu.edu/article/196947 This video provides a walkthrough for crafting your mission statement: https://www.entrepreneur.com/article/65230 7.2 Sharing Your Entrepreneurial Story Using empathy in storybuilding: https://www.inc.com/craig-bloem/all-strong-startup-brands-have-a-great-story-heres-how-to-tell-yours.html Harvard Business Review’s how to craft a corporate narrative: https://hbr.org/2016/03/how-to-build-a-strategic-narrative 7.3 Developing Pitches for Various Audiences and Goals Pitch deck templates: https://articles.bplans.com/what-to-include-in-your-pitch-deck/ and https://www.forbes.com/sites/allbusiness/2017/03/04/how-to-create-a-great-investor-pitch-deck-for-startups-seeking-financing/#4bbce7c2003e and https://www.startupgrind.com/blog/the-quick-and-dirty-guide-to-creating-a-winning-pitch-deck/ 7.4 Protecting Your Idea and Polishing the Pitch through Feedback Patent pitfalls to avoid: http://www.ipwatchdog.com/2016/01/23/patent-drafting-learning-from-common-patent-application-mistakes/id=65243/ Giving and receiving better: https://www.entrepreneur.com/article/219437 NDA templates: https://www.rocketlawyer.com/ 7.5 Reality Check: Contests and Competitions The International Business Model Competition that focuses on Lean Startup models, sponsored by BYU and Harvard: http://www.businessmodelcompetition.com/ Summary 7.1 Clarifying Your Vision, Mission, and Goals The most basic formula for telling the story of your innovation is the problem-solution narrative."
+    },
+    {
+      "term": "key terms",
+      "glossaryTranslation": "thuật ngữ chính",
+      "frequency": 1,
+      "context": "Key Terms ask specific amount of money or type of assistance requested in a pitch corporate narrative story about how a successful company grew from something small into something broad and powerful, serving thousands or even millions of people; it may have marketing purposes, and it may serve as an inspirational story for leaders and employees elevator pitch abbreviated pitch, a memorized talk that can get you into the door to put your full pitch deck on display entrepreneurial contest any entrepreneurial competition other than a pitch competition; contests may entail submitting business models, long-form prospectuses, or forms tailored to contest specifications fear of missing out (FOMO) need to keep up with peers and the personas they represent in social settings, particularly on social media iceberg principle writing principle useful for preparing contest documents and pitch decks; following this principle, each word or sentence in the submission or presentation should be backed up with a wealth of supporting information and details that go unspoken in the pitch or proposal, but which you have at the ready should an investor take interest in the details and your knowledge of them ideation purposeful process of opening up one’s mind to new trains of thought that branch out in many directions from a stated purpose or problem mission statement statement of an organization’s reason for being that defines its primary long-term goal, explains what the venture will do, what value it will provide to the end customer, and how it will accomplish that action noncompete agreement formal agreement that the person signing the document will not work for another organization that is a direct competitor of their current employer during employment and usually for a specified length of time after employment ends nondisclosure agreement (NDA) contract that carries harsh financial penalties should one party to the agreement disclose what they know of the proprietary information pitch formal presentation in which you ask for something and that is delivered (usually) to potential investors in a startup pitch competition competition that may have cash prizes or mentorship opportunities for winners; you are expected to present your business idea in the form of a presentation, usually with a pitch deck pitch deck slide presentation that you create that gives a quick overview of your product and what you’re asking for problem-solution narrative brief story of a sentence or two that states a problem affecting many people and offering a solution that is innovative, unique, insightful, or all of these user interface (UI) what a customer sees when they use your product; having a variant of a UI is not necessarily grounds for establishing a patent, but having unique design in the broader sense may help you to secure patent protection value proposition summary describing the benefits (value) customers can expect from a particular product or service work-for-hire agreement agreement between an individual employee and a company states that ownership of innovations belongs to the company, even if an individual makes substantial contributions to the product Review Questions 1 ."
+    },
+    {
+      "term": "review questions",
+      "glossaryTranslation": "câu hỏi ôn tập",
+      "frequency": 1,
+      "context": "Key Terms ask specific amount of money or type of assistance requested in a pitch corporate narrative story about how a successful company grew from something small into something broad and powerful, serving thousands or even millions of people; it may have marketing purposes, and it may serve as an inspirational story for leaders and employees elevator pitch abbreviated pitch, a memorized talk that can get you into the door to put your full pitch deck on display entrepreneurial contest any entrepreneurial competition other than a pitch competition; contests may entail submitting business models, long-form prospectuses, or forms tailored to contest specifications fear of missing out (FOMO) need to keep up with peers and the personas they represent in social settings, particularly on social media iceberg principle writing principle useful for preparing contest documents and pitch decks; following this principle, each word or sentence in the submission or presentation should be backed up with a wealth of supporting information and details that go unspoken in the pitch or proposal, but which you have at the ready should an investor take interest in the details and your knowledge of them ideation purposeful process of opening up one’s mind to new trains of thought that branch out in many directions from a stated purpose or problem mission statement statement of an organization’s reason for being that defines its primary long-term goal, explains what the venture will do, what value it will provide to the end customer, and how it will accomplish that action noncompete agreement formal agreement that the person signing the document will not work for another organization that is a direct competitor of their current employer during employment and usually for a specified length of time after employment ends nondisclosure agreement (NDA) contract that carries harsh financial penalties should one party to the agreement disclose what they know of the proprietary information pitch formal presentation in which you ask for something and that is delivered (usually) to potential investors in a startup pitch competition competition that may have cash prizes or mentorship opportunities for winners; you are expected to present your business idea in the form of a presentation, usually with a pitch deck pitch deck slide presentation that you create that gives a quick overview of your product and what you’re asking for problem-solution narrative brief story of a sentence or two that states a problem affecting many people and offering a solution that is innovative, unique, insightful, or all of these user interface (UI) what a customer sees when they use your product; having a variant of a UI is not necessarily grounds for establishing a patent, but having unique design in the broader sense may help you to secure patent protection value proposition summary describing the benefits (value) customers can expect from a particular product or service work-for-hire agreement agreement between an individual employee and a company states that ownership of innovations belongs to the company, even if an individual makes substantial contributions to the product Review Questions 1 ."
+    },
+    {
+      "term": "discussion questions",
+      "glossaryTranslation": "câu hỏi thảo luận",
+      "frequency": 1,
+      "context": "https://www.cleverism.com/how-build-measure-learn-cycle-really-works/ Discussion Questions 1 ."
+    },
+    {
+      "term": "case questions",
+      "glossaryTranslation": "câu hỏi tình huống",
+      "frequency": 1,
+      "context": "Case Questions 1 ."
+    },
+    {
+      "term": "chapter outline",
+      "glossaryTranslation": "dàn ý chương",
+      "frequency": 1,
+      "context": "Global Entrepreneur Week.” by Brad Montgomery/Flickr, CC BY 2.0) Chapter Outline 7.1 Clarifying Your Vision, Mission, and Goals 7.2 Sharing Your Entrepreneurial Story 7.3 Developing Pitches for Various Audiences and Goals 7.4 Protecting Your Idea and Polishing the Pitch through Feedback 7.5 Reality Check: Contests and Competitions Introduction Sara Minkara , a Muslim American of Lebanese decent, lost her eyesight at age seven because of a genetic disorder."
+    }
+  ],
+  "candidateTerms": [
+    {
+      "term": "Clarifying Your Vision",
+      "frequency": 4,
+      "context": "7.1 Clarifying Your Vision, Mission, and Goals Portions of the material in this section are based on original work by Mark Poepsel and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Goals Portions",
+      "frequency": 2,
+      "context": "7.1 Clarifying Your Vision, Mission, and Goals Portions of the material in this section are based on original work by Mark Poepsel and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Mark Poepsel",
+      "frequency": 5,
+      "context": "7.1 Clarifying Your Vision, Mission, and Goals Portions of the material in this section are based on original work by Mark Poepsel and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Rebus Community",
+      "frequency": 5,
+      "context": "7.1 Clarifying Your Vision, Mission, and Goals Portions of the material in this section are based on original work by Mark Poepsel and produced with support from the Rebus Community."
+    },
+    {
+      "term": "CC BY",
+      "frequency": 12,
+      "context": "The original is freely available under the terms of the CC BY 4.0 license at https://press.rebus.community/media-innovation-and-entrepreneurship/ ."
+    },
+    {
+      "term": "Learning Objectives By",
+      "frequency": 5,
+      "context": "Learning Objectives By the end of this section, you will be able to: Clarify the vision statement, mission statement, and goals for your enterprise Define and develop a problem-solution narrative that is compelling Define and develop a value proposition that is credible and appealing to customers and investors Entrepreneurs can sometimes be compared to superheroes: They solve problems."
+    },
+    {
+      "term": "The Entrepreneurial Perspective",
+      "frequency": 3,
+      "context": "You learned about these in The Entrepreneurial Perspective , but you should revisit them as you develop your story and refine how to pitch that story to potential investors, customers, and employees."
+    },
+    {
+      "term": "Sara Minkara",
+      "frequency": 2,
+      "context": "Sara Minkara’s vision statement may be defined as wishing to live in a world where visually impaired people are not discriminated against."
+    },
+    {
+      "term": "United States",
+      "frequency": 8,
+      "context": "Her venture’s mission is to establish a well-functioning nonprofit organization showing people in the United States, the Middle East, and North Africa the humanity and value in those with severely impaired eyesight."
+    },
+    {
+      "term": "Middle East",
+      "frequency": 2,
+      "context": "Her venture’s mission is to establish a well-functioning nonprofit organization showing people in the United States, the Middle East, and North Africa the humanity and value in those with severely impaired eyesight."
+    },
+    {
+      "term": "Vision and Mission Statements",
+      "frequency": 5,
+      "context": "For example, Table 7.1 shows Amazon’s vision and mission statements."
+    },
+    {
+      "term": "Mission Statement To",
+      "frequency": 2,
+      "context": "Amazon’s Vision and Mission Statements 2 Amazon’s Vision Statement Amazon’s Mission Statement To be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience Table 7.1 Notice the differences in Amazon’s vision and mission statements."
+    },
+    {
+      "term": "Identifying Entrepreneurial Opportunity",
+      "frequency": 3,
+      "context": "We learned about value propositions in Identifying Entrepreneurial Opportunity as being integral to identifying opportunities, and you will learn how they figure into your business model in Business Model and Plan ."
+    },
+    {
+      "term": "Business Model and Plan",
+      "frequency": 3,
+      "context": "We learned about value propositions in Identifying Entrepreneurial Opportunity as being integral to identifying opportunities, and you will learn how they figure into your business model in Business Model and Plan ."
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 4,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) This is a classic case of telling rather than showing ."
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 4,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) This is a classic case of telling rather than showing ."
+    },
+    {
+      "term": "Are You Ready",
+      "frequency": 2,
+      "context": "Are You Ready?"
+    },
+    {
+      "term": "American Red Cross",
+      "frequency": 2,
+      "context": "For example, the American Red Cross , one of the oldest and most well-known relief organization in the United States, has a very specific mission statement: “The American Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors.” 7 Defining an organization’s mission clearly and specifically is essential for success."
+    },
+    {
+      "term": "The American Red Cross",
+      "frequency": 2,
+      "context": "For example, the American Red Cross , one of the oldest and most well-known relief organization in the United States, has a very specific mission statement: “The American Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors.” 7 Defining an organization’s mission clearly and specifically is essential for success."
+    },
+    {
+      "term": "Link to Learning Check",
+      "frequency": 2,
+      "context": "For example, Patagonia , a well-known outdoor apparel company, has a compelling mission statement: “Patagonia: Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.” Link to Learning Check out this article on HubSpot about what makes an effective mission statement and tips on how to write them to learn more."
+    },
+    {
+      "term": "Toys Inc",
+      "frequency": 2,
+      "context": "An inadequate mission statement might say this: “At Toys Inc., we make the best wooden toys money can buy, and our mission is to continue to grow to be a market leader in the classic toy industry.” A better mission statement might say this: “Toys Inc."
+    },
+    {
+      "term": "Launch for Growth to Success",
+      "frequency": 2,
+      "context": "Mission statements should not be crafted in a way that limits an organization’s ability to pivot—that is, to adjust the value proposition to better achieve product-market fit (see the Launch for Growth to Success for a more in-depth discussion of pivoting)."
+    },
+    {
+      "term": "March of Dimes",
+      "frequency": 2,
+      "context": "For example, the March of Dimes organization was originally founded to serve people afflicted by polio, but with the success of polio vaccinations, the disease was eradicated in the United States."
+    },
+    {
+      "term": "What Can You Do",
+      "frequency": 2,
+      "context": "What Can You Do?"
+    },
+    {
+      "term": "Sharing Your Entrepreneurial Story",
+      "frequency": 4,
+      "context": "7.2 Sharing Your Entrepreneurial Story Portions of the material in this section are based on original work by Mark Poepsel and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Shark Tank",
+      "frequency": 5,
+      "context": "Learning Objectives By the end of this section, you will be able to: Identify the importance of telling your own story Describe the advantages and disadvantages of using stories to build a startup The popular reality TV show about entrepreneurs making pitches, Shark Tank , is sometimes erroneously described as a show about pitching."
+    },
+    {
+      "term": "The One",
+      "frequency": 3,
+      "context": "We worked really hard and built several versions of the solution until we found The One."
+    },
+    {
+      "term": "Steve Jobs",
+      "frequency": 2,
+      "context": "Steve Jobs and Steve Wozniak , cofounders of Apple , had a mission to put personal computing in the hands of everyday consumers, which meant they had to create simple tools (a graphic user interface, mouse, and so on) in parallel with hardware."
+    },
+    {
+      "term": "Bill Hewlett and David Packard",
+      "frequency": 2,
+      "context": "Its origins lie in the efforts of Bill Hewlett and David Packard , two Stanford University classmates in the 1930s."
+    },
+    {
+      "term": "Stanford University",
+      "frequency": 2,
+      "context": "Its origins lie in the efforts of Bill Hewlett and David Packard , two Stanford University classmates in the 1930s."
+    },
+    {
+      "term": "The Advantages and Disadvantages of Using",
+      "frequency": 2,
+      "context": "Learning Objectives By the end of this section, you will be able to: Identify the importance of telling your own story Describe the advantages and disadvantages of using stories to build a startup The popular reality TV show about entrepreneurs making pitches, Shark Tank , is sometimes erroneously described as a show about pitching."
+    },
+    {
+      "term": "Developing Pitches for Various Audiences",
+      "frequency": 4,
+      "context": "7.3 Developing Pitches for Various Audiences and Goals Portions of the material in this section are based on original work by Mark Poepsel and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Investors You",
+      "frequency": 2,
+      "context": "Investors You have been introduced to different types of investors and will learn about them in more depth in Entrepreneurial Finance and Accounting ."
+    },
+    {
+      "term": "Entrepreneurial Finance and Accounting",
+      "frequency": 2,
+      "context": "Investors You have been introduced to different types of investors and will learn about them in more depth in Entrepreneurial Finance and Accounting ."
+    },
+    {
+      "term": "TED Talk",
+      "frequency": 2,
+      "context": "Link to Learning This Ted Talk from Simon Sinek is entitled “How Great Leaders Inspire Action.” Sinek is the author of two books: Start with Why and Leaders Eat Last ."
+    },
+    {
+      "term": "Reality Check",
+      "frequency": 6,
+      "context": "(Pitch competitions are discussed at length in Reality Check: Contests and Competitions .) Understand that governments usually care most about creating jobs or retaining jobs in their communities."
+    },
+    {
+      "term": "Contests and Competitions",
+      "frequency": 7,
+      "context": "(Pitch competitions are discussed at length in Reality Check: Contests and Competitions .) Understand that governments usually care most about creating jobs or retaining jobs in their communities."
+    },
+    {
+      "term": "Silicon Valley",
+      "frequency": 3,
+      "context": "(credit: “HP Garage in Silicon Valley” by “MGA73bot2”/Wikimedia Commons, CC BY 2.0) The Advantages and Disadvantages of Using Stories The primary advantage of using stories in pitch development is that they are relatable."
+    },
+    {
+      "term": "Key Elements",
+      "frequency": 5,
+      "context": "Learning Objectives By the end of this section, you will be able to: Understand the various audiences an entrepreneur may pitch to and how the pitch goals vary for each Define and develop the key elements of a pitch Describe a pitch deck and pitfalls to avoid Create and create an elevator pitch Let’s look more closely at how to develop pitches."
+    },
+    {
+      "term": "Media Innovation and Entrepreneurship",
+      "frequency": 2,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Here are six key elements of an entrepreneurial pitch from Media Innovation and Entrepreneurship ."
+    },
+    {
+      "term": "The Entrepreneurial Marketing and Sales",
+      "frequency": 2,
+      "context": "The Entrepreneurial Marketing and Sales chapter covers these concepts in detail."
+    },
+    {
+      "term": "The Airbnb",
+      "frequency": 2,
+      "context": "The Airbnb pitch deck notes that at the time there were 630,000 users on couchsurfing.com and that there were 17,000 temporary housing listings on Craigslist in San Francisco and New York combined in one week."
+    },
+    {
+      "term": "How I Built This",
+      "frequency": 2,
+      "context": "Link to Learning NPR’s podcast How I Built This is a compelling collection of first-person accounts by entrepreneurs on all kinds of issues relating to their startups."
+    },
+    {
+      "term": "Protecting Your Idea and Polishing",
+      "frequency": 4,
+      "context": "7.4 Protecting Your Idea and Polishing the Pitch through Feedback Portions of the material in this section are based on original work by Mark Poepsel and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Road to GES",
+      "frequency": 2,
+      "context": "Shown are participants in the Road to GES (Global Entrepreneurship Summit) Heartland pitch competition in Overland Park, Kansas."
+    },
+    {
+      "term": "Global Entrepreneurship Summit",
+      "frequency": 2,
+      "context": "Shown are participants in the Road to GES (Global Entrepreneurship Summit) Heartland pitch competition in Overland Park, Kansas."
+    },
+    {
+      "term": "American Idol",
+      "frequency": 2,
+      "context": "While the show American Idol has been a cautionary example 32 (winners of American Idol usually sign an exclusive recording contract that is restrictive for the artist and limits them from signing with a major recording company for several years), most investors will almost always want to own a piece of the long-term future of any entrepreneurial effort they help fund."
+    },
+    {
+      "term": "Collegiate Entrepreneurs",
+      "frequency": 3,
+      "context": "The Collegiate Entrepreneurs’ Organization , for which the initialism, CEO, is apt, has chapters in more than 300 universities around the United States."
+    },
+    {
+      "term": "Plan Competition",
+      "frequency": 5,
+      "context": "34 In most cases, aggregate yearly awards are listed along with other information specific to the competition: Harvard Business School New Venture Plan Competition – $300,000 Rice Business Plan Competition – $1.5 million Milken-Penn GSE Education Business Plan Competition – $1,000,000 Utah Entrepreneur Challenge – $100,000 Next Founders – $30,000 Technovation world Challenge – $42,000 CodeLaunch – $67,000 Burton D Morgan – $100,000 Edward L."
+    },
+    {
+      "term": "Venture Competition",
+      "frequency": 2,
+      "context": "The George Washington University business plan competition, called the GW New Venture Competition , in 2017 awarded more than $300,000 worth of cash and in-kind services in all."
+    },
+    {
+      "term": "The John Deere Company",
+      "frequency": 2,
+      "context": "The John Deere Company has one of the most enduring corporate narratives in the world."
+    },
+    {
+      "term": "John Deere",
+      "frequency": 7,
+      "context": "The John Deere Company has one of the most enduring corporate narratives in the world."
+    },
+    {
+      "term": "John Deere Company",
+      "frequency": 2,
+      "context": "The John Deere Company has one of the most enduring corporate narratives in the world."
+    },
+    {
+      "term": "Anne-Marie Slaughter",
+      "frequency": 2,
+      "context": "Princeton University professor, president, and CEO of New America, a think tank dedicated to “renewing America in the Digital Age,” Anne-Marie Slaughter wrote an article for The Atlantic in 2012 called “Why women still can’t have it all.” 39 Slaughter starkly and personally lays out the challenges of maintaining the elusive work-life balance."
+    },
+    {
+      "term": "The Atlantic",
+      "frequency": 2,
+      "context": "Princeton University professor, president, and CEO of New America, a think tank dedicated to “renewing America in the Digital Age,” Anne-Marie Slaughter wrote an article for The Atlantic in 2012 called “Why women still can’t have it all.” 39 Slaughter starkly and personally lays out the challenges of maintaining the elusive work-life balance."
+    },
+    {
+      "term": "Wattage Inc",
+      "frequency": 2,
+      "context": "Wattage Inc."
+    },
+    {
+      "term": "That It",
+      "frequency": 11,
+      "context": "It is essential, if and when Coca-Cola revises these statements, that it succinctly speak to all of those groups with one voice rather than trying to address each independently."
+    },
+    {
+      "term": "Why Women Still Can",
+      "frequency": 2,
+      "context": "Princeton University professor, president, and CEO of New America, a think tank dedicated to “renewing America in the Digital Age,” Anne-Marie Slaughter wrote an article for The Atlantic in 2012 called “Why women still can’t have it all.” 39 Slaughter starkly and personally lays out the challenges of maintaining the elusive work-life balance."
+    },
+    {
+      "term": "Have It All",
+      "frequency": 3,
+      "context": "Princeton University professor, president, and CEO of New America, a think tank dedicated to “renewing America in the Digital Age,” Anne-Marie Slaughter wrote an article for The Atlantic in 2012 called “Why women still can’t have it all.” 39 Slaughter starkly and personally lays out the challenges of maintaining the elusive work-life balance."
+    },
+    {
+      "term": "Risk City",
+      "frequency": 2,
+      "context": "Figure 7.1 A pair of entrepreneurs pitches their venture at the “Risk City” Global Entrepreneur Week in Memphis, Tennessee."
+    },
+    {
+      "term": "Global Entrepreneur Week",
+      "frequency": 2,
+      "context": "Figure 7.1 A pair of entrepreneurs pitches their venture at the “Risk City” Global Entrepreneur Week in Memphis, Tennessee."
+    },
+    {
+      "term": "Business Model Competition",
+      "frequency": 3,
+      "context": "Kaplan Business Model Competition – $100,000 UPitch Competition – $10,000 The Hult Prize Student Competition – $1,000.000 Thiel Fellowship – $100,000 This list doesn’t include some other valuable competitions."
+    }
+  ],
+  "missingGlossaryTerms": [],
+  "termFrequency": {
+    "entrepreneur": 48,
+    "mission statement": 35,
+    "quantifiable manner": 1,
+    "serial entrepreneur": 1,
+    "smart goals": 10,
+    "social entrepreneur": 1,
+    "value proposition": 34,
+    "vision statement": 36,
+    "business model": 13,
+    "entrepreneurial journey": 2,
+    "framework": 2,
+    "innovation": 34,
+    "patent": 16,
+    "venture": 36,
+    "copyright": 4,
+    "intellectual property": 9,
+    "prejudice": 1,
+    "social entrepreneurship": 4,
+    "creativity": 4,
+    "empathy": 1,
+    "ideation": 2,
+    "invention": 3,
+    "user interface": 7,
+    "customers": 20,
+    "demand": 2,
+    "entrepreneurial opportunity": 3,
+    "infrastructure": 3,
+    "clarify": 2,
+    "develop": 28,
+    "ideate": 2,
+    "implement": 1,
+    "ask": 20,
+    "corporate narrative": 9,
+    "elevator pitch": 20,
+    "entrepreneurial contest": 2,
+    "iceberg principle": 2,
+    "noncompete agreement": 2,
+    "pitch": 196,
+    "pitch competition": 18,
+    "pitch deck": 27,
+    "problem-solution narrative": 11,
+    "work-for-hire agreement": 3,
+    "advertising": 1,
+    "brand": 21,
+    "brand advocate": 2,
+    "close": 3,
+    "entrepreneurial marketing": 2,
+    "executive summary": 1,
+    "market opportunity": 2,
+    "marketing": 8,
+    "people": 49,
+    "place": 8,
+    "price": 4,
+    "process": 11,
+    "product": 74,
+    "social media": 6,
+    "tagline": 2,
+    "targeting": 1,
+    "accounting": 3,
+    "angel investor": 2,
+    "credit": 6,
+    "equity": 1,
+    "expenses": 1,
+    "financing": 1,
+    "funds": 2,
+    "grant": 4,
+    "revenue": 5,
+    "valuation": 1,
+    "lean startup": 3,
+    "pivoting": 1,
+    "growth strategy": 1,
+    "business model canvas": 2,
+    "business plan": 9,
+    "networking": 4,
+    "capital": 7,
+    "corporation": 7,
+    "contractual agreement": 1,
+    "nondisclosure agreement": 4,
+    "contracts": 1,
+    "stakeholders": 2,
+    "pitch competitions": 15,
+    "link to learning": 6,
+    "work it out": 2,
+    "learning objectives": 5,
+    "suggested resources": 1,
+    "key terms": 1,
+    "review questions": 1,
+    "discussion questions": 1,
+    "case questions": 1,
+    "chapter outline": 1,
+    "Clarifying Your Vision": 4,
+    "Goals Portions": 2,
+    "Mark Poepsel": 5,
+    "Rebus Community": 5,
+    "CC BY": 12,
+    "Learning Objectives By": 5,
+    "The Entrepreneurial Perspective": 3,
+    "Sara Minkara": 2,
+    "United States": 8,
+    "Middle East": 2,
+    "Vision and Mission Statements": 5,
+    "Mission Statement To": 2,
+    "Identifying Entrepreneurial Opportunity": 3,
+    "Business Model and Plan": 3,
+    "Copyright Rice University": 4,
+    "CC BY NC-SA": 4,
+    "Are You Ready": 2,
+    "American Red Cross": 2,
+    "The American Red Cross": 2,
+    "Link to Learning Check": 2,
+    "Toys Inc": 2,
+    "Launch for Growth to Success": 2,
+    "March of Dimes": 2,
+    "What Can You Do": 2,
+    "Sharing Your Entrepreneurial Story": 4,
+    "Shark Tank": 5,
+    "The One": 3,
+    "Steve Jobs": 2,
+    "Bill Hewlett and David Packard": 2,
+    "Stanford University": 2,
+    "The Advantages and Disadvantages of Using": 2,
+    "Developing Pitches for Various Audiences": 4,
+    "Investors You": 2,
+    "Entrepreneurial Finance and Accounting": 2,
+    "TED Talk": 2,
+    "Reality Check": 6,
+    "Contests and Competitions": 7,
+    "Silicon Valley": 3,
+    "Key Elements": 5,
+    "Media Innovation and Entrepreneurship": 2,
+    "The Entrepreneurial Marketing and Sales": 2,
+    "The Airbnb": 2,
+    "How I Built This": 2,
+    "Protecting Your Idea and Polishing": 4,
+    "Road to GES": 2,
+    "Global Entrepreneurship Summit": 2,
+    "American Idol": 2,
+    "Collegiate Entrepreneurs": 3,
+    "Plan Competition": 5,
+    "Venture Competition": 2,
+    "The John Deere Company": 2,
+    "John Deere": 7,
+    "John Deere Company": 2,
+    "Anne-Marie Slaughter": 2,
+    "The Atlantic": 2,
+    "Wattage Inc": 2,
+    "That It": 11,
+    "Why Women Still Can": 2,
+    "Have It All": 3,
+    "Risk City": 2,
+    "Global Entrepreneur Week": 2,
+    "Business Model Competition": 3
+  },
+  "warnings": []
+}

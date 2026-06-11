@@ -1,0 +1,21 @@
+{
+  "phase": "scrape",
+  "bookSlug": "entrepreneurship",
+  "scope": "chapter",
+  "chapterId": "chapter-2",
+  "startedAt": "2026-06-11T14:53:51.881Z",
+  "finishedAt": "2026-06-11T14:53:51.985Z",
+  "filesCreated": 0,
+  "filesUpdated": 0,
+  "filesSkipped": 11,
+  "warnings": 0,
+  "errors": 0,
+  "chapterStats": [
+    {
+      "chapterId": "chapter-2",
+      "pageCount": 11,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    }
+  ]
+}

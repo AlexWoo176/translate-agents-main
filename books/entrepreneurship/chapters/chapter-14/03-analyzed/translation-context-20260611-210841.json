@@ -1,0 +1,797 @@
+{
+  "chapterTitle": "Introduction",
+  "sections": [
+    {
+      "file": "14-1-types-of-resources.html",
+      "title": "14.1 Types of Resources"
+    },
+    {
+      "file": "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+      "title": "14.2 Using the PEST Framework to Assess Resource Needs"
+    },
+    {
+      "file": "14-3-managing-resources-over-the-venture-life-cycle.html",
+      "title": "14.3 Managing Resources over the Venture Life Cycle"
+    },
+    {
+      "file": "14-case-questions.html",
+      "title": "Case Questions"
+    },
+    {
+      "file": "14-discussion-questions.html",
+      "title": "Discussion Questions"
+    },
+    {
+      "file": "14-introduction.html",
+      "title": "Introduction"
+    },
+    {
+      "file": "14-key-terms.html",
+      "title": "Key Terms"
+    },
+    {
+      "file": "14-review-questions.html",
+      "title": "Review Questions"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "title": "Suggested Resources"
+    },
+    {
+      "file": "14-summary.html",
+      "title": "Summary"
+    }
+  ],
+  "learningObjectives": [
+    "14.1 Types of Resources",
+    "14.2 Using the PEST Framework to Assess Resource Needs",
+    "14.3 Managing Resources over the Venture Life Cycle"
+  ],
+  "keyConcepts": [
+    "PEST",
+    "patent",
+    "marketing",
+    "product",
+    "venture",
+    "process",
+    "credit",
+    "people",
+    "entrepreneur",
+    "customers",
+    "copyright",
+    "assets",
+    "trademark",
+    "funds",
+    "expenses",
+    "capital",
+    "framework",
+    "intellectual property",
+    "brand",
+    "human resources",
+    "crowdfunding",
+    "equity",
+    "pest framework",
+    "invention",
+    "demand",
+    "social media",
+    "insurance",
+    "link to learning",
+    "tangible resources",
+    "tariffs",
+    "accounting",
+    "intangible resources",
+    "digital marketing",
+    "revenue",
+    "decision tree",
+    "technological factors",
+    "bootstrapping",
+    "develop",
+    "price",
+    "outsourcing",
+    "political factors",
+    "business model",
+    "trade secret",
+    "assessment",
+    "jingle",
+    "business structure",
+    "economic factors",
+    "independent contractors",
+    "line of credit",
+    "funding resources",
+    "cash flow",
+    "vertical integration",
+    "competitive advantage",
+    "place",
+    "business plan",
+    "pre-launch costs",
+    "sociocultural factors",
+    "stakeholders",
+    "target market",
+    "creativity",
+    "external environment",
+    "ask",
+    "advertising",
+    "entrepreneurial marketing",
+    "cost of goods sold",
+    "funding sources",
+    "quotas",
+    "work it out",
+    "learning objectives",
+    "e-commerce",
+    "independent contractor",
+    "innovation",
+    "design patent",
+    "utility patent",
+    "brainstorming",
+    "supply",
+    "evaluation",
+    "marketing plan",
+    "sample",
+    "angel investor",
+    "financing",
+    "grant",
+    "licensing",
+    "creditworthiness",
+    "networking",
+    "partnership",
+    "advisory board",
+    "resource dependence theory (rdt) model",
+    "service mark",
+    "contracts",
+    "techcrunch",
+    "entrepreneurial journey",
+    "integrity",
+    "sustainability",
+    "clarify",
+    "crowdsourcing",
+    "evaluate",
+    "implement",
+    "pitch",
+    "close",
+    "market research",
+    "marketing strategy",
+    "promotion",
+    "collateral",
+    "valuation",
+    "venture capitalist",
+    "working capital",
+    "joint venture",
+    "production time",
+    "relationship management",
+    "quota",
+    "company culture",
+    "entrepreneur in action",
+    "mcdonald’s",
+    "toyota",
+    "suggested resources",
+    "key terms",
+    "review questions",
+    "discussion questions",
+    "case questions",
+    "chapter outline"
+  ],
+  "difficultTerms": [
+    "Copyright Rice University",
+    "CC BY NC-SA",
+    "US Patent and Trademark Office",
+    "Types of Resources",
+    "Entrepreneurial Finance and Accounting",
+    "Business Structure Options",
+    "Using the PEST Framework to Assess",
+    "Entrepreneurial Marketing and Sales",
+    "See Business Structure Options",
+    "Building Networks and Foundations",
+    "The Ethical and Social Responsibilities",
+    "Determining Your Resource Needs",
+    "Business News Daily",
+    "Are You Ready",
+    "Natalia Oberti Noguera",
+    "Light and Motion",
+    "Small Business Administration",
+    "Link to Learning Take",
+    "New York University",
+    "Stern School of Business"
+  ],
+  "tables": [
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "fs-idm355224928",
+      "summary": "No Summary"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "fs-idm359342720",
+      "summary": "No Summary"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "fs-idm342740368",
+      "summary": "No Summary"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "fs-idm356051520",
+      "summary": "No Summary"
+    },
+    {
+      "file": "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+      "id": "fs-idm213938288",
+      "summary": "No Summary"
+    },
+    {
+      "file": "14-3-managing-resources-over-the-venture-life-cycle.html",
+      "id": "fs-idm226545680",
+      "summary": "No Summary"
+    }
+  ],
+  "figures": [
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "OSX_Eship_14_01_PhysicalR",
+      "caption": "Figure 14.2 Facilities, machinery, and other equipment are necessary tangible resources for a product-based company. (credit: “forklift warehouse machine worker” by “pashminu”/Pixabay, CC0)"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "OSX_Eship_14_01_DocOffice",
+      "caption": "Figure 14.3 Resources needed for a doctor’s office include (a) furniture, decorations, and amenities for a waiting room and check-in areas, as well as (b) rooms with medical equipment and supplies in which to see and treat patients. (credit (a): modification of work by “icethim”/Flickr, CC BY 2.0; credit (b): modification of work by “osseous”/Flickr, CC BY 2.0)"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "OSX_Eship_14_01_3DPatent",
+      "caption": "Figure 14.4 Here is an example of a schematic from Chuck Hull’s 3-D printer patent provided by the US Patent and Trademark Office. (credit: modification of “US Patent US4575330A” by Charles W. Hull/Google Patents, Public Domain)"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "OSX_Eship_14_01_Patent",
+      "caption": "Figure 14.5 Here is an example of a US patent awarded to Apple. (credit: modification of “Sample patent to illustrate ‘INID’ numbers” by USPTO/Wikimedia Commons, Public Domain)"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "OSX_Eship_14_01_Decision",
+      "caption": "Figure 14.6 A decision tree can help estimate the probability of success when making a decision regarding how to allocate resources, sometimes including examining cost tradeoffs. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "OSX_Eship_14_01_Checklist",
+      "caption": "Figure 14.7 Sample checklist for determining whether a location and other physical resources are appropriate for Helios. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "OSX_Eship_14_01_Cupcakes",
+      "caption": "Figure 14.8 Johnny Earle started his company, Johnny Cupcakes, using his mother’s credit card to fund the production of the shirts. His car was his first storefront. (credit: photo provided by Johnny Cupcakes, work by Dave Green, @JOHNNYCUPCAKES, https://johnnycupcakes.com/ )"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "id": "OSX_Eship_14_01_NNoguera",
+      "caption": "Figure 14.9 Natalia Oberti Noguera is founder and CEO of Pipeline Angels. Her goal is to change the face of investors and support women and nonbinary social entrepreneurs. (credit: modification of “TechCrunch Disrupt NY 2017 - Day 2” by TechCrunch/Flickr, CC BY 2.0)"
+    },
+    {
+      "file": "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+      "id": "OSX_Eship_14_02_PEST",
+      "caption": "Figure 14.10 Gaining an understanding of these four factors can help entrepreneurs gauge access to important resources. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+      "id": "OSX_Eship_14_02_Political",
+      "caption": "Figure 14.11 Businesses must follow all laws and regulations, but political factors such as the ones listed here can influence the profitability of the organization. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+      "id": "OSX_Eship_14_02_3DPrinting",
+      "caption": "Figure 14.12 3-D printing allows companies to develop prototypes quickly before investing substantial resources. (a) A 3-D sphere, for example, can be created using (b) a 3-D printer. (credit (a): modification of “ball 3d printing design” by “metalurgiamontemar0”/Pixabay, CC0; credit (b): modification of “3d printer printing technology” by “kaboompics”/Pixabay, CC0)"
+    },
+    {
+      "file": "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+      "id": "OSX_Eship_14_02_Costs",
+      "caption": "Figure 14.13 This template from the Small Business Administration (SBA) is designed to help you capture the one-time and ongoing costs for your resource needs. Adding your total one-time expenses to your total monthly expenses will help you calculate your start-up costs (you should generally plan ahead for a few years of monthly expenses). (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "14-3-managing-resources-over-the-venture-life-cycle.html",
+      "id": "OSX_Eship_14_04_Beauchamp",
+      "caption": "Figure 14.14 Katia Beauchamp, owner of Birchbox, will stay at the helm of the company with the help of a hedge fund investor. (credit: photo provided by Birchbox)"
+    },
+    {
+      "file": "14-3-managing-resources-over-the-venture-life-cycle.html",
+      "id": "OSX_Eship_14_03_Lifecycle",
+      "caption": "Figure 14.15 Entrepreneurs and business owners should plan for resource needs and their associated funding across all phases of the business life cycle. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "14-3-managing-resources-over-the-venture-life-cycle.html",
+      "id": "OSX_Eship_14_03_Interview",
+      "caption": "Figure 14.16 Hiring the right employees for your business will ensure that they will help you start and grow the company. (credit: “job interview hiring hand shake” by “Tumisu”/Pixabay, CC0)"
+    },
+    {
+      "file": "14-introduction.html",
+      "id": "OSX_Eship_14_00_NewStory",
+      "caption": "Figure 14.1 New Story is changing the way social enterprises manage resources through an innovative business model that uses crowdsourcing to fund construction. (credit: modification of photo provided by New Story)"
+    }
+  ],
+  "relevantGlossaryTerms": [
+    {
+      "term": "patent",
+      "translation": "bằng sáng chế"
+    },
+    {
+      "term": "marketing",
+      "translation": "tiếp thị"
+    },
+    {
+      "term": "product",
+      "translation": "sản phẩm"
+    },
+    {
+      "term": "venture",
+      "translation": "doanh nghiệp (venture)"
+    },
+    {
+      "term": "process",
+      "translation": "quy trình"
+    },
+    {
+      "term": "credit",
+      "translation": "tín dụng"
+    },
+    {
+      "term": "people",
+      "translation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "entrepreneur",
+      "translation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "customers",
+      "translation": "khách hàng"
+    },
+    {
+      "term": "copyright",
+      "translation": "bản quyền"
+    },
+    {
+      "term": "assets",
+      "translation": "tài sản"
+    },
+    {
+      "term": "trademark",
+      "translation": "nhãn hiệu"
+    },
+    {
+      "term": "funds",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "expenses",
+      "translation": "chi phí"
+    },
+    {
+      "term": "capital",
+      "translation": "vốn"
+    },
+    {
+      "term": "framework",
+      "translation": "khuôn khổ"
+    },
+    {
+      "term": "intellectual property",
+      "translation": "tài sản trí tuệ"
+    },
+    {
+      "term": "brand",
+      "translation": "thương hiệu"
+    },
+    {
+      "term": "human resources",
+      "translation": "nguồn nhân lực"
+    },
+    {
+      "term": "crowdfunding",
+      "translation": "gọi vốn cộng đồng"
+    },
+    {
+      "term": "equity",
+      "translation": "vốn chủ sở hữu"
+    },
+    {
+      "term": "pest framework",
+      "translation": "mô hình PEST"
+    },
+    {
+      "term": "invention",
+      "translation": "phát minh"
+    },
+    {
+      "term": "demand",
+      "translation": "nhu cầu"
+    },
+    {
+      "term": "social media",
+      "translation": "mạng xã hội"
+    },
+    {
+      "term": "insurance",
+      "translation": "bảo hiểm"
+    },
+    {
+      "term": "link to learning",
+      "translation": "liên kết học tập"
+    },
+    {
+      "term": "tangible resources",
+      "translation": "nguồn lực hữu hình"
+    },
+    {
+      "term": "tariffs",
+      "translation": "thuế quan"
+    },
+    {
+      "term": "accounting",
+      "translation": "kế toán"
+    },
+    {
+      "term": "intangible resources",
+      "translation": "nguồn lực vô hình"
+    },
+    {
+      "term": "digital marketing",
+      "translation": "tiếp thị kỹ thuật số"
+    },
+    {
+      "term": "revenue",
+      "translation": "doanh thu"
+    },
+    {
+      "term": "decision tree",
+      "translation": "cây quyết định"
+    },
+    {
+      "term": "technological factors",
+      "translation": "các yếu tố công nghệ"
+    },
+    {
+      "term": "bootstrapping",
+      "translation": "tự huy động vốn"
+    },
+    {
+      "term": "develop",
+      "translation": "phát triển"
+    },
+    {
+      "term": "price",
+      "translation": "giá"
+    },
+    {
+      "term": "outsourcing",
+      "translation": "thuê ngoài"
+    },
+    {
+      "term": "political factors",
+      "translation": "các yếu tố chính trị"
+    },
+    {
+      "term": "business model",
+      "translation": "mô hình kinh doanh"
+    },
+    {
+      "term": "trade secret",
+      "translation": "bí mật thương mại"
+    },
+    {
+      "term": "assessment",
+      "translation": "giai đoạn đánh giá (assessment)"
+    },
+    {
+      "term": "jingle",
+      "translation": "đoạn nhạc quảng cáo"
+    },
+    {
+      "term": "business structure",
+      "translation": "cấu trúc doanh nghiệp"
+    },
+    {
+      "term": "economic factors",
+      "translation": "các yếu tố kinh tế"
+    },
+    {
+      "term": "independent contractors",
+      "translation": "nhà thầu độc lập"
+    },
+    {
+      "term": "line of credit",
+      "translation": "hạn mức tín dụng"
+    },
+    {
+      "term": "funding resources",
+      "translation": "nguồn tài trợ"
+    },
+    {
+      "term": "cash flow",
+      "translation": "dòng tiền"
+    },
+    {
+      "term": "vertical integration",
+      "translation": "tích hợp dọc"
+    },
+    {
+      "term": "competitive advantage",
+      "translation": "lợi thế cạnh tranh"
+    },
+    {
+      "term": "place",
+      "translation": "phân phối (place)"
+    },
+    {
+      "term": "business plan",
+      "translation": "kế hoạch kinh doanh"
+    },
+    {
+      "term": "pre-launch costs",
+      "translation": "chi phí trước khi ra mắt"
+    },
+    {
+      "term": "sociocultural factors",
+      "translation": "các yếu tố xã hội–văn hóa"
+    },
+    {
+      "term": "stakeholders",
+      "translation": "stakeholders"
+    },
+    {
+      "term": "target market",
+      "translation": "thị trường mục tiêu"
+    },
+    {
+      "term": "creativity",
+      "translation": "sự sáng tạo"
+    },
+    {
+      "term": "external environment",
+      "translation": "môi trường bên ngoài"
+    },
+    {
+      "term": "ask",
+      "translation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "advertising",
+      "translation": "quảng cáo"
+    },
+    {
+      "term": "entrepreneurial marketing",
+      "translation": "tiếp thị khởi nghiệp"
+    },
+    {
+      "term": "cost of goods sold",
+      "translation": "giá vốn hàng bán"
+    },
+    {
+      "term": "funding sources",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "quotas",
+      "translation": "hạn ngạch"
+    },
+    {
+      "term": "work it out",
+      "translation": "thực hành"
+    },
+    {
+      "term": "learning objectives",
+      "translation": "mục tiêu học tập"
+    },
+    {
+      "term": "e-commerce",
+      "translation": "thương mại điện tử"
+    },
+    {
+      "term": "independent contractor",
+      "translation": "nhà thầu độc lập"
+    },
+    {
+      "term": "innovation",
+      "translation": "đổi mới"
+    },
+    {
+      "term": "design patent",
+      "translation": "bằng sáng chế kiểu dáng"
+    },
+    {
+      "term": "utility patent",
+      "translation": "bằng sáng chế tiện ích"
+    },
+    {
+      "term": "brainstorming",
+      "translation": "động não"
+    },
+    {
+      "term": "supply",
+      "translation": "cung"
+    },
+    {
+      "term": "evaluation",
+      "translation": "giai đoạn đánh giá (evaluation)"
+    },
+    {
+      "term": "marketing plan",
+      "translation": "kế hoạch marketing"
+    },
+    {
+      "term": "sample",
+      "translation": "mẫu khảo sát"
+    },
+    {
+      "term": "angel investor",
+      "translation": "nhà đầu tư thiên thần"
+    },
+    {
+      "term": "financing",
+      "translation": "huy động vốn"
+    },
+    {
+      "term": "grant",
+      "translation": "khoản tài trợ"
+    },
+    {
+      "term": "licensing",
+      "translation": "cấp phép"
+    },
+    {
+      "term": "creditworthiness",
+      "translation": "mức độ tín nhiệm tín dụng"
+    },
+    {
+      "term": "networking",
+      "translation": "xây dựng mạng lưới quan hệ"
+    },
+    {
+      "term": "partnership",
+      "translation": "hợp danh"
+    },
+    {
+      "term": "advisory board",
+      "translation": "hội đồng cố vấn"
+    },
+    {
+      "term": "resource dependence theory (rdt) model",
+      "translation": "mô hình lý thuyết phụ thuộc nguồn lực (RDT)"
+    },
+    {
+      "term": "service mark",
+      "translation": "nhãn hiệu dịch vụ"
+    },
+    {
+      "term": "contracts",
+      "translation": "Contracts"
+    },
+    {
+      "term": "techcrunch",
+      "translation": "TechCrunch"
+    },
+    {
+      "term": "entrepreneurial journey",
+      "translation": "hành trình khởi nghiệp"
+    },
+    {
+      "term": "integrity",
+      "translation": "tính chính trực"
+    },
+    {
+      "term": "sustainability",
+      "translation": "tính bền vững"
+    },
+    {
+      "term": "clarify",
+      "translation": "làm rõ"
+    },
+    {
+      "term": "crowdsourcing",
+      "translation": "huy động trí tuệ đám đông"
+    },
+    {
+      "term": "evaluate",
+      "translation": "đánh giá (evaluate)"
+    },
+    {
+      "term": "implement",
+      "translation": "triển khai"
+    },
+    {
+      "term": "pitch",
+      "translation": "bài thuyết trình gọi vốn (pitch)"
+    },
+    {
+      "term": "close",
+      "translation": "chốt bán hàng"
+    },
+    {
+      "term": "market research",
+      "translation": "nghiên cứu thị trường"
+    },
+    {
+      "term": "marketing strategy",
+      "translation": "chiến lược marketing"
+    },
+    {
+      "term": "promotion",
+      "translation": "xúc tiến"
+    },
+    {
+      "term": "collateral",
+      "translation": "tài sản thế chấp"
+    },
+    {
+      "term": "valuation",
+      "translation": "định giá"
+    },
+    {
+      "term": "venture capitalist",
+      "translation": "nhà đầu tư mạo hiểm"
+    },
+    {
+      "term": "working capital",
+      "translation": "vốn lưu động"
+    },
+    {
+      "term": "joint venture",
+      "translation": "liên doanh"
+    },
+    {
+      "term": "production time",
+      "translation": "thời gian sản xuất"
+    },
+    {
+      "term": "relationship management",
+      "translation": "quản lý quan hệ"
+    },
+    {
+      "term": "quota",
+      "translation": "hạn ngạch"
+    },
+    {
+      "term": "company culture",
+      "translation": "văn hóa công ty"
+    },
+    {
+      "term": "entrepreneur in action",
+      "translation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "mcdonald’s",
+      "translation": "McDonald’s"
+    },
+    {
+      "term": "toyota",
+      "translation": "Toyota"
+    },
+    {
+      "term": "suggested resources",
+      "translation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "key terms",
+      "translation": "thuật ngữ chính"
+    },
+    {
+      "term": "review questions",
+      "translation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "translation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "translation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "translation": "dàn ý chương"
+    }
+  ],
+  "translationNotes": [
+    "Chapter contains 6 tables. In the prep phase, table cells (td/th) will be wrapped in bilingual spans. Be careful to preserve cells layout and IDs during translation.",
+    "Chapter contains 16 figures. Figures captions must be prepped and translated, preserving media references and buttons.",
+    "Chapter contains 3 learning objectives. Objectives lists should be translated accurately following technical tone."
+  ],
+  "warnings": []
+}

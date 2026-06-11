@@ -1,0 +1,19 @@
+{
+  "phase": "plan",
+  "bookSlug": "entrepreneurship",
+  "scope": "book",
+  "startedAt": "2026-06-11T15:29:44.373Z",
+  "finishedAt": "2026-06-11T15:29:44.531Z",
+  "filesCreated": [],
+  "filesUpdated": [
+    "project-plan.json",
+    "project-plan.md"
+  ],
+  "filesSkipped": [],
+  "warnings": 1,
+  "errors": 2,
+  "qualityGate": {
+    "id": "planCompleteness",
+    "status": "failed"
+  }
+}

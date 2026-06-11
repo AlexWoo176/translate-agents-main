@@ -1,0 +1,27 @@
+{
+  "chapterId": "chapter-5",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "5-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm251681056-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"National Federation of Independent Business: https...\""
+    },
+    {
+      "file": "5-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm253149056-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"The U.S. Small Business Administration (SBA): www....\""
+    },
+    {
+      "file": "5-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm256419424-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.sba.gov/business-guide/plan-your-busin...\""
+    }
+  ]
+}

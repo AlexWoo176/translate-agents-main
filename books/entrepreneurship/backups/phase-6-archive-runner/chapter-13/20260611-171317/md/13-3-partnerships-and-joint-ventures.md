@@ -1,0 +1,67 @@
+## 13.3   Hợp danh và liên doanh
+
+> **🎯 Mục tiêu học tập**
+>
+> Đến cuối phần này, bạn sẽ có thể:
+>
+> - Mô tả cấu trúc sở hữu của hợp danh
+> - Mô tả cấu trúc sở hữu của liên doanh
+> - Tóm tắt ưu điểm và nhược điểm của cấu trúc hợp danh và liên doanh
+
+Một **hợp danh** là thực thể kinh doanh được hình thành bởi hai hoặc nhiều cá nhân, tức các partners, mỗi người đóng góp một thứ gì đó như vốn, thiết bị hoặc kỹ năng. Sau đó, các partners cùng chia lợi nhuận và thua lỗ. Hợp danh có thể ký hợp đồng dưới tên của chính mình, đứng tên sở hữu tài sản và có thể khởi kiện hoặc bị kiện.
+
+Về bản chất, một **liên doanh** là một hợp danh tạm thời do hai doanh nghiệp lập ra để cùng hưởng lợi, chẳng hạn như chia sẻ chi phí và cùng hướng tới mục tiêu chung cũng như doanh thu tiềm năng đi kèm. Liên doanhs chia sẻ chi phí, rủi ro và phần thưởng. Ví dụ, một liên doanh có thể giúp đẩy nhanh việc mở rộng doanh nghiệp của bạn bằng cách tạo khả năng tiếp cận thêm equity, thị trường mới hoặc công nghệ mới. Hợp danhs và liên doanhs có nhiều điểm tương đồng, nhưng chúng cũng có một số khác biệt quan trọng.
+
+### Tổng quan về hợp danhs
+
+Luật bang điều chỉnh việc thành lập và vận hành mọi hợp danhs. Việc trình bày luật của cả năm mươi bang sẽ quá dài; vì vậy, phần này chỉ đưa ra một số khái quát có thể khác nhau tùy thẩm quyền tài phán. Luật liên bang áp dụng rất hạn chế đối với hợp danhs, chủ yếu trong lĩnh vực thuế thu nhập liên bang. Một **hợp danh chung** được tạo ra khi hai hoặc nhiều cá nhân hay thực thể đồng ý cùng nhau vận hành một doanh nghiệp vì lợi nhuận. Hợp danh thường hoạt động theo các điều khoản của một **hợp danh agreement** bằng văn bản, nhưng pháp luật không phải lúc nào cũng bắt buộc thỏa thuận đó phải được lập thành văn bản. Trong nhiều trường hợp, điều kiện duy nhất là hai hay nhiều bên cùng kết hợp để vận hành một doanh nghiệp vì lợi nhuận.
+
+Doanh nhân cần thận trọng vì hợp danh chung có thể được hình thành một cách không chính thức thông qua hành vi của hai hay nhiều người hoặc thực thể cùng theo đuổi một doanh nghiệp vì lợi nhuận và chia sẻ nhiệm vụ quản lý. Tòa án bang có thể xem những hành vi đó là việc hình thành một hợp danh không chính thức, thậm chí là chính thức. Vì lý do này, nếu hai thực thể hoặc hai cá nhân cùng nhau theo đuổi một hoạt động hay chiến lược kinh doanh chung, các bên nên ghi nhận quá trình đó bằng một thỏa thuận bằng văn bản. Nhiều luật bang yêu cầu một số dạng hợp danh phải dùng formal written hợp danh agreement hoặc **articles of hợp danh**. Nếu dự án có thời gian ngắn hơn, việc ký một thỏa thuận ghi nhận liên doanh có thể thích hợp hơn. Dù trong trường hợp nào, doanh nhân cũng cần hiểu rõ chính xác mối quan hệ kinh doanh trước khi bắt đầu một dự án mới, và hợp danh agreement có thể, đồng thời nên, nêu rõ những chi tiết đó.
+
+Hợp danh agreement xử lý nhiều chủ đề quan trọng, bao gồm khoản đầu tư bằng tiền của từng partner, trách nhiệm quản lý và nghĩa vụ khác của họ, cách chia lợi nhuận hoặc thua lỗ, cùng toàn bộ các quyền và nghĩa vụ khác của các partners.
+
+Hợp danhs có thể tồn tại dưới nhiều dạng, bao gồm hợp danh chungs (GPs), limited hợp danhs (LPs), limited liability hợp danhs (LLPs), và ở một số bang là limited liability limited hợp danhs (LLLPs). Tất cả các bang đều yêu cầu đăng ký đối với bất kỳ thực thể trách nhiệm hữu hạn nào. Trong GPs, trách nhiệm của chủ sở hữu được xem là “joint and several”, nghĩa là không chỉ hợp danh phải chịu trách nhiệm mà mỗi general partner cũng vậy.
+
+Vì vậy, trách nhiệm của các partners có thể được giới hạn bằng cách tạo ra một LP. Một **limited hợp danh** đòi hỏi ít nhất một general partner và một hoặc nhiều limited partners. Trách nhiệm của một **limited partner** thường được giới hạn ở mức khoản đầu tư của họ, trừ khi họ đảm nhận các nhiệm vụ của general partner. **General partner** phải chịu trách nhiệm cá nhân đối với toàn bộ hoạt động của LP.
+
+LPs đã tồn tại nhiều năm và cho phép nhà đầu tư cung cấp vốn cho doanh nghiệp trong khi giới hạn khoản đầu tư và rủi ro cá nhân của họ. LPs thường được dùng trong các doanh nghiệp cần vốn đầu tư nhưng không đòi hỏi nhà đầu tư LP tham gia quản lý. Ví dụ gồm bất động sản thương mại, sản xuất và tài trợ phim hoặc vở diễn Broadway, hay khoan giếng dầu khí.
+
+Gần đây, một số bang bắt đầu cho phép các biến thể của cấu trúc LP và trao cho doanh nghiệp lựa chọn hình thành một loại hợp danh liên quan. Các **limited liability hợp danhs** này phổ biến ở các doanh nghiệp như hãng luật và hãng kế toán. Các partners là chuyên gia có giấy phép hành nghề, chịu trách nhiệm hữu hạn đối với nghĩa vụ tài chính phát sinh từ hợp đồng hoặc torts, nhưng chịu hoàn toàn trách nhiệm đối với malpractice của chính mình. Khác biệt chính giữa LLCs và LLPs là LLPs phải có ít nhất một managing partner chịu trách nhiệm cho các hành vi của hợp danh. Trách nhiệm pháp lý của LLP về cơ bản giống trách nhiệm của chủ sở hữu trong một hợp danh đơn giản. Những thực thể được hình thành với founding partner hoặc các partners-thường là hãng luật, hãng kế toán và cơ sở hành nghề y-thường được cấu trúc dưới dạng LLP. Trong tình huống này, junior partners thường đưa ra quyết định về hoạt động nghề nghiệp riêng của họ nhưng không có tiếng nói pháp lý trong việc định hướng công ty. Managing partners có thể sở hữu tỷ lệ hợp danh lớn hơn junior partners.
+
+Loại hợp danh cuối cùng là **limited liability limited hợp danh (LLLP)**, cho phép general partner trong một LP giới hạn trách nhiệm của mình. Nói cách khác, LLLP cung cấp sự bảo vệ trách nhiệm hữu hạn cho mọi người, bao gồm cả general partner điều hành doanh nghiệp.
+
+#### Ưu điểm và nhược điểm của hợp danh chungs
+
+GP là một cấu trúc doanh nghiệp rất phổ biến ở Hoa Kỳ. Nó được tạo ra khi hai hay nhiều cá nhân hoặc thực thể cùng nhau tạo lập, sở hữu và quản lý một doanh nghiệp vì lợi nhuận. Về mặt kỹ thuật, GP không bắt buộc phải có thỏa thuận bằng văn bản, cũng không bắt buộc phải nộp hay đăng ký với chính quyền bang. Tuy nhiên, GPs nên mô tả cấu trúc kinh doanh của mình bằng văn bản để các thực thể cùng làm việc với nhau hiểu rõ doanh nghiệp và mối quan hệ kinh doanh đó.
+
+Khi GP được tạo lập, một partner phải chịu trách nhiệm cho các khoản nợ mà partner kia tạo ra nhân danh hợp danh, và mỗi partner đều có trách nhiệm vô hạn đối với nợ của hợp danh. Điều này tạo ra vấn đề khi một partner không đồng ý với nguồn gốc hoặc cách sử dụng tiền của partner kia về chi vốn hay chi phí. Mỗi partner trong GP đều có khả năng quản lý hợp danh; nếu có điều tiêu cực xảy ra như một tai nạn (được gọi là tort) gây thương tích cho người khác và phát sinh trách nhiệm-chẳng hạn tràn hóa chất, tai nạn xe hoặc vi phạm hợp đồng-thì mỗi partner đều phải chịu trách nhiệm cá nhân và toàn bộ tài sản cá nhân của họ đều bị đặt vào rủi ro. Ngoài ra, các partners phải chịu thuế đối với hợp danh vì GP là một pass-through entity, nơi partners bị đánh thuế trực tiếp chứ không phải ở cấp hợp danh.
+
+Cần lưu ý rằng GPs có thể là một cấu trúc hữu ích trong một số tình huống vì chúng tương đối dễ và ít tốn kém để thành lập. Việc sử dụng LPs, LLPs và LLLPs ngày càng mở rộng như đã nêu ở trên, còn mức độ phổ biến của GPs đang giảm dần. Tuy vậy, miễn là doanh nghiệp không có xác suất cao xảy ra các tai nạn hoặc tình huống làm phát sinh trách nhiệm, GP vẫn có thể phù hợp. Ví dụ, hai partners cung cấp dịch vụ thiết kế đồ họa hoặc nhiếp ảnh. Tuy nhiên, do các rủi ro đi kèm, GPs thường không phải là lựa chọn thực thể doanh nghiệp tốt nhất. Những loại thực thể khác cung cấp sự bảo vệ trách nhiệm hữu hạn và vì vậy thường là lựa chọn tốt hơn trong đa số trường hợp.
+
+#### Đánh thuế hợp danhs
+
+Hợp danhs được xem là **pass-through entities**, dù đó là GP, LP hay LLP. Vì vậy, lợi nhuận của hợp danh không bị đánh thuế ở cấp thực thể như C corporation, mà được chuyển qua cho các partners để họ khai trên tờ khai thuế của riêng mình. Các partners nộp thuế thu nhập trên phần **distributed hợp danh profits** của mình (được thể hiện trên mẫu Schedule K-1 từ hợp danh gửi cho từng partner). Do đó không tồn tại cái gọi là hợp danh tax rate.
+
+Nếu thực thể là một liên doanh được tổ chức và vận hành như hợp danh, thì nó bị đánh thuế theo cùng cách đó, ngay cả khi các partners là corporations. Lợi nhuận được phân phối và mỗi corporation tự nộp thuế của mình. Ngược lại, nếu liên doanh hình thành một corporation riêng biệt thì nó sẽ nộp thuế như một corporation.
+
+> **🔗 Liên kết học tập**
+>
+> Hãy xem [bản tóm tắt hữu ích về ưu và nhược điểm của GPs](https://openstax.org/l/52URichLawGP) của Trường Luật University of Richmond để tìm hiểu thêm.
+
+### Liên doanhs: Các thực thể kinh doanh cùng hợp tác
+
+Một **liên doanh** xuất hiện khi hai hay nhiều cá nhân hoặc doanh nghiệp đồng ý cùng vận hành một dự án kinh doanh vì lợi nhuận cho một mục đích cụ thể. Liên doanh giống legal hợp danh nhưng khác về mục đích và thời hạn. Thông thường, liên doanhs được dùng cho một mục đích đơn lẻ trong một khoảng thời gian hữu hạn. Một ví dụ về liên doanh là **BMW** và **Toyota** cùng nghiên cứu cách cải thiện pin cho xe điện, một mục tiêu duy nhất, trong thời gian hữu hạn dự kiến là mười năm.
+
+Các công ty thường tham gia liên doanh để tránh việc bị xem là đã tạo ra một hợp danh, bởi hợp danhs có xu hướng tạo ra các nghĩa vụ dài hạn giữa các partners, trong khi liên doanh là một dự án kinh doanh hữu hạn. Thông thường, hai thực thể kinh doanh cùng vận hành một hoạt động trên một dự án chung. Liên doanh agreement cho phép các thực thể theo đuổi một mục tiêu kinh doanh cụ thể trong khi vẫn giữ riêng các hoạt động và dự án kinh doanh khác của họ.
+
+Liên doanh không được IRS công nhận là một thực thể chịu thuế riêng. Doanh nhân có thể dùng liên doanh agreement để phát triển một dự án kinh doanh, và nếu dự án đó thành công, một thực thể mới có thể được tạo ra để tiếp quản hoạt động của liên doanh và đưa doanh nghiệp lên cấp độ tiếp theo. Vì lý do đó, liên doanh có thể là một cách tốt để thử nghiệm một ý tưởng kinh doanh. Nếu thành công, hoạt động và tài sản có thể được chuyển sang một thực thể khác hỗ trợ việc nhận đầu tư từ nhà đầu tư bên ngoài. Việc dùng liên doanh cũng cho phép các bên “chạy thử” mối quan hệ giữa các thực thể: phát triển dự án kinh doanh với mức rủi ro thấp hơn.
+
+Liên doanhs có thể bao gồm các bên lớn hoặc nhỏ, thuộc khu vực tư hay công, hoặc là sự kết hợp của nhiều loại thực thể, và thường dẫn đến một liên doanh được hình thành dưới dạng corporation hoặc LLC. Ví dụ, công ty đại chúng **Google** và thực thể tư nhân **NASA** đã lập một liên doanh để cải thiện **Google Earth**. Tương tự, liên doanh cũng có thể nhỏ hơn, chẳng hạn như thỏa thuận giữa một kỹ sư IT freelance, một nhà thiết kế đồ họa và một chuyên gia tư vấn mạng xã hội để tạo ra một ứng dụng điện thoại mới. [Hình 13.9](13-3-hợp danhs-and-joint-ventures#OSX_Eship_13_03_JointVent) tóm tắt các mối quan hệ giữa các doanh nghiệp trong một liên doanh.
+
+![Cartoon of Joint Venture (Corporation of LLC) in the middle of an oval, with Entity 1 and Entity 2 extending from either side. Arrows are shown from the Joint Venture labeled Profit/Loss to each entity, and separate arrows are shown from each entity labeled Capital to the Joint Venture.](../assets/img-13-3-1.webp)
+
+*Hình 13.9: Liên doanhs là các thực thể kinh doanh tách biệt, thường do hai thực thể kinh doanh khác sở hữu và vận hành. (ghi công: Bản quyền Rice University, OpenStax, theo giấy phép CC BY NC-SA 4.0)*
+
+> **🛠️ Bạn có thể làm gì?: Thách thức đối với nông hộ nhỏ**
+>
+> Đôi khi, doanh nghiệp nhỏ gặp bất lợi vì quy mô. Ta có thể thấy ví dụ của bất lợi này trong lĩnh vực nông nghiệp. Chi phí cho thiết bị nông nghiệp mới rất cao, còn đất đai có thể đắt đến mức khó kham nổi. Những chi phí này gây áp lực buộc các trang trại nhỏ phải cạnh tranh bằng cách mở rộng quy mô hoạt động. Nếu bạn sở hữu một trang trại nhỏ và đang muốn mở rộng, bạn có thể sử dụng liên doanh như thế nào?

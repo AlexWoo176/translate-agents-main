@@ -1,0 +1,136 @@
+{
+  "scope": [
+    "chapter-1",
+    "chapter-10",
+    "chapter-11",
+    "chapter-12",
+    "chapter-13",
+    "chapter-14",
+    "chapter-15",
+    "chapter-2",
+    "chapter-3",
+    "chapter-4",
+    "chapter-5",
+    "chapter-6",
+    "chapter-7",
+    "chapter-8",
+    "chapter-9",
+    "_book-level"
+  ],
+  "status": "resolved",
+  "filesScanned": 170,
+  "brokenRefsBefore": 22,
+  "brokenRefsAfter": 0,
+  "fixes": [
+    {
+      "file": "preview/html/chapter-14/14-1-types-of-resources.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-2-using-the-pest-framework-to-assess-resource-needs.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-3-managing-resources-over-the-venture-life-cycle.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-case-questions.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-discussion-questions.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-introduction.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-key-terms.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-review-questions.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-suggested-resources.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-14/14-summary.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-1-launching-your-venture.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-2-making-difficult-business-decisions-in-response-to-challenges.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-3-seeking-help-or-support.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-4-now-what-serving-as-a-mentor-consultant-or-champion.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-5-reflections-documenting-the-journey.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-case-questions.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-discussion-questions.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-introduction.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-key-terms.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-review-questions.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-suggested-resources.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    },
+    {
+      "file": "preview/html/chapter-15/15-summary.html",
+      "before": "./style.css",
+      "after": "../css/style.css"
+    }
+  ]
+}

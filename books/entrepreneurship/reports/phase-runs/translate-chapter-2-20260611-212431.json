@@ -1,0 +1,99 @@
+{
+  "phase": "translate",
+  "bookSlug": "entrepreneurship",
+  "scope": "chapter",
+  "chapterId": "chapter-2",
+  "status": "passed",
+  "startedAt": "2026-06-11T14:24:31.208Z",
+  "finishedAt": "2026-06-11T14:24:42.444Z",
+  "dryRun": false,
+  "force": true,
+  "validateOnly": false,
+  "inputs": [
+    "chapters/chapter-2/04-prep"
+  ],
+  "outputs": [
+    "chapters/chapter-2/05-translated-draft"
+  ],
+  "filesCreated": [
+    {
+      "chapterId": "chapter-2",
+      "file": "2-1-overview-of-the-entrepreneurial-journey.html",
+      "translatedBlocks": 114,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-2-the-process-of-becoming-an-entrepreneur.html",
+      "translatedBlocks": 144,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-3-entrepreneurial-pathways.html",
+      "translatedBlocks": 38,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+      "translatedBlocks": 97,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-case-questions.html",
+      "translatedBlocks": 13,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-discussion-questions.html",
+      "translatedBlocks": 17,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-key-terms.html",
+      "translatedBlocks": 1,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-review-questions.html",
+      "translatedBlocks": 17,
+      "skippedBlocks": 0
+    }
+  ],
+  "filesUpdated": [
+    {
+      "chapterId": "chapter-2",
+      "file": "2-introduction.html",
+      "translatedBlocks": 9,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-suggested-resources.html",
+      "translatedBlocks": 29,
+      "skippedBlocks": 0
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-summary.html",
+      "translatedBlocks": 9,
+      "skippedBlocks": 0
+    }
+  ],
+  "filesSkipped": [],
+  "warnings": [],
+  "errors": [],
+  "qualityGate": {
+    "id": "translationCompleteness",
+    "status": "passed"
+  },
+  "provider": "external-ai",
+  "blocksDetected": 488,
+  "blocksTranslated": 488,
+  "blocksSkipped": 0
+}

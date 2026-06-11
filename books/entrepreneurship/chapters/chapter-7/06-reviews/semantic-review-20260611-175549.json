@@ -1,0 +1,41 @@
+{
+  "chapterId": "chapter-7",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "7-case-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm249133760-vn",
+      "tagName": "li",
+      "message": "Vietnamese target text matches English source exactly: \"39 Anne-Marie Slaughter. “Why Women Still Can’t Ha...\""
+    },
+    {
+      "file": "7-case-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm241130480-vn",
+      "tagName": "li",
+      "message": "Vietnamese target text matches English source exactly: \"40 Jeremy Bell. “Well, We Failed.” Medium . May 5,...\""
+    },
+    {
+      "file": "7-case-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm238769664-vn",
+      "tagName": "li",
+      "message": "Vietnamese target text matches English source exactly: \"41 Jeremy Bell. “Pitching the Wrong Paradigm.” Med...\""
+    },
+    {
+      "file": "7-case-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm365138800-vn",
+      "tagName": "li",
+      "message": "Vietnamese target text matches English source exactly: \"42 Eric Ries. The Lean Startup . New York: Crown B...\""
+    },
+    {
+      "file": "7-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm347026768-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"http://www.ipwatchdog.com/2016/01/23/patent-drafti...\""
+    }
+  ]
+}

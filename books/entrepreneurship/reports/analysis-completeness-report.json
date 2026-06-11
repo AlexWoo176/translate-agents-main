@@ -1,0 +1,191 @@
+{
+  "gateId": "analysisCompleteness",
+  "status": "needs_human_review",
+  "success": true,
+  "stats": {
+    "totalChapters": 15,
+    "analyzedChapters": 15,
+    "failedChapters": 0,
+    "needsReviewChapters": 5,
+    "warningsChapters": 0
+  },
+  "chapters": {
+    "chapter-1": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-2": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-3": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-4": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-5": {
+      "status": "needs_human_review",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [
+        "Found 1 key terms defined in <dt> tags that are missing from glossary.csv."
+      ],
+      "errors": []
+    },
+    "chapter-6": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-7": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-8": {
+      "status": "needs_human_review",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [
+        "Found 1 key terms defined in <dt> tags that are missing from glossary.csv."
+      ],
+      "errors": []
+    },
+    "chapter-9": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-10": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-11": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-12": {
+      "status": "needs_human_review",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [
+        "Found 1 key terms defined in <dt> tags that are missing from glossary.csv."
+      ],
+      "errors": []
+    },
+    "chapter-13": {
+      "status": "passed",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [],
+      "errors": []
+    },
+    "chapter-14": {
+      "status": "needs_human_review",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [
+        "Found 1 key terms defined in <dt> tags that are missing from glossary.csv."
+      ],
+      "errors": []
+    },
+    "chapter-15": {
+      "status": "needs_human_review",
+      "hasAnalyzedDir": true,
+      "hasSummary": true,
+      "hasStructure": true,
+      "hasTerminology": true,
+      "hasContext": true,
+      "issues": [],
+      "warnings": [
+        "Found 1 key terms defined in <dt> tags that are missing from glossary.csv."
+      ],
+      "errors": []
+    }
+  },
+  "warnings": [],
+  "errors": []
+}

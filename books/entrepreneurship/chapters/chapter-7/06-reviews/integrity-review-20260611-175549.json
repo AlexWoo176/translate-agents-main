@@ -1,0 +1,14 @@
+{
+  "chapterId": "chapter-7",
+  "status": "failed",
+  "issues": [
+    {
+      "file": "7-case-questions.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 14,
+      "actual": 13,
+      "message": "Tag <a> count mismatch. Expected prep count: 14, found in translated: 13"
+    }
+  ]
+}

@@ -1,0 +1,920 @@
+{
+  "workflowRunId": "wf-20260611-224051",
+  "bookSlug": "entrepreneurship",
+  "status": "failed",
+  "startedAt": "2026-06-11T15:40:51.730Z",
+  "finishedAt": "2026-06-11T15:40:52.842Z",
+  "durationSeconds": "1.1",
+  "mode": "resume",
+  "scope": {
+    "chapterId": null,
+    "all": false
+  },
+  "phasesRequested": "all",
+  "phasesExecuted": [
+    "plan",
+    "scrape",
+    "clean"
+  ],
+  "phasesSkipped": [
+    "prep",
+    "translate"
+  ],
+  "phaseResults": [
+    {
+      "phase": "plan",
+      "status": "passed_with_warnings",
+      "filesCreated": [],
+      "filesUpdated": [
+        "project-plan.json",
+        "project-plan.md"
+      ],
+      "filesSkipped": [],
+      "warnings": [
+        "Backed up existing project plan files to: backups/phase-13-plan-runner/20260611-224051",
+        "Book config missing or empty 'source.bookUrl' property. Project will run in offline/local mode."
+      ],
+      "errors": []
+    },
+    {
+      "phase": "scrape",
+      "status": "passed",
+      "filesCreated": [],
+      "filesUpdated": [],
+      "filesSkipped": [
+        {
+          "chapterId": "chapter-1",
+          "file": "1-1-entrepreneurship-today.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-2-entrepreneurial-vision-and-goals.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-3-the-entrepreneurial-mindset.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-1",
+          "file": "1-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-1-overview-of-the-entrepreneurial-journey.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-2-the-process-of-becoming-an-entrepreneur.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-3-entrepreneurial-pathways.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-2",
+          "file": "2-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-1-ethical-and-legal-issues-in-entrepreneurship.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-2-corporate-social-responsibility-and-social-entrepreneurship.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-3",
+          "file": "3-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-1-tools-for-creativity-and-innovation.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-2-creativity-innovation-and-invention-how-they-differ.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-3-developing-ideas-innovations-and-inventions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-4",
+          "file": "4-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-1-entrepreneurial-opportunity.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-2-researching-potential-business-opportunities.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-3-competitive-analysis.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-5",
+          "file": "5-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-1-problem-solving-to-find-entrepreneurial-solutions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-2-creative-problem-solving-process.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-3-design-thinking.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-4-lean-processes.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-6",
+          "file": "6-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-1-clarifying-your-vision-mission-and-goals.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-2-sharing-your-entrepreneurial-story.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-3-developing-pitches-for-various-audiences-and-goals.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-4-protecting-your-idea-and-polishing-the-pitch-through-feedback.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-5-reality-check-contests-and-competitions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-7",
+          "file": "7-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-1-entrepreneurial-marketing-and-the-marketing-mix.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-2-market-research-market-opportunity-recognition-and-target-market.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-3-marketing-techniques-and-tools-for-entrepreneurs.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-4-entrepreneurial-branding.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-5-marketing-strategy-and-the-marketing-plan.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-6-sales-and-customer-service.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-8",
+          "file": "8-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-1-overview-of-entrepreneurial-finance-and-accounting-strategies.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-2-special-funding-strategies.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-3-accounting-basics-for-entrepreneurs.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-4-developing-startup-financial-statements-and-projections.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-9",
+          "file": "9-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-1-launching-the-imperfect-business-lean-startup.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-3-the-challenging-truth-about-business-ownership.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-4-managing-following-and-adjusting-the-initial-plan.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-5-growth-signs-pains-and-cautions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-10",
+          "file": "10-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-1-avoiding-the-field-of-dreams-approach.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-2-designing-the-business-model.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-3-conducting-a-feasibility-analysis.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-4-the-business-plan.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-11",
+          "file": "11-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-1-building-and-connecting-to-networks.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-2-building-the-entrepreneurial-dream-team.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-3-designing-a-startup-operational-plan.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-12",
+          "file": "12-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-1-business-structures-overview-of-legal-and-tax-considerations.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-2-corporations.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-3-partnerships-and-joint-ventures.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-4-limited-liability-companies.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-5-sole-proprietorships.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-6-additional-considerations-capital-acquisition-business-domicile-and-technology.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-7-mitigating-and-managing-risks.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-13",
+          "file": "13-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-1-types-of-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-3-managing-resources-over-the-venture-life-cycle.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-14",
+          "file": "14-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-1-launching-your-venture.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-2-making-difficult-business-decisions-in-response-to-challenges.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-3-seeking-help-or-support.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-4-now-what-serving-as-a-mentor-consultant-or-champion.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-5-reflections-documenting-the-journey.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-case-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-discussion-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-introduction.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-key-terms.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-review-questions.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "chapter-15",
+          "file": "15-summary.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "_book-level",
+          "file": "a-suggested-resources.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "_book-level",
+          "file": "index.html",
+          "reason": "offline_mode_skip"
+        },
+        {
+          "chapterId": "_book-level",
+          "file": "preface.html",
+          "reason": "offline_mode_skip"
+        }
+      ],
+      "warnings": [],
+      "errors": []
+    },
+    {
+      "phase": "clean",
+      "status": "failed",
+      "filesCreated": [],
+      "filesUpdated": [],
+      "filesSkipped": [],
+      "warnings": [],
+      "errors": [
+        "Execution error: Either options.chapterId or options.all must be provided."
+      ]
+    }
+  ],
+  "warnings": [
+    "[plan] Backed up existing project plan files to: backups/phase-13-plan-runner/20260611-224051",
+    "[plan] Book config missing or empty 'source.bookUrl' property. Project will run in offline/local mode.",
+    "[approval] Phase 'clean' requires --force to overwrite existing outputs. Execution will proceed but existing outputs will be preserved/skipped where possible.",
+    "Stopping workflow run at phase 'clean' due to phase failure."
+  ],
+  "errors": [
+    "[clean] Execution error: Either options.chapterId or options.all must be provided."
+  ]
+}

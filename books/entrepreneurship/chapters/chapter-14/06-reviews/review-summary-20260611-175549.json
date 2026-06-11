@@ -1,0 +1,698 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-14",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:55:50.201Z",
+  "finishedAt": "2026-06-11T10:55:50.344Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "14-1-types-of-resources.html",
+    "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+    "14-3-managing-resources-over-the-venture-life-cycle.html",
+    "14-case-questions.html",
+    "14-discussion-questions.html",
+    "14-introduction.html",
+    "14-key-terms.html",
+    "14-review-questions.html",
+    "14-suggested-resources.html",
+    "14-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-175549.json",
+    "glossary-review-20260611-175549.json",
+    "semantic-review-20260611-175549.json"
+  ],
+  "issues": [
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "untranslated-leak",
+      "id": "page_2451f0e5-d04d-4806-9133-37b3cea88742_titlecreatedbycookbook-vn",
+      "tagName": "h2",
+      "message": "Vietnamese target text matches English source exactly: \"14.1 Types of Resources...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "text-too-short",
+      "id": "fs-idm339884672-vn",
+      "tagName": "p",
+      "message": "Vietnamese translation text is unusually short (<15% of English source). Target length: 130, Source length: 1081.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "text-too-short",
+      "id": "fs-idm364071584-vn",
+      "tagName": "p",
+      "message": "Vietnamese translation text is unusually short (<15% of English source). Target length: 73, Source length: 517.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "text-too-short",
+      "id": "fs-idm356699248-vn",
+      "tagName": "p",
+      "message": "Vietnamese translation text is unusually short (<15% of English source). Target length: 142, Source length: 1007.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "text-too-short",
+      "id": "fs-idm357030416-vn",
+      "tagName": "p",
+      "message": "Vietnamese translation text is unusually short (<15% of English source). Target length: 146, Source length: 1063.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "text-too-short",
+      "id": "fs-idm345303712-vn",
+      "tagName": "p",
+      "message": "Vietnamese translation text is unusually short (<15% of English source). Target length: 115, Source length: 1212.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "text-too-short",
+      "id": "fs-idm344780864-vn",
+      "tagName": "p",
+      "message": "Vietnamese translation text is unusually short (<15% of English source). Target length: 71, Source length: 488.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "text-too-short",
+      "id": "fs-idm327711056-vn",
+      "tagName": "p",
+      "message": "Vietnamese translation text is unusually short (<15% of English source). Target length: 109, Source length: 1134.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "text-too-short",
+      "id": "fs-idm360723616-vn",
+      "tagName": "p",
+      "message": "Vietnamese translation text is unusually short (<15% of English source). Target length: 111, Source length: 955.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-1-types-of-resources.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "span",
+      "message": "Vietnamese target block <span id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-2-using-the-pest-framework-to-assess-resource-needs.html",
+      "type": "untranslated-leak",
+      "id": "page_63f07089-0c44-4170-9c88-3cb202be5b75_titlecreatedbycookbook-vn",
+      "tagName": "h2",
+      "message": "Vietnamese target text matches English source exactly: \"14.2 Using the PEST Framework to Assess Resource N...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-3-managing-resources-over-the-venture-life-cycle.html",
+      "type": "untranslated-leak",
+      "id": "page_c326c56e-2cbe-4007-9229-9cd3d67dd426_titlecreatedbycookbook-vn",
+      "tagName": "h2",
+      "message": "Vietnamese target text matches English source exactly: \"14.3 Managing Resources over the Venture Life Cycl...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm365955184-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"The Business Journals company profiles: https://ww...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm359125760-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Circleup: http://circleup.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm359125376-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Exilend: https://www.exilend.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm348594144-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Fundable: http://fundable.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm348593760-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Indiegogo: http://indiegogo.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm362664656-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Kickstarter: http://kickstarter.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm362664272-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"LendingKarma: http://www.lendingkarma.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm356865424-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"LoanBack: http://loanback.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm356865040-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"NewsLink: http://www.newslink.org...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm325916672-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Society of Human Resources Management: http://shrm...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm325916288-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"US Small Business Administration: https://www.sba....\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm358954112-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"US Securities and Exchange Commission Regulatory A...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm364041872-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Trade Show News Network: http://www.tsnn.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm364041488-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"US Census Bureau: http://www.census.gov...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm340010592-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Copyright Office: https://www.copyright.gov/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm340010208-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"US Chamber of Commerce: https://www.uschamber.com/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm346764368-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"US Patent and Trademark Office: https://www.uspto....\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm346763984-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"ZimpleMoney: http://www.zimplemoney.com...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm341507904-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"SEC Information on crowdfunding portals: https://w...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm341507392-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Link to SEC (FINRA) crowdfunding portals: https://...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm356145872-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"New York University, Stern School of Business: htt...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm356145488-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Link to data on margins by sector: http://pages.st...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm360845504-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Loopnet: https://www.loopnet.com/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm360906880-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Bizstats: https://www.bizstats.com/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm209707312-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"SBA calculation of startup costs: https://www.sba....\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm226323920-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"US Department of Labor: https://www.dol.gov/genera...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm218819248-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.businessnewsdaily.com/5-small-business...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm409009600-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Tradeshows: http://www.tsnn.com/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm393090160-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Industry research publications: http://www.newslin...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm372646624-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"National Association of Women Business Owners: htt...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm393278752-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Small Business Development Centers: https://www.sb...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm373942064-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"New York University, Stern School of Business: htt...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm404624544-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https:///www.bls.gov...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm395042960-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.census.gov/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm396320512-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.sba.gov/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm388412976-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.ready.gov/business/implementation/reso...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm397730848-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.usa.gov/laws-and-regulations...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "14-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm405143184-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.sba.gov/video-series/2_minute_video_se...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

@@ -1,0 +1,419 @@
+{
+  "chapter": "chapter-8",
+  "status": "passed",
+  "filesScanned": 13,
+  "files": [
+    {
+      "file": "8-1-entrepreneurial-marketing-and-the-marketing-mix.html",
+      "path": "chapters/chapter-8/05-translated/8-1-entrepreneurial-marketing-and-the-marketing-mix.html",
+      "engHidden": 182,
+      "vnVisible": 182,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h3": {
+          "eng": 7,
+          "vn": 7
+        },
+        "p": {
+          "eng": 52,
+          "vn": 52
+        },
+        "li": {
+          "eng": 66,
+          "vn": 66
+        },
+        "th": {
+          "eng": 6,
+          "vn": 6
+        },
+        "td": {
+          "eng": 38,
+          "vn": 38
+        },
+        "figcaption": {
+          "eng": 3,
+          "vn": 3
+        },
+        "h4": {
+          "eng": 6,
+          "vn": 6
+        },
+        "h5": {
+          "eng": 3,
+          "vn": 3
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-2-market-research-market-opportunity-recognition-and-target-market.html",
+      "path": "chapters/chapter-8/05-translated/8-2-market-research-market-opportunity-recognition-and-target-market.html",
+      "engHidden": 147,
+      "vnVisible": 147,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h3": {
+          "eng": 8,
+          "vn": 8
+        },
+        "p": {
+          "eng": 59,
+          "vn": 59
+        },
+        "li": {
+          "eng": 13,
+          "vn": 13
+        },
+        "figcaption": {
+          "eng": 3,
+          "vn": 3
+        },
+        "h4": {
+          "eng": 9,
+          "vn": 9
+        },
+        "th": {
+          "eng": 6,
+          "vn": 6
+        },
+        "td": {
+          "eng": 48,
+          "vn": 48
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-3-marketing-techniques-and-tools-for-entrepreneurs.html",
+      "path": "chapters/chapter-8/05-translated/8-3-marketing-techniques-and-tools-for-entrepreneurs.html",
+      "engHidden": 79,
+      "vnVisible": 79,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h3": {
+          "eng": 10,
+          "vn": 10
+        },
+        "p": {
+          "eng": 36,
+          "vn": 36
+        },
+        "li": {
+          "eng": 5,
+          "vn": 5
+        },
+        "figcaption": {
+          "eng": 2,
+          "vn": 2
+        },
+        "h4": {
+          "eng": 1,
+          "vn": 1
+        },
+        "th": {
+          "eng": 3,
+          "vn": 3
+        },
+        "td": {
+          "eng": 21,
+          "vn": 21
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-4-entrepreneurial-branding.html",
+      "path": "chapters/chapter-8/05-translated/8-4-entrepreneurial-branding.html",
+      "engHidden": 76,
+      "vnVisible": 76,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h3": {
+          "eng": 6,
+          "vn": 6
+        },
+        "p": {
+          "eng": 24,
+          "vn": 24
+        },
+        "li": {
+          "eng": 5,
+          "vn": 5
+        },
+        "th": {
+          "eng": 4,
+          "vn": 4
+        },
+        "td": {
+          "eng": 32,
+          "vn": 32
+        },
+        "figcaption": {
+          "eng": 3,
+          "vn": 3
+        },
+        "h4": {
+          "eng": 1,
+          "vn": 1
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-5-marketing-strategy-and-the-marketing-plan.html",
+      "path": "chapters/chapter-8/05-translated/8-5-marketing-strategy-and-the-marketing-plan.html",
+      "engHidden": 63,
+      "vnVisible": 63,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h3": {
+          "eng": 11,
+          "vn": 11
+        },
+        "p": {
+          "eng": 27,
+          "vn": 27
+        },
+        "li": {
+          "eng": 2,
+          "vn": 2
+        },
+        "th": {
+          "eng": 2,
+          "vn": 2
+        },
+        "td": {
+          "eng": 18,
+          "vn": 18
+        },
+        "figcaption": {
+          "eng": 2,
+          "vn": 2
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-6-sales-and-customer-service.html",
+      "path": "chapters/chapter-8/05-translated/8-6-sales-and-customer-service.html",
+      "engHidden": 42,
+      "vnVisible": 42,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h3": {
+          "eng": 4,
+          "vn": 4
+        },
+        "p": {
+          "eng": 21,
+          "vn": 21
+        },
+        "li": {
+          "eng": 8,
+          "vn": 8
+        },
+        "figcaption": {
+          "eng": 2,
+          "vn": 2
+        },
+        "h4": {
+          "eng": 6,
+          "vn": 6
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-case-questions.html",
+      "path": "chapters/chapter-8/05-translated/8-case-questions.html",
+      "engHidden": 12,
+      "vnVisible": 12,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "p": {
+          "eng": 7,
+          "vn": 7
+        },
+        "li": {
+          "eng": 4,
+          "vn": 4
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-discussion-questions.html",
+      "path": "chapters/chapter-8/05-translated/8-discussion-questions.html",
+      "engHidden": 11,
+      "vnVisible": 11,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "p": {
+          "eng": 10,
+          "vn": 10
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-introduction.html",
+      "path": "chapters/chapter-8/05-translated/8-introduction.html",
+      "engHidden": 12,
+      "vnVisible": 12,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "figcaption": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h2": {
+          "eng": 2,
+          "vn": 2
+        },
+        "li": {
+          "eng": 6,
+          "vn": 6
+        },
+        "p": {
+          "eng": 3,
+          "vn": 3
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-key-terms.html",
+      "path": "chapters/chapter-8/05-translated/8-key-terms.html",
+      "engHidden": 1,
+      "vnVisible": 1,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-review-questions.html",
+      "path": "chapters/chapter-8/05-translated/8-review-questions.html",
+      "engHidden": 17,
+      "vnVisible": 17,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "p": {
+          "eng": 16,
+          "vn": 16
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "path": "chapters/chapter-8/05-translated/8-suggested-resources.html",
+      "engHidden": 24,
+      "vnVisible": 24,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h3": {
+          "eng": 5,
+          "vn": 5
+        },
+        "p": {
+          "eng": 18,
+          "vn": 18
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    },
+    {
+      "file": "8-summary.html",
+      "path": "chapters/chapter-8/05-translated/8-summary.html",
+      "engHidden": 13,
+      "vnVisible": 13,
+      "difference": 0,
+      "status": "passed",
+      "tagCounts": {
+        "h2": {
+          "eng": 1,
+          "vn": 1
+        },
+        "h3": {
+          "eng": 6,
+          "vn": 6
+        },
+        "p": {
+          "eng": 6,
+          "vn": 6
+        }
+      },
+      "tagMismatches": [],
+      "sequentialMismatches": []
+    }
+  ]
+}

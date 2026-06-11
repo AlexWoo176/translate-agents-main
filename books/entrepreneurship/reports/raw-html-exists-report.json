@@ -1,0 +1,115 @@
+{
+  "gateId": "rawHtmlExists",
+  "status": "passed",
+  "success": true,
+  "stats": {
+    "totalChapters": 16,
+    "chaptersWithRaw": 16,
+    "chaptersWithoutRaw": 0,
+    "chaptersWithErrors": 0,
+    "totalHtmlFiles": 170,
+    "totalErrors": 0,
+    "totalWarnings": 0
+  },
+  "sourceMapEntries": 170,
+  "chapters": {
+    "chapter-1": {
+      "status": "passed",
+      "htmlCount": 10,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-2": {
+      "status": "passed",
+      "htmlCount": 11,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-3": {
+      "status": "passed",
+      "htmlCount": 10,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-4": {
+      "status": "passed",
+      "htmlCount": 10,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-5": {
+      "status": "passed",
+      "htmlCount": 10,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-6": {
+      "status": "passed",
+      "htmlCount": 11,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-7": {
+      "status": "passed",
+      "htmlCount": 12,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-8": {
+      "status": "passed",
+      "htmlCount": 13,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-9": {
+      "status": "passed",
+      "htmlCount": 11,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-10": {
+      "status": "passed",
+      "htmlCount": 12,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-11": {
+      "status": "passed",
+      "htmlCount": 11,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-12": {
+      "status": "passed",
+      "htmlCount": 10,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-13": {
+      "status": "passed",
+      "htmlCount": 14,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-14": {
+      "status": "passed",
+      "htmlCount": 10,
+      "errors": [],
+      "warnings": []
+    },
+    "chapter-15": {
+      "status": "passed",
+      "htmlCount": 12,
+      "errors": [],
+      "warnings": []
+    },
+    "_book-level": {
+      "status": "passed",
+      "htmlCount": 3,
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "warnings": [],
+  "errors": []
+}

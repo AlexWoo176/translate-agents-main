@@ -1,0 +1,23 @@
+{
+  "bookSlug": "entrepreneurship",
+  "title": "Entrepreneurship",
+  "source": {
+    "provider": "openstax",
+    "license": "CC BY",
+    "attribution": "Vietnamese translation adapted from OpenStax Entrepreneurship."
+  },
+  "language": {
+    "source": "en",
+    "target": "vi"
+  },
+  "translation": {
+    "audience": "Vietnamese learners",
+    "tone": "academic-friendly",
+    "preserveBilingual": true
+  },
+  "dataset": {
+    "name": "Entrepreneurship Reference Dataset",
+    "version": "v1",
+    "status": "normalizing"
+  }
+}

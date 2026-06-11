@@ -1,0 +1,272 @@
+## Xây dựng văn hóa nơi làm việc hướng tới sự xuất sắc về đạo đức và trách nhiệm giải trình
+
+> **🎯 Mục tiêu học tập**
+>
+> Sau khi hoàn thành phần này, bạn sẽ có thể:
+>
+> - Mô tả các thách thức tại nơi làm việc trong một văn hóa khởi nghiệp
+> - Phân biệt giữa cách tiếp cận phản ứng và chủ động trong quản lý đạo đức
+> - Mô tả nền tảng và khuôn khổ của một văn hóa tổ chức hướng tới sự xuất sắc về đạo đức
+> - Xác định các thành phần cấu thành một nơi làm việc có đạo đức
+
+Các nhà khởi nghiệp thành công hiểu rằng nơi làm việc của năm 2020 khá khác biệt so với năm 2000, chỉ mới hai mươi năm trước. Như tiêu đề của phần này gợi ý, các nhà khởi nghiệp tiến bộ muốn tạo ra một **văn hóa nơi làm việc** hướng tới sự xuất sắc về đạo đức. Tuy nhiên, để làm được điều đó đòi hỏi phải thấu hiểu một lực lượng lao động đang thay đổi, cả về đặc điểm nhân khẩu học lẫn hệ giá trị. Thế hệ Millennials (những người sinh từ năm 1983 đến 1995) hiện đã vượt qua thế hệ Baby Boomers (bùng nổ trẻ sơ sinh) trong lực lượng lao động, và đến năm 2025, họ sẽ chiếm 3/4 tổng số người lao động trên phạm vi toàn cầu.[^30] Các nhà khởi nghiệp và nhà quản lý ở vị thế tuyển dụng và giám sát nhân viên thế hệ millennial phải điều chỉnh để thích ứng với những kỳ vọng và yêu cầu khác biệt của nơi làm việc giữa thế kỷ XXI. Điều này đặc biệt đúng đối với CSR/đạo đức. Theo một bài báo gần đây trên tờ *New York Times*, điều quan trọng nhất đối với thế hệ millennials là công việc phải phù hợp với các giá trị cá nhân của họ.[^31]
+
+Khoảng 60% người lao động thuộc thế hệ millennial sẵn sàng làm việc với mức lương ít hơn 15% chỉ để có cơ hội làm việc cho một công ty có các giá trị kinh doanh tương đồng với các giá trị cá nhân của họ.[^32] Hóa ra, thế hệ millennials không chỉ muốn một công việc thuần túy, họ muốn một công việc có ý nghĩa — công việc mà họ có thể cống hiến để đạt được một kết quả xứng đáng. Nói cách khác, họ muốn công việc mình làm phải có ý nghĩa nào đó. Hơn nữa, theo một bài báo trên tờ *Texas Bar Journal* của chuyên gia khai vấn nghề nghiệp và tư vấn Martha Newman, người lao động thế hệ millennial đánh giá rất cao các chính sách tại nơi làm việc thúc đẩy truyền thông cởi mở, sự hợp tác và tham gia vào quá trình ra quyết định ngắn hạn và dài hạn với người sử dụng lao động.[^33] Newman cũng cho biết thế hệ millennials kỳ vọng có một mức độ cân bằng nhất định giữa công việc và cuộc sống; sự nghiệp không phải là điều duy nhất quan trọng trong cuộc sống của họ.
+
+Điều này có nghĩa là các nhà khởi nghiệp đang quản lý nhân sự phải biết điều chỉnh. Ví dụ, một người chủ có thể tạo ra một nơi làm việc có văn hóa đảm bảo rằng con người quan trọng ngang bằng tiền bạc, nơi có sự cân bằng giữa công việc và cuộc sống thông qua những thứ như lịch làm việc linh hoạt, và nơi những cống hiến tốt đẹp được công nhận và khen thưởng. Có câu ngạn ngữ rằng: 'Người ta không bỏ việc, họ bỏ sếp của mình.' Nếu bạn không muốn tỷ lệ nhảy việc quá cao trong lực lượng lao động của mình, hãy là kiểu sếp mà thế hệ millennials muốn làm việc cùng và cống hiến cho.
+
+### Văn hóa khởi nghiệp
+
+Một đặc điểm khá phổ biến của các doanh nghiệp khởi nghiệp thành công là những người sáng lập có sức lôi cuốn, đầy tham vọng và có tinh thần cạnh tranh cao. Sau cùng, cần phải có một tinh thần thép và cái tôi mạnh mẽ để vượt qua những thất vọng không thể tránh khỏi đối với một nhà lãnh đạo khởi nghiệp. Tuy nhiên, khi các công ty phát triển, họ thường phát hiện ra rằng cần có một đặc tính lãnh đạo khác. Liệu các nhà khởi nghiệp có thể vẫn thành công nếu họ cũng áp dụng phong cách lãnh đạo nhân văn ngay từ đầu, hay điều này sẽ luôn làm giảm tỷ lệ thành công vốn đã thấp lúc ban đầu? Đó là một vấn đề khó khăn mà nhiều doanh nghiệp phải vật lộn giải quyết. Những nhân viên tận tụy có thể cảm thấy nản lòng bởi những nhà lãnh đạo khắt khe và khắc nghiệt, những người ít khi đền đáp xứng đáng cho những nhân sự trung thành ngay cả sau khi đạt được thành công. Những nhân viên mới có thể thấy môi trường làm việc ít thân thiện hơn họ mong đợi và đơn giản là rời đi.
+
+Một câu hỏi mà một nhà khởi nghiệp có đạo đức nên tự hỏi là: Nhân viên của tôi có cảm thấy họ có thể nói năng tự do hay không? Trên thực tế, tại nhiều công ty, theo SHRM (Hiệp hội Quản lý Nguồn nhân lực), các phòng nhân sự thường gặp khó khăn trong việc thu hút nhân viên hoàn thành khảo sát môi trường nơi làm việc (mức độ hài lòng).[^34] Người lao động thường tin rằng nếu ban quản lý thực sự muốn tìm hiểu xem ai đã nói gì thì họ có thể dễ dàng làm được, mặc dù các khảo sát được cho là ẩn danh. Sự khác biệt giữa quản lý khởi nghiệp có đạo đức và phi đạo đức là liệu ban lãnh đạo có muốn tìm ra danh tính đó hay không. Dù liên quan đến các công ty quy mô nhỏ, vừa hay lớn, ban quản lý nên khuyến khích nhân viên lên tiếng, dù với tư cách là người tố cáo ẩn danh hay trực tiếp với người giám sát của họ. Việc thiếu đi sự khuyến khích này thường để cho các thực hành kinh doanh phi đạo đức phát triển mạnh mẽ, chẳng hạn như đã thấy trong ví dụ về trường hợp của Wells Fargo.
+
+> **🔗 Liên kết học tập**
+>
+> Mặc dù không có một tập hợp các đặc điểm đơn lẻ nào xác định một nhà lãnh đạo khởi nghiệp lý tưởng, nhưng tính khí khắt khe và tham vọng là một đặc điểm khá phổ biến. Hãy xem xét các hồ sơ ngắn gọn sau đây về các nhà doanh nghiệp: đầu tiên là một [hồ sơ về Walt Disney](https://openstax.org/l/52WaltDisney) và sau đó là [video cho thấy một góc nhìn tương phản từ Kerrie Laird](https://openstax.org/l/52KerrieLaird) tại **Vodafone**.
+>
+>
+>
+> Sau khi xem các đoạn video, hãy cân nhắc thử nghiệm tư duy sau: Giả sử sự tôn sùng nhà lãnh đạo khởi nghiệp lôi cuốn — nhưng độc đoán — như Walt Disney hay Steve Jobs được thay thế bằng một người cam kết sâu sắc trong việc trao quyền cho nhân viên như tuyên bố của Kerrie Laird tại Vodafone? Điều này có thể làm thay đổi văn hóa tại các công ty khởi nghiệp không? Nếu có thể, bạn có tin rằng sự thay đổi đó là tốt hơn hay xấu đi?
+
+Những quan sát này xác định những điểm có thể là độc nhất đối với văn hóa khởi nghiệp. Đây là sự kết hợp giữa tính cách và phong cách quản lý thường được nhận thấy ở những nhà lãnh đạo doanh nghiệp tự mình vạch lối đi riêng, đưa một công ty khởi nghiệp vào cuộc sống và định hình các văn hóa cũng như thực hành kinh doanh ban đầu trong quá trình làm việc. Nếu doanh nghiệp thành công, các nguyên tắc và triết lý của người sáng lập sẽ được ghi khắc sâu đậm trong lịch sử truyền thống của công ty, để rồi rất lâu sau khi họ rời đi, các nhà lãnh đạo kế nhiệm vẫn thấy mình chịu ơn triết lý quản lý được nêu gương từ những ngày đầu của doanh nghiệp.[^35] Khi *bạn* tìm kiếm phong cách lãnh đạo phù hợp để áp dụng vào các kế hoạch khởi nghiệp của mình, hãy bắt đầu bằng việc tự hỏi chính xác kiểu nhà lãnh đạo nào bạn muốn làm việc cùng nếu bạn không phải là sếp. Câu trả lời bạn đưa ra rất có thể sẽ là hình mẫu tốt nhất để làm theo khi bạn phát triển cá tính lãnh đạo của riêng mình.
+
+Những nhân viên đầu tiên của một công ty khởi nghiệp nhận thức rõ những gì đang bị đe dọa khi công ty bắt đầu dấn thân vào các vùng nước khởi nghiệp mới mẻ. Người sáng lập có thể là sếp, nhưng các cộng sự của họ cảm nhận được một tinh thần cộng tác gắn kết họ trực tiếp với người sáng lập cũng như với nhau. Có thể có một tình bạn thân thiết thực sự giữa những người đã gắn bó với công ty từ ngày đầu tiên hoặc ngay sau đó. Các thành viên sáng lập của một doanh nghiệp khởi nghiệp cũng thường sẵn sàng trải qua những căng thẳng và khó khăn gắn liền với một công ty khởi nghiệp để đổi lấy cổ phần sở hữu trong công ty, cho phép họ kiếm được nguồn lợi nhuận lớn từ sự tăng trưởng và thành công sau này của nó.
+
+Tuy nhiên, những nhân viên mới hơn có thể không chia sẻ tư duy này. Họ có thể chỉ đơn giản là tìm kiếm một vị trí an toàn tại một doanh nghiệp đang phát triển hơn là cơ hội tham gia ngay từ đầu vào một công ty khởi nghiệp đầy rủi ro. Họ sẽ không nhất thiết có đủ sự kiên nhẫn đối với những giờ làm việc căng thẳng, sự hỗn loạn và những tính cách cộc cằn có thể là đặc trưng cho những ngày đầu của một doanh nghiệp. Liệu các nhà sáng lập khởi nghiệp có thể định hình văn hóa công ty sao cho có thể dung nạp những nhân viên tài năng đang tìm kiếm một văn hóa doanh nghiệp hỗ trợ sự cân bằng nhất định giữa công việc và cuộc sống?
+
+Hãy xem xét các thực hành đạo đức của nhà khởi nghiệp và kỳ vọng đạo đức của nhân viên. Giả sử một trong những đặc điểm nổi bật được đan cài vào cấu trúc của công ty khởi nghiệp là sự tôn trọng dành cho khách hàng hoặc đối tác. Một nhà khởi nghiệp thường hứa sẽ luôn coi trọng khách hàng ở mức cao nhất, không bao giờ lừa dối họ và phục vụ họ thật tốt. Hơn nữa, giả sử nhà khởi nghiệp này truyền đạt thành công đặc tính tương tự đó cho tất cả nhân viên ngay từ đầu. Sự tôn trọng đối với khách hàng được định sẵn để trở thành một đặc điểm nổi bật của doanh nghiệp; ngay cả khi điều đó gây ra tổn thất tài chính cho công ty, nhà khởi nghiệp này sẽ không gian lận với khách hàng cũng như không trình bày sai lệch về các dịch vụ của công ty. Cuối cùng, giả định rằng đặc tính này được nhúng sâu vào văn hóa của công ty trong khi công ty vẫn đang ở giai đoạn khởi nghiệp.
+
+Bây giờ, hãy giả sử công ty trở nên thành công. Điều này có thể báo hiệu khoảng thời gian khó khăn nhất đối với nhà khởi nghiệp. Sự tăng trưởng thường đi kèm với thành công, và sự tăng trưởng cũng đồng nghĩa với việc có thêm nhiều nhân viên. Không phải tất cả những nhân sự mới được tuyển dụng này đều cam kết chịu trách nhiệm đối với khách hàng ở cùng một mức độ như cũ. Họ sẽ không nhất thiết cố tình gian lận khách hàng, nhưng họ có thể thiếu đi sự nhiệt huyết của người sáng lập trong việc đối xử danh dự nhất với khách hàng. Làm thế nào một nhà khởi nghiệp có thể đảm bảo rằng cam kết ban đầu được duy trì sang thế hệ lãnh đạo thứ hai? Họ không thể chỉ đơn giản ra lệnh cho điều đó xảy ra — bản tính con người thường không phản hồi dễ dàng như vậy. Vì vậy, các nhà khởi nghiệp phải nỗ lực hết mình để đảm bảo rằng phiên bản dịch vụ khách hàng của họ, một phiên bản ưu tiên sự tôn trọng đối tác, được truyền tải đến các nhân viên mới. Nó có thể đã ăn sâu vào những nhân viên phục vụ lâu năm nhất, nhưng nó cần phải được nuôi dưỡng đến mức có tầm quan trọng tương tự đối với những nhân sự mới tuyển dụng.
+
+Với tư cách là một nhà lãnh đạo, bạn cần lập kế hoạch và theo sát để đảm bảo tổ chức của mình tuân thủ các giá trị và nguyên tắc đạo đức mà bạn ủng hộ. Quy trình lập kế hoạch này vượt lên trên việc thực hiện một vài hành động đơn giản như tuyển dụng đúng người, đưa ra chế tài hoặc đặt ra kỳ vọng. Nó vượt lên trên việc truyền đạt một vài lời lẽ tốt đẹp và khuyến khích các khẩu hiệu ngắn gọn như thiết lập lòng tin và làm việc với sự chính trực tuyệt đối. Nó cần nhiều hơn là việc áp dụng một vài khái niệm và khẩu hiệu phổ biến như CSR, chủ nghĩa tư bản tỉnh thức (conscious capitalism) hay lãnh đạo phục vụ (servant leadership). Nó cũng cần nhiều hơn là sự truyền thông hiệu quả về một vài tiêu chí thành công và kỳ vọng.
+
+Có những kỹ thuật hiệu quả có thể hỗ trợ việc đưa các nguyên tắc đạo đức vào đời sống làm việc hằng ngày của nhân viên. Đôi khi được gọi là **chiến lược neo (đạo đức)**, các giá trị đạo đức có thể trở thành một phần của văn hóa doanh nghiệp thông qua việc thực hiện đào tạo nhân viên và các chương trình khen thưởng/công nhận. Trang web của **Hiệp hội Quản lý Nguồn nhân lực** (SHRM) có một bộ công cụ dành cho các nhà khởi nghiệp và nhà quản lý cung cấp các ý tưởng hữu ích về các chiến lược truyền dẫn và chiến lược neo này.
+
+> **🔗 Liên kết học tập**
+>
+> Hãy xem [bộ công cụ để hiểu và phát triển văn hóa tổ chức](https://openstax.org/l/52OrgCulToolkit) để tìm hiểu thêm.
+
+Mặc dù việc sử dụng các phương pháp quản lý phổ biến có thể mang lại thành công, chúng vẫn có thể không đủ khả năng ngăn chặn hành vi phi đạo đức. Thay vào đó, bạn cần một kế hoạch để nuôi dưỡng và phát triển một nền văn hóa nơi các phẩm chất và năng lực đạo đức như tính trung thực, sự công bằng, trách nhiệm và lòng trắc ẩn được phát triển và nội hóa như một kim chỉ nam đạo đức. Nó cũng đòi hỏi các phẩm chất và năng lực này phải được truyền vào kết cấu của tổ chức, được tuân thủ như một thói quen và được tích hợp vào các hoạt động hằng ngày của tổ chức.
+
+#### Cách tiếp cận chủ động so với phản ứng
+
+Việc tạo dựng một môi trường làm việc có đạo đức bao gồm cả các yếu tố phản ứng và chủ động. Khía cạnh phản ứng cho phép nhà khởi nghiệp nhận diện và giải quyết các hành vi thiếu thận trọng, hành động vô trách nhiệm và các sai lệch đạo đức ngay khi chúng xảy ra. Tuy nhiên, đôi khi một **cách tiếp cận phản ứng (reactive approach)** mang tính áp đặt nặng nề có thể không phải là cách tốt nhất để giải quyết các sai lệch về đạo đức.
+
+Ngược lại, một **cách tiếp cận chủ động (proactive approach)** để phát triển nơi làm việc có đạo đức nhằm mục đích ngăn chặn hành vi liều lĩnh, hành động vô trách nhiệm và các sai lệch đạo đức bằng cách thiết lập và nuôi dưỡng một văn hóa đạo đức, trách nhiệm và tuân thủ. Nó cũng đòi hỏi bạn phải thiết lập một môi trường làm việc có đạo đức, nơi mọi thành viên trong tổ chức đều có thể chủ động phát triển, nội hóa và áp dụng một la bàn đạo đức. Cách tiếp cận này giúp vận hành hóa các khái niệm phổ biến — nhưng thường im lặng hoặc mơ hồ — như tính trung thực, sự công bằng, lòng tin, sự chính trực, cam kết, đổi mới và sự xuất sắc, dẫn đến lợi thế cạnh tranh lâu dài.
+
+### Phát triển nền tảng và khuôn khổ của một tổ chức có trách nhiệm về mặt đạo đức
+
+Nhà khởi nghiệp phải xây dựng nền tảng để phát triển một tổ chức dựa trên đạo đức và trách nhiệm. Các khối nền tảng này cho phép nhà khởi nghiệp gia tăng giá trị lớn nhất cho xã hội một cách có hệ thống và thực hiện điều đó một cách có trách nhiệm. Ngoài ra, đối với các nhà khởi nghiệp đang điều chỉnh doanh nghiệp hoặc tiếp quản các dự án mới, việc xây dựng nền tảng hành vi đạo đức không nên làm gián đoạn các hoạt động kinh doanh bình thường hay làm tăng đáng kể chi phí vận hành, vì các khái niệm cốt lõi đã được truyền tải vào trong kết cấu của tổ chức.
+
+To develop an organization’s foundation for ethics and a framework for management, an entrepreneur needs to incorporate three essential ethical qualities—trust, fairness, and excellence—into the organization’s core values (see [Figure 3.6](3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability#OSX_Eship_03_03_CoreQual)). Additional ethical qualities, dependent on the enterprise’s specific goals, might include responsibility, commitment, compassion, and so on. The entrepreneur should infuse these qualities into all aspects of organizational governance and daily operations, and track these values to ensure they are being integrated into planning, and are met and enforced by all business units.[^36][^,][^37][^,][^38] The application and implementation of these three core qualities will begin to shape the framework and establish a foundation of ethics and responsibility.
+
+[Hình 3.6](3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability#OSX_Eship_03_03_CoreQual) minh họa phương pháp xây dựng nền tảng cho các hành vi, nguyên tắc dựa trên đạo đức và sự cộng tác hiệu quả.
+
+![The foundational qualities of ethical entrepreneurs/managers include excellence (have a grander purpose, create a culture that eliminates internal competition, focus on excellence), fairness (foster openness, demonstrate impartiality, consider ideas and feelings, protect the welfare of all stakeholders, maintain a system of accountability), and trust (provide and expect feedback; base decisions on truth and consensus; clash different ideas, not different individuals; listen with patience and respect; separate yourself from your thoughts and views).](../assets/img-3-3-1.webp)
+
+*Hình 3.6: Các nhà khởi nghiệp/nhà quản lý có đạo đức sở hữu những phẩm chất nền tảng này. (Nguồn: Bản quyền thuộc Đại học Rice, OpenStax, theo giấy phép CC BY NC-SA 4.0)*
+
+Thứ hai, tổ chức nên cân nhắc xem họ muốn ưu tiên những nguyên tắc đạo đức nào. Ví dụ về các nguyên tắc đạo đức có thể bao gồm:
+
+- Phục vụ và thúc đẩy xã hội tiến bộ
+- Sự cộng tác xuất sắc
+- Bình đẳng giới
+- Xóa bỏ định kiến
+
+Một khi khuôn khổ và nền tảng cho một tổ chức có đạo đức và hiệu suất cao đã được thiết lập, các phẩm chất và nguyên tắc khác có thể dễ dàng được tích hợp khi cần thiết để củng cố hơn nữa khuôn khổ này, tạo sự khác biệt cho tổ chức và phát triển lợi thế cạnh tranh bền vững. Nó cũng cho phép ban lãnh đạo điều chỉnh các khía cạnh khác của quản trị tổ chức sao cho nhất quán với đạo đức và trách nhiệm. Ví dụ, nếu ban lãnh đạo muốn tận dụng sức mạnh của sự đa dạng để phát triển lợi thế cạnh tranh bền vững, họ sẽ áp dụng các nguyên tắc bình đẳng giới, xóa bỏ định kiến và nguyên tắc thống nhất của nhân loại. Nếu ban lãnh đạo muốn phát triển và sử dụng làm việc nhóm và cộng tác làm lợi thế cạnh tranh chiến lược, họ sẽ tích hợp các hành vi và nguyên tắc vì sự cộng tác xuất sắc và làm việc gắn kết như một thể thống nhất.
+
+The framework and foundation of ethics and responsibility will enable the entrepreneur to consistently manage the needed qualities and principles for success in all aspects of daily operations. These aspects include research and development, engineering, manufacturing, sales, marketing, planning, decision-making, problem solving, conflict management, and other aspects of organizational governance. To demonstrate what this means in practice, the leadership of each of functional area could serve as role models, raise awareness, and encourage individuals to internalize a line of ethical reasoning, asking questions such as, “Is my decision right or wrong (good or bad)?” “Am I dealing with factual information or is conjecture?” “What is the consequence of my action?” “Is my decision fair and equitable?” “Did I give the individual what they are due?” “Would I want to be treated this way?” “Will this action help me achieve the best results for the collective?” This mindset, line of reasoning, and congruence between individual and organizational ethics is often lacking, which leads to ethical deviations.[^39][^,][^40][^,][^41][^,][^42][^,][^43][^,][^44] Establishing the foundation outlined here enables each member of the organization to exercise sound moral judgment, develop ethical capabilities, and internalize a moral compass. It also allows employees to be aligned with the company’s grander purpose, vision, mission, and values that then translates into actions.
+
+#### Phát triển mục tiêu cao cả hơn
+
+Once the entrepreneur has designed and configured the organization to develop a sustained competitive advantage in a responsible manner, they need to develop a higher vision or a grander purpose for the organization. This **grander purpose** is not the same as a mission or vision (although they may overlap). It is not financially motivated, it is not product/service centric, and it is not shareholder driven. Instead, the grander purpose defines and highlights the reasoning for a firm’s long-term existence and success; it provides guidance and direction during decision-making, problem solving, and conflict resolution; it provides the motivation for individuals to achieve excellence and the sense of urgency for social change; and it enables individuals to be part of a larger cause. For example, the integration of the right grander purpose into the operations of an organization could have prevented the manufacturing of toys made with lead-based paint or the poisoning of the Flint, Michigan, water supply. The grander purpose provides a mechanism to help individuals calibrate their day-to-day activities against a more meaningful and stable target.[^45]
+
+#### Phát triển văn hóa cộng tác xuất sắc
+
+Việc thiết lập một khuôn khổ và nền tảng cho hành vi đạo đức sẽ mở ra cho tổ chức cơ hội làm việc nhóm và cộng tác hiệu quả và có ý nghĩa. Nhiều cách tiếp cận cộng tác hiện tại, dù đã chứng minh được những thành công và lợi ích, đôi khi vẫn chưa đủ để giải quyết các tương tác nhóm phức tạp liên quan đến sự ngờ vực, cạnh tranh, phe cánh chính trị và khác biệt về hệ tư tưởng. Một văn hóa cộng tác thành công phải thuyết phục được các cá nhân tìm kiếm những ý tưởng tốt nhất, tận dụng sự đa dạng, phát triển các giải pháp mới, đạt được sự ủng hộ nhiệt tình, nuôi dưỡng những nhân tố tiên phong thúc đẩy thay đổi, xây dựng một môi trường an toàn và khuyến khích mọi người bày tỏ mọi ý kiến.
+
+Một quy trình hiệu quả để khuyến khích sự cộng tác cần có thời gian để xây dựng; tuy nhiên, điều đó là hoàn toàn xứng đáng vì nó sẽ mang lại nguồn cảm hứng và động lực cần thiết để hoàn thành nhiệm vụ và vượt qua mong đợi. Tổ chức cũng nên có sẵn các chế tài đối với việc cộng tác không hiệu quả, điều này có thể được thể hiện qua việc nói xấu sau lưng, đâm sau lưng, hành vi ích kỷ cá nhân, cũng như các thiên kiến hoặc định kiến. Các chế tài này có thể bao gồm kế hoạch thử thách và các cuộc họp trực tiếp để xác định nguyên nhân gốc rễ và vạch ra các bước đi tiếp theo.
+
+Sự sáng tạo cũng là chìa khóa để một đội ngũ tư duy khác biệt. Nơi làm việc phải có sự tự do để sự sáng tạo nở rộ. Khi phát triển một văn hóa sáng tạo, các nhà khởi nghiệp nên cân nhắc các vấn đề và thách thức sau:
+
+- Làm thế nào chúng ta có thể tạo ra một văn hóa sáng tạo và đổi mới?
+- Làm thế nào chúng ta có thể khuyến khích các thành viên của tổ chức cộng tác và tận dụng khả năng sáng tạo của nhau?
+- Làm thế nào chúng ta có thể khen thưởng và ghi nhận mọi người vì sự sáng tạo của họ?
+
+#### Phát triển nguồn nhân lực
+
+Một kế hoạch phát triển nguồn nhân lực cho phép một công ty không ngừng tăng trưởng các nguồn lực trí tuệ của mình, tạo điều kiện cho các cá nhân phát triển các năng lực đạo đức, củng cố tính sáng tạo cá nhân và đổi mới của tổ chức, cung cấp một nguồn lực nhân sự có năng lực ổn định cho các mạng lưới nhân tài lãnh đạo của mình, và cho phép công ty tận dụng và khai thác các nguồn lực nhân sự đó để thúc đẩy xã hội tiến bộ một cách có trách nhiệm. Điều này đạt được bằng cách cung cấp một quy trình đánh giá nhân viên mới, nơi mỗi thành viên trong tổ chức được trao các cơ hội cần thiết và được kỳ vọng sẽ cộng tác với (các) cấp trên của mình để sở hữu và quản lý **kế hoạch phát triển trọn đời (LDP)** của họ. Tối thiểu, một kế hoạch LDP nên:
+
+- Bao gồm các mục tiêu và nhiệm vụ nghề nghiệp ngắn hạn và dài hạn
+- Giúp xác định, liên tục phát triển và tận dụng thế mạnh cá nhân
+- Cho phép các cá nhân xác định và thu hẹp một cách đo lường được các khoảng cách trong kết quả công việc, hành vi và cải thiện chuyên môn
+- Làm rõ các kết quả bàn giao chính và các chỉ số thành công
+
+Tóm lại, LDP trở thành công cụ chính để hỗ trợ các cá nhân đạt được sự xuất sắc bằng cách nâng cao hiệu suất, thu hẹp khoảng cách trong đánh giá và gắn kết cá nhân với mục đích cao cả hơn, tầm nhìn, sứ mệnh, mục tiêu, nhu cầu và định hướng của công ty.
+
+> **📝 Thực hành: Thúc đẩy sự hợp tác và sáng tạo**
+>
+> Các nhà khởi nghiệp được giao phó cho sự phát triển và lớn mạnh của đội ngũ nhân sự của mình. Sự phát triển và lớn mạnh này không nên bị dừng lại, trì hoãn hoặc bị gạt ra bên lề dưới bất kỳ hình thức nào. Thay vào đó, nhà khởi nghiệp cần tìm cách sử dụng các nguồn lực sẵn có để đào tạo, phát triển và cung cấp một cách có hệ thống một nguồn nhân lực có trách nhiệm, có khả năng phát triển trong công ty cũng như thúc đẩy công ty lớn mạnh hơn. Hãy liệt kê ba chiến lược mà nhà khởi nghiệp có thể sử dụng để đạt được các mục tiêu lớn sau đây:
+>
+>
+> 1. Phát triển những con người tốt nhất, sáng giá nhất, sáng tạo nhất và có động lực nhất, những người có nhận thức mạnh mẽ về đúng và sai
+> 2. Phát triển các cá nhân có tinh thần làm chủ, trách nhiệm và cam kết cao để đạt được và duy trì lợi thế cạnh tranh
+> 3. Tận dụng các nguồn lực trí tuệ này và sức mạnh cộng hưởng trong tổ chức để tạo ra giá trị và sự thịnh vượng lớn nhất cho tất cả các bên liên quan.
+
+#### Phát triển năng lực lãnh đạo/quản lý có đạo đức và trách nhiệm
+
+Significant research shows that the culture of the organization is mostly shaped by its leadership values—by how leaders develop the bonds of trust, by how they motivate their people, by their responsible decisions and actions, and by how they empower, delegate, and monitor tasks. A recent *Harvard Business Review* article, by a group of professors and entrepreneurs, synthesized the research of experts including Edgar Schein, Shalom Schwartz, Geert Hofstede, and other leading scholars on this topic.[^46] The article indicates that the attributes of a business’s leaders define that organization’s culture. A business’s culture is essentially defined as the social order within an organization that helps shape attitudes and behaviors—delineating what type of behavior is encouraged and/or discouraged.
+
+Mặc dù một công ty có thể thuê các cá nhân sở hữu những thuộc tính này, tổ chức vẫn cần có sẵn một kế hoạch để đào tạo và phát triển các nhà lãnh đạo có trách nhiệm một cách hệ thống. Tối thiểu, điều này nên bao gồm việc xây dựng và quản lý một mạng lưới nhân tài lãnh đạo, nuôi dưỡng các năng lực đạo đức và trí tuệ, cùng với các chế độ khen thưởng và chế tài cho phép một nhà lãnh đạo phát triển và nội hóa một **kim chỉ nam đạo đức (moral compass)**.
+
+> **🛠️ Bạn có thể làm gì?: Doanh nhân không chỉ nói suông mà phải hành động đi đôi với lời nói**
+>
+> Với tư cách vừa là nhà lãnh đạo vừa là nhà khởi nghiệp, bạn cần hiểu rõ về đạo đức và trách nhiệm, cũng như có khả năng áp dụng các tôn chỉ chính của các khái niệm như trách nhiệm xã hội của doanh nghiệp (CSR). Để xây dựng và duy trì niềm tin, điều quan trọng là các khái niệm này không bắt đầu và kết thúc bằng những từ ngữ và cử chỉ sáo rỗng. Thay vào đó, các nhà khởi nghiệp cần làm gương và làm mẫu cho các khái niệm này, đồng thời áp dụng chúng thông qua các hành động có ý nghĩa, nhất quán và kịp thời. Tóm lại, một nhà khởi nghiệp cần sống theo các giá trị mà họ mong muốn thấy ở người khác. Họ cần trở thành hiện thân của sự tin cậy, tôn trọng, trách nhiệm, cam kết và các phẩm chất then chốt khác. Những giá trị cốt lõi này cần phải được thấm nhuần vào trong kết cấu của tổ chức.
+>
+>
+>
+> Các nhà khởi nghiệp được đặt vào một vị trí có quyền lực và trách nhiệm. Họ cần sử dụng vị thế, quyền lực, vị thế xã hội của mình cùng sự cộng tác của các nguồn lực tài chính và trí tuệ to lớn mà họ có để dịch chuyển và làm thay đổi thế giới theo hướng ý nghĩa hơn. Ví dụ, hãy tưởng tượng trong giây lát việc sử dụng nguồn lực của các công ty như Apple, Google, Microsoft, Amazon và Facebook, những công ty có giá trị tổng hợp ước tính khoảng gần 2,2 nghìn tỷ đô la, để giải quyết các vấn đề toàn cầu phức tạp và khó khăn liên quan đến giáo dục, nghèo đói, nạn đói và các vấn đề kinh niên khác.
+
+#### Phát triển sự liên kết và gắn kết tổ chức bên trong/bên ngoài
+
+Chìa khóa dẫn đến sự thành công của tổ chức có đạo đức chính là sự liên kết và gắn kết giữa các cá nhân, các nhóm và toàn bộ doanh nghiệp. Sự liên kết này bắt đầu bằng việc phát triển một **mục tiêu cao cả hơn (grander purpose)** cho phép nhà khởi nghiệp và tổ chức của họ phục vụ, gia tăng giá trị và thúc đẩy xã hội nơi doanh nghiệp hoạt động tiến lên. Nó đảm bảo các cá nhân và các đơn vị trong công ty hiểu rõ mục tiêu cao cả, sứ mệnh, tầm nhìn cùng các mục tiêu chung và nhiệm vụ cụ thể của công ty, đồng thời trao cho mỗi thành viên hoặc tổ chức cơ hội phục vụ và hòa nhập vào mục tiêu cao cả, sứ mệnh và tầm nhìn đó. Nó được củng cố hơn nữa bằng cách yêu cầu các cá nhân tự mình phấn đấu đạt được sự xuất sắc thay vì cạnh tranh với nhau. Nó đặt ra kỳ vọng rõ ràng về cách mọi người đối xử và làm việc với nhau để mang lại kết quả. Nó giải quyết sự liên kết giữa các giá trị thực tế của doanh nghiệp với các giá trị được tuyên bố, và sự liên kết giữa những gì ban lãnh đạo nói và làm. Khi kết hợp lại, những sự liên kết này và các liên kết khác có thể cho phép các cá nhân và nhóm đi đúng hướng và đạt được các mục tiêu của công ty một cách hiệu quả.
+
+> **💼 Doanh nhân thực chiến: Unilever “Cải thiện kế sinh nhai” thông qua Dự án Shakti**
+>
+> According to management guru Peter **Drucker**, whose ideas significantly contributed to the foundations of thought about the workings of the modern business corporation, workers “need to know the organization’s mission and to believe in it.” How do organizations ensure this commitment? By satisfying workers’ values.[^47] A program undertaken by **Unilever**, the Dutch-British multinational company co-headquartered in Rotterdam and London, illustrates the kind of values-oriented corporate endeavor Drucker describes. Project Shakti is a Unilever CSR initiative in India that links CSR with financial opportunities for local women.[^48] It is considered a leading example of micro-entrepreneurship, and it expands the concept of sustainability to include not only environmental issues but also economic opportunities and financial networking in underdeveloped areas.
+>
+>
+>
+> Mục tiêu, theo Unilever, là trao cho những người phụ nữ Shakti ở nông thôn khả năng kiếm tiền cho bản thân và gia đình họ với tư cách là các nhà khởi nghiệp nhỏ. Công ty con của Unilever tại Ấn Độ, Hindustan Lever, đã bắt đầu các chương trình đào tạo cho hàng nghìn phụ nữ ở các thị trấn nhỏ và làng mạc trên khắp Ấn Độ để giúp họ hiểu cách tự vận hành các doanh nghiệp tư nhân nhỏ của mình như những nhà phân phối sản phẩm của công ty. Với sự hỗ trợ từ đội ngũ giám sát bán hàng nông thôn, những người phụ nữ từng không có khả năng tự nuôi sống bản thân nay đã được trao quyền bằng cách tìm hiểu cách thức hoạt động của chuỗi cung ứng, những sản phẩm mà Hindustan Lever sản xuất và cách phân phối chúng. Các quản lý bán hàng cũng đóng vai trò tư vấn để giúp đỡ họ về các kiến thức kinh doanh cơ bản, quản lý tiền bạc, thương lượng và các kỹ năng liên quan giúp phụ nữ điều hành doanh nghiệp của họ một cách hiệu quả.
+>
+>
+>
+> Dự án Shakti đã thu hút hơn 100.000 người tham gia ở nông thôn, trong đó bao gồm khoảng 75.000 phụ nữ. Dự án đã thay đổi sâu sắc cuộc đời họ, và không chỉ vì thu nhập kiếm được. Những người phụ nữ này hiện đã nâng cao sự tự tin dựa trên cảm giác được trao quyền, và cuối cùng họ cảm thấy mình có vị thế trong xã hội Ấn Độ. Theo Kế hoạch Phát triển Bền vững của Unilever, Dự án Shakti là một trong những cách tốt nhất và bền vững nhất mà công ty có thể giải quyết các mối quan tâm xã hội của phụ nữ. Nó cho phép Unilever tiến hành kinh doanh một cách có trách nhiệm với xã hội, giúp đỡ phụ nữ tự lực cánh sinh đồng thời mở rộng phạm vi tiếp cận của các sản phẩm của công ty.
+>
+>
+> - Bạn có tin rằng Unilever tài trợ cho chương trình Shakti là để giúp đỡ phụ nữ, gia tăng lợi nhuận của chính họ, hay cả hai? Giải thích câu trả lời của bạn.
+> - Chương trình này là một ví dụ về tính bền vững của cả doanh nghiệp lẫn cá nhân như thế nào?
+
+#### Phát triển văn hóa sáng tạo và đổi mới
+
+The next building block is developing a culture of creativity and innovation. This means going beyond a spark of creativity from select individuals or business units, and instead nurturing a culture where every member of the organization is continually creative and the organization is innovative. This also means providing the means and opportunities for individuals to be engaged, creative, and contributing members on a full-time basis. What makes this possible results from the prior building blocks. Innovation requires good leadership and management; a meaningful and effective process for teamwork and collaboration; a culture of learning and improvement; a consistent and measurable process to encourage, recognize, compensate, and track innovation; and company-wide focus on the training and development of the sense of creativity.[^49]
+
+#### Phát triển văn hóa mang lại kết quả có trách nhiệm
+
+Kết quả đo lường được cấu thành khối xây dựng cuối cùng của khuôn khổ cho đạo đức và trách nhiệm. Điều này liên quan đến việc phát triển các hệ thống và các chỉ số sẽ chứng minh doanh nghiệp của bạn đang đạt được các tiêu chuẩn đạo đức như thế nào và tiến bộ dần dần khi gia tăng giá trị cho xã hội. Mặc dù chi tiết về việc chọn chỉ số nào tùy thuộc vào quyết định của nhà khởi nghiệp, khối xây dựng này xác định thành công theo mười khía cạnh của sự xuất sắc trong kinh doanh, được hiển thị trong [Hình 3.7](3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability#OSX_Eship_03_03_Excellence).
+
+![Excellence factors include societal, operations, alignment, innovation, ethics, product/service, finance, stakeholder, individual, and leadership.](../assets/img-3-3-2.webp)
+
+*Hình 3.7: Việc mang lại kết quả có trách nhiệm liên quan đến nhiều yếu tố cân nhắc. (Nguồn: Bản quyền thuộc Đại học Rice, OpenStax, theo giấy phép CC BY NC-SA 4.0)*
+
+[Hình 3.7](3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability#OSX_Eship_03_03_Excellence) đóng vai trò là một hướng dẫn dễ hiểu cho các nhà khởi nghiệp mong muốn tạo dựng văn hóa xuất sắc. Tập trung vào mười chiều kích này có thể giúp doanh nghiệp đạt được sự xuất sắc, từ đó công ty có thể thu được nhiều lợi ích. Ví dụ về các lý do tại sao một công ty phấn đấu để đạt được sự xuất sắc bao gồm tăng cường sự liên kết giữa các giá trị của công ty và của các bên liên quan, cân bằng giữa mục tiêu và các thước đo thành công, làm rõ trọng tâm chiến lược so với các mối quan tâm vận hành, lựa chọn các lĩnh vực trong công ty cần cải tiến, và chuyển từ việc bận tâm với các hoạt động và quy trình hằng ngày sang tập trung vào kết quả đầu ra. Các công ty tìm kiếm sự xuất sắc đối với các kết quả nội bộ và bên ngoài, cả hai đều có vai trò quan trọng. Do đó, cho dù xem xét các khía cạnh nội bộ như tài chính và vận hành, hay các khía cạnh bên ngoài như chất lượng sản phẩm và dịch vụ khách hàng, mỗi lĩnh vực trong số mười lĩnh vực này đều là một thành tố tạo nên sự xuất sắc của công ty.
+
+### Tạo dựng môi trường làm việc có đạo đức và trách nhiệm
+
+Một nơi làm việc an toàn, lành mạnh và hiệu quả là một môi trường mà trong đó một cá nhân có mức độ tin cậy và tự tin cao rằng nếu họ cống hiến hết mình, họ sẽ nhận được một số kết quả và được hưởng nhiều thứ để đổi lấy sức lao động của mình. Khái niệm này tương tự như một bản hợp đồng giữa chủ lao động và nhân viên. Hợp đồng này bao gồm các kỳ vọng sau đây của nhân viên:
+
+1. Họ được đối xử với sự tôn trọng, nhân phẩm và lịch thiệp xứng đáng với tư cách là một con người.
+2. Họ được cung cấp sự hỗ trợ cần thiết, cơ hội bình đẳng và các tài nguyên để trở nên xuất sắc.
+3. Họ được trao những gì họ xứng đáng và những gì thuộc về họ một cách công bằng và bình đẳng.
+4. Họ được cung cấp một môi trường làm việc an toàn, bảo đảm và không có định kiến.
+5. Họ không bị thúc ép, áp đặt hay kỳ vọng phải hành xử một cách vô trách nhiệm.
+
+Loại môi trường làm việc này cho phép các cá nhân liên tục phát triển và lớn mạnh để phát huy hết tiềm năng của mình, sau đó tận dụng tiềm năng đó để gia tăng giá trị cho chính cuộc sống, sự nghiệp của họ và xã hội. Đây là môi trường mà các cá nhân không sợ hãi khi bày tỏ suy nghĩ của mình; họ cảm thấy an toàn khi thảo luận về các vấn đề và mối quan ngại, đồng thời cảm thấy tự do để chất vấn và từ chối những điều sai trái.
+
+#### Định kiến
+
+**Định kiến** thường được xem là thái độ và/hoặc cảm xúc tiêu cực đối với một cá nhân chỉ dựa trên việc họ là thành viên của một nhóm cụ thể. Định kiến là hiện tượng phổ biến đối với những người thuộc các nhóm văn hóa xa lạ. Trong việc làm, nó có thể là nguyên nhân gốc rễ của sự **phân biệt đối xử** không công bằng.[^50] Một yếu tố thiết yếu để phát triển môi trường làm việc an toàn và lành mạnh là hướng tới một nơi không có định kiến. Đây là môi trường mà mọi người đều được đối xử với sự tôn trọng và nhân phẩm xứng đáng, đồng thời được trao cơ hội bình đẳng để trưởng thành, phát triển và thăng tiến cả trong và ngoài tổ chức. Ví dụ, điều quan trọng là phải xem xét giá trị hoặc chất lượng công việc được thực hiện bởi một cá nhân cùng phương thức mà kết quả đó được mang lại. Thật phi đạo đức khi đối xử khác biệt với mọi người dựa trên chủng tộc, giới tính, tuổi tác, quốc tịch và các yếu tố khác biệt khác của họ. Để xây dựng lòng tin và sự tôn trọng, mọi người cần phải được trao những cơ hội ngang nhau.
+
+#### Cạnh tranh và cộng tác
+
+Quản lý hiệu quả lực lượng lao động bao gồm một phương pháp tiếp cận có hệ thống để đánh giá hiệu suất của nhân viên. Nhà quản lý hoặc nhà khởi nghiệp phải quyết định cách thức thực hiện điều này trong công ty của họ. Hệ thống xếp hạng cưỡng bức (forced ranking system) là hệ thống trong đó việc chấm điểm hiệu suất của nhân viên mang tính cạnh tranh và có thể khiến các nhân viên chống lại nhau thay vì thúc đẩy một môi trường làm việc cộng tác. Một số nhà tuyển dụng đã chuyển sang một hệ thống không yêu cầu xếp hạng cưỡng bức và cố gắng giảm bớt tính chất cạnh tranh của việc đánh giá, thay vào đó tập trung vào sự cải thiện liên tục của từng cá nhân. Có một sự khác biệt quan điểm chính đáng về vấn đề này. Theo một bài báo trên tờ *Wall Street Journal* của công ty kế toán và tư vấn Deloitte,[^51] các giám đốc điều hành bị chia rẽ về việc liệu đây có phải là một thực hành hiệu quả hay không. Jack **Welch**, cựu CEO tại tập đoàn **General Electric**, là người ủng hộ phương pháp này, trong khi những người khác coi đó là phản tác dụng. Các công ty đã ngừng quy trình này bao gồm **Microsoft** và GE.
+
+Trong một môi trường cộng tác xuất sắc, các cá nhân được khuyến khích bày tỏ ý tưởng và quan điểm của mình một cách không bị ràng buộc và tôn trọng, nơi giá trị của mỗi ý tưởng được cân nhắc so với giá trị của các ý tưởng khác. Trong môi trường này, các cá nhân không bị khiển trách vì sáng tạo, chấp nhận các rủi ro hợp lý và được tính toán trước, hoặc chất vấn ban quản lý hay ban lãnh đạo.
+
+> **📝 Thực hành: Đường dây nóng tố cáo ẩn danh**
+>
+> Hầu hết các công ty lớn hiện nay đều có các đường dây nóng ẩn danh để nhân viên có thể gọi điện báo cáo các vi phạm đạo đức. Một số cách cụ thể và khả thi khác mà bạn có thể thực hiện để phát triển một môi trường an toàn, nơi mọi thành viên trong tổ chức của bạn đều có thể chất vấn thẩm quyền, chỉ ra lỗi sai và ngăn chặn một quyết định/hành động phi đạo đức là gì?
+
+One example of a problem that can arise in an overly competitive environment or culture created by an organization would be the faulty ignition switch scandal at **GM**. According to **Valdes-Depena**, and **Yellin**,[^52] GM knew about this problem in 2001. However, it took the company over twelve years, more than 100 deaths, and 30 million vehicles being recalled to finally admit that there was a problem. In 2014, GM admitted that a faculty ignition switch may result in the engine of a vehicle being shut down while in drive, resulting in accidents, severe injuries, or death.[^53] If GM had developed an effective environment of collaboration, individuals from leadership, management, sales, marketing, engineering, manufacturing, and human resources, as well as major stakeholders, might have collaborated and prevented the ignition switch problem.
+
+### Sự đa dạng
+
+Các nhà khởi nghiệp cần trân trọng, tôn trọng và học cách tận dụng hiệu quả những phẩm chất độc đáo và đa dạng mà mỗi cá nhân mang lại. Những phẩm chất này có thể được sử dụng để đổi mới, đưa ra quyết định tốt hơn, giải quyết các vấn đề/xung đột phức tạp, định hướng tổ chức di chuyển gắn kết theo một hướng duy nhất hoặc nhanh chóng thay đổi hướng đi khi cần thiết. Nếu được sử dụng đúng cách, những khác biệt này cho phép nhà khởi nghiệp xây dựng lợi thế cạnh tranh bền vững bằng cách xem xét các luồng suy nghĩ, ý tưởng và quan điểm khác nhau nhằm đưa ra các quyết định tốt hơn và có cơ sở hơn.
+
+**Sự đa dạng (diversity)**, dưới góc độ khái niệm pháp lý, liên quan đến các đặc điểm bẩm sinh như giới tính, màu da, chủng tộc, quốc tịch, tôn giáo và tuổi tác của một cá nhân. Nó cũng có thể bao gồm nền tảng giáo dục, nền tảng văn hóa, nền tảng kinh tế xã hội và thậm chí cả các mối liên hệ chính trị. Tuy nhiên, sự đa dạng dưới góc độ khái niệm đạo đức chứ không đơn thuần là pháp lý còn liên quan đến một số đặc điểm không quá rõ ràng như sự đa dạng về hành vi, quá trình tư duy, sự hiểu biết, thái độ, tính khí và phong cách học tập. Khi kết hợp lại, những khác biệt này có thể mang lại lợi ích cho một tổ chức kinh doanh và mang lại hiệu suất làm việc cao cho toàn bộ lực lượng lao động.
+
+Sự đa dạng có thể là một yêu cầu pháp lý thực tế tùy thuộc vào loại hình kinh doanh mà nhà khởi nghiệp tham gia. Ví dụ, nếu bạn có kế hoạch thực hiện bất kỳ công việc đấu thầu nào cho chính phủ, dù là cấp địa phương, bang hay liên bang, rất có thể doanh nghiệp của bạn sẽ phải đáp ứng một tiêu chuẩn về sự đa dạng. Nhiều công ty tư nhân cũng có các điều khoản về sự đa dạng trong các hợp đồng chuỗi cung ứng liên quan đến các sáng kiến đa dạng hóa nhà cung cấp.
+
+> **📝 Thực hành: Xây dựng sự đa dạng**
+>
+> Đối với mỗi mục dưới đây, hãy xác định hai ví dụ về hành động hoặc hoạt động cụ thể mà nhà khởi nghiệp có thể triển khai để đạt được mục tiêu đã đề ra.
+>
+>
+> 1. Giới thiệu khái niệm về sự đa dạng và nêu bật ý nghĩa, giá trị cũng như lợi ích của một môi trường làm việc đa dạng.
+> 2. Thiết lập kỳ vọng rõ ràng để các cá nhân trân trọng sự đa dạng, khái niệm thống nhất trong đa dạng và chỉ ra cách những người khác có thể tận dụng sức mạnh của sự đa dạng để đổi mới.
+> 3. Làm gương, thị phạm và thực hành hành vi đạo đức tốt giúp củng cố sự đa dạng chẳng hạn như xóa bỏ mọi hình thức định kiến và kỳ vọng những người xung quanh cũng làm như vậy.
+> 4. Đảm bảo rằng bạn thiết kế quy trình tuyển dụng, bao gồm các mô tả công việc, tuyển dụng, câu hỏi phỏng vấn và các bước liên quan khác, với sự đa dạng trong tâm trí.
+> 5. Cung cấp đào tạo để giáo dục mọi người về khái niệm định kiến, các hình thức định kiến khác nhau và các khía cạnh tiêu cực của định kiến.
+> 6. Cung cấp các cơ hội để xây dựng các năng lực đạo đức như trở nên chân thật, đáng tin cậy và là một cá nhân công bằng.
+> 7. Đưa ra các chế tài nhất quán, có ý nghĩa, thực chất và kịp thời đối với hành vi định kiến trong các tổ chức.
+
+### Bình đẳng giới
+
+As an entrepreneur, you need to recognize the significance, value, and impact of the principle of equality of men and women on developing a sustained competitive advantage. Then you need to incorporate this principle into the fabric of your organization. Aside from being the right thing to do, one reason why this principle is so important is that close to one-half of the planet is female (and has traditionally been marginalized in the business world).[^54][^,][^55] If you overlook this fact, you will also be potentially overlooking one-half of the talent that can help you excel and develop a sustained competitive advantage. In turn, this will result in a loss of trust and confidence. A second and more important reason would be that any deviation from this principle goes against the whole concept of ethics and responsibility. Moreover, this principle will help your organization attract the best and brightest employees.
+
+Nguyên tắc **bình đẳng giới (gender equality)** không phủ nhận sự khác biệt giữa nam và nữ. Nguyên tắc này chủ yếu yêu cầu chúng ta trao cho mỗi thành viên trong xã hội cơ hội công bằng và bình đẳng để phát triển, hoàn thiện và thăng tiến. Nó cũng thừa nhận rằng phụ nữ trong lịch sử đã bị gạt ra bên lề hoặc bị loại trừ khỏi thế giới kinh doanh. Tuyên bố này vẫn đúng cho đến ngày nay và có thể áp dụng cho ngay cả những quốc gia tiên tiến nhất trên thế giới (ví dụ: sự chênh lệch về tiền lương giữa phụ nữ và nam giới trong các xã hội phương Tây). Do đó, phụ nữ cần được trao cơ hội học tập, khen thưởng, ghi nhận và thăng tiến như nam giới.
+
+### Sự tin cậy và trách nhiệm giải trình đạo đức
+
+Cuối cùng, việc phát triển các môi trường an toàn cũng liên quan đến một môi trường nơi các cá nhân có thể phát triển các mối quan hệ tin cậy bền chặt, nơi họ không cảm thấy phải liên tục cảnh giác sau lưng, nơi các cá nhân tự do chỉ ra các hành vi sai trái mà không bị khiển trách, và nơi mọi người cảm thấy họ sẽ được nhận những gì họ xứng đáng được nhận. Khía cạnh này của sự phát triển một môi trường làm việc an toàn tập trung vào việc đảm bảo các cá nhân cảm thấy họ đang được đối xử một cách công bằng và bình đẳng, đồng thời nhu cầu phát triển một môi trường làm việc có đạo đức và luân lý của họ đang được đáp ứng.
+
+> **📝 Thực hành: Sherron Watkins và Enron**
+>
+> **Enron** is one of the most infamous examples of corporate fraud in US history. The scandal that destroyed the company resulted in approximately $60 billion in lost shareholder value. Sherron **Watkins**, an officer of the company, discovered the fraud and first went to her boss and mentor, founder and chairperson Ken **Lay**, to report the suspected accounting and financial irregularities. She was ignored more than once and eventually went to the press with her story. Because she did not go directly to the SEC, Watkins received no **whistleblower** protection. (The **Sarbanes-Oxley Act** was not passed until after the Enron scandal. In fact, it was Watkins’s circumstance and Enron’s misdeeds that helped convince Congress to pass the law.[^56])
+>
+>
+>
+> Hiện là một diễn giả quốc gia uy tín về chủ đề đạo đức và trách nhiệm của nhân viên, Watkins nói về cách nhân viên nên xử lý các tình huống như vậy. “Khi bạn phải đối mặt với một vấn đề thực sự quan trọng, nếu bạn im lặng, bạn đang bắt đầu đi trên con đường sai lầm... hãy đi ngược lại đám đông nếu cần thiết,” cô phát biểu trong một bài phát biểu tại Hội thảo Quốc gia về Tính cách và Lãnh đạo (một hội thảo để truyền dẫn các phẩm chất đạo đức và kỹ năng lãnh đạo cho những người trẻ tuổi).
+>
+>
+>
+> Watkins nói chuyện cởi mở về rủi ro khi làm một nhân viên trung thực, một điều mà người lao động nên cân nhắc khi đánh giá những gì họ nợ công ty, công chúng và chính họ. “Tôi sẽ không bao giờ có một công việc trong giới doanh nghiệp Mỹ nữa. Phút giây bạn nói ra sự thật với những người nắm quyền lực mà bạn không được lắng nghe, sự nghiệp của bạn sẽ không bao giờ như trước nữa.”
+>
+>
+>
+> Các nhà lãnh đạo doanh nghiệp của Enron đã đối phó với cuộc khủng hoảng đang rình rập bằng sự kết hợp giữa đổ lỗi cho người khác và bỏ mặc nhân viên của họ tự xoay xở. Theo Watkins: “Trong vòng hai tuần kể từ khi tôi phát hiện ra vụ gian lận này, [Tổng thống Enron] Jeff **Skilling** đã từ chức. Chúng tôi thực sự cảm thấy như thể mình đang ở trên một thiết giáp hạm, mọi thứ đang diễn biến không tốt, và thuyền trưởng vừa lên trực thăng để trở về nhà. Mùa thu năm 2001 chính là khoảng thời gian ảm đạm nhất trong cuộc đời tôi, bởi vì tất cả những gì tôi từng nghĩ là an toàn đều không còn an toàn nữa.”
+>
+>
+> - Watkins có nghĩa vụ đạo đức với Enron, với các cổ đông của công ty, hay đối với công chúng đầu tư để công khai những nghi ngờ của mình không? Hãy giải thích câu trả lời của bạn.
+> - Yêu cầu một nhân viên tố cáo phải trả một cái giá lớn như thế nào mới là công bằng?
+
+Lý tưởng nhất, tốt nhất là các nhà khởi nghiệp nên làm gương cho hành vi đạo đức tốt, kỳ vọng nhân viên của họ làm điều tương tự và giúp các thành viên trong tổ chức phát triển một la bàn đạo đức. Tuy nhiên, điều quan trọng không kém là các chủ doanh nghiệp cần hành động và thiết lập các biện pháp kiểm soát và đối chiếu phù hợp để xác minh rằng nhân sự của tổ chức đang tuân thủ các chính sách và nguyên tắc hành vi đạo đức của tổ chức.
+
+Các tổ chức nên thiết lập các hệ thống giám sát sự tuân thủ. Ngoài ra, bạn nên phát triển một mạng lưới nhân sự lãnh đạo (leadership pipeline) để đảm bảo các cá nhân sẽ chỉ được đưa vào mạng lưới này nếu họ thể hiện hành vi đạo đức tốt, làm việc với từng người quản lý đơn vị kinh doanh để đảm bảo điều này đang được thực hiện. Các đánh giá cá nhân nên đánh giá rõ ràng hành vi đạo đức và đưa ra phần thưởng, ghi nhận cũng như thăng chức cho những hành vi đạo đức tốt, đồng thời đưa ra các chế tài và đào tạo/giải pháp cho những hành động không đáp ứng tiêu chuẩn của công ty. Bạn nên đưa ra những chế tài ý nghĩa, thực chất và kịp thời khi thiếu đi các hành vi có thể chấp nhận được, chẳng hạn như loại bỏ một giám đốc điều hành khỏi mạng lưới nhân sự lãnh đạo khi đã xác định được rằng họ sẽ không quản trị một cách có trách nhiệm.
+
+Quan trọng là các thành viên của tổ chức không nên bị đe dọa để mù quáng tuân theo hoặc chấp nhận hệ thống giám sát hiện tại mà không chất vấn. Nhà khởi nghiệp cần vun đắp một môi trường nơi họ kỳ vọng, hỗ trợ và khuyến khích mọi thành viên trong tổ chức của họ ham học hỏi, sáng tạo, chất vấn chính quyền và tìm kiếm sự thật cơ bản trong mọi vấn đề. Cần lưu ý rằng việc chất vấn thẩm quyền không có nghĩa là muốn làm gì thì làm; nó đơn thuần có nghĩa là nhân viên được kỳ vọng sẽ tự suy nghĩ độc lập. Trách nhiệm giải trình nên được khuyến khích; đó vừa là vấn đề đạo đức vừa là vấn đề pháp lý.
+
+An example of a system of accountability that is appropriate for entrepreneurs is one proposed by an article in the *Harvard Business Review*.[^57] A sound approach to accountability requires a multistep process that includes establishing expectations, ensuring employees have the capability to do it, measurement of results, feedback, and consequences for unethical behavior. In addition to an ethical approach, remember that there are federal laws mandating accountability. The most well-known of these is the Sarbanes-Oxley Act,[^58] discussed elsewhere in this chapter, and other chapters in this text. Also called the Corporate and Auditing Accountability, Responsibility, and Transparency Act, the Sarbanes-Oxley Act requires publicly traded companies to have an internal system of control that emphasizes transparency and accountability.
+
+### Nếu bạn mắc sai lầm
+
+Nếu bạn hoặc tổ chức của bạn phạm sai lầm hoặc có bước đi sai lệch, bạn phải quyết định cách giải quyết nó. Nhìn chung, bạn phải đối mặt với sự lựa chọn trả giá ngay bây giờ hoặc trả giá gấp trăm lần sau đó. Xem xét kỹ hơn về các vụ thất bại lớn nhất, tốn kém nhất và tàn khốc nhất của các doanh nghiệp trong thời đại chúng ta cho thấy rằng những thất bại này đã dẫn đến việc thiệt hại về nhân mạng, tài sản, và/hoặc các thảm họa môi trường to lớn. Phần lớn, những thất bại doanh nghiệp này là do một hoặc nhiều sai lệch đạo đức từ phía ban lãnh đạo gây ra. Để chống lại các vấn đề này, các nhà khởi nghiệp cần bắt đầu trước hết bằng việc chịu trách nhiệm, chấp nhận thất bại của mình và thừa nhận khi họ mắc sai lầm. Sự thừa nhận này cần phải chân thành, minh bạch, kịp thời, trung thực và xác thực nếu họ muốn các bên liên quan chấp nhận và tin tưởng vào sự hối hận của họ. Một khi bước đi đầu tiên đó được thực hiện, họ cần thực hiện các bước ngay lập tức để chủ động giải quyết các vấn đề họ đã gây ra. Nhiều nhà lãnh đạo hoặc nhà khởi nghiệp đã rút ra bài học xương máu rằng họ cần cởi mở và minh bạch với các bên liên quan của mình ngay từ đầu. Việc không nhanh chóng thừa nhận sai lầm có thể và đã dẫn đến việc phải trả giá rất đắt khi bị phanh phui. Các hành động mà nhà khởi nghiệp cần thực hiện bao gồm:
+
+1. Thừa nhận những sai lầm, thất bại và khuyết điểm của mình trước tất cả các bên liên quan
+2. Truyền đạt hiệu quả bản chất của vấn đề đến các bên liên quan chính
+3. Thông báo cho các bên liên quan về tác động, tác dụng phụ và nguyên nhân của vấn đề
+4. Thực hiện các bước cần thiết và ngay lập tức để giải quyết vấn đề và ngăn chặn sự tổn thất
+5. Tiến hành phân tích kỹ lưỡng và không thiên vị về nguyên nhân gốc rễ để xác định nguyên nhân cơ bản
+6. Giải quyết bất kỳ sự thiếu hụt nào về con người và hệ thống vốn là nguyên nhân gây ra vấn đề ngay từ đầu
+7. Thiết lập các biện pháp ngăn chặn sự lặp lại của những sai lầm tương tự
+
+Tóm lại, cách tiếp cận tốt nhất là bạn thừa nhận các sai lầm và khuyết điểm của mình, trả giá, sửa chữa và loại bỏ tận gốc vấn đề, đồng thời ngăn chặn một cách có hệ thống sự lặp lại của các sai lầm tương tự. Một vài ví dụ về các sai lầm và khuyết điểm của doanh nghiệp được giải quyết nhanh chóng trước khi trở thành các vấn đề nghiêm trọng là vụ ngộ độc Tylenol và tài khoản khách hàng bị đánh cắp tại Target. Một vài ví dụ về các vấn đề không được xử lý đúng cách và dẫn đến các vấn đề hàng tỷ đô la là vấn đề công tắc khởi động bị lỗi của **GM**, vụ gian lận kiểm soát khí thải của **Volkswagen**, và vụ gian lận tài khoản của **Wells Fargo**.
+
+> **💼 Doanh nhân thực chiến: Lựa chọn con đường đạo đức cao thượng**
+>
+> Để vượt lên trên một báo cáo cam kết rực rỡ, một trang web hào nhoáng hoặc một vài từ vô nghĩa trong quy tắc ứng xử về trách nhiệm của doanh nghiệp, nhà khởi nghiệp cần tuân thủ cả chữ viết của luật pháp lẫn tinh thần của luật pháp, và làm điều đúng đắn vào mọi lúc và trong mọi hoàn cảnh. Để đạt được điều này, các nhà khởi nghiệp cần phát triển và nội hóa một la bàn đạo đức nhằm ngăn cản họ làm điều sai trái và phi đạo đức bất kể hậu quả ra sao.
+>
+>
+>
+> One classic example of doing the right thing which has been studied as a case study in business schools is attributed to **Johnson & Johnson** (J&J). In 1982, J&J found out that someone had tampered with and laced their Tylenol capsules with potassium cyanide.[^59] To address this problem, safeguard their brand name, and prevent negative press, J&J removed all of their Tylenol products from the shelves.

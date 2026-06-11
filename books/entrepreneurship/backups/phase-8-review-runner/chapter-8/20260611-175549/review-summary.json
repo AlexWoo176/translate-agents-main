@@ -1,0 +1,77 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-8",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:48:59.231Z",
+  "finishedAt": "2026-06-11T10:48:59.383Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "8-1-entrepreneurial-marketing-and-the-marketing-mix.html",
+    "8-2-market-research-market-opportunity-recognition-and-target-market.html",
+    "8-3-marketing-techniques-and-tools-for-entrepreneurs.html",
+    "8-4-entrepreneurial-branding.html",
+    "8-5-marketing-strategy-and-the-marketing-plan.html",
+    "8-6-sales-and-customer-service.html",
+    "8-case-questions.html",
+    "8-discussion-questions.html",
+    "8-introduction.html",
+    "8-key-terms.html",
+    "8-review-questions.html",
+    "8-suggested-resources.html",
+    "8-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-174858.json",
+    "glossary-review-20260611-174858.json",
+    "semantic-review-20260611-174858.json"
+  ],
+  "issues": [
+    {
+      "file": "8-introduction.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm210524912-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"While Birchbox was initially an innovator and disr...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm225958560-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Google Ads: https://ads.google.com/home/...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm351462016-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Google Analytics: https://analytics.google.com/ana...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm217081824-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Spin Selling: https://blog.hubspot.com/sales/spin-...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "8-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm187604864-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Zig Ziglar: https://www.ziglar.com/...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

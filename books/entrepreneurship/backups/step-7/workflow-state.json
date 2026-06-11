@@ -1,0 +1,133 @@
+{
+  "bookSlug": "entrepreneurship",
+  "datasetVersion": "v1",
+  "status": "normalizing",
+  "glossary": {
+    "status": "validated",
+    "schema": "glossary.schema.json",
+    "validationReport": "reports/glossary-validation-report.md"
+  },
+  "duplicatePages": {
+    "status": "checked",
+    "chapter-5": {
+      "status": "resolved",
+      "report": "reports/chapter-5-duplicate-page-report.md",
+      "canonical": "chapters/chapter-5/05-translated/5-1-entrepreneurial-opportunity.html",
+      "quarantined": [
+        "chapters/chapter-5/_quarantine/step-3-duplicate-pages/5-1-identifying-entrepreneurial-opportunity.html"
+      ]
+    }
+  },
+  "bilingualPairs": {
+    "status": "checked",
+    "chapter-8": {
+      "status": "resolved",
+      "report": "reports/chapter-8-bilingual-pair-report.md",
+      "highRiskFiles": [
+        "chapters/chapter-8/05-translated/8-1-entrepreneurial-marketing-and-the-marketing-mix.html"
+      ]
+    }
+  },
+  "integrityIssues": {
+    "status": "checked",
+    "chapter-14": {
+      "status": "resolved",
+      "report": "reports/chapter-14-table-integrity-report.md",
+      "issues": [
+        {
+          "file": "chapters/chapter-14/05-translated/14-1-types-of-resources.html",
+          "type": "missing_td_tags",
+          "before": {
+            "referenceTd": 60,
+            "translatedTd": 35,
+            "difference": -25
+          },
+          "after": {
+            "referenceTd": 60,
+            "translatedTd": 60,
+            "difference": 0
+          }
+        }
+      ]
+    }
+  },
+  "previewAssets": {
+    "status": "checked",
+    "cssReferences": {
+      "chapter-14": {
+        "status": "resolved",
+        "report": "reports/preview-css-refs-report.md"
+      },
+      "chapter-15": {
+        "status": "resolved",
+        "report": "reports/preview-css-refs-report.md"
+      }
+    }
+  },
+  "chapters": {
+    "chapter-1": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-2": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-3": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-4": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-5": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-6": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-7": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-8": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-9": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-10": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-11": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-12": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-13": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-14": {
+      "status": "imported",
+      "phases": {}
+    },
+    "chapter-15": {
+      "status": "imported",
+      "phases": {}
+    },
+    "_book-level": {
+      "status": "imported",
+      "phases": {}
+    }
+  }
+}

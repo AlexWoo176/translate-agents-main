@@ -1,0 +1,26 @@
+{
+  "changeId": "glossary-change-20260611",
+  "analyzedAt": "2026-06-11T17:21:14.700Z",
+  "status": "final_translation_affected",
+  "summary": {
+    "affectedChaptersCount": 1,
+    "draftStale": false,
+    "finalStale": true,
+    "reviewStale": true,
+    "previewStale": false
+  },
+  "affectedChapters": [
+    {
+      "chapterId": "chapter-1",
+      "affectedTerms": [
+        {
+          "term": "career entrepreneur",
+          "type": "translation_changed",
+          "oldTranslation": "doanh nhân theo đuổi sự nghiệp lâu dài",
+          "newTranslation": "doanh nhân chuyên nghiệp"
+        }
+      ],
+      "recommendedAction": "re-translate_and_re-review"
+    }
+  ]
+}

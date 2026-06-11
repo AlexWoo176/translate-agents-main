@@ -1,0 +1,554 @@
+# Entrepreneurship Reference Dataset v1 — Translated CSS Refs Report (Step 11)
+
+## 1. Summary
+
+| Item | Value |
+|---|---|
+| Step | Step 11 — Fix CSS references for active 05-translated HTML files |
+| Generated at | 2026-06-11T05:04:28.189Z |
+| CSS target | `css/style.css` |
+| Correct relative path (from chapter-N/05-translated/) | `../../../css/style.css` |
+| Files scanned | 170 |
+| Already clean | 2 |
+| No stylesheet link | 0 |
+| Broken before fix | 168 |
+| Fixed | 168 |
+| Unfixed | 0 |
+| **Overall status** | **FIXED** |
+
+---
+
+## 2. Fixed Files (168)
+
+- `chapters/chapter-1/05-translated/1-1-entrepreneurship-today.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-2-entrepreneurial-vision-and-goals.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-3-the-entrepreneurial-mindset.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-1/05-translated/1-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-1-overview-of-the-entrepreneurial-journey.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-2-the-process-of-becoming-an-entrepreneur.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-3-entrepreneurial-pathways.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-4-frameworks-to-inform-your-entrepreneurial-path.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-2/05-translated/2-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-1-ethical-and-legal-issues-in-entrepreneurship.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-2-corporate-social-responsibility-and-social-entrepreneurship.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-3/05-translated/3-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-1-tools-for-creativity-and-innovation.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-2-creativity-innovation-and-invention-how-they-differ.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-3-developing-ideas-innovations-and-inventions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-4/05-translated/4-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-1-entrepreneurial-opportunity.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-2-researching-potential-business-opportunities.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-3-competitive-analysis.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-5/05-translated/5-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-1-problem-solving-to-find-entrepreneurial-solutions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-2-creative-problem-solving-process.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-3-design-thinking.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-4-lean-processes.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-6/05-translated/6-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-1-clarifying-your-vision-mission-and-goals.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-2-sharing-your-entrepreneurial-story.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-3-developing-pitches-for-various-audiences-and-goals.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-4-protecting-your-idea-and-polishing-the-pitch-through-feedback.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-5-reality-check-contests-and-competitions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-7/05-translated/7-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-1-entrepreneurial-marketing-and-the-marketing-mix.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-2-market-research-market-opportunity-recognition-and-target-market.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-3-marketing-techniques-and-tools-for-entrepreneurs.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-4-entrepreneurial-branding.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-5-marketing-strategy-and-the-marketing-plan.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-6-sales-and-customer-service.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-8/05-translated/8-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-1-overview-of-entrepreneurial-finance-and-accounting-strategies.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-2-special-funding-strategies.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-3-accounting-basics-for-entrepreneurs.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-4-developing-startup-financial-statements-and-projections.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-9/05-translated/9-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-1-launching-the-imperfect-business-lean-startup.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-2-why-early-failure-can-lead-to-success-later.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-3-the-challenging-truth-about-business-ownership.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-4-managing-following-and-adjusting-the-initial-plan.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-5-growth-signs-pains-and-cautions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-10/05-translated/10-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-1-avoiding-the-field-of-dreams-approach.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-2-designing-the-business-model.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-3-conducting-a-feasibility-analysis.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-4-the-business-plan.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-11/05-translated/11-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-1-building-and-connecting-to-networks.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-2-building-the-entrepreneurial-dream-team.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-3-designing-a-startup-operational-plan.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-12/05-translated/12-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-1-business-structures-overview-of-legal-and-tax-considerations.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-2-corporations.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-3-partnerships-and-joint-ventures.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-4-limited-liability-companies.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-5-sole-proprietorships.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-6-additional-considerations-capital-acquisition-business-domicile-and-technology.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-7-mitigating-and-managing-risks.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-case-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-discussion-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-introduction.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-key-terms.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-review-questions.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-suggested-resources.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-13/05-translated/13-summary.html`
+  - Before: `../../css/style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-1-types-of-resources.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-2-using-the-pest-framework-to-assess-resource-needs.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-3-managing-resources-over-the-venture-life-cycle.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-case-questions.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-discussion-questions.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-introduction.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-key-terms.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-review-questions.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-suggested-resources.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-14/05-translated/14-summary.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-1-launching-your-venture.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-2-making-difficult-business-decisions-in-response-to-challenges.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-3-seeking-help-or-support.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-4-now-what-serving-as-a-mentor-consultant-or-champion.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-5-reflections-documenting-the-journey.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-case-questions.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-discussion-questions.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-introduction.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-key-terms.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-review-questions.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-suggested-resources.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `chapters/chapter-15/05-translated/15-summary.html`
+  - Before: `./style.css`
+  - After: `../../../css/style.css`
+- `_book-level/05-translated/preface.html`
+  - Before: `../../../css/style.css`
+  - After: `../../css/style.css`
+
+---
+
+## 3. Unfixed Files (0)
+
+_None_
+
+---
+
+## 4. Files With No Stylesheet Link (0)
+
+_None_
+
+---
+
+## 5. Already Clean Files (2)
+
+- `_book-level/05-translated/a-suggested-resources.html` (`../../css/style.css`)
+- `_book-level/05-translated/index.html` (`../../css/style.css`)
+
+---
+
+## 6. Scope Safety
+
+- ✅ Only `href` attributes on `<link rel="stylesheet">` pointing to style.css were modified.
+- ✅ Body content, translated text, images, and scripts were not touched.
+- ✅ preview/html, exports/epub, archive, glossary were not modified.
+- ✅ book-reader.css and other non-style.css hrefs were left intact.

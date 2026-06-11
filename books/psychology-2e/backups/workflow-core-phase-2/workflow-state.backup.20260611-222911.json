@@ -1,0 +1,282 @@
+{
+  "schemaVersion": "1.0",
+  "bookSlug": "psychology-2e",
+  "title": "Psychology 2e",
+  "datasetVersion": "v1",
+  "datasetStatus": "planned",
+  "generatedAt": "2026-06-11T15:29:05.674Z",
+  "generatedBy": "core/state/generate-workflow-state.js",
+  "source": {
+    "provider": "openstax",
+    "license": "CC BY",
+    "attribution": "Vietnamese translation adapted from OpenStax."
+  },
+  "language": {
+    "source": "en",
+    "target": "vi"
+  },
+  "translation": {
+    "audience": "",
+    "tone": "",
+    "preserveBilingual": false
+  },
+  "overallStatus": "failed",
+  "appReadiness": {
+    "status": "not_ready",
+    "canLoadInDashboard": false,
+    "canShowChapterProgress": true,
+    "canShowQualityGates": true,
+    "canShowReports": true,
+    "canPreviewHtml": false,
+    "requiresHumanReview": false,
+    "reason": "Dataset passed quality gates. Status: failed.",
+    "warnings": [
+      {
+        "message": "Book config is missing translation preserveBilingual setting."
+      },
+      {
+        "message": "EPUB export file does not exist."
+      },
+      {
+        "message": "Missing quality report file: reports/glossary-validation-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/prep-rebuild-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/chapter-5-duplicate-page-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/chapter-8-bilingual-pair-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/chapter-14-table-integrity-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/preview-css-refs-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/local-path-leaks-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/final-validation-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/epub-validity-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/review-completeness-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/analysis-completeness-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/translation-completeness-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/clean-html-valid-report.md"
+      },
+      {
+        "message": "Missing quality report file: reports/raw-html-exists-report.md"
+      }
+    ]
+  },
+  "chapters": {},
+  "_bookLevel": {
+    "status": "missing",
+    "path": "_book-level",
+    "phases": {}
+  },
+  "assets": {
+    "glossary": {
+      "path": "glossary.csv",
+      "exists": true
+    },
+    "previewHtml": {
+      "path": "preview/html",
+      "exists": true,
+      "fileCount": 0
+    },
+    "epub": {
+      "path": "exports/epub/book.epub",
+      "exists": false,
+      "note": "EPUB may need rebuild after dataset normalization steps."
+    }
+  },
+  "qualityGates": {
+    "folderStructure": {
+      "status": "failed",
+      "source": "qa-summary.json",
+      "chaptersFound": 0,
+      "chaptersExpected": 15
+    },
+    "glossary": {
+      "status": "missing_report",
+      "report": "reports/glossary-validation-report.md"
+    },
+    "prepCompleteness": {
+      "status": "missing_report",
+      "report": "reports/prep-rebuild-report.md"
+    },
+    "duplicatePages": {
+      "status": "missing_report",
+      "report": "reports/chapter-5-duplicate-page-report.md"
+    },
+    "bilingualPairs": {
+      "status": "missing_report",
+      "report": "reports/chapter-8-bilingual-pair-report.md"
+    },
+    "tableIntegrity": {
+      "status": "missing_report",
+      "report": "reports/chapter-14-table-integrity-report.md"
+    },
+    "previewCssReferences": {
+      "status": "missing_report",
+      "report": "reports/preview-css-refs-report.md"
+    },
+    "localPathLeaks": {
+      "status": "missing_report",
+      "report": "reports/local-path-leaks-report.md"
+    },
+    "finalValidation": {
+      "status": "missing_report",
+      "report": "reports/final-validation-report.md"
+    },
+    "epubValidity": {
+      "status": "missing_report",
+      "report": "reports/epub-validity-report.md"
+    },
+    "reviewCompleteness": {
+      "status": "missing_report",
+      "report": "reports/review-completeness-report.md"
+    },
+    "analysisCompleteness": {
+      "status": "missing_report",
+      "report": "reports/analysis-completeness-report.md"
+    },
+    "translationCompleteness": {
+      "status": "missing_report",
+      "report": "reports/translation-completeness-report.md"
+    },
+    "cleanHtmlValid": {
+      "status": "missing_report",
+      "report": "reports/clean-html-valid-report.md"
+    },
+    "rawHtmlExists": {
+      "status": "missing_report",
+      "report": "reports/raw-html-exists-report.md"
+    },
+    "planCompleteness": {
+      "status": "passed",
+      "report": "reports/plan-completeness-report.md"
+    }
+  },
+  "reports": {
+    "qaSummary": {
+      "json": "qa-summary.json",
+      "markdown": "qa-summary.md",
+      "status": "missing"
+    },
+    "glossaryValidation": {
+      "json": "reports/glossary-validation-report.json",
+      "markdown": "reports/glossary-validation-report.md",
+      "status": "missing"
+    },
+    "prepCompleteness": {
+      "json": "reports/prep-rebuild-report.json",
+      "markdown": "reports/prep-rebuild-report.md",
+      "status": "missing"
+    },
+    "duplicatePages": {
+      "json": "reports/chapter-5-duplicate-page-report.json",
+      "markdown": "reports/chapter-5-duplicate-page-report.md",
+      "status": "missing"
+    },
+    "bilingualPairs": {
+      "json": "reports/chapter-8-bilingual-pair-report.json",
+      "markdown": "reports/chapter-8-bilingual-pair-report.md",
+      "status": "missing"
+    },
+    "tableIntegrity": {
+      "json": "reports/chapter-14-table-integrity-report.json",
+      "markdown": "reports/chapter-14-table-integrity-report.md",
+      "status": "missing"
+    },
+    "previewCssReferences": {
+      "json": "reports/preview-css-refs-report.json",
+      "markdown": "reports/preview-css-refs-report.md",
+      "status": "missing"
+    },
+    "localPathLeaks": {
+      "json": "reports/local-path-leaks-report.json",
+      "markdown": "reports/local-path-leaks-report.md",
+      "status": "missing"
+    },
+    "finalValidation": {
+      "json": "reports/final-validation-report.json",
+      "markdown": "reports/final-validation-report.md",
+      "status": "missing"
+    },
+    "epubValidity": {
+      "json": "reports/epub-validity-report.json",
+      "markdown": "reports/epub-validity-report.md",
+      "status": "missing"
+    },
+    "reviewCompleteness": {
+      "json": "reports/review-completeness-report.json",
+      "markdown": "reports/review-completeness-report.md",
+      "status": "missing"
+    },
+    "analysisCompleteness": {
+      "json": "reports/analysis-completeness-report.json",
+      "markdown": "reports/analysis-completeness-report.md",
+      "status": "missing"
+    },
+    "translationCompleteness": {
+      "json": "reports/translation-completeness-report.json",
+      "markdown": "reports/translation-completeness-report.md",
+      "status": "missing"
+    },
+    "cleanHtmlValid": {
+      "json": "reports/clean-html-valid-report.json",
+      "markdown": "reports/clean-html-valid-report.md",
+      "status": "missing"
+    },
+    "rawHtmlExists": {
+      "json": "reports/raw-html-exists-report.json",
+      "markdown": "reports/raw-html-exists-report.md",
+      "status": "missing"
+    },
+    "planCompleteness": {
+      "json": "reports/plan-completeness-report.json",
+      "markdown": "reports/plan-completeness-report.md",
+      "status": "available"
+    }
+  },
+  "knownRemainingIssues": [
+    "Book config is missing translation preserveBilingual setting.",
+    "EPUB export file does not exist.",
+    "Missing quality report file: reports/glossary-validation-report.md",
+    "Missing quality report file: reports/prep-rebuild-report.md",
+    "Missing quality report file: reports/chapter-5-duplicate-page-report.md",
+    "Missing quality report file: reports/chapter-8-bilingual-pair-report.md",
+    "Missing quality report file: reports/chapter-14-table-integrity-report.md",
+    "Missing quality report file: reports/preview-css-refs-report.md",
+    "Missing quality report file: reports/local-path-leaks-report.md",
+    "Missing quality report file: reports/final-validation-report.md",
+    "Missing quality report file: reports/epub-validity-report.md",
+    "Missing quality report file: reports/review-completeness-report.md",
+    "Missing quality report file: reports/analysis-completeness-report.md",
+    "Missing quality report file: reports/translation-completeness-report.md",
+    "Missing quality report file: reports/clean-html-valid-report.md",
+    "Missing quality report file: reports/raw-html-exists-report.md"
+  ],
+  "changelog": {
+    "file": "REFERENCE_DATASET_CHANGELOG.md",
+    "steps": {}
+  },
+  "nextRecommendedSteps": [
+    "Verify and rebuild the EPUB export to ensure all resolved changes are compiled.",
+    "Conduct final preview validation in a browser reader environment."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "bookSlug": "entrepreneurship",
+  "affectedChapters": [
+    {
+      "chapterId": "chapter-1",
+      "affectedTerms": [
+        {
+          "term": "career entrepreneur",
+          "type": "translation_changed",
+          "oldTranslation": "doanh nhân theo đuổi sự nghiệp lâu dài",
+          "newTranslation": "doanh nhân chuyên nghiệp"
+        }
+      ],
+      "recommendedAction": "re-translate_and_re-review"
+    }
+  ]
+}

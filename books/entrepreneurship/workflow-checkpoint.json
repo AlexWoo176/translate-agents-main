@@ -1,0 +1,29 @@
+{
+  "bookSlug": "entrepreneurship",
+  "workflowRunId": "wf-20260611-224137",
+  "startedAt": "2026-06-11T15:41:37.974Z",
+  "updatedAt": "2026-06-11T15:41:55.838Z",
+  "status": "completed",
+  "currentPhase": "translate",
+  "completedPhases": [
+    {
+      "phase": "translate",
+      "status": "passed_with_warnings",
+      "report": ""
+    }
+  ],
+  "pendingPhases": [],
+  "options": {
+    "from": "translate",
+    "to": "translate",
+    "phases": null,
+    "resume": false,
+    "force": false,
+    "stopOnFailure": true,
+    "continueOnWarning": false,
+    "chapterId": "chapter-2",
+    "all": false,
+    "provider": "mock",
+    "writeFinal": false
+  }
+}

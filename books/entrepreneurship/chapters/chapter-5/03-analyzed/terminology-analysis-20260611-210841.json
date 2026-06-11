@@ -1,0 +1,859 @@
+{
+  "knownTerms": [
+    {
+      "term": "due diligence",
+      "glossaryTranslation": "thẩm định kỹ lưỡng",
+      "frequency": 6,
+      "context": "Researching and Verifying the Entrepreneurial Opportunity Whether you start your own business, buy an existing business, or purchase a franchise, researching the industry, your target market, and examining the economic and funding options are all part of performing due diligence."
+    },
+    {
+      "term": "entrepreneur",
+      "glossaryTranslation": "doanh nhân/nhà khởi nghiệp",
+      "frequency": 36,
+      "context": "It begins with developing the right mindset—a mindset where the aspiring entrepreneur sharpens their senses to consumer needs and wants, and conducts research to determine whether the idea can become a successful new venture."
+    },
+    {
+      "term": "entrepreneurial venture",
+      "glossaryTranslation": "dự án khởi nghiệp",
+      "frequency": 3,
+      "context": "If your entrepreneurial venture is focused on solving a societal problem, you want to know that the identified problem is realistic and that there is a need for solving it."
+    },
+    {
+      "term": "value proposition",
+      "glossaryTranslation": "giá trị đề xuất",
+      "frequency": 9,
+      "context": "10 Tax incentives do not usually last more than a few years (the tax subsidy for corn farmers to produce ethanol, an ingredient in automotive fuels, is a notable exception due to heavy lobbying by the farming industry), so it is important that entrepreneurs do not rely on these incentives as a permanent “pillar” of their value proposition and business model."
+    },
+    {
+      "term": "opportunity recognition",
+      "glossaryTranslation": "nhận diện cơ hội kinh doanh",
+      "frequency": 1,
+      "context": "Let us analyze, as an example, opportunity recognition displayed by a company called Sweet Beginnings ."
+    },
+    {
+      "term": "business model",
+      "glossaryTranslation": "mô hình kinh doanh",
+      "frequency": 15,
+      "context": "10 Tax incentives do not usually last more than a few years (the tax subsidy for corn farmers to produce ethanol, an ingredient in automotive fuels, is a notable exception due to heavy lobbying by the farming industry), so it is important that entrepreneurs do not rely on these incentives as a permanent “pillar” of their value proposition and business model."
+    },
+    {
+      "term": "creative destruction",
+      "glossaryTranslation": "sự hủy diệt sáng tạo",
+      "frequency": 4,
+      "context": "He termed this force creative destruction ."
+    },
+    {
+      "term": "entrepreneurial process",
+      "glossaryTranslation": "quy trình khởi nghiệp",
+      "frequency": 1,
+      "context": "This is also part of the entrepreneurial process."
+    },
+    {
+      "term": "innovation",
+      "glossaryTranslation": "đổi mới",
+      "frequency": 8,
+      "context": "Harvard University Archives) According to Schumpeter, entrepreneurial innovation is the disruptive force that creates and sustains economic growth, though in the process, it can also destroy established companies, reshape industries, and disrupt employment."
+    },
+    {
+      "term": "patent",
+      "glossaryTranslation": "bằng sáng chế",
+      "frequency": 6,
+      "context": "Entrepreneur In Action Chester Carlson Chester Carlson , a physicist, inventor, and patent attorney, spent ten years searching for a company to develop and manufacture a new photographic machine for office use to make copies faster and for less money."
+    },
+    {
+      "term": "target market",
+      "glossaryTranslation": "thị trường mục tiêu",
+      "frequency": 19,
+      "context": "“Feasibility” in this definition includes identifying a sizable target market interested in the product or service that has sufficient profitability for the venture’s financial success."
+    },
+    {
+      "term": "venture",
+      "glossaryTranslation": "doanh nghiệp (venture)",
+      "frequency": 74,
+      "context": "It begins with developing the right mindset—a mindset where the aspiring entrepreneur sharpens their senses to consumer needs and wants, and conducts research to determine whether the idea can become a successful new venture."
+    },
+    {
+      "term": "copyright",
+      "glossaryTranslation": "bản quyền",
+      "frequency": 7,
+      "context": "However, they must ensure that the existing product, service, or business process is not covered by any active and protected intellectual property (patent, trademark, copyright, or trade secret), as discussed in Creativity, Innovation, and Invention and Fundamentals of Resource Planning ."
+    },
+    {
+      "term": "intellectual property",
+      "glossaryTranslation": "tài sản trí tuệ",
+      "frequency": 3,
+      "context": "However, they must ensure that the existing product, service, or business process is not covered by any active and protected intellectual property (patent, trademark, copyright, or trade secret), as discussed in Creativity, Innovation, and Invention and Fundamentals of Resource Planning ."
+    },
+    {
+      "term": "social entrepreneurship",
+      "glossaryTranslation": "khởi nghiệp xã hội",
+      "frequency": 1,
+      "context": "17 , 18 , 19 Figure 5.6 Bee Love products are part of a social entrepreneurship venture."
+    },
+    {
+      "term": "sustainability",
+      "glossaryTranslation": "tính bền vững",
+      "frequency": 2,
+      "context": "Financial viability relates to the long-term financial sustainability of an organization to fulfill its mission."
+    },
+    {
+      "term": "trade secret",
+      "glossaryTranslation": "bí mật thương mại",
+      "frequency": 1,
+      "context": "However, they must ensure that the existing product, service, or business process is not covered by any active and protected intellectual property (patent, trademark, copyright, or trade secret), as discussed in Creativity, Innovation, and Invention and Fundamentals of Resource Planning ."
+    },
+    {
+      "term": "trademark",
+      "glossaryTranslation": "nhãn hiệu",
+      "frequency": 2,
+      "context": "However, they must ensure that the existing product, service, or business process is not covered by any active and protected intellectual property (patent, trademark, copyright, or trade secret), as discussed in Creativity, Innovation, and Invention and Fundamentals of Resource Planning ."
+    },
+    {
+      "term": "creativity",
+      "glossaryTranslation": "sự sáng tạo",
+      "frequency": 1,
+      "context": "However, they must ensure that the existing product, service, or business process is not covered by any active and protected intellectual property (patent, trademark, copyright, or trade secret), as discussed in Creativity, Innovation, and Invention and Fundamentals of Resource Planning ."
+    },
+    {
+      "term": "invention",
+      "glossaryTranslation": "phát minh",
+      "frequency": 3,
+      "context": "Theories of Opportunity In the twentieth century, economist Joseph Schumpeter , as shown in Figure 5.2 , stated that entrepreneurs create value “by exploiting a new invention or, more generally, an untried technological possibility for producing a new commodity or producing an old one in a new way, by opening up a new source of supply of materials or a new outlet for products, by reorganizing an industry” or similar means."
+    },
+    {
+      "term": "competitive advantage",
+      "glossaryTranslation": "lợi thế cạnh tranh",
+      "frequency": 16,
+      "context": "If the industry already exists, there must be room within the industry for your venture to gain market share by providing a value that creates a competitive advantage."
+    },
+    {
+      "term": "customers",
+      "glossaryTranslation": "khách hàng",
+      "frequency": 35,
+      "context": "For example, drone technology is being used to map and photograph real estate, deliver products to customers, and provide aerial security and many other services."
+    },
+    {
+      "term": "demand",
+      "glossaryTranslation": "nhu cầu",
+      "frequency": 31,
+      "context": "Entrepreneurial opportunity is the point at which identifiable consumer demand meets the feasibility of satisfying the requested product or service."
+    },
+    {
+      "term": "demographics",
+      "glossaryTranslation": "nhân khẩu học",
+      "frequency": 11,
+      "context": "A good starting point in your opportunity screening research is to begin learning about the demographics of the market you are targeting (your target market)."
+    },
+    {
+      "term": "entrepreneurial opportunity",
+      "glossaryTranslation": "cơ hội khởi nghiệp",
+      "frequency": 35,
+      "context": "5.1 Entrepreneurial Opportunity Learning Objectives By the end of this section, you will be able to: Define entrepreneurial opportunity Discuss Joseph Schumpeter’s theories of opportunity Identify key drivers of opportunity Aspiring entrepreneurs can come up with ideas all day long, but not every idea is necessarily a good idea."
+    },
+    {
+      "term": "financial viability",
+      "glossaryTranslation": "tính khả thi tài chính",
+      "frequency": 6,
+      "context": "The business model at this stage is composed of four components: the offering, customers, infrastructure, and financial viability ( Figure 5.12 )."
+    },
+    {
+      "term": "gig economy",
+      "glossaryTranslation": "nền kinh tế gig",
+      "frequency": 5,
+      "context": "20 Almost every industry is worth investigating from the perspective of identifying unused resources or extra resources that could be restructured for what are known as a shared economy or a gig economy ."
+    },
+    {
+      "term": "infrastructure",
+      "glossaryTranslation": "cơ sở hạ tầng",
+      "frequency": 6,
+      "context": "Are there infrastructure or supporting resources that need to be commercialized or created prior to your launch of the venture?"
+    },
+    {
+      "term": "opportunity screening",
+      "glossaryTranslation": "sàng lọc cơ hội",
+      "frequency": 4,
+      "context": "5.2 Researching Potential Business Opportunities Learning Objectives By the end of this section, you will be able to: Describe opportunity screening Identify common sources of research data Explain how to research and verify business opportunities Identify industry and consumer sources of opportunities In order to discover how reasonable your business idea is, you need to research many aspects of the concept."
+    },
+    {
+      "term": "primary research",
+      "glossaryTranslation": "nghiên cứu sơ cấp",
+      "frequency": 5,
+      "context": "But if you want to understand the details of how people shampoo—for example, whether they shampoo then repeat, use a separate conditioner, or use a combination shampoo/conditioner product—then you would want to conduct primary research."
+    },
+    {
+      "term": "secondary research",
+      "glossaryTranslation": "nghiên cứu thứ cấp",
+      "frequency": 7,
+      "context": "You will likely begin with secondary research —that is, data that are already available through some published source."
+    },
+    {
+      "term": "shared economy",
+      "glossaryTranslation": "nền kinh tế chia sẻ",
+      "frequency": 4,
+      "context": "20 Almost every industry is worth investigating from the perspective of identifying unused resources or extra resources that could be restructured for what are known as a shared economy or a gig economy ."
+    },
+    {
+      "term": "supply",
+      "glossaryTranslation": "cung",
+      "frequency": 18,
+      "context": "Theories of Opportunity In the twentieth century, economist Joseph Schumpeter , as shown in Figure 5.2 , stated that entrepreneurs create value “by exploiting a new invention or, more generally, an untried technological possibility for producing a new commodity or producing an old one in a new way, by opening up a new source of supply of materials or a new outlet for products, by reorganizing an industry” or similar means."
+    },
+    {
+      "term": "swot analysis",
+      "glossaryTranslation": "phân tích SWOT",
+      "frequency": 8,
+      "context": "Another frequently used tool is a SWOT analysis (strengths, weaknesses, opportunities, and threats), which focuses on analyzing your venture’s potential and builds on the knowledge gained from the competitive analysis grid and the three circles."
+    },
+    {
+      "term": "unique selling proposition",
+      "glossaryTranslation": "đề xuất bán hàng độc nhất (USP)",
+      "frequency": 10,
+      "context": "5.3 Competitive Analysis Learning Objectives By the end of this section, you will be able to: Understand the elements of a competitive analysis Describe tools you can use to refine and focus your planning (three circles, SWOT, PEST) Recognize social media’s role in saving time and money on research Understand how a business model helps determine the feasibility of an opportunity Conducting a competitive analysis helps you focus your idea and identify your unique selling proposition and competitive advantage."
+    },
+    {
+      "term": "assessment",
+      "glossaryTranslation": "giai đoạn đánh giá (assessment)",
+      "frequency": 1,
+      "context": "Competitive Analysis Grid The competitive analysis grid should identify your competitors and include an assessment of the key characteristics of the competitive landscape in your industry, including competitive strengths and weaknesses and key success factors."
+    },
+    {
+      "term": "crowdsourcing",
+      "glossaryTranslation": "huy động trí tuệ đám đông",
+      "frequency": 2,
+      "context": "Increased access to capital through social media sources like crowdsourcing (see the chapter on Problem Solving and Need Recognition Techniques for a more detailed discussion of crowdsourcing) is having a significant impact on entrepreneurship in that it enables underserved people and communities—such as women, veterans, African Americans, and Native Americans, who otherwise might not be able to start and own a business—to become entrepreneurs."
+    },
+    {
+      "term": "develop",
+      "glossaryTranslation": "phát triển",
+      "frequency": 12,
+      "context": "He identified these methods for finding new business opportunities: Develop a new market for an existing product."
+    },
+    {
+      "term": "evaluate",
+      "glossaryTranslation": "đánh giá (evaluate)",
+      "frequency": 4,
+      "context": "Opportunity screening is the process by which entrepreneurs evaluate innovative product ideas, strategies, and marketing trends."
+    },
+    {
+      "term": "external environment",
+      "glossaryTranslation": "môi trường bên ngoài",
+      "frequency": 3,
+      "context": "Constantly tracking changes in the external environment and competitive arena is an ongoing activity that supports the continued success of the venture."
+    },
+    {
+      "term": "ask",
+      "glossaryTranslation": "khoản yêu cầu (ask)",
+      "frequency": 3,
+      "context": "One of the more common questions entrepreneurs must ask is whether now is a good time to start a business."
+    },
+    {
+      "term": "advertising",
+      "glossaryTranslation": "quảng cáo",
+      "frequency": 3,
+      "context": "Poor inventory management Too much inventory results in the business becoming cash-strapped and unable to buy advertising or other important goods and services."
+    },
+    {
+      "term": "brand",
+      "glossaryTranslation": "thương hiệu",
+      "frequency": 2,
+      "context": "The Sweet Beginnings brand, Bee Love (shown in Figure 5.6 ), sells honey and honey-infused skincare products in airports, hotels, and supermarkets, including Whole Foods ."
+    },
+    {
+      "term": "entrepreneurial marketing",
+      "glossaryTranslation": "tiếp thị khởi nghiệp",
+      "frequency": 1,
+      "context": "The chapter on Entrepreneurial Marketing and Sales goes into more detail about these topics."
+    },
+    {
+      "term": "market analysis",
+      "glossaryTranslation": "phân tích thị trường",
+      "frequency": 1,
+      "context": "A popular tool for market analysis is a product from Claritas Research called Potential Rating Index for Zip Markets (PRIZM) , which characterizes census data according to certain lifestyle traits, even down to the neighborhood level."
+    },
+    {
+      "term": "market opportunity",
+      "glossaryTranslation": "cơ hội thị trường",
+      "frequency": 1,
+      "context": "A sign of a potential market opportunity is when a certain market is experiencing rapid growth."
+    },
+    {
+      "term": "market research",
+      "glossaryTranslation": "nghiên cứu thị trường",
+      "frequency": 4,
+      "context": "If you are already in business, customer feedback can be a simple form of market research."
+    },
+    {
+      "term": "marketing",
+      "glossaryTranslation": "tiếp thị",
+      "frequency": 7,
+      "context": "Opportunity screening is the process by which entrepreneurs evaluate innovative product ideas, strategies, and marketing trends."
+    },
+    {
+      "term": "marketing plan",
+      "glossaryTranslation": "kế hoạch marketing",
+      "frequency": 1,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) The unique selling proposition is important to the marketing plan and is often used as a slogan."
+    },
+    {
+      "term": "people",
+      "glossaryTranslation": "con người (nguồn nhân lực)",
+      "frequency": 15,
+      "context": "Increased access to capital through social media sources like crowdsourcing (see the chapter on Problem Solving and Need Recognition Techniques for a more detailed discussion of crowdsourcing) is having a significant impact on entrepreneurship in that it enables underserved people and communities—such as women, veterans, African Americans, and Native Americans, who otherwise might not be able to start and own a business—to become entrepreneurs."
+    },
+    {
+      "term": "place",
+      "glossaryTranslation": "phân phối (place)",
+      "frequency": 4,
+      "context": "Identifying Opportunity A good place to begin your entrepreneurial quest is to read as much as you can, especially with new technology developments, even outside the field you work in."
+    },
+    {
+      "term": "price",
+      "glossaryTranslation": "giá",
+      "frequency": 9,
+      "context": "It would take a few decades for it to be produced at a price the mass market could afford."
+    },
+    {
+      "term": "process",
+      "glossaryTranslation": "quy trình",
+      "frequency": 16,
+      "context": "Harvard University Archives) According to Schumpeter, entrepreneurial innovation is the disruptive force that creates and sustains economic growth, though in the process, it can also destroy established companies, reshape industries, and disrupt employment."
+    },
+    {
+      "term": "product",
+      "glossaryTranslation": "sản phẩm",
+      "frequency": 57,
+      "context": "Entrepreneurial opportunity is the point at which identifiable consumer demand meets the feasibility of satisfying the requested product or service."
+    },
+    {
+      "term": "profit margin",
+      "glossaryTranslation": "biên lợi nhuận",
+      "frequency": 1,
+      "context": "If the operating costs are too high and the profit margin is too low, it is important to analyze whether the idea is truly feasible."
+    },
+    {
+      "term": "promotion",
+      "glossaryTranslation": "xúc tiến",
+      "frequency": 1,
+      "context": "Competitive Analysis Grid for Sid’s Cycle Shop in Branson, Missouri Key Characteristics Sid’s Cycle City Cycle SpokeMasters Target Strengths Product knowledge, Repair service Repair service High quality, Top brands Price, hours (open seven days per week and online) Weaknesses Limited selection Poor customer service Pricing, no entry-level products Low-end quality, no repair facilities Product Quality Level Low-middle Middle-high High-end Entry-level Price Point Middle Middle-high High price Lowest price Location of the business Suburban strip-mall on busy highway Outskirts of town on route 280 Downtown side street Branson Mall Promotion Weekly ad in local newspaper, some radio and Internet/social media Advertising in local paper during season, Internet/social media Sponsors major bike race in area, Internet, social media Advertises online and in Sunday newspaper (seasonally), Internet) Table 5.2 This competitive analysis grid captures some of the main aspects of competitors within a given market."
+    },
+    {
+      "term": "social media",
+      "glossaryTranslation": "mạng xã hội",
+      "frequency": 12,
+      "context": "Increased access to capital through social media sources like crowdsourcing (see the chapter on Problem Solving and Need Recognition Techniques for a more detailed discussion of crowdsourcing) is having a significant impact on entrepreneurship in that it enables underserved people and communities—such as women, veterans, African Americans, and Native Americans, who otherwise might not be able to start and own a business—to become entrepreneurs."
+    },
+    {
+      "term": "targeting",
+      "glossaryTranslation": "lựa chọn thị trường mục tiêu",
+      "frequency": 2,
+      "context": "A good starting point in your opportunity screening research is to begin learning about the demographics of the market you are targeting (your target market)."
+    },
+    {
+      "term": "accounting",
+      "glossaryTranslation": "kế toán",
+      "frequency": 2,
+      "context": "David Pridham , CEO of the patent advisory board and transaction firm Dominion Harbor Group in Dallas, cites six reasons that current conditions are excellent for startups: Venture capital investment, which you will learn more about in Entrepreneurial Finance and Accounting , has surged to the highest level ever, totaling $148 billion in 2018."
+    },
+    {
+      "term": "assets",
+      "glossaryTranslation": "tài sản",
+      "frequency": 2,
+      "context": "Overinvestment in fixed assets Especially when starting a business, it is usually less expensive to lease or purchase used equipment, thereby saving cash for meeting operational expenses."
+    },
+    {
+      "term": "credit",
+      "glossaryTranslation": "tín dụng",
+      "frequency": 13,
+      "context": "(credit: Joseph Alois Schumpeter, ca."
+    },
+    {
+      "term": "expenses",
+      "glossaryTranslation": "chi phí",
+      "frequency": 1,
+      "context": "Overinvestment in fixed assets Especially when starting a business, it is usually less expensive to lease or purchase used equipment, thereby saving cash for meeting operational expenses."
+    },
+    {
+      "term": "fixed assets",
+      "glossaryTranslation": "tài sản cố định",
+      "frequency": 1,
+      "context": "Overinvestment in fixed assets Especially when starting a business, it is usually less expensive to lease or purchase used equipment, thereby saving cash for meeting operational expenses."
+    },
+    {
+      "term": "funds",
+      "glossaryTranslation": "nguồn vốn",
+      "frequency": 5,
+      "context": "If you have the funds, you can also purchase research reports from firms that specialize in gathering research on certain topics or products."
+    },
+    {
+      "term": "projection",
+      "glossaryTranslation": "dự báo",
+      "frequency": 1,
+      "context": "Artificial intelligence could be a tremendous opportunity based on a McKinsey report projection, estimating artificial intelligence to become a $13 trillion industry by 2025."
+    },
+    {
+      "term": "revenue",
+      "glossaryTranslation": "doanh thu",
+      "frequency": 2,
+      "context": "He received his bachelor’s degree in 1966 and went on to found Federal Express a few years later, which, in 2019, generated almost $70 billion in revenue."
+    },
+    {
+      "term": "financial sustainability",
+      "glossaryTranslation": "tính bền vững tài chính",
+      "frequency": 2,
+      "context": "Financial viability relates to the long-term financial sustainability of an organization to fulfill its mission."
+    },
+    {
+      "term": "business failure",
+      "glossaryTranslation": "thất bại kinh doanh",
+      "frequency": 3,
+      "context": "Ten Reasons for Small Business Failure Reason Description Low sales Entrepreneurs may have overestimated sales, assuming they could take sales away from established competitors."
+    },
+    {
+      "term": "licensing",
+      "glossaryTranslation": "cấp phép",
+      "frequency": 1,
+      "context": "And try nav.com as well: https://www.nav.com/blog/266-business-licensing-by-state-5008/ ."
+    },
+    {
+      "term": "business plan",
+      "glossaryTranslation": "kế hoạch kinh doanh",
+      "frequency": 1,
+      "context": "Work with your banker from the beginning by sharing your business plan and vision for the business with the banker and, most important, show that you are proactive in planning for when you will need to borrow money."
+    },
+    {
+      "term": "inventory management",
+      "glossaryTranslation": "quản lý tồn kho",
+      "frequency": 1,
+      "context": "Poor inventory management Too much inventory results in the business becoming cash-strapped and unable to buy advertising or other important goods and services."
+    },
+    {
+      "term": "operational expenses",
+      "glossaryTranslation": "chi phí vận hành",
+      "frequency": 1,
+      "context": "Overinvestment in fixed assets Especially when starting a business, it is usually less expensive to lease or purchase used equipment, thereby saving cash for meeting operational expenses."
+    },
+    {
+      "term": "business structure",
+      "glossaryTranslation": "cấu trúc doanh nghiệp",
+      "frequency": 1,
+      "context": "See Telling Your Entrepreneurial Story and Pitching the Idea and Business Structure Options: Legal, Tax, and Risk Issues for information on noncompete clauses and agreements."
+    },
+    {
+      "term": "capital",
+      "glossaryTranslation": "vốn",
+      "frequency": 5,
+      "context": "Increased access to capital through social media sources like crowdsourcing (see the chapter on Problem Solving and Need Recognition Techniques for a more detailed discussion of crowdsourcing) is having a significant impact on entrepreneurship in that it enables underserved people and communities—such as women, veterans, African Americans, and Native Americans, who otherwise might not be able to start and own a business—to become entrepreneurs."
+    },
+    {
+      "term": "corporation",
+      "glossaryTranslation": "công ty cổ phần",
+      "frequency": 2,
+      "context": "Carlson went on to found the XEROX Corporation , the company that made the first photocopy machines."
+    },
+    {
+      "term": "advisory board",
+      "glossaryTranslation": "hội đồng cố vấn",
+      "frequency": 1,
+      "context": "David Pridham , CEO of the patent advisory board and transaction firm Dominion Harbor Group in Dallas, cites six reasons that current conditions are excellent for startups: Venture capital investment, which you will learn more about in Entrepreneurial Finance and Accounting , has surged to the highest level ever, totaling $148 billion in 2018."
+    },
+    {
+      "term": "economic factors",
+      "glossaryTranslation": "các yếu tố kinh tế",
+      "frequency": 2,
+      "context": "Economic factors could include a strong economy that fuels other businesses."
+    },
+    {
+      "term": "independent contractors",
+      "glossaryTranslation": "nhà thầu độc lập",
+      "frequency": 1,
+      "context": "Key Terms business model plan for how venture will be funded; how the venture creates value for its stakeholders, including customers; how the venture’s offerings are made and distributed to the end users; and the how income will be generated through this process competitive advantage describes your venture’s unique benefits that poise it for growth creative destruction theory developed by Joseph Schumpeter stating that entrepreneurial innovation is the disruptive force that creates and sustains economic growth, though in the process, it destroys established companies and disrupts employment customers people the business will be serving, including potential customers from one or more market segments demand need or desire for the outputs, the product or services demographics statistical factors of a population or group, such as information about age, gender, income, race, or ethnicity entrepreneurial opportunity point at which identifiable consumer demand meets the feasibility of satisfying the requested product or service and meets the following conditions: significant market demand, significant market structure and size, significant margins, and resources to support the venture’s success financial viability long-term financial sustainability of an organization to fulfill its mission gig economy market system in which independent contractors fill a variety of positions infrastructure all resources the entrepreneur will need in order to launch and sustain a business venture offering actual product or service, its value proposition, and how you will reach and communicate with your target customers opportunity screening process used to evaluate innovative product ideas, strategies, and marketing trends, focusing on financial resources, skills of the entrepreneurial team, and competition primary research research that involves gathering new data secondary research research that uses existing data shared economy economy in which some assets are not in use, which may present an entrepreneurial opportunity supply amount of a product or service produced SWOT analysis strategic analytical tool used to help a potential venture or existing company identify its strengths, weaknesses, opportunities, and threats related to business competition unique selling proposition marketer’s rationale as to why a product or service is different/better than the competitor’s products Review Questions 1 ."
+    },
+    {
+      "term": "political factors",
+      "glossaryTranslation": "các yếu tố chính trị",
+      "frequency": 1,
+      "context": "When researching supply and demand, you should also consider political factors."
+    },
+    {
+      "term": "entrepreneur in action",
+      "glossaryTranslation": "doanh nhân thực chiến",
+      "frequency": 4,
+      "context": "Entrepreneur In Action Chester Carlson Chester Carlson , a physicist, inventor, and patent attorney, spent ten years searching for a company to develop and manufacture a new photographic machine for office use to make copies faster and for less money."
+    },
+    {
+      "term": "stakeholders",
+      "glossaryTranslation": "stakeholders",
+      "frequency": 2,
+      "context": "A business model is a plan for how the venture will be funded; how the venture creates value for its stakeholders, including customers; how the venture’s offerings are made and distributed to the end users; and how income will be generated through this process."
+    },
+    {
+      "term": "link to learning",
+      "glossaryTranslation": "liên kết học tập",
+      "frequency": 3,
+      "context": "Link to Learning There are debates about so-called kill zones—markets that the tech giants like Facebook and Amazon control through aggressive anticompetitive tactics."
+    },
+    {
+      "term": "work it out",
+      "glossaryTranslation": "thực hành",
+      "frequency": 3,
+      "context": "Work It Out T-Shirt Startup Create your own t-shirt line to target your classmates."
+    },
+    {
+      "term": "learning objectives",
+      "glossaryTranslation": "mục tiêu học tập",
+      "frequency": 3,
+      "context": "5.1 Entrepreneurial Opportunity Learning Objectives By the end of this section, you will be able to: Define entrepreneurial opportunity Discuss Joseph Schumpeter’s theories of opportunity Identify key drivers of opportunity Aspiring entrepreneurs can come up with ideas all day long, but not every idea is necessarily a good idea."
+    },
+    {
+      "term": "suggested resources",
+      "glossaryTranslation": "tài nguyên gợi ý",
+      "frequency": 1,
+      "context": "Suggested Resources 5.2 Researching Potential Business Opportunities American Fact Finder (market research): http://factfinder2.census.gov/main.html FedStats (statistics from more than 100 federal agencies): https://www.usa.gov/statistics FindLaw Small Business Center (business forms): https://smallbusiness.findlaw.com/ National Federation of Independent Business: https://www.nfib.com/business-resources The Small Business National Center: https://sites.google.com/a/uca.edu/sbanc/home The U.S."
+    },
+    {
+      "term": "key terms",
+      "glossaryTranslation": "thuật ngữ chính",
+      "frequency": 1,
+      "context": "Key Terms business model plan for how venture will be funded; how the venture creates value for its stakeholders, including customers; how the venture’s offerings are made and distributed to the end users; and the how income will be generated through this process competitive advantage describes your venture’s unique benefits that poise it for growth creative destruction theory developed by Joseph Schumpeter stating that entrepreneurial innovation is the disruptive force that creates and sustains economic growth, though in the process, it destroys established companies and disrupts employment customers people the business will be serving, including potential customers from one or more market segments demand need or desire for the outputs, the product or services demographics statistical factors of a population or group, such as information about age, gender, income, race, or ethnicity entrepreneurial opportunity point at which identifiable consumer demand meets the feasibility of satisfying the requested product or service and meets the following conditions: significant market demand, significant market structure and size, significant margins, and resources to support the venture’s success financial viability long-term financial sustainability of an organization to fulfill its mission gig economy market system in which independent contractors fill a variety of positions infrastructure all resources the entrepreneur will need in order to launch and sustain a business venture offering actual product or service, its value proposition, and how you will reach and communicate with your target customers opportunity screening process used to evaluate innovative product ideas, strategies, and marketing trends, focusing on financial resources, skills of the entrepreneurial team, and competition primary research research that involves gathering new data secondary research research that uses existing data shared economy economy in which some assets are not in use, which may present an entrepreneurial opportunity supply amount of a product or service produced SWOT analysis strategic analytical tool used to help a potential venture or existing company identify its strengths, weaknesses, opportunities, and threats related to business competition unique selling proposition marketer’s rationale as to why a product or service is different/better than the competitor’s products Review Questions 1 ."
+    },
+    {
+      "term": "review questions",
+      "glossaryTranslation": "câu hỏi ôn tập",
+      "frequency": 1,
+      "context": "Key Terms business model plan for how venture will be funded; how the venture creates value for its stakeholders, including customers; how the venture’s offerings are made and distributed to the end users; and the how income will be generated through this process competitive advantage describes your venture’s unique benefits that poise it for growth creative destruction theory developed by Joseph Schumpeter stating that entrepreneurial innovation is the disruptive force that creates and sustains economic growth, though in the process, it destroys established companies and disrupts employment customers people the business will be serving, including potential customers from one or more market segments demand need or desire for the outputs, the product or services demographics statistical factors of a population or group, such as information about age, gender, income, race, or ethnicity entrepreneurial opportunity point at which identifiable consumer demand meets the feasibility of satisfying the requested product or service and meets the following conditions: significant market demand, significant market structure and size, significant margins, and resources to support the venture’s success financial viability long-term financial sustainability of an organization to fulfill its mission gig economy market system in which independent contractors fill a variety of positions infrastructure all resources the entrepreneur will need in order to launch and sustain a business venture offering actual product or service, its value proposition, and how you will reach and communicate with your target customers opportunity screening process used to evaluate innovative product ideas, strategies, and marketing trends, focusing on financial resources, skills of the entrepreneurial team, and competition primary research research that involves gathering new data secondary research research that uses existing data shared economy economy in which some assets are not in use, which may present an entrepreneurial opportunity supply amount of a product or service produced SWOT analysis strategic analytical tool used to help a potential venture or existing company identify its strengths, weaknesses, opportunities, and threats related to business competition unique selling proposition marketer’s rationale as to why a product or service is different/better than the competitor’s products Review Questions 1 ."
+    },
+    {
+      "term": "discussion questions",
+      "glossaryTranslation": "câu hỏi thảo luận",
+      "frequency": 1,
+      "context": "Discussion Questions 1 ."
+    },
+    {
+      "term": "case questions",
+      "glossaryTranslation": "câu hỏi tình huống",
+      "frequency": 1,
+      "context": "Case Questions 1 ."
+    },
+    {
+      "term": "chapter outline",
+      "glossaryTranslation": "dàn ý chương",
+      "frequency": 1,
+      "context": "(credit: photo provided by Rapid Brands Inc.) Chapter Outline 5.1 Entrepreneurial Opportunity 5.2 Researching Potential Business Opportunities 5.3 Competitive Analysis Introduction Like many college students, Chris Johnson ate a lot of ramen noodles, and like many college students, cooking meant microwaving something in his dorm room."
+    }
+  ],
+  "candidateTerms": [
+    {
+      "term": "Joseph Schumpeter",
+      "frequency": 5,
+      "context": "5.1 Entrepreneurial Opportunity Learning Objectives By the end of this section, you will be able to: Define entrepreneurial opportunity Discuss Joseph Schumpeter’s theories of opportunity Identify key drivers of opportunity Aspiring entrepreneurs can come up with ideas all day long, but not every idea is necessarily a good idea."
+    },
+    {
+      "term": "According to Schumpeter",
+      "frequency": 2,
+      "context": "Harvard University Archives) According to Schumpeter, entrepreneurial innovation is the disruptive force that creates and sustains economic growth, though in the process, it can also destroy established companies, reshape industries, and disrupt employment."
+    },
+    {
+      "term": "New York City",
+      "frequency": 2,
+      "context": "To own and operate a New York City cab, for instance, one must buy what is called a taxi medallion, which is basically the right to own and operate a cab."
+    },
+    {
+      "term": "Federal Express",
+      "frequency": 3,
+      "context": "Entrepreneur Fred Smith found a system to solve the problem of overnight package delivery in founding Federal Express ."
+    },
+    {
+      "term": "Sara Blakely",
+      "frequency": 3,
+      "context": "Entrepreneur In Action How Spanx Founder Developed Resilience and Persistence 9 Another entrepreneur, Sara Blakely ( Figure 5.3 ), admits that for the seven years she spent selling fax machines in the 1990s, many times, she became so frightened of approaching sales prospects that she would burst into tears and then have to drive around the block to collect herself before she could complete the next sales call."
+    },
+    {
+      "term": "CC BY",
+      "frequency": 8,
+      "context": "(credit (a): “Spanx” by Mike Mozart/Flickr, CC BY 2.0; credit (b): “Ed Bastian and Sara Blakely at the Fast Company Innovation Festival” by Nan Palmero/Flickr, CC B 2.0) One day in 1998, she was putting on pants and looked in the mirror and did not like how she looked."
+    },
+    {
+      "term": "United States",
+      "frequency": 4,
+      "context": "Intellectual property now accounts for 38.2 percent of our total Gross Domestic Product (GDP) in the United States."
+    },
+    {
+      "term": "Researching Potential Business Opportunities",
+      "frequency": 4,
+      "context": "5.2 Researching Potential Business Opportunities Learning Objectives By the end of this section, you will be able to: Describe opportunity screening Identify common sources of research data Explain how to research and verify business opportunities Identify industry and consumer sources of opportunities In order to discover how reasonable your business idea is, you need to research many aspects of the concept."
+    },
+    {
+      "term": "Learning Objectives By",
+      "frequency": 3,
+      "context": "5.1 Entrepreneurial Opportunity Learning Objectives By the end of this section, you will be able to: Define entrepreneurial opportunity Discuss Joseph Schumpeter’s theories of opportunity Identify key drivers of opportunity Aspiring entrepreneurs can come up with ideas all day long, but not every idea is necessarily a good idea."
+    },
+    {
+      "term": "Common Sources of Research Data",
+      "frequency": 2,
+      "context": "5.2 Researching Potential Business Opportunities Learning Objectives By the end of this section, you will be able to: Describe opportunity screening Identify common sources of research data Explain how to research and verify business opportunities Identify industry and consumer sources of opportunities In order to discover how reasonable your business idea is, you need to research many aspects of the concept."
+    },
+    {
+      "term": "US Census",
+      "frequency": 2,
+      "context": "These include US Census data ( https://www.census.gov/academy ), which provides insight into the population in your market area, such as the metropolitan statistical area data, as well as statistics on the economy and trade."
+    },
+    {
+      "term": "Small Business Administration",
+      "frequency": 4,
+      "context": "Common Sources of Research Data As you embark on researching whether your idea is viable, a good place to start is with the sources recommended by the US Small Business Administration ."
+    },
+    {
+      "term": "Small Business Development Center",
+      "frequency": 2,
+      "context": "Business assistance is available to you from the Small Business Administration, the Service Corps of Retired Executives (SCORE) , and your local Small Business Development Center."
+    },
+    {
+      "term": "Business Administration",
+      "frequency": 4,
+      "context": "Common Sources of Research Data As you embark on researching whether your idea is viable, a good place to start is with the sources recommended by the US Small Business Administration ."
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 6,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Determining whether an idea has significant market demand, significant market structure and size, and significant margins and resources to support the venture’s success represents the most basic concerns when screening a business idea as an entrepreneurial opportunity."
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 6,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Determining whether an idea has significant market demand, significant market structure and size, and significant margins and resources to support the venture’s success represents the most basic concerns when screening a business idea as an entrepreneurial opportunity."
+    },
+    {
+      "term": "Claritas Research",
+      "frequency": 2,
+      "context": "Or you can purchase more detailed consumer data through providers such as Claritas Research , which gathers information on demographics, consumer lifestyles, attitudes, and behaviors ( https://claritas360.claritas.com/mybestsegments/?ID=70 )."
+    },
+    {
+      "term": "Elon Musk",
+      "frequency": 2,
+      "context": "Entrepreneur In Action Elon Musk’s SpaceX There have been many instances in which products have been promised but fail in their implementation."
+    },
+    {
+      "term": "Are You Ready",
+      "frequency": 2,
+      "context": "Are You Ready?"
+    },
+    {
+      "term": "Sweet Beginnings",
+      "frequency": 3,
+      "context": "Let us analyze, as an example, opportunity recognition displayed by a company called Sweet Beginnings ."
+    },
+    {
+      "term": "North Lawndale",
+      "frequency": 3,
+      "context": "Unfortunately, the odds were against them in their North Lawndale community: There was a 40 percent unemployment rate, 57 percent of residents had criminal histories, the average annual income was only $25,000, and the area was known for drugs, sex workers, and gangs."
+    },
+    {
+      "term": "Palms Barber",
+      "frequency": 10,
+      "context": "But fate intervened in the form of Brenda Palms Barber , who knew all of these statistics."
+    },
+    {
+      "term": "Bee Love",
+      "frequency": 7,
+      "context": "The Sweet Beginnings brand, Bee Love (shown in Figure 5.6 ), sells honey and honey-infused skincare products in airports, hotels, and supermarkets, including Whole Foods ."
+    },
+    {
+      "term": "New York",
+      "frequency": 3,
+      "context": "To own and operate a New York City cab, for instance, one must buy what is called a taxi medallion, which is basically the right to own and operate a cab."
+    },
+    {
+      "term": "Veterans Community Project",
+      "frequency": 2,
+      "context": "The Veterans Community Project in Kansas City, has developed a community of forty-nine tiny homes for homeless veterans and the project is so successful that more than 500 cities around the country are building tiny home housing projects for veterans there."
+    },
+    {
+      "term": "Competitive Analysis A",
+      "frequency": 2,
+      "context": "Competitive Analysis A competitive analysis should provide the entrepreneur with information about how competitors market their business and ways to penetrate the market by entry through product or service gaps in areas that your competitors do not serve or do not serve well."
+    },
+    {
+      "term": "A SWOT",
+      "frequency": 6,
+      "context": "Another frequently used tool is a SWOT analysis (strengths, weaknesses, opportunities, and threats), which focuses on analyzing your venture’s potential and builds on the knowledge gained from the competitive analysis grid and the three circles."
+    },
+    {
+      "term": "Fundamentals of Resource Planning",
+      "frequency": 2,
+      "context": "However, they must ensure that the existing product, service, or business process is not covered by any active and protected intellectual property (patent, trademark, copyright, or trade secret), as discussed in Creativity, Innovation, and Invention and Fundamentals of Resource Planning ."
+    },
+    {
+      "term": "A PEST",
+      "frequency": 4,
+      "context": "Figure 5.10 shows an example of the topics that could be placed in a PEST analysis."
+    },
+    {
+      "term": "Warby Parker",
+      "frequency": 5,
+      "context": "Research the eyeglass company Warby Parker ."
+    },
+    {
+      "term": "Travis and Katelyn",
+      "frequency": 2,
+      "context": "Travis and Katelyn loved backpacking and had hiked the Appalachian Trail twice."
+    },
+    {
+      "term": "Chris Johnson",
+      "frequency": 4,
+      "context": "Many entrepreneurs like Chris Johnson, who invented the ramen noodle cooker and Palms Barber had ordinary problems they were trying to solve."
+    },
+    {
+      "term": "Rapid Brands",
+      "frequency": 4,
+      "context": "Figure 5.1 Chris Johnson, CEO and founder of California-based company Rapid Brands, invented the Rapid Ramen Cooker and has since grown his offerings to a line of successful products."
+    },
+    {
+      "term": "Rapid Ramen Cooker",
+      "frequency": 3,
+      "context": "Figure 5.1 Chris Johnson, CEO and founder of California-based company Rapid Brands, invented the Rapid Ramen Cooker and has since grown his offerings to a line of successful products."
+    },
+    {
+      "term": "Economic Indicators",
+      "frequency": 2,
+      "context": "Some other economic indicators favor entrepreneurship."
+    }
+  ],
+  "missingGlossaryTerms": [
+    {
+      "term": "offering",
+      "frequency": 12,
+      "context": "One solution involves offering more affordable “tiny homes” that make home ownership more accessible ( Figure 5.8 )."
+    }
+  ],
+  "termFrequency": {
+    "due diligence": 6,
+    "entrepreneur": 36,
+    "entrepreneurial venture": 3,
+    "value proposition": 9,
+    "opportunity recognition": 1,
+    "business model": 15,
+    "creative destruction": 4,
+    "entrepreneurial process": 1,
+    "innovation": 8,
+    "patent": 6,
+    "target market": 19,
+    "venture": 74,
+    "copyright": 7,
+    "intellectual property": 3,
+    "social entrepreneurship": 1,
+    "sustainability": 2,
+    "trade secret": 1,
+    "trademark": 2,
+    "creativity": 1,
+    "invention": 3,
+    "competitive advantage": 16,
+    "customers": 35,
+    "demand": 31,
+    "demographics": 11,
+    "entrepreneurial opportunity": 35,
+    "financial viability": 6,
+    "gig economy": 5,
+    "infrastructure": 6,
+    "opportunity screening": 4,
+    "primary research": 5,
+    "secondary research": 7,
+    "shared economy": 4,
+    "supply": 18,
+    "swot analysis": 8,
+    "unique selling proposition": 10,
+    "assessment": 1,
+    "crowdsourcing": 2,
+    "develop": 12,
+    "evaluate": 4,
+    "external environment": 3,
+    "ask": 3,
+    "advertising": 3,
+    "brand": 2,
+    "entrepreneurial marketing": 1,
+    "market analysis": 1,
+    "market opportunity": 1,
+    "market research": 4,
+    "marketing": 7,
+    "marketing plan": 1,
+    "people": 15,
+    "place": 4,
+    "price": 9,
+    "process": 16,
+    "product": 57,
+    "profit margin": 1,
+    "promotion": 1,
+    "social media": 12,
+    "targeting": 2,
+    "accounting": 2,
+    "assets": 2,
+    "credit": 13,
+    "expenses": 1,
+    "fixed assets": 1,
+    "funds": 5,
+    "projection": 1,
+    "revenue": 2,
+    "financial sustainability": 2,
+    "business failure": 3,
+    "licensing": 1,
+    "business plan": 1,
+    "inventory management": 1,
+    "operational expenses": 1,
+    "business structure": 1,
+    "capital": 5,
+    "corporation": 2,
+    "advisory board": 1,
+    "economic factors": 2,
+    "independent contractors": 1,
+    "political factors": 1,
+    "entrepreneur in action": 4,
+    "stakeholders": 2,
+    "link to learning": 3,
+    "work it out": 3,
+    "learning objectives": 3,
+    "suggested resources": 1,
+    "key terms": 1,
+    "review questions": 1,
+    "discussion questions": 1,
+    "case questions": 1,
+    "chapter outline": 1,
+    "offering": 12,
+    "Joseph Schumpeter": 5,
+    "According to Schumpeter": 2,
+    "New York City": 2,
+    "Federal Express": 3,
+    "Sara Blakely": 3,
+    "CC BY": 8,
+    "United States": 4,
+    "Researching Potential Business Opportunities": 4,
+    "Learning Objectives By": 3,
+    "Common Sources of Research Data": 2,
+    "US Census": 2,
+    "Small Business Administration": 4,
+    "Small Business Development Center": 2,
+    "Business Administration": 4,
+    "Copyright Rice University": 6,
+    "CC BY NC-SA": 6,
+    "Claritas Research": 2,
+    "Elon Musk": 2,
+    "Are You Ready": 2,
+    "Sweet Beginnings": 3,
+    "North Lawndale": 3,
+    "Palms Barber": 10,
+    "Bee Love": 7,
+    "New York": 3,
+    "Veterans Community Project": 2,
+    "Competitive Analysis A": 2,
+    "A SWOT": 6,
+    "Fundamentals of Resource Planning": 2,
+    "A PEST": 4,
+    "Warby Parker": 5,
+    "Travis and Katelyn": 2,
+    "Chris Johnson": 4,
+    "Rapid Brands": 4,
+    "Rapid Ramen Cooker": 3,
+    "Economic Indicators": 2
+  },
+  "warnings": [
+    "Found 1 key terms defined in <dt> tags that are missing from glossary.csv."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gateId": "glossaryImpact",
+  "status": "needs_human_review",
+  "success": true,
+  "checks": {
+    "hasImpactReport": true,
+    "staleDraftsDetected": false,
+    "staleFinalsDetected": true
+  },
+  "affectedChaptersCount": 1,
+  "warnings": [],
+  "errors": [
+    "Glossary change affects final translations in 1 chapters. Re-run translate & review recommended."
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phase": "scrape",
+  "bookSlug": "entrepreneurship",
+  "scope": "book",
+  "chapterId": "all",
+  "startedAt": "2026-06-11T14:53:13.233Z",
+  "finishedAt": "2026-06-11T14:53:13.519Z",
+  "filesCreated": 0,
+  "filesUpdated": 0,
+  "filesSkipped": 170,
+  "warnings": 0,
+  "errors": 0,
+  "chapterStats": [
+    {
+      "chapterId": "chapter-1",
+      "pageCount": 10,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-2",
+      "pageCount": 11,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-3",
+      "pageCount": 10,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-4",
+      "pageCount": 10,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-5",
+      "pageCount": 10,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-6",
+      "pageCount": 11,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-7",
+      "pageCount": 12,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-8",
+      "pageCount": 13,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-9",
+      "pageCount": 11,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-10",
+      "pageCount": 12,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-11",
+      "pageCount": 11,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-12",
+      "pageCount": 10,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-13",
+      "pageCount": 14,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-14",
+      "pageCount": 10,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "chapter-15",
+      "pageCount": 12,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    },
+    {
+      "chapterId": "_book-level",
+      "pageCount": 3,
+      "assetCount": 0,
+      "status": "passed_with_warnings"
+    }
+  ]
+}

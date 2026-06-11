@@ -1,0 +1,583 @@
+{
+  "chapterTitle": "Introduction",
+  "sections": [
+    {
+      "file": "13-1-business-structures-overview-of-legal-and-tax-considerations.html",
+      "title": "13.1 Business Structures: Overview of Legal and Tax Considerations"
+    },
+    {
+      "file": "13-2-corporations.html",
+      "title": "13.2 Corporations"
+    },
+    {
+      "file": "13-3-partnerships-and-joint-ventures.html",
+      "title": "13.3 Partnerships and Joint Ventures"
+    },
+    {
+      "file": "13-4-limited-liability-companies.html",
+      "title": "13.4 Limited Liability Companies"
+    },
+    {
+      "file": "13-5-sole-proprietorships.html",
+      "title": "13.5 Sole Proprietorships"
+    },
+    {
+      "file": "13-6-additional-considerations-capital-acquisition-business-domicile-and-technology.html",
+      "title": "13.6 Additional Considerations: Capital Acquisition, Business Domicile, and Technology"
+    },
+    {
+      "file": "13-7-mitigating-and-managing-risks.html",
+      "title": "13.7 Mitigating and Managing Risks"
+    },
+    {
+      "file": "13-case-questions.html",
+      "title": "Case Questions"
+    },
+    {
+      "file": "13-discussion-questions.html",
+      "title": "Discussion Questions"
+    },
+    {
+      "file": "13-introduction.html",
+      "title": "Introduction"
+    },
+    {
+      "file": "13-key-terms.html",
+      "title": "Key Terms"
+    },
+    {
+      "file": "13-review-questions.html",
+      "title": "Review Questions"
+    },
+    {
+      "file": "13-suggested-resources.html",
+      "title": "Suggested Resources"
+    },
+    {
+      "file": "13-summary.html",
+      "title": "Summary"
+    }
+  ],
+  "learningObjectives": [
+    "13.1 Business Structures: Overview of Legal and Tax Considerations",
+    "13.2 Corporations",
+    "13.3 Partnerships and Joint Ventures",
+    "13.4 Limited Liability Companies",
+    "13.5 Sole Proprietorships",
+    "13.6 Additional Considerations: Capital Acquisition, Business Domicile, and Technology",
+    "13.7 Mitigating and Managing Risks"
+  ],
+  "keyConcepts": [
+    "corporation",
+    "liability",
+    "entrepreneur",
+    "venture",
+    "partnership",
+    "shareholders",
+    "capital",
+    "business structure",
+    "joint venture",
+    "equity",
+    "sole proprietorship",
+    "insurance",
+    "b corporation",
+    "people",
+    "assets",
+    "funds",
+    "c corporation",
+    "credit",
+    "business purpose",
+    "for-profit business",
+    "process",
+    "crowdfunding",
+    "revenue",
+    "s corporation",
+    "enterprise risk management",
+    "develop",
+    "equity crowdfunding",
+    "contracts",
+    "copyright",
+    "business plan",
+    "general partnership",
+    "learning objectives",
+    "price",
+    "accounting",
+    "ownership structure",
+    "accountability",
+    "customers",
+    "close",
+    "stakeholders",
+    "gig economy",
+    "expenses",
+    "legal risk",
+    "privately held corporation",
+    "torts",
+    "link to learning",
+    "marketing",
+    "financial risk",
+    "public corporation",
+    "publicly held corporation",
+    "entrepreneur in action",
+    "action plan",
+    "sustainability",
+    "assessment",
+    "evaluate",
+    "ask",
+    "place",
+    "product",
+    "social media",
+    "financing",
+    "economic nexus",
+    "mission statement",
+    "business model",
+    "e-commerce",
+    "framework",
+    "disclosure",
+    "truthfulness",
+    "demand",
+    "critical thinking",
+    "implement",
+    "advertising",
+    "sample",
+    "networking",
+    "independent contractors",
+    "tariffs",
+    "business continuity",
+    "toyota",
+    "work it out",
+    "suggested resources",
+    "key terms",
+    "review questions",
+    "discussion questions",
+    "case questions",
+    "chapter outline"
+  ],
+  "difficultTerms": [
+    "Learning Objectives By",
+    "Copyright Rice University",
+    "CC BY NC-SA",
+    "Limited Liability Company",
+    "Limited Liability Companies",
+    "Partnerships and Joint Ventures",
+    "Overview of Legal and Tax Considerations",
+    "Are You Ready",
+    "Secretary of State",
+    "Internal Revenue Code",
+    "Purpose of Your Business",
+    "Piercing the Veil",
+    "Tax Cuts and Jobs Act",
+    "What Can You Do",
+    "Entrepreneurial Finance and Accounting",
+    "Create a Business Plan",
+    "Sole Proprietorships The"
+  ],
+  "tables": [
+    {
+      "file": "13-7-mitigating-and-managing-risks.html",
+      "id": "fs-idm341493856",
+      "summary": "No Summary"
+    },
+    {
+      "file": "13-7-mitigating-and-managing-risks.html",
+      "id": "fs-idm355451152",
+      "summary": "No Summary"
+    }
+  ],
+  "figures": [
+    {
+      "file": "13-1-business-structures-overview-of-legal-and-tax-considerations.html",
+      "id": "OSX_Eship_13_01_EntityCat",
+      "caption": "Figure 13.2 There are several basic business structures: sole proprietorships, partnerships, corporations, and hybrid forms. Partnerships may be structured as a general partnership (GP), a limited partnership (LP), or a limited liability partnership (LLP). Hybrids are usually formed as a limited liability company (LLC) or a joint venture (JV). The designations of “C” and “S” corporations refer to which chapter of the Internal Revenue Code they appear in; B corporations are structured to meet standards of serving certain social purposes. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "13-1-business-structures-overview-of-legal-and-tax-considerations.html",
+      "id": "OSX_Eship_13_01_Gravity",
+      "caption": "Figure 13.3 Gravity Payments has led the way in exploring how employee and C-level salaries function for the company in terms of profits, living wages, and ethical considerations related to those issues. (credit: modification of photo provided by Gravity Payments)"
+    },
+    {
+      "file": "13-2-corporations.html",
+      "id": "OSX_Eship_13_02_ArticleInc",
+      "caption": "Figure 13.4 This is a sample short form of the document that is filed with the Secretary of State’s Office to form a corporation. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "13-2-corporations.html",
+      "id": "OSX_Eship_13_02_Corporate",
+      "caption": "Figure 13.5 In a tripartite approach, three groups are involved in owning and managing a corporation. Shareholders elect directors who appoint officers. Shareholders are owners, and directors/officers may be, and typically are, shareholders. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "13-2-corporations.html",
+      "id": "OSX_Eship_13_02_CorpStruc",
+      "caption": "Figure 13.6 C corporations, S corporations, and B corporations are all types of for-profit corporations, in contrast to a not-for-profit corporation. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "13-2-corporations.html",
+      "id": "OSX_Eship_13_02_BCorpLogo",
+      "caption": "Figure 13.7 In order to become a certified B corporation, a company must go through an external audit of compliance with each of the requirements of the B corporation. (credit: modification of “Runa B Corp Label” by “Lelepanne”/Wikimedia Commons, CC0)"
+    },
+    {
+      "file": "13-2-corporations.html",
+      "id": "OSX_Eship_13_02_Bombas",
+      "caption": "Figure 13.8 This is a pair of Bombas socks. (credit: modification of “Bombas Socks” by Tony Webster/Flickr, CC BY 2.0)"
+    },
+    {
+      "file": "13-3-partnerships-and-joint-ventures.html",
+      "id": "OSX_Eship_13_03_JointVent",
+      "caption": "Figure 13.9 Joint ventures are separate business entities, most often owned and operated by two other business entities. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "13-6-additional-considerations-capital-acquisition-business-domicile-and-technology.html",
+      "id": "OSX_Eship_13_01_EntityCHar",
+      "caption": "Figure 13.10 The characteristics of different business entities [C-Corporation, S-Corporation, Sole Proprietor, General Partnership, Limited Partnership (LP), and Limited Liability Company (LLC)] are provided in terms of owners, liability, taxes, formation, management, and capital. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "13-7-mitigating-and-managing-risks.html",
+      "id": "OSX_Eship_13_07_RiskMatrix",
+      "caption": "Figure 13.11 A risk matrix can be a useful tool to assess the likelihood and severity of risk that a venture may have. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "13-introduction.html",
+      "id": "OSX_Eship_13_00_Court",
+      "caption": "Figure 13.1 Focusing time and energy on planning a business can help an entrepreneur avoid or minimize legal issues. (credit: modification of “hammer books law court lawyer” by “succo”/Pixabay, CC0)"
+    }
+  ],
+  "relevantGlossaryTerms": [
+    {
+      "term": "corporation",
+      "translation": "công ty cổ phần"
+    },
+    {
+      "term": "liability",
+      "translation": "nợ phải trả"
+    },
+    {
+      "term": "entrepreneur",
+      "translation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "venture",
+      "translation": "doanh nghiệp (venture)"
+    },
+    {
+      "term": "partnership",
+      "translation": "hợp danh"
+    },
+    {
+      "term": "shareholders",
+      "translation": "shareholders"
+    },
+    {
+      "term": "capital",
+      "translation": "vốn"
+    },
+    {
+      "term": "business structure",
+      "translation": "cấu trúc doanh nghiệp"
+    },
+    {
+      "term": "joint venture",
+      "translation": "liên doanh"
+    },
+    {
+      "term": "equity",
+      "translation": "vốn chủ sở hữu"
+    },
+    {
+      "term": "sole proprietorship",
+      "translation": "doanh nghiệp tư nhân"
+    },
+    {
+      "term": "insurance",
+      "translation": "bảo hiểm"
+    },
+    {
+      "term": "b corporation",
+      "translation": "doanh nghiệp B Corp"
+    },
+    {
+      "term": "people",
+      "translation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "assets",
+      "translation": "tài sản"
+    },
+    {
+      "term": "funds",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "c corporation",
+      "translation": "công ty C"
+    },
+    {
+      "term": "credit",
+      "translation": "tín dụng"
+    },
+    {
+      "term": "business purpose",
+      "translation": "mục đích kinh doanh"
+    },
+    {
+      "term": "for-profit business",
+      "translation": "doanh nghiệp vì lợi nhuận"
+    },
+    {
+      "term": "process",
+      "translation": "quy trình"
+    },
+    {
+      "term": "crowdfunding",
+      "translation": "gọi vốn cộng đồng"
+    },
+    {
+      "term": "revenue",
+      "translation": "doanh thu"
+    },
+    {
+      "term": "s corporation",
+      "translation": "công ty S"
+    },
+    {
+      "term": "enterprise risk management",
+      "translation": "quản trị rủi ro doanh nghiệp"
+    },
+    {
+      "term": "develop",
+      "translation": "phát triển"
+    },
+    {
+      "term": "equity crowdfunding",
+      "translation": "gọi vốn cộng đồng bằng vốn cổ phần"
+    },
+    {
+      "term": "contracts",
+      "translation": "Contracts"
+    },
+    {
+      "term": "copyright",
+      "translation": "bản quyền"
+    },
+    {
+      "term": "business plan",
+      "translation": "kế hoạch kinh doanh"
+    },
+    {
+      "term": "general partnership",
+      "translation": "hợp danh chung"
+    },
+    {
+      "term": "learning objectives",
+      "translation": "mục tiêu học tập"
+    },
+    {
+      "term": "price",
+      "translation": "giá"
+    },
+    {
+      "term": "accounting",
+      "translation": "kế toán"
+    },
+    {
+      "term": "ownership structure",
+      "translation": "cơ cấu sở hữu"
+    },
+    {
+      "term": "accountability",
+      "translation": "trách nhiệm giải trình"
+    },
+    {
+      "term": "customers",
+      "translation": "khách hàng"
+    },
+    {
+      "term": "close",
+      "translation": "chốt bán hàng"
+    },
+    {
+      "term": "stakeholders",
+      "translation": "stakeholders"
+    },
+    {
+      "term": "gig economy",
+      "translation": "nền kinh tế gig"
+    },
+    {
+      "term": "expenses",
+      "translation": "chi phí"
+    },
+    {
+      "term": "legal risk",
+      "translation": "rủi ro pháp lý"
+    },
+    {
+      "term": "privately held corporation",
+      "translation": "công ty tư nhân (không niêm yết)"
+    },
+    {
+      "term": "torts",
+      "translation": "Torts"
+    },
+    {
+      "term": "link to learning",
+      "translation": "liên kết học tập"
+    },
+    {
+      "term": "marketing",
+      "translation": "tiếp thị"
+    },
+    {
+      "term": "financial risk",
+      "translation": "rủi ro tài chính"
+    },
+    {
+      "term": "public corporation",
+      "translation": "công ty công"
+    },
+    {
+      "term": "publicly held corporation",
+      "translation": "công ty đại chúng"
+    },
+    {
+      "term": "entrepreneur in action",
+      "translation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "action plan",
+      "translation": "kế hoạch hành động"
+    },
+    {
+      "term": "sustainability",
+      "translation": "tính bền vững"
+    },
+    {
+      "term": "assessment",
+      "translation": "giai đoạn đánh giá (assessment)"
+    },
+    {
+      "term": "evaluate",
+      "translation": "đánh giá (evaluate)"
+    },
+    {
+      "term": "ask",
+      "translation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "place",
+      "translation": "phân phối (place)"
+    },
+    {
+      "term": "product",
+      "translation": "sản phẩm"
+    },
+    {
+      "term": "social media",
+      "translation": "mạng xã hội"
+    },
+    {
+      "term": "financing",
+      "translation": "huy động vốn"
+    },
+    {
+      "term": "economic nexus",
+      "translation": "liên kết kinh tế"
+    },
+    {
+      "term": "mission statement",
+      "translation": "tuyên bố sứ mệnh"
+    },
+    {
+      "term": "business model",
+      "translation": "mô hình kinh doanh"
+    },
+    {
+      "term": "e-commerce",
+      "translation": "thương mại điện tử"
+    },
+    {
+      "term": "framework",
+      "translation": "khuôn khổ"
+    },
+    {
+      "term": "disclosure",
+      "translation": "công bố thông tin"
+    },
+    {
+      "term": "truthfulness",
+      "translation": "tính trung thực"
+    },
+    {
+      "term": "demand",
+      "translation": "nhu cầu"
+    },
+    {
+      "term": "critical thinking",
+      "translation": "tư duy phản biện"
+    },
+    {
+      "term": "implement",
+      "translation": "triển khai"
+    },
+    {
+      "term": "advertising",
+      "translation": "quảng cáo"
+    },
+    {
+      "term": "sample",
+      "translation": "mẫu khảo sát"
+    },
+    {
+      "term": "networking",
+      "translation": "xây dựng mạng lưới quan hệ"
+    },
+    {
+      "term": "independent contractors",
+      "translation": "nhà thầu độc lập"
+    },
+    {
+      "term": "tariffs",
+      "translation": "thuế quan"
+    },
+    {
+      "term": "business continuity",
+      "translation": "duy trì hoạt động kinh doanh"
+    },
+    {
+      "term": "toyota",
+      "translation": "Toyota"
+    },
+    {
+      "term": "work it out",
+      "translation": "thực hành"
+    },
+    {
+      "term": "suggested resources",
+      "translation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "key terms",
+      "translation": "thuật ngữ chính"
+    },
+    {
+      "term": "review questions",
+      "translation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "translation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "translation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "translation": "dàn ý chương"
+    }
+  ],
+  "translationNotes": [
+    "Chapter contains 2 tables. In the prep phase, table cells (td/th) will be wrapped in bilingual spans. Be careful to preserve cells layout and IDs during translation.",
+    "Chapter contains 11 figures. Figures captions must be prepped and translated, preserving media references and buttons.",
+    "Chapter contains 7 learning objectives. Objectives lists should be translated accurately following technical tone."
+  ],
+  "warnings": []
+}

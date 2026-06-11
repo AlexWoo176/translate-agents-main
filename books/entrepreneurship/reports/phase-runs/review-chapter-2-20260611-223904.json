@@ -1,0 +1,92 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "scope": "chapter",
+  "chapterId": "chapter-2",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T15:39:04.343Z",
+  "finishedAt": "2026-06-11T15:39:04.561Z",
+  "dryRun": false,
+  "force": false,
+  "validateOnly": false,
+  "inputs": [
+    "glossary.csv",
+    "chapters/chapter-2/05-translated/2-1-overview-of-the-entrepreneurial-journey.html",
+    "chapters/chapter-2/04-prep/2-1-overview-of-the-entrepreneurial-journey.html",
+    "chapters/chapter-2/05-translated/2-2-the-process-of-becoming-an-entrepreneur.html",
+    "chapters/chapter-2/04-prep/2-2-the-process-of-becoming-an-entrepreneur.html",
+    "chapters/chapter-2/05-translated/2-3-entrepreneurial-pathways.html",
+    "chapters/chapter-2/04-prep/2-3-entrepreneurial-pathways.html",
+    "chapters/chapter-2/05-translated/2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+    "chapters/chapter-2/04-prep/2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+    "chapters/chapter-2/05-translated/2-case-questions.html",
+    "chapters/chapter-2/04-prep/2-case-questions.html",
+    "chapters/chapter-2/05-translated/2-discussion-questions.html",
+    "chapters/chapter-2/04-prep/2-discussion-questions.html",
+    "chapters/chapter-2/05-translated/2-introduction.html",
+    "chapters/chapter-2/04-prep/2-introduction.html",
+    "chapters/chapter-2/05-translated/2-key-terms.html",
+    "chapters/chapter-2/04-prep/2-key-terms.html",
+    "chapters/chapter-2/05-translated/2-review-questions.html",
+    "chapters/chapter-2/04-prep/2-review-questions.html",
+    "chapters/chapter-2/05-translated/2-suggested-resources.html",
+    "chapters/chapter-2/04-prep/2-suggested-resources.html",
+    "chapters/chapter-2/05-translated/2-summary.html",
+    "chapters/chapter-2/04-prep/2-summary.html"
+  ],
+  "outputs": [
+    "chapters/chapter-2/06-reviews/integrity-review-20260611-223904.json",
+    "chapters/chapter-2/06-reviews/integrity-review-20260611-223904.md",
+    "chapters/chapter-2/06-reviews/glossary-review-20260611-223904.json",
+    "chapters/chapter-2/06-reviews/glossary-review-20260611-223904.md",
+    "chapters/chapter-2/06-reviews/semantic-review-20260611-223904.json",
+    "chapters/chapter-2/06-reviews/semantic-review-20260611-223904.md",
+    "chapters/chapter-2/06-reviews/review-summary-20260611-223904.json",
+    "chapters/chapter-2/06-reviews/review-summary-20260611-223904.md"
+  ],
+  "filesCreated": [
+    {
+      "file": "chapters/chapter-2/06-reviews/integrity-review-20260611-223904.json"
+    },
+    {
+      "file": "chapters/chapter-2/06-reviews/integrity-review-20260611-223904.md"
+    },
+    {
+      "file": "chapters/chapter-2/06-reviews/glossary-review-20260611-223904.json"
+    },
+    {
+      "file": "chapters/chapter-2/06-reviews/glossary-review-20260611-223904.md"
+    },
+    {
+      "file": "chapters/chapter-2/06-reviews/semantic-review-20260611-223904.json"
+    },
+    {
+      "file": "chapters/chapter-2/06-reviews/semantic-review-20260611-223904.md"
+    },
+    {
+      "file": "chapters/chapter-2/06-reviews/review-summary-20260611-223904.json"
+    },
+    {
+      "file": "chapters/chapter-2/06-reviews/review-summary-20260611-223904.md"
+    }
+  ],
+  "filesUpdated": [],
+  "filesSkipped": [
+    {
+      "file": "chapters/chapter-2/06-reviews/review-summary.json",
+      "reason": "summary_exists_no_force"
+    },
+    {
+      "file": "chapters/chapter-2/06-reviews/review-summary.md",
+      "reason": "summary_exists_no_force"
+    }
+  ],
+  "warnings": [
+    "Fixed summary files for chapter-2 already exist. Used timestamped reports only. Use --force to update main summaries."
+  ],
+  "errors": [],
+  "qualityGate": {
+    "id": "reviewCompleteness",
+    "status": "needs_human_review"
+  }
+}

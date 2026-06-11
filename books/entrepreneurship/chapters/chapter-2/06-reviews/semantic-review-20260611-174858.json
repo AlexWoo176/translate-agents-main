@@ -1,0 +1,55 @@
+{
+  "chapterId": "chapter-2",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "2-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm401021616-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Caron Beesley. “8 Things You Can Do to Be Taken Se...\""
+    },
+    {
+      "file": "2-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm399779968-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"“Surge Cities: These Are the 50 Best Places in Ame...\""
+    },
+    {
+      "file": "2-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm390224368-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"“How I Built a Subscription Business That’s Made o...\""
+    },
+    {
+      "file": "2-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm386909424-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"National Association of Women Business Owners: htt...\""
+    },
+    {
+      "file": "2-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm225396736-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Are entrepreneurs BORN or MADE? (Lord Sugard #AND ...\""
+    },
+    {
+      "file": "2-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm273918240-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"50 Business Ideas for Introverted Entrepreneurs: h...\""
+    },
+    {
+      "file": "2-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm350571824-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Business Model Canvas Strategyzer: https://www.str...\""
+    }
+  ]
+}

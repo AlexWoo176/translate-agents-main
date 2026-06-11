@@ -1,0 +1,220 @@
+{
+  "timestamp": "2026-06-11T15:57:11.248Z",
+  "success": true,
+  "stats": {
+    "totalRows": 521,
+    "malformedRows": 0,
+    "errorsCount": 0,
+    "warningsCount": 23
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "type": "duplicate_key",
+      "key": "outsourcing",
+      "rows": [
+        346,
+        491
+      ],
+      "message": "Duplicate key \"outsourcing\" found on rows: 346, 491"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "advisory board",
+      "rows": [
+        384,
+        484
+      ],
+      "message": "Duplicate key \"advisory board\" found on rows: 384, 484"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "decision tree",
+      "rows": [
+        385,
+        485
+      ],
+      "message": "Duplicate key \"decision tree\" found on rows: 385, 485"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "economic factors",
+      "rows": [
+        386,
+        486
+      ],
+      "message": "Duplicate key \"economic factors\" found on rows: 386, 486"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "human resources",
+      "rows": [
+        388,
+        488
+      ],
+      "message": "Duplicate key \"human resources\" found on rows: 388, 488"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "intangible resources",
+      "rows": [
+        390,
+        489
+      ],
+      "message": "Duplicate key \"intangible resources\" found on rows: 390, 489"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "line of credit",
+      "rows": [
+        391,
+        490
+      ],
+      "message": "Duplicate key \"line of credit\" found on rows: 391, 490"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "pest framework",
+      "rows": [
+        392,
+        492
+      ],
+      "message": "Duplicate key \"pest framework\" found on rows: 392, 492"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "political factors",
+      "rows": [
+        393,
+        493
+      ],
+      "message": "Duplicate key \"political factors\" found on rows: 393, 493"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "pre-launch costs",
+      "rows": [
+        394,
+        494
+      ],
+      "message": "Duplicate key \"pre-launch costs\" found on rows: 394, 494"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "resource dependence theory (rdt) model",
+      "rows": [
+        396,
+        496
+      ],
+      "message": "Duplicate key \"resource dependence theory (rdt) model\" found on rows: 396, 496"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "service mark",
+      "rows": [
+        397,
+        497
+      ],
+      "message": "Duplicate key \"service mark\" found on rows: 397, 497"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "sociocultural factors",
+      "rows": [
+        398,
+        498
+      ],
+      "message": "Duplicate key \"sociocultural factors\" found on rows: 398, 498"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "tangible resources",
+      "rows": [
+        399,
+        499
+      ],
+      "message": "Duplicate key \"tangible resources\" found on rows: 399, 499"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "tariffs",
+      "rows": [
+        400,
+        500
+      ],
+      "message": "Duplicate key \"tariffs\" found on rows: 400, 500"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "technological factors",
+      "rows": [
+        401,
+        501
+      ],
+      "message": "Duplicate key \"technological factors\" found on rows: 401, 501"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "buyback clause",
+      "rows": [
+        406,
+        502
+      ],
+      "message": "Duplicate key \"buyback clause\" found on rows: 406, 502"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "company culture",
+      "rows": [
+        408,
+        503
+      ],
+      "message": "Duplicate key \"company culture\" found on rows: 408, 503"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "delphi method",
+      "rows": [
+        409,
+        504
+      ],
+      "message": "Duplicate key \"delphi method\" found on rows: 409, 504"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "escalation of commitment",
+      "rows": [
+        410,
+        505
+      ],
+      "message": "Duplicate key \"escalation of commitment\" found on rows: 410, 505"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "gantt chart",
+      "rows": [
+        413,
+        508
+      ],
+      "message": "Duplicate key \"gantt chart\" found on rows: 413, 508"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "hindsight bias",
+      "rows": [
+        414,
+        509
+      ],
+      "message": "Duplicate key \"hindsight bias\" found on rows: 414, 509"
+    },
+    {
+      "type": "duplicate_key",
+      "key": "hubris",
+      "rows": [
+        415,
+        510
+      ],
+      "message": "Duplicate key \"hubris\" found on rows: 415, 510"
+    }
+  ]
+}

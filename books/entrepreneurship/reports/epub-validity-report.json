@@ -1,0 +1,20 @@
+{
+  "gateId": "epubValidity",
+  "status": "passed",
+  "success": true,
+  "epubPath": "exports/epub/book.epub",
+  "fileSizeBytes": 23063002,
+  "checks": {
+    "zipReadable": "passed",
+    "mimetype": "passed",
+    "containerXml": "passed",
+    "opf": "passed",
+    "nav": "passed",
+    "xhtmlChapters": "passed",
+    "cssReferences": "passed",
+    "assetReferences": "passed",
+    "localPathLeaks": "passed"
+  },
+  "warnings": [],
+  "errors": []
+}

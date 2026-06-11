@@ -1,0 +1,124 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-10",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:55:49.877Z",
+  "finishedAt": "2026-06-11T10:55:49.963Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "10-1-launching-the-imperfect-business-lean-startup.html",
+    "10-2-why-early-failure-can-lead-to-success-later.html",
+    "10-3-the-challenging-truth-about-business-ownership.html",
+    "10-4-managing-following-and-adjusting-the-initial-plan.html",
+    "10-5-growth-signs-pains-and-cautions.html",
+    "10-case-questions.html",
+    "10-discussion-questions.html",
+    "10-introduction.html",
+    "10-key-terms.html",
+    "10-review-questions.html",
+    "10-suggested-resources.html",
+    "10-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-175549.json",
+    "glossary-review-20260611-175549.json",
+    "semantic-review-20260611-175549.json"
+  ],
+  "issues": [
+    {
+      "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-3-the-challenging-truth-about-business-ownership.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-3-the-challenging-truth-about-business-ownership.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-3-the-challenging-truth-about-business-ownership.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-3-the-challenging-truth-about-business-ownership.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty.",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm364251168-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Lean startup: http://theleanstartup.com/#principle...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm243758976-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Global Entrepreneurship Monitor: http://www.gemcon...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "10-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm358103600-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Ladies Who Launch: https://www.ladieswholaunch.org...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

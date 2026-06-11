@@ -1,0 +1,33 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-4",
+  "status": "passed",
+  "startedAt": "2026-06-11T10:55:49.500Z",
+  "finishedAt": "2026-06-11T10:55:49.551Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "4-1-tools-for-creativity-and-innovation.html",
+    "4-2-creativity-innovation-and-invention-how-they-differ.html",
+    "4-3-developing-ideas-innovations-and-inventions.html",
+    "4-case-questions.html",
+    "4-discussion-questions.html",
+    "4-introduction.html",
+    "4-key-terms.html",
+    "4-review-questions.html",
+    "4-suggested-resources.html",
+    "4-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-175549.json",
+    "glossary-review-20260611-175549.json",
+    "semantic-review-20260611-175549.json"
+  ],
+  "issues": [],
+  "warnings": [],
+  "errors": []
+}

@@ -1,0 +1,74 @@
+{
+  "phase": "clean",
+  "bookSlug": "entrepreneurship",
+  "scope": "chapter",
+  "chapterId": "chapter-2",
+  "status": "passed_with_warnings",
+  "startedAt": "2026-06-11T14:34:25.258Z",
+  "finishedAt": "2026-06-11T14:34:28.410Z",
+  "dryRun": false,
+  "force": true,
+  "validateOnly": false,
+  "inputs": [
+    "chapters/chapter-2/01-raw"
+  ],
+  "outputs": [
+    "chapters/chapter-2/02-clean"
+  ],
+  "filesCreated": [],
+  "filesUpdated": [
+    {
+      "chapterId": "chapter-2",
+      "file": "2-1-overview-of-the-entrepreneurial-journey.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-2-the-process-of-becoming-an-entrepreneur.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-3-entrepreneurial-pathways.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-case-questions.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-discussion-questions.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-introduction.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-key-terms.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-review-questions.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-suggested-resources.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-summary.html"
+    }
+  ],
+  "filesSkipped": [],
+  "warnings": [
+    "[chapter-2/2-introduction.html] possible_content_loss: Cleaned text length (1353) is less than 5% of raw text length (87542) in 2-introduction.html"
+  ],
+  "errors": [],
+  "qualityGate": {
+    "id": "cleanHtmlValid",
+    "status": "passed_with_warnings"
+  }
+}

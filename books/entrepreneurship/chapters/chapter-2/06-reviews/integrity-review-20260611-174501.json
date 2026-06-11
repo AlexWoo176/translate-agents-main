@@ -1,0 +1,198 @@
+{
+  "chapterId": "chapter-2",
+  "status": "failed",
+  "issues": [
+    {
+      "file": "2-1-overview-of-the-entrepreneurial-journey.html",
+      "type": "tag-count-mismatch",
+      "tag": "li",
+      "expected": 32,
+      "actual": 74,
+      "message": "Tag <li> count mismatch. Expected prep count: 32, found in translated: 74"
+    },
+    {
+      "file": "2-1-overview-of-the-entrepreneurial-journey.html",
+      "type": "tag-count-mismatch",
+      "tag": "th",
+      "expected": 3,
+      "actual": 6,
+      "message": "Tag <th> count mismatch. Expected prep count: 3, found in translated: 6"
+    },
+    {
+      "file": "2-1-overview-of-the-entrepreneurial-journey.html",
+      "type": "tag-count-mismatch",
+      "tag": "td",
+      "expected": 9,
+      "actual": 18,
+      "message": "Tag <td> count mismatch. Expected prep count: 9, found in translated: 18"
+    },
+    {
+      "file": "2-1-overview-of-the-entrepreneurial-journey.html",
+      "type": "tag-count-mismatch",
+      "tag": "figcaption",
+      "expected": 10,
+      "actual": 20,
+      "message": "Tag <figcaption> count mismatch. Expected prep count: 10, found in translated: 20"
+    },
+    {
+      "file": "2-1-overview-of-the-entrepreneurial-journey.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 50,
+      "actual": 100,
+      "message": "Tag <a> count mismatch. Expected prep count: 50, found in translated: 100"
+    },
+    {
+      "file": "2-2-the-process-of-becoming-an-entrepreneur.html",
+      "type": "tag-count-mismatch",
+      "tag": "li",
+      "expected": 38,
+      "actual": 76,
+      "message": "Tag <li> count mismatch. Expected prep count: 38, found in translated: 76"
+    },
+    {
+      "file": "2-2-the-process-of-becoming-an-entrepreneur.html",
+      "type": "tag-count-mismatch",
+      "tag": "th",
+      "expected": 3,
+      "actual": 6,
+      "message": "Tag <th> count mismatch. Expected prep count: 3, found in translated: 6"
+    },
+    {
+      "file": "2-2-the-process-of-becoming-an-entrepreneur.html",
+      "type": "tag-count-mismatch",
+      "tag": "td",
+      "expected": 15,
+      "actual": 30,
+      "message": "Tag <td> count mismatch. Expected prep count: 15, found in translated: 30"
+    },
+    {
+      "file": "2-2-the-process-of-becoming-an-entrepreneur.html",
+      "type": "tag-count-mismatch",
+      "tag": "figcaption",
+      "expected": 9,
+      "actual": 18,
+      "message": "Tag <figcaption> count mismatch. Expected prep count: 9, found in translated: 18"
+    },
+    {
+      "file": "2-2-the-process-of-becoming-an-entrepreneur.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 47,
+      "actual": 90,
+      "message": "Tag <a> count mismatch. Expected prep count: 47, found in translated: 90"
+    },
+    {
+      "file": "2-3-entrepreneurial-pathways.html",
+      "type": "tag-count-mismatch",
+      "tag": "li",
+      "expected": 11,
+      "actual": 22,
+      "message": "Tag <li> count mismatch. Expected prep count: 11, found in translated: 22"
+    },
+    {
+      "file": "2-3-entrepreneurial-pathways.html",
+      "type": "tag-count-mismatch",
+      "tag": "figcaption",
+      "expected": 1,
+      "actual": 2,
+      "message": "Tag <figcaption> count mismatch. Expected prep count: 1, found in translated: 2"
+    },
+    {
+      "file": "2-3-entrepreneurial-pathways.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 10,
+      "actual": 20,
+      "message": "Tag <a> count mismatch. Expected prep count: 10, found in translated: 20"
+    },
+    {
+      "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+      "type": "tag-count-mismatch",
+      "tag": "li",
+      "expected": 18,
+      "actual": 36,
+      "message": "Tag <li> count mismatch. Expected prep count: 18, found in translated: 36"
+    },
+    {
+      "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+      "type": "tag-count-mismatch",
+      "tag": "th",
+      "expected": 8,
+      "actual": 16,
+      "message": "Tag <th> count mismatch. Expected prep count: 8, found in translated: 16"
+    },
+    {
+      "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+      "type": "tag-count-mismatch",
+      "tag": "td",
+      "expected": 39,
+      "actual": 78,
+      "message": "Tag <td> count mismatch. Expected prep count: 39, found in translated: 78"
+    },
+    {
+      "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+      "type": "tag-count-mismatch",
+      "tag": "figcaption",
+      "expected": 5,
+      "actual": 10,
+      "message": "Tag <figcaption> count mismatch. Expected prep count: 5, found in translated: 10"
+    },
+    {
+      "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 22,
+      "actual": 43,
+      "message": "Tag <a> count mismatch. Expected prep count: 22, found in translated: 43"
+    },
+    {
+      "file": "2-case-questions.html",
+      "type": "tag-count-mismatch",
+      "tag": "li",
+      "expected": 3,
+      "actual": 6,
+      "message": "Tag <li> count mismatch. Expected prep count: 3, found in translated: 6"
+    },
+    {
+      "file": "2-case-questions.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 5,
+      "actual": 10,
+      "message": "Tag <a> count mismatch. Expected prep count: 5, found in translated: 10"
+    },
+    {
+      "file": "2-introduction.html",
+      "type": "tag-count-mismatch",
+      "tag": "li",
+      "expected": 4,
+      "actual": 8,
+      "message": "Tag <li> count mismatch. Expected prep count: 4, found in translated: 8"
+    },
+    {
+      "file": "2-introduction.html",
+      "type": "tag-count-mismatch",
+      "tag": "figcaption",
+      "expected": 1,
+      "actual": 2,
+      "message": "Tag <figcaption> count mismatch. Expected prep count: 1, found in translated: 2"
+    },
+    {
+      "file": "2-introduction.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 4,
+      "actual": 8,
+      "message": "Tag <a> count mismatch. Expected prep count: 4, found in translated: 8"
+    },
+    {
+      "file": "2-suggested-resources.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 28,
+      "actual": 52,
+      "message": "Tag <a> count mismatch. Expected prep count: 28, found in translated: 52"
+    }
+  ]
+}

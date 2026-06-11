@@ -1,0 +1,71 @@
+{
+  "phase": "prep",
+  "bookSlug": "entrepreneurship",
+  "scope": "chapter",
+  "chapterId": "chapter-2",
+  "status": "passed",
+  "startedAt": "2026-06-11T09:20:41.104Z",
+  "finishedAt": "2026-06-11T09:20:47.724Z",
+  "dryRun": false,
+  "force": true,
+  "inputs": [
+    "chapters/chapter-2/02-clean"
+  ],
+  "outputs": [
+    "chapters/chapter-2/04-prep"
+  ],
+  "filesCreated": [],
+  "filesUpdated": [
+    {
+      "chapterId": "chapter-2",
+      "file": "2-1-overview-of-the-entrepreneurial-journey.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-2-the-process-of-becoming-an-entrepreneur.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-3-entrepreneurial-pathways.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-4-frameworks-to-inform-your-entrepreneurial-path.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-case-questions.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-discussion-questions.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-introduction.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-key-terms.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-review-questions.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-suggested-resources.html"
+    },
+    {
+      "chapterId": "chapter-2",
+      "file": "2-summary.html"
+    }
+  ],
+  "filesSkipped": [],
+  "warnings": [],
+  "errors": [],
+  "qualityGate": {
+    "id": "prepCompleteness",
+    "status": "passed"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "status": "resolved",
+  "filesScanned": 4,
+  "leaksBefore": 11,
+  "leaksAfter": 0,
+  "fixes": [
+    {
+      "file": "chapters/chapter-3/tasks.md",
+      "line": 38,
+      "before": "- [x] **agent-review**: Điền các lỗi phát hiện (nếu có) vào báo cáo [3-1-...-semantic-review-round-1.md](file:///Users/anderson/Desktop/entrepreneursh",
+      "after": "- [x] **agent-review**: Điền các lỗi phát hiện (nếu có) vào báo cáo [3-1-...-semantic-review-round-1.md](chapters/chapter-3/06-reviews/3-1-ethical-and"
+    },
+    {
+      "file": "chapters/chapter-3/tasks.md",
+      "line": 47,
+      "before": "- [x] **agent-review**: Điền các lỗi phát hiện (nếu có) vào báo cáo [3-2-corporate-social-responsibility-and-social-entrepreneurship-semantic-review-r",
+      "after": "- [x] **agent-review**: Điền các lỗi phát hiện (nếu có) vào báo cáo [3-2-corporate-social-responsibility-and-social-entrepreneurship-semantic-review-r"
+    },
+    {
+      "file": "chapters/chapter-3/tasks.md",
+      "line": 55,
+      "before": "- [x] **agent-review**: Điền báo cáo [3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability-semantic-review-round-1.md](file:///",
+      "after": "- [x] **agent-review**: Điền báo cáo [3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability-semantic-review-round-1.md](chapters"
+    },
+    {
+      "file": "chapters/chapter-3/tasks.md",
+      "line": 61,
+      "before": "- [x] **agent-review**: Khởi tạo báo cáo Semantic Review gộp tại [3-appendix-files-semantic-review-round-1.md](file:///Users/anderson/Desktop/entrepre",
+      "after": "- [x] **agent-review**: Khởi tạo báo cáo Semantic Review gộp tại [3-appendix-files-semantic-review-round-1.md](chapters/chapter-3/06-reviews/3-appendi"
+    },
+    {
+      "file": "tasks.md",
+      "line": 17,
+      "before": "- [x] **chapter-3**: Da hoan thanh (Rework ok 2026-05-31). Chi tiết xem tại [chapter-3/tasks.md](file:///f:/LIBERO/entrepreneurship-master/chapter-3/t",
+      "after": "- [x] **chapter-3**: Da hoan thanh (Rework ok 2026-05-31). Chi tiết xem tại [chapter-3/tasks.md](chapters/chapter-3/tasks.md)"
+    },
+    {
+      "file": "tasks.md",
+      "line": 18,
+      "before": "- [ ] **chapter-4**: ⚠️ INTEGRITY REWORK — 1 file fail (4-3). Chi tiết xem tại [chapter-4/tasks.md](file:///f:/LIBERO/entrepreneurship-master/chapter-",
+      "after": "- [ ] **chapter-4**: ⚠️ INTEGRITY REWORK — 1 file fail (4-3). Chi tiết xem tại [chapter-4/tasks.md](chapters/chapter-4/tasks.md)"
+    },
+    {
+      "file": "tasks.md",
+      "line": 60,
+      "before": "- Chapter 8 `.eng/.vn` parity: Completed — NEEDS REVIEW (see [chapter-8/06-reviews/p0-eng-vn-parity-check.md](file:///f:/LIBERO/entrepreneurship-maste",
+      "after": "- Chapter 8 `.eng/.vn` parity: Completed — NEEDS REVIEW (see [chapter-8/06-reviews/p0-eng-vn-parity-check.md](chapters/chapter-8/06-reviews/p0-eng-vn-"
+    },
+    {
+      "file": "tasks.md",
+      "line": 61,
+      "before": "- Integrity check: Completed — see [P0-INTEGRITY-CHECK-REPORT.md](file:///f:/LIBERO/entrepreneurship-master/P0-INTEGRITY-CHECK-REPORT.md)",
+      "after": "- Integrity check: Completed — see [P0-INTEGRITY-CHECK-REPORT.md]([LOCAL_PATH_REMOVED_STEP_7])"
+    },
+    {
+      "file": "tasks.md",
+      "line": 62,
+      "before": "- Glossary check: Completed — see [P0-GLOSSARY-CHECK-REPORT.md](file:///f:/LIBERO/entrepreneurship-master/P0-GLOSSARY-CHECK-REPORT.md)",
+      "after": "- Glossary check: Completed — see [P0-GLOSSARY-CHECK-REPORT.md]([LOCAL_PATH_REMOVED_STEP_7])"
+    },
+    {
+      "file": "tasks.md",
+      "line": 63,
+      "before": "- Book reader path check: Completed — see [P0-BOOK-READER-PATH-CHECK.md](file:///f:/LIBERO/entrepreneurship-master/P0-BOOK-READER-PATH-CHECK.md)",
+      "after": "- Book reader path check: Completed — see [P0-BOOK-READER-PATH-CHECK.md]([LOCAL_PATH_REMOVED_STEP_7])"
+    },
+    {
+      "file": "tasks.md",
+      "line": 64,
+      "before": "- Release readiness report: Completed — see [RELEASE-READINESS.md](file:///f:/LIBERO/entrepreneurship-master/RELEASE-READINESS.md)",
+      "after": "- Release readiness report: Completed — see [RELEASE-READINESS.md]([LOCAL_PATH_REMOVED_STEP_7])"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "bookSlug": "entrepreneurship",
+  "title": "Entrepreneurship",
+  "dataset": {
+    "name": "Entrepreneurship Reference Dataset",
+    "version": "v1",
+    "status": "normalizing"
+  },
+  "generatedAt": "2026-06-11T15:57:12.777Z",
+  "overallStatus": "passed_with_warnings",
+  "checks": {
+    "folderStructure": {
+      "status": "passed",
+      "chaptersExpected": 15,
+      "chaptersFound": 15,
+      "missingChapters": [],
+      "details": {
+        "rootExists": true,
+        "bookLevelExists": true,
+        "previewHtmlExists": true,
+        "epubExists": true,
+        "glossaryExists": true,
+        "changelogExists": true
+      }
+    },
+    "glossary": {
+      "status": "validated",
+      "report": "reports/glossary-validation-report.md",
+      "totalRows": 521,
+      "uniqueKeys": 498,
+      "duplicateKeys": 23,
+      "malformedRows": 0,
+      "invalidStatuses": 0,
+      "rowsFixed": 7,
+      "remainingIssues": 0
+    },
+    "duplicatePages": {
+      "status": "resolved",
+      "report": "reports/chapter-5-duplicate-page-report.md",
+      "duplicateGroupsDetected": 1,
+      "canonicalFile": "5-1-entrepreneurial-opportunity.html",
+      "quarantinedFiles": [
+        "5-1-identifying-entrepreneurial-opportunity.html"
+      ],
+      "registryUpdated": true,
+      "remainingDuplicateReferences": 0
+    },
+    "bilingualPairs": {
+      "status": "resolved",
+      "report": "reports/chapter-8-bilingual-pair-report.md",
+      "filesScanned": 13,
+      "highRiskFiles": [
+        "chapters/chapter-8/05-translated/8-1-entrepreneurial-marketing-and-the-marketing-mix.html"
+      ],
+      "mismatchBefore": 58,
+      "mismatchAfter": 0,
+      "placeholderCount": 0,
+      "remainingIssues": 0
+    },
+    "tableIntegrity": {
+      "status": "resolved",
+      "report": "reports/chapter-14-table-integrity-report.md",
+      "referenceTd": 60,
+      "translatedTdBefore": 35,
+      "translatedTdAfter": 60,
+      "differenceBefore": -25,
+      "differenceAfter": 0,
+      "placeholdersAdded": 0,
+      "remainingTableIssues": 0
+    },
+    "previewCssReferences": {
+      "status": "resolved",
+      "report": "reports/preview-css-refs-report.md",
+      "filesScanned": 170,
+      "brokenRefsBefore": 22,
+      "brokenRefsAfter": 0,
+      "fixesApplied": 22,
+      "remainingIssues": 0
+    },
+    "localPathLeaks": {
+      "status": "resolved",
+      "report": "reports/local-path-leaks-report.md",
+      "filesScanned": 4,
+      "leaksBefore": 11,
+      "leaksAfter": 0,
+      "fixesApplied": 11,
+      "remainingIssues": 0
+    },
+    "translatedCssReferences": {
+      "status": "resolved",
+      "report": "reports/translated-css-refs-report.md",
+      "filesScanned": 170,
+      "brokenBefore": 168,
+      "brokenAfter": 0,
+      "fixesApplied": 168,
+      "remainingIssues": 0
+    },
+    "prepCompleteness": {
+      "status": "passed",
+      "report": "reports/prep-rebuild-report.md",
+      "mode": "source_only_pending_target",
+      "filesRebuiltFromClean": 0,
+      "existingPrepFilesOverwrittenAfterBackup": 167,
+      "filesCreated": 0,
+      "filesUpdated": 167,
+      "recoveredCount": 0,
+      "pendingCount": 0
+    }
+  },
+  "missingReports": [],
+  "knownRemainingIssues": [
+    "EPUB may still need rebuild in a later export step.",
+    "Full preview rebuild/export validation may still be required.",
+    "Workflow state may still need final consolidation."
+  ],
+  "recommendations": [
+    "Verify and rebuild the EPUB export to ensure all resolved changes are compiled into the final EPUB.",
+    "Conduct a final validation of preview files inside a browser reader environment.",
+    "Consolidate and archive the verified reference dataset v1 release."
+  ]
+}

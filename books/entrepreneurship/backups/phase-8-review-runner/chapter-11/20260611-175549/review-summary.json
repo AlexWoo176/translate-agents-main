@@ -1,0 +1,60 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-11",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:48:59.554Z",
+  "finishedAt": "2026-06-11T10:48:59.659Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "11-1-avoiding-the-field-of-dreams-approach.html",
+    "11-2-designing-the-business-model.html",
+    "11-3-conducting-a-feasibility-analysis.html",
+    "11-4-the-business-plan.html",
+    "11-case-questions.html",
+    "11-discussion-questions.html",
+    "11-introduction.html",
+    "11-key-terms.html",
+    "11-review-questions.html",
+    "11-suggested-resources.html",
+    "11-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-174858.json",
+    "glossary-review-20260611-174858.json",
+    "semantic-review-20260611-174858.json"
+  ],
+  "issues": [
+    {
+      "file": "11-4-the-business-plan.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 26,
+      "actual": 25,
+      "message": "Tag <a> count mismatch. Expected prep count: 26, found in translated: 25",
+      "reviewType": "integrity"
+    },
+    {
+      "file": "11-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm360265376-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://bizfluent.com/how-8048004-prepare-financia...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "11-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm359584112-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://thebusinessprofessor.com/knowledge-base/fi...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

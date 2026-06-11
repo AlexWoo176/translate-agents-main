@@ -1,0 +1,1027 @@
+term,translation,category,status,confidence,source,chapterRefs,reviewer,reviewedAt,locked,notes
+entrepreneur,doanh nhân/nhà khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+copyright,bản quyền,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+customers,khách hàng,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+develop,phát triển,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+ask,khoản yêu cầu (ask),other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+marketing,tiếp thị,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+people,con người (nguồn nhân lực),other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+place,phân phối (place),other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+process,quy trình,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+product,sản phẩm,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+accounting,kế toán,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+credit,tín dụng,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+revenue,doanh thu,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+link to learning,liên kết học tập,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+learning objectives,mục tiêu học tập,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+suggested resources,tài nguyên gợi ý,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+key terms,thuật ngữ chính,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+review questions,câu hỏi ôn tập,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+discussion questions,câu hỏi thảo luận,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+case questions,câu hỏi tình huống,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+chapter outline,dàn ý chương,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+Copyright Rice University,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_candidate
+CC BY NC-SA,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_candidate
+business model,mô hình kinh doanh,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+venture,doanh nghiệp (venture),other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+entrepreneur in action,doanh nhân thực chiến,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+work it out,thực hành,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+CC BY,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_candidate
+innovation,đổi mới,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+creativity,sự sáng tạo,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+demand,nhu cầu,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+implement,triển khai,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+social media,mạng xã hội,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+funds,nguồn vốn,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+business plan,kế hoạch kinh doanh,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-4, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+Are You Ready,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_candidate
+price,giá,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+capital,vốn,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+close,chốt bán hàng,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+financing,huy động vốn,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+stakeholders,stakeholders,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+invention,phát minh,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-10, chapter-11, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+supply,cung,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-8, chapter-9, chapter-11, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+equity,vốn chủ sở hữu,other,candidate,medium,auto_extraction,"chapter-1, chapter-3, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+expenses,chi phí,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+corporation,công ty cổ phần,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-9, chapter-10, chapter-12, chapter-13",,,false,Extracted via terminology_analysis_known
+United States,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-5, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_candidate
+evaluate,đánh giá (evaluate),other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-8, chapter-10, chapter-11, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+entrepreneurial journey,hành trình khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-6, chapter-7, chapter-11, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+Objectives By,,other,candidate,medium,auto_extraction,"chapter-1, chapter-4, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_candidate
+framework,khuôn khổ,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-7, chapter-8, chapter-10, chapter-11, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+competitive advantage,lợi thế cạnh tranh,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-5, chapter-6, chapter-8, chapter-10, chapter-11, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+brand,thương hiệu,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-8, chapter-10, chapter-11, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+networking,xây dựng mạng lưới quan hệ,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-6, chapter-7, chapter-8, chapter-10, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+advertising,quảng cáo,other,candidate,medium,auto_extraction,"chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+target market,thị trường mục tiêu,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-8, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+social entrepreneurship,khởi nghiệp xã hội,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-9, chapter-11, chapter-15",,,false,Extracted via terminology_analysis_known
+infrastructure,cơ sở hạ tầng,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-7, chapter-9, chapter-10, chapter-11, chapter-12, chapter-15",,,false,Extracted via terminology_analysis_known
+assessment,giai đoạn đánh giá (assessment),other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-5, chapter-6, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+assets,tài sản,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+grant,khoản tài trợ,other,candidate,medium,auto_extraction,"chapter-2, chapter-6, chapter-7, chapter-9, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+contracts,Contracts,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-7, chapter-8, chapter-9, chapter-10, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+Learning Objectives By,,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-11, chapter-12, chapter-13",,,false,Extracted via terminology_analysis_candidate
+intellectual property,tài sản trí tuệ,other,candidate,medium,auto_extraction,"chapter-3, chapter-4, chapter-5, chapter-6, chapter-7, chapter-10, chapter-11, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+entrepreneurial venture,dự án khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-6, chapter-9, chapter-11, chapter-12, chapter-15",,,false,Extracted via terminology_analysis_known
+value proposition,giá trị đề xuất,other,candidate,medium,auto_extraction,"chapter-1, chapter-5, chapter-6, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11",,,false,Extracted via terminology_analysis_known
+entrepreneurial opportunity,cơ hội khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-5, chapter-6, chapter-7, chapter-8, chapter-10",,,false,Extracted via terminology_analysis_known
+patent,bằng sáng chế,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-5, chapter-7, chapter-10, chapter-11, chapter-14",,,false,Extracted via terminology_analysis_known
+pitch,bài thuyết trình gọi vốn (pitch),other,candidate,medium,auto_extraction,"chapter-2, chapter-7, chapter-8, chapter-9, chapter-10, chapter-11, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+sample,mẫu khảo sát,other,candidate,medium,auto_extraction,"chapter-2, chapter-6, chapter-8, chapter-10, chapter-11, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+insurance,bảo hiểm,other,candidate,medium,auto_extraction,"chapter-3, chapter-8, chapter-9, chapter-10, chapter-11, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+brainstorming,động não,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-4, chapter-6, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+cash flow,dòng tiền,other,candidate,medium,auto_extraction,"chapter-2, chapter-9, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+clarify,làm rõ,other,candidate,medium,auto_extraction,"chapter-3, chapter-6, chapter-7, chapter-8, chapter-10, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+crowdfunding,gọi vốn cộng đồng,other,candidate,medium,auto_extraction,"chapter-3, chapter-4, chapter-6, chapter-9, chapter-11, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+toyota,Toyota,other,candidate,medium,auto_extraction,"chapter-3, chapter-4, chapter-6, chapter-10, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+evaluation,giai đoạn đánh giá (evaluation),other,candidate,medium,auto_extraction,"chapter-4, chapter-6, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+marketing plan,kế hoạch marketing,other,candidate,medium,auto_extraction,"chapter-5, chapter-8, chapter-10, chapter-11, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+targeting,lựa chọn thị trường mục tiêu,other,candidate,medium,auto_extraction,"chapter-5, chapter-6, chapter-7, chapter-8, chapter-10, chapter-11, chapter-15",,,false,Extracted via terminology_analysis_known
+Small Business Administration,,other,candidate,medium,auto_extraction,"chapter-5, chapter-8, chapter-9, chapter-10, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_candidate
+mission statement,tuyên bố sứ mệnh,other,candidate,medium,auto_extraction,"chapter-1, chapter-3, chapter-7, chapter-9, chapter-11, chapter-13",,,false,Extracted via terminology_analysis_known
+serial entrepreneur,doanh nhân khởi nghiệp liên tiếp,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-7, chapter-10, chapter-11, chapter-15",,,false,Extracted via terminology_analysis_known
+social entrepreneur,doanh nhân xã hội,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-7, chapter-8, chapter-15",,,false,Extracted via terminology_analysis_known
+demographics,nhân khẩu học,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-4, chapter-5, chapter-8",,,false,Extracted via terminology_analysis_known
+entrepreneurial marketing,tiếp thị khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-5, chapter-7, chapter-8, chapter-10, chapter-14",,,false,Extracted via terminology_analysis_known
+projection,dự báo,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-8, chapter-9, chapter-11",,,false,Extracted via terminology_analysis_known
+business model canvas,mô hình kinh doanh canvas,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-6, chapter-7, chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+partnership,hợp danh,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-10, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+mcdonald’s,McDonald’s,other,candidate,medium,auto_extraction,"chapter-1, chapter-3, chapter-4, chapter-10, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+What Can You Do,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-7, chapter-10, chapter-11, chapter-13",,,false,Extracted via terminology_analysis_candidate
+Entrepreneurial Finance and Accounting,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-7, chapter-11, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_candidate
+lean startup,khởi nghiệp tinh gọn,other,candidate,medium,auto_extraction,"chapter-2, chapter-4, chapter-7, chapter-8, chapter-10, chapter-11",,,false,Extracted via terminology_analysis_known
+business structure,cấu trúc doanh nghiệp,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-5, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+human resources,nguồn nhân lực,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-8, chapter-10, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+independent contractors,nhà thầu độc lập,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-9, chapter-12, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+sustainability,tính bền vững,other,candidate,medium,auto_extraction,"chapter-3, chapter-5, chapter-9, chapter-11, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+New York,,other,candidate,medium,auto_extraction,"chapter-3, chapter-5, chapter-9, chapter-10, chapter-11, chapter-13",,,false,Extracted via terminology_analysis_candidate
+due diligence,thẩm định kỹ lưỡng,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-8, chapter-15",,,false,Extracted via terminology_analysis_known
+harvest,thoái vốn/hiện thực hóa giá trị,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3, chapter-6, chapter-15",,,false,Extracted via terminology_analysis_known
+entrepreneurial process,quy trình khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-6, chapter-11",,,false,Extracted via terminology_analysis_known
+angel investor,nhà đầu tư thiên thần,other,candidate,medium,auto_extraction,"chapter-1, chapter-7, chapter-9, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+financial risk,rủi ro tài chính,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-10, chapter-12, chapter-13",,,false,Extracted via terminology_analysis_known
+techcrunch,TechCrunch,other,candidate,medium,auto_extraction,"chapter-1, chapter-3, chapter-8, chapter-10, chapter-14",,,false,Extracted via terminology_analysis_known
+Warby Parker,,other,candidate,medium,auto_extraction,"chapter-1, chapter-5, chapter-6, chapter-8, chapter-11",,,false,Extracted via terminology_analysis_candidate
+opportunity recognition,nhận diện cơ hội kinh doanh,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-6, chapter-8, chapter-15",,,false,Extracted via terminology_analysis_known
+e-commerce,thương mại điện tử,other,candidate,medium,auto_extraction,"chapter-2, chapter-8, chapter-10, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+diversity,đa dạng,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-11, chapter-12, chapter-15",,,false,Extracted via terminology_analysis_known
+ideation,quá trình hình thành ý tưởng,other,candidate,medium,auto_extraction,"chapter-2, chapter-4, chapter-6, chapter-7, chapter-11",,,false,Extracted via terminology_analysis_known
+market opportunity,cơ hội thị trường,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-7, chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+early stage,giai đoạn đầu,other,candidate,medium,auto_extraction,"chapter-2, chapter-9, chapter-11, chapter-12, chapter-15",,,false,Extracted via terminology_analysis_known
+licensing,cấp phép,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-10, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+outsourcing,thuê ngoài,other,candidate,medium,auto_extraction,"chapter-2, chapter-6, chapter-12, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+Wikimedia Commons,,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-10, chapter-11",,,false,Extracted via terminology_analysis_candidate
+trademark,nhãn hiệu,other,candidate,medium,auto_extraction,"chapter-3, chapter-4, chapter-5, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+empathy,sự thấu cảm,other,candidate,medium,auto_extraction,"chapter-3, chapter-4, chapter-6, chapter-7, chapter-11",,,false,Extracted via terminology_analysis_known
+marketing strategy,chiến lược marketing,other,candidate,medium,auto_extraction,"chapter-3, chapter-8, chapter-11, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+collateral,tài sản thế chấp,other,candidate,medium,auto_extraction,"chapter-3, chapter-9, chapter-11, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+liability,nợ phải trả,other,candidate,medium,auto_extraction,"chapter-3, chapter-9, chapter-10, chapter-12, chapter-13",,,false,Extracted via terminology_analysis_known
+market research,nghiên cứu thị trường,other,candidate,medium,auto_extraction,"chapter-4, chapter-5, chapter-8, chapter-10, chapter-14",,,false,Extracted via terminology_analysis_known
+promotion,xúc tiến,other,candidate,medium,auto_extraction,"chapter-5, chapter-8, chapter-10, chapter-11, chapter-14",,,false,Extracted via terminology_analysis_known
+The SBA,,other,candidate,medium,auto_extraction,"chapter-9, chapter-12, chapter-13, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_candidate
+bootstrapping,tự huy động vốn,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-9, chapter-14",,,false,Extracted via terminology_analysis_known
+design thinking,tư duy thiết kế,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-4, chapter-6",,,false,Extracted via terminology_analysis_known
+gig economy,nền kinh tế gig,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-5, chapter-13",,,false,Extracted via terminology_analysis_known
+swot analysis,phân tích SWOT,other,candidate,medium,auto_extraction,"chapter-1, chapter-5, chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+venture capitalist,nhà đầu tư mạo hiểm,other,candidate,medium,auto_extraction,"chapter-1, chapter-9, chapter-11, chapter-14",,,false,Extracted via terminology_analysis_known
+In the United States,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-8, chapter-9",,,false,Extracted via terminology_analysis_candidate
+Identifying Entrepreneurial Opportunity,,other,candidate,medium,auto_extraction,"chapter-1, chapter-6, chapter-7, chapter-8",,,false,Extracted via terminology_analysis_candidate
+social impact,tác động xã hội,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-11",,,false,Extracted via terminology_analysis_known
+advisory board,hội đồng cố vấn,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-11, chapter-14",,,false,Extracted via terminology_analysis_known
+Public Domain,,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-4, chapter-14",,,false,Extracted via terminology_analysis_candidate
+Risk Issues,,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_candidate
+Business Model and Plan,,other,candidate,medium,auto_extraction,"chapter-2, chapter-7, chapter-8, chapter-10",,,false,Extracted via terminology_analysis_candidate
+Business Structure Options,,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_candidate
+for-profit business,doanh nghiệp vì lợi nhuận,other,candidate,medium,auto_extraction,"chapter-3, chapter-6, chapter-12, chapter-13",,,false,Extracted via terminology_analysis_known
+Link to Learning Read,,other,candidate,medium,auto_extraction,"chapter-3, chapter-6, chapter-10, chapter-11",,,false,Extracted via terminology_analysis_candidate
+observation,quan sát,other,candidate,medium,auto_extraction,"chapter-4, chapter-6, chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+external environment,môi trường bên ngoài,other,candidate,medium,auto_extraction,"chapter-5, chapter-6, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+profit margin,biên lợi nhuận,other,candidate,medium,auto_extraction,"chapter-5, chapter-8, chapter-9, chapter-10",,,false,Extracted via terminology_analysis_known
+data analysis,phân tích dữ liệu,other,candidate,medium,auto_extraction,"chapter-6, chapter-8, chapter-11, chapter-15",,,false,Extracted via terminology_analysis_known
+executive summary,tóm tắt điều hành,other,candidate,medium,auto_extraction,"chapter-7, chapter-8, chapter-10, chapter-11",,,false,Extracted via terminology_analysis_known
+valuation,định giá,other,candidate,medium,auto_extraction,"chapter-7, chapter-9, chapter-11, chapter-14",,,false,Extracted via terminology_analysis_known
+disruptive technology,công nghệ đột phá,other,candidate,medium,auto_extraction,"chapter-1, chapter-4, chapter-11",,,false,Extracted via terminology_analysis_known
+entrepreneurial mindset,tư duy khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-3",,,false,Extracted via terminology_analysis_known
+entrepreneurial vision,tầm nhìn khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-11, chapter-15",,,false,Extracted via terminology_analysis_known
+vision statement,tuyên bố tầm nhìn,other,candidate,medium,auto_extraction,"chapter-1, chapter-7, chapter-15",,,false,Extracted via terminology_analysis_known
+entrepreneurial spirit,tinh thần khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-4",,,false,Extracted via terminology_analysis_known
+franchising,nhượng quyền thương mại,other,candidate,medium,auto_extraction,"chapter-1, chapter-2, chapter-10",,,false,Extracted via terminology_analysis_known
+sole proprietorship,doanh nghiệp tư nhân,other,candidate,medium,auto_extraction,"chapter-1, chapter-12, chapter-13",,,false,Extracted via terminology_analysis_known
+action plan,kế hoạch hành động,other,candidate,medium,auto_extraction,"chapter-2, chapter-8, chapter-13",,,false,Extracted via terminology_analysis_known
+breakeven point,điểm hòa vốn,other,candidate,medium,auto_extraction,"chapter-2, chapter-9, chapter-11",,,false,Extracted via terminology_analysis_known
+creative destruction,sự hủy diệt sáng tạo,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-11",,,false,Extracted via terminology_analysis_known
+independent contractor,nhà thầu độc lập,other,candidate,medium,auto_extraction,"chapter-2, chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+milestone,cột mốc,other,candidate,medium,auto_extraction,"chapter-2, chapter-8, chapter-15",,,false,Extracted via terminology_analysis_known
+prejudice,định kiến,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-7",,,false,Extracted via terminology_analysis_known
+accountability,trách nhiệm giải trình,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-13",,,false,Extracted via terminology_analysis_known
+critical thinking,tư duy phản biện,other,candidate,medium,auto_extraction,"chapter-2, chapter-6, chapter-13",,,false,Extracted via terminology_analysis_known
+validation,xác thực,other,candidate,medium,auto_extraction,"chapter-2, chapter-8, chapter-10",,,false,Extracted via terminology_analysis_known
+donation,khoản quyên góp,other,candidate,medium,auto_extraction,"chapter-2, chapter-3, chapter-9",,,false,Extracted via terminology_analysis_known
+economic factors,các yếu tố kinh tế,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-14",,,false,Extracted via terminology_analysis_known
+funding sources,nguồn vốn,other,candidate,medium,auto_extraction,"chapter-2, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+New York City,,other,candidate,medium,auto_extraction,"chapter-2, chapter-5, chapter-9",,,false,Extracted via terminology_analysis_candidate
+disclosure,công bố thông tin,other,candidate,medium,auto_extraction,"chapter-3, chapter-13, chapter-15",,,false,Extracted via terminology_analysis_known
+trade secret,bí mật thương mại,other,candidate,medium,auto_extraction,"chapter-3, chapter-5, chapter-14",,,false,Extracted via terminology_analysis_known
+utility patent,bằng sáng chế tiện ích,other,candidate,medium,auto_extraction,"chapter-3, chapter-4, chapter-14",,,false,Extracted via terminology_analysis_known
+jingle,đoạn nhạc quảng cáo,other,candidate,medium,auto_extraction,"chapter-3, chapter-8, chapter-14",,,false,Extracted via terminology_analysis_known
+public relations,quan hệ công chúng,other,candidate,medium,auto_extraction,"chapter-3, chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+tesla,Tesla,other,candidate,medium,auto_extraction,"chapter-3, chapter-4, chapter-11",,,false,Extracted via terminology_analysis_known
+early adopters,người chấp nhận sớm,other,candidate,medium,auto_extraction,"chapter-4, chapter-10, chapter-11",,,false,Extracted via terminology_analysis_known
+relationship management,quản lý quan hệ,other,candidate,medium,auto_extraction,"chapter-4, chapter-8, chapter-14",,,false,Extracted via terminology_analysis_known
+financial viability,tính khả thi tài chính,other,candidate,medium,auto_extraction,"chapter-5, chapter-9, chapter-11",,,false,Extracted via terminology_analysis_known
+unique selling proposition,đề xuất bán hàng độc nhất (USP),other,candidate,medium,auto_extraction,"chapter-5, chapter-8, chapter-10",,,false,Extracted via terminology_analysis_known
+crowdsourcing,huy động trí tuệ đám đông,other,candidate,medium,auto_extraction,"chapter-5, chapter-6, chapter-14",,,false,Extracted via terminology_analysis_known
+market analysis,phân tích thị trường,other,candidate,medium,auto_extraction,"chapter-5, chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+operational expenses,chi phí vận hành,other,candidate,medium,auto_extraction,"chapter-5, chapter-9, chapter-12",,,false,Extracted via terminology_analysis_known
+pivoting,chuyển hướng chiến lược,other,candidate,medium,auto_extraction,"chapter-7, chapter-8, chapter-10",,,false,Extracted via terminology_analysis_known
+nondisclosure agreement,thỏa thuận không tiết lộ,other,candidate,medium,auto_extraction,"chapter-7, chapter-11, chapter-15",,,false,Extracted via terminology_analysis_known
+Shark Tank,,other,candidate,medium,auto_extraction,"chapter-7, chapter-9, chapter-11",,,false,Extracted via terminology_analysis_candidate
+digital marketing,tiếp thị kỹ thuật số,other,candidate,medium,auto_extraction,"chapter-8, chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+customer acquisition,thu hút khách hàng,other,candidate,medium,auto_extraction,"chapter-8, chapter-10, chapter-11",,,false,Extracted via terminology_analysis_known
+balance sheet,bảng cân đối kế toán,other,candidate,medium,auto_extraction,"chapter-9, chapter-11, chapter-12",,,false,Extracted via terminology_analysis_known
+financial statement,báo cáo tài chính,other,candidate,medium,auto_extraction,"chapter-9, chapter-11, chapter-12",,,false,Extracted via terminology_analysis_known
+variable costs,chi phí biến đổi,other,candidate,medium,auto_extraction,"chapter-9, chapter-11, chapter-12",,,false,Extracted via terminology_analysis_known
+working capital,vốn lưu động,other,candidate,medium,auto_extraction,"chapter-9, chapter-11, chapter-14",,,false,Extracted via terminology_analysis_known
+joint venture,liên doanh,other,candidate,medium,auto_extraction,"chapter-10, chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+quantifiable manner,cách thức đo lường được,other,candidate,medium,auto_extraction,"chapter-1, chapter-7",,,false,Extracted via terminology_analysis_known
+smart goals,mục tiêu SMART,other,candidate,medium,auto_extraction,"chapter-1, chapter-7",,,false,Extracted via terminology_analysis_known
+pain point,điểm đau (vấn đề của khách hàng),other,candidate,medium,auto_extraction,"chapter-1, chapter-4",,,false,Extracted via terminology_analysis_known
+accounts receivable,các khoản phải thu,other,candidate,medium,auto_extraction,"chapter-1, chapter-9",,,false,Extracted via terminology_analysis_known
+lifestyle business,doanh nghiệp phục vụ lối sống,other,candidate,medium,auto_extraction,"chapter-1, chapter-15",,,false,Extracted via terminology_analysis_known
+Red Cross,,other,candidate,medium,auto_extraction,"chapter-1, chapter-9",,,false,Extracted via terminology_analysis_candidate
+Ted Talk,,other,candidate,medium,auto_extraction,"chapter-1, chapter-7",,,false,Extracted via terminology_analysis_candidate
+Problem Solving and Need Recognition,,other,candidate,medium,auto_extraction,"chapter-1, chapter-2",,,false,Extracted via terminology_analysis_candidate
+benchmarking,so sánh chuẩn (benchmarking),other,candidate,medium,auto_extraction,"chapter-2, chapter-12",,,false,Extracted via terminology_analysis_known
+capitalism,chủ nghĩa tư bản,other,candidate,medium,auto_extraction,"chapter-2, chapter-3",,,false,Extracted via terminology_analysis_known
+vertical integration,tích hợp dọc,other,candidate,medium,auto_extraction,"chapter-2, chapter-14",,,false,Extracted via terminology_analysis_known
+resourcefulness,tính tháo vát,other,candidate,medium,auto_extraction,"chapter-2, chapter-6",,,false,Extracted via terminology_analysis_known
+bundling,bán gộp sản phẩm,other,candidate,medium,auto_extraction,"chapter-2, chapter-8",,,false,Extracted via terminology_analysis_known
+bartering,trao đổi hàng hóa (barter),other,candidate,medium,auto_extraction,"chapter-2, chapter-9",,,false,Extracted via terminology_analysis_known
+tax-exempt status,tình trạng miễn thuế,other,candidate,medium,auto_extraction,"chapter-2, chapter-9",,,false,Extracted via terminology_analysis_known
+liquidity,tính thanh khoản,other,candidate,medium,auto_extraction,"chapter-2, chapter-12",,,false,Extracted via terminology_analysis_known
+Building Networks and Foundations,,other,candidate,medium,auto_extraction,"chapter-2, chapter-14",,,false,Extracted via terminology_analysis_candidate
+Launch for Growth to Success,,other,candidate,medium,auto_extraction,"chapter-2, chapter-7",,,false,Extracted via terminology_analysis_candidate
+Joseph Schumpeter,,other,candidate,medium,auto_extraction,"chapter-2, chapter-5",,,false,Extracted via terminology_analysis_candidate
+business ethics,đạo đức kinh doanh,other,candidate,medium,auto_extraction,"chapter-3, chapter-15",,,false,Extracted via terminology_analysis_known
+design patent,bằng sáng chế kiểu dáng,other,candidate,medium,auto_extraction,"chapter-3, chapter-14",,,false,Extracted via terminology_analysis_known
+ethics,đạo đức,other,candidate,medium,auto_extraction,"chapter-3, chapter-15",,,false,Extracted via terminology_analysis_known
+integrity,tính chính trực,other,candidate,medium,auto_extraction,"chapter-3, chapter-14",,,false,Extracted via terminology_analysis_known
+truthfulness,tính trung thực,other,candidate,medium,auto_extraction,"chapter-3, chapter-13",,,false,Extracted via terminology_analysis_known
+legal compliance,tuân thủ pháp luật,other,candidate,medium,auto_extraction,"chapter-3, chapter-6",,,false,Extracted via terminology_analysis_known
+code of conduct,quy tắc ứng xử,other,candidate,medium,auto_extraction,"chapter-3, chapter-15",,,false,Extracted via terminology_analysis_known
+codes of conduct,các quy tắc ứng xử,other,candidate,medium,auto_extraction,"chapter-3, chapter-15",,,false,Extracted via terminology_analysis_known
+shareholders,shareholders,other,candidate,medium,auto_extraction,"chapter-3, chapter-13",,,false,Extracted via terminology_analysis_known
+torts,Torts,other,candidate,medium,auto_extraction,"chapter-3, chapter-13",,,false,Extracted via terminology_analysis_known
+Silicon Valley,,other,candidate,medium,auto_extraction,"chapter-3, chapter-7",,,false,Extracted via terminology_analysis_candidate
+US Department of Labor,,other,candidate,medium,auto_extraction,"chapter-3, chapter-12",,,false,Extracted via terminology_analysis_candidate
+Harvard Business Review,,other,candidate,medium,auto_extraction,"chapter-3, chapter-15",,,false,Extracted via terminology_analysis_candidate
+disruptive innovation,đổi mới đột phá,other,candidate,medium,auto_extraction,"chapter-4, chapter-11",,,false,Extracted via terminology_analysis_known
+user interface,giao diện người dùng,other,candidate,medium,auto_extraction,"chapter-4, chapter-7",,,false,Extracted via terminology_analysis_known
+human-centered design,thiết kế lấy con người làm trung tâm,other,candidate,medium,auto_extraction,"chapter-4, chapter-6",,,false,Extracted via terminology_analysis_known
+corporate narrative,câu chuyện doanh nghiệp,other,candidate,medium,auto_extraction,"chapter-4, chapter-7",,,false,Extracted via terminology_analysis_known
+Henry Ford,,other,candidate,medium,auto_extraction,"chapter-4, chapter-6",,,false,Extracted via terminology_analysis_candidate
+Elon Musk,,other,candidate,medium,auto_extraction,"chapter-4, chapter-5",,,false,Extracted via terminology_analysis_candidate
+(a),,other,candidate,medium,auto_extraction,"chapter-4, chapter-10",,,false,Extracted via html_bold_tag
+(b),,other,candidate,medium,auto_extraction,"chapter-4, chapter-10",,,false,Extracted via html_bold_tag
+primary research,nghiên cứu sơ cấp,other,candidate,medium,auto_extraction,"chapter-5, chapter-8",,,false,Extracted via terminology_analysis_known
+secondary research,nghiên cứu thứ cấp,other,candidate,medium,auto_extraction,"chapter-5, chapter-8",,,false,Extracted via terminology_analysis_known
+fixed assets,tài sản cố định,other,candidate,medium,auto_extraction,"chapter-5, chapter-9",,,false,Extracted via terminology_analysis_known
+financial sustainability,tính bền vững tài chính,other,candidate,medium,auto_extraction,"chapter-5, chapter-9",,,false,Extracted via terminology_analysis_known
+business failure,thất bại kinh doanh,other,candidate,medium,auto_extraction,"chapter-5, chapter-10",,,false,Extracted via terminology_analysis_known
+inventory management,quản lý tồn kho,other,candidate,medium,auto_extraction,"chapter-5, chapter-12",,,false,Extracted via terminology_analysis_known
+political factors,các yếu tố chính trị,other,candidate,medium,auto_extraction,"chapter-5, chapter-14",,,false,Extracted via terminology_analysis_known
+Sara Blakely,,other,candidate,medium,auto_extraction,"chapter-5, chapter-6",,,false,Extracted via terminology_analysis_candidate
+communication skills,kỹ năng giao tiếp,other,candidate,medium,auto_extraction,"chapter-6, chapter-8",,,false,Extracted via terminology_analysis_known
+ideate,hình thành ý tưởng,other,candidate,medium,auto_extraction,"chapter-6, chapter-7",,,false,Extracted via terminology_analysis_known
+lean process,quy trình tinh gọn,other,candidate,medium,auto_extraction,"chapter-6, chapter-10",,,false,Extracted via terminology_analysis_known
+Rebus Community,,other,candidate,medium,auto_extraction,"chapter-6, chapter-7",,,false,Extracted via terminology_analysis_candidate
+Link to Learning Watch,,other,candidate,medium,auto_extraction,"chapter-6, chapter-11",,,false,Extracted via terminology_analysis_candidate
+Stanford University,,other,candidate,medium,auto_extraction,"chapter-6, chapter-7",,,false,Extracted via terminology_analysis_candidate
+noncompete agreement,thỏa thuận không cạnh tranh,other,candidate,medium,auto_extraction,"chapter-7, chapter-15",,,false,Extracted via terminology_analysis_known
+brand advocate,người ủng hộ thương hiệu,other,candidate,medium,auto_extraction,"chapter-7, chapter-8",,,false,Extracted via terminology_analysis_known
+tagline,khẩu hiệu thương hiệu,other,candidate,medium,auto_extraction,"chapter-7, chapter-8",,,false,Extracted via terminology_analysis_known
+How I Built This,,other,candidate,medium,auto_extraction,"chapter-7, chapter-9",,,false,Extracted via terminology_analysis_candidate
+personal selling,bán hàng cá nhân,other,candidate,medium,auto_extraction,"chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+physical environment,môi trường vật lý,other,candidate,medium,auto_extraction,"chapter-8, chapter-10",,,false,Extracted via terminology_analysis_known
+sales promotion,xúc tiến bán hàng,other,candidate,medium,auto_extraction,"chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+customer retention,giữ chân khách hàng,other,candidate,medium,auto_extraction,"chapter-8, chapter-11",,,false,Extracted via terminology_analysis_known
+accounting equation,phương trình kế toán,other,candidate,medium,auto_extraction,"chapter-9, chapter-11",,,false,Extracted via terminology_analysis_known
+accounts payable,các khoản phải trả,other,candidate,medium,auto_extraction,"chapter-9, chapter-12",,,false,Extracted via terminology_analysis_known
+burn rate,tốc độ đốt tiền,other,candidate,medium,auto_extraction,"chapter-9, chapter-15",,,false,Extracted via terminology_analysis_known
+cost of goods sold,giá vốn hàng bán,other,candidate,medium,auto_extraction,"chapter-9, chapter-14",,,false,Extracted via terminology_analysis_known
+fixed costs,chi phí cố định,other,candidate,medium,auto_extraction,"chapter-9, chapter-11",,,false,Extracted via terminology_analysis_known
+funding resources,nguồn tài trợ,other,candidate,medium,auto_extraction,"chapter-9, chapter-14",,,false,Extracted via terminology_analysis_known
+entrepreneurial ecosystem,hệ sinh thái khởi nghiệp,other,candidate,medium,auto_extraction,"chapter-10, chapter-11",,,false,Extracted via terminology_analysis_known
+iterations,các lần lặp cải tiến,other,candidate,medium,auto_extraction,"chapter-10, chapter-11",,,false,Extracted via terminology_analysis_known
+Entrepreneurial Marketing and Sales,,other,candidate,medium,auto_extraction,"chapter-10, chapter-14",,,false,Extracted via terminology_analysis_candidate
+Joint Ventures,,other,candidate,medium,auto_extraction,"chapter-10, chapter-13",,,false,Extracted via terminology_analysis_candidate
+pro forma,báo cáo tài chính dự kiến,other,candidate,medium,auto_extraction,"chapter-11, chapter-12",,,false,Extracted via terminology_analysis_known
+creditworthiness,mức độ tín nhiệm tín dụng,other,candidate,medium,auto_extraction,"chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+production time,thời gian sản xuất,other,candidate,medium,auto_extraction,"chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+general partnership,hợp danh chung,other,candidate,medium,auto_extraction,"chapter-12, chapter-13",,,false,Extracted via terminology_analysis_known
+line of credit,hạn mức tín dụng,other,candidate,medium,auto_extraction,"chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+quotas,hạn ngạch,other,candidate,medium,auto_extraction,"chapter-12, chapter-14",,,false,Extracted via terminology_analysis_known
+Service Corps of Retired Executives,,other,candidate,medium,auto_extraction,"chapter-12, chapter-15",,,false,Extracted via terminology_analysis_candidate
+tariffs,thuế quan,other,candidate,medium,auto_extraction,"chapter-13, chapter-14",,,false,Extracted via terminology_analysis_known
+JOBS Act,,other,candidate,medium,auto_extraction,"chapter-13, chapter-14",,,false,Extracted via terminology_analysis_candidate
+tangible resources,nguồn lực hữu hình,other,candidate,medium,auto_extraction,"chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+company culture,văn hóa công ty,other,candidate,medium,auto_extraction,"chapter-14, chapter-15",,,false,Extracted via terminology_analysis_known
+Y Combinator,,other,candidate,medium,auto_extraction,"chapter-14, chapter-15",,,false,Extracted via terminology_analysis_candidate
+career entrepreneur,doanh nhân theo đuổi sự nghiệp lâu dài,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_known
+divergent thinking,tư duy phân kỳ,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_known
+lifestyle venture,doanh nghiệp phục vụ lối sống,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_known
+opportunity-identifying perspective,góc nhìn nhận diện cơ hội,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_known
+How Do You Define,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Gilboa and Blumenthal,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+The Wander Girls,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Roxanne Quimby,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+The Entrepreneur,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Solving and Need Recognition Techniques,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Chloe Huang,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Education for Sustainable Development,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Factors Driving the Growth of Entrepreneurship,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+The Entrepreneurial Mindset,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Angad Daryani,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Kevin F,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Miracle Messages,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Coastal Tractor,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Phil Libin,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+CEO of Evernote,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Heisenberg Media,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurship Today,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurial Vision and Goals,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Global Action Programme on Education,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+Sustainable Development,,other,candidate,medium,auto_extraction,chapter-1,,,false,Extracted via terminology_analysis_candidate
+market entry,gia nhập thị trường,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+cash management,quản lý dòng tiền,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+corporate entrepreneurship,khởi nghiệp trong doanh nghiệp,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+intrapreneur,doanh nhân nội bộ,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+situational opportunity,cơ hội tình huống,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+soft launch,ra mắt thử nghiệm (soft launch),other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+entrepreneurial exposure,mức độ tiếp xúc với môi trường khởi nghiệp,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+self-employment,tự kinh doanh (tự làm chủ),other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+entrepreneurship in action,khởi nghiệp thực chiến,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_known
+Glacier National Park,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurial Potential Self-Assessment,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The Entrepreneurial Journey,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The U,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Exploring Resources,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The Jitterbug,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+How I Built a Subscription,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Business That,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Structure Options,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+PopUp Business School,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Surge Cities,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+These Are,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Best Places in America for Starting,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Think of Us,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The Process of Becoming an Entrepreneur,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurial Personality Test,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The United States,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The Pembina,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Madam C,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+African American,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Charles Drew,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+World War II,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Jean-Baptiste Say,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+William Penn,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Sybilla Masters,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Benjamin Franklin,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Commonwealth of Pennsylvania,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Frame of Government,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Adam Smith,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The First Industrial Revolution,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Eli Whitney,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Elias Howe,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Samuel Morse,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+First Industrial Revolution,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+African Americans,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Second Industrial Revolution,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The Second Industrial Revolution,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+World War I,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The American,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Great Depression,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+After World War II,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The Knowledge Economy,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The Entrepreneurial Process,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+In Stage,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Man Crates,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurial Pathways,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Family Obligations,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Gordon Moore and Fairchild Semiconductor,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Gordon Moore,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Fairchild Semiconductor,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Your Personal Path,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Frameworks to Inform Your Entrepreneurial,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Lean Strategy Canvas,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Design Thinking Process,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Four Lenses Strategic Framework,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Applying the Framework,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Action Plan Support Tools,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Capitol Hill,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Kauffman Foundation,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Alan Donegan,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+The Kauffman Foundation,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+College Entrepreneur,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Franchise Entrepreneur,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Immigrant Entrepreneur,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Minority Entrepreneur,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Sixto Cancel,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Startup Ideas Feature Box,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Visit the SBA,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Global Entrepreneurship,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+YouTube Video,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurial Journey As,,other,candidate,medium,auto_extraction,chapter-2,,,false,Extracted via terminology_analysis_candidate
+anchoring strategies,chiến lược neo (đạo đức),other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+antitrust laws,luật chống độc quyền,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+conflict of interest,xung đột lợi ích,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+environmental entrepreneurship,khởi nghiệp môi trường,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+fairness,sự công bằng,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+ethical standards,chuẩn mực đạo đức,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+american micro devices,American Micro Devices,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+arrington,Arrington,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+bayh-dole act,Bayh-Dole Act,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+business for social responsibility,Business for Social Responsibility,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+business roundtable,Business Roundtable,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+clayton act,Clayton Act,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+code of ethics,bộ quy tắc đạo đức,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+competition laws,luật cạnh tranh,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+continental edison company,Continental Edison Company,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+da silva,da Silva,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+deontology,đạo đức học nghĩa vụ,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+dodge,Dodge,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+dodge motor company,Dodge Motor Company,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+duty-based ethics,đạo đức dựa trên bổn phận,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+eli lilly,Eli Lilly,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+equifax,Equifax,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+federal trade commission act,Federal Trade Commission Act,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+ford motor company,Ford Motor Company,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+fryman,Fryman,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+hippocrates,Hippocrates,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+hippocratic oath,Hippocratic Oath,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+intel corporation,Intel Corporation,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+kaizen,Kaizen,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+kantian,Kantian,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+lula,Lula,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+moral compass,moral compass,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+morals,morals,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+normative ethical theories,normative ethical theories,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+petrobras,Petrobras,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+protestant work ethic,Protestant work ethic,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+rousseff,Rousseff,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+samsung electronics,Samsung Electronics,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+shareholder primacy,shareholder primacy,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+sherman act,Sherman Act,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+shkreli,Shkreli,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+stumpf,Stumpf,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+tesla electric light,Tesla Electric Light,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+turing pharmaceuticals,Turing Pharmaceuticals,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+utilitarian ethics,Utilitarian ethics,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+utilitarianism,utilitarianism,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+vicarious liability,vicarious liability,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+virtue ethics,virtue ethics,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+volkswagen,Volkswagen,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+wells fargo,Wells Fargo,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+winterkorn,Winterkorn,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+world’s most ethical companies,World’s Most Ethical Companies,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_known
+Ethical and Legal Issues in Entrepreneurship,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+You Value,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+On September,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Martin Shkreli,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Nikola Tesla,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+In the US,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+US Department of Justice,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Corporate Social Responsibility and Social,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurship Learning Objectives By,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Corporate Social Responsibility,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+The NBBC,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Sarbanes-Oxley Act,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+British Petroleum,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+TOMS Shoes,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Dow Jones,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Own Words,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Better Tomorrow,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Blake Mycoskie,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+The TOMS Story,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Grameen Bank,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Interest Profiler,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+The Interest Profiler,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Identifying Your Values,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Rise Products,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Developing a Workplace Culture of Ethical,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Society for Human Resource Management,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Walt Disney,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Kerrie Laird,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Project Shakti,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Hindustan Lever,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Wall Street Journal,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Sherron Watkins,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+The Sarbanes-Oxley Act,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Workers Party,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Operation Car Wash,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Galaxy Note,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Kathy Fryman,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Car Wash,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+People Inside,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+Resource Management,,other,candidate,medium,auto_extraction,chapter-3,,,false,Extracted via terminology_analysis_candidate
+diffusion chasm,khoảng cách khuếch tán,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_known
+incremental innovation,đổi mới gia tăng,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_known
+iterative development,phát triển lặp,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_known
+lateral thinking,tư duy phi tuyến,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_known
+linear thinking,tư duy tuyến tính,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_known
+open innovation,đổi mới mở,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_known
+pioneering innovation,đổi mới tiên phong,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_known
+scientific method,phương pháp khoa học,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_known
+Six Thinking Hats,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Red Hat,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Black Hat,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Green Hat,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+The Six Thinking Hats,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Blue Hat,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Nohbo Drops,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Assembly Line,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Venetian Arsenal,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+The Venetian Arsenal,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Everett Rogers,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Shave Club,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Safety Razor,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Creative Commons,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Developing Ideas,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+The Creative Process,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+The Five Stages of Creativity,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+When I,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+For Kawasaki,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Developing an Invention The,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Merit Morikawa,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Tools for Creativity and Innovation,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+How They Differ,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+Ideation Method,,other,candidate,medium,auto_extraction,chapter-4,,,false,Extracted via terminology_analysis_candidate
+opportunity screening,sàng lọc cơ hội,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_known
+shared economy,nền kinh tế chia sẻ,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_known
+According to Schumpeter,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Federal Express,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Researching Potential Business Opportunities,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Common Sources of Research Data,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+US Census,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Small Business Development Center,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Business Administration,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Claritas Research,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Sweet Beginnings,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+North Lawndale,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Palms Barber,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Bee Love,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Veterans Community Project,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Competitive Analysis A,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+A SWOT,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Fundamentals of Resource Planning,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+A PEST,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Travis and Katelyn,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Chris Johnson,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Rapid Brands,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Rapid Ramen Cooker,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+Economic Indicators,,other,candidate,medium,auto_extraction,chapter-5,,,false,Extracted via terminology_analysis_candidate
+adaptive model,mô hình thích ứng,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+decisiveness,tính quyết đoán,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+entrepreneurial problem solving,giải quyết vấn đề khởi nghiệp,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+hackathon,hackathon,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+innovative model,mô hình đổi mới,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+internal environment,môi trường bên trong,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+need awareness,nhận thức nhu cầu,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+petitioner problem solvers,người tìm kiếm giải pháp từ người khác,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+self-regulating problem solvers,người giải quyết vấn đề tự chủ,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+storyboarding,xây dựng bảng phân cảnh,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+team creativity,sáng tạo nhóm,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+theorist problem solvers,người giải quyết vấn đề theo lý thuyết,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+whiteboarding,phác thảo trên bảng trắng,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_known
+Problem Solving to Find Entrepreneurial,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Geoffrey Graybeal,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Hirabayashi and Lidey,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Fast Company Innovation Festival,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Vital Vio,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Katie Witkin,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+AGW Group,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+The Steps,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Mechanical Turk,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Taaluma Totes,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+DuFour and Heffern,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+David Kelley,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Design School,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Tim Brown,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Top Five,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+How Might We,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Co-Creation Session,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Frame Your Design,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Innovation Flowchart,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Question Ladder,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+IDEO Design Kit,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Centered Design,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Google Ventures Design Sprint,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Design Thinking Mix Tapes,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Six Sigma,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Process Excellence,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+New Balance,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+The Ford,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Kiichiro Toyoda,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Design Thinking for Educators,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Creative Problem-Solving Process,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+Lean Processes Lean,,other,candidate,medium,auto_extraction,chapter-6,,,false,Extracted via terminology_analysis_candidate
+elevator pitch,bài pitch ngắn (elevator pitch),other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+entrepreneurial contest,cuộc thi khởi nghiệp,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+iceberg principle,nguyên tắc tảng băng trôi,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+pitch competition,cuộc thi pitch,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+pitch deck,bộ slide pitch,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+problem-solution narrative,câu chuyện vấn đề – giải pháp,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+work-for-hire agreement,thỏa thuận làm thuê (work-for-hire),other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+growth strategy,chiến lược tăng trưởng,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+contractual agreement,thỏa thuận hợp đồng,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+pitch competitions,các cuộc thi pitch,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_known
+Clarifying Your Vision,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Goals Portions,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Mark Poepsel,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+The Entrepreneurial Perspective,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Sara Minkara,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Middle East,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Vision and Mission Statements,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Mission Statement To,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+American Red Cross,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+The American Red Cross,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Link to Learning Check,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Toys Inc,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+March of Dimes,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Sharing Your Entrepreneurial Story,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+The One,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Steve Jobs,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Bill Hewlett and David Packard,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+The Advantages and Disadvantages of Using,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Developing Pitches for Various Audiences,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Investors You,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Reality Check,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Contests and Competitions,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Key Elements,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Media Innovation and Entrepreneurship,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+The Entrepreneurial Marketing and Sales,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+The Airbnb,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Protecting Your Idea and Polishing,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Road to GES,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Global Entrepreneurship Summit,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+American Idol,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Collegiate Entrepreneurs,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Plan Competition,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Venture Competition,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+The John Deere Company,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+John Deere,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+John Deere Company,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Anne-Marie Slaughter,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+The Atlantic,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Wattage Inc,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+That It,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Why Women Still Can,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Have It All,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Risk City,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Global Entrepreneur Week,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+Business Model Competition,,other,candidate,medium,auto_extraction,chapter-7,,,false,Extracted via terminology_analysis_candidate
+market validation,kiểm chứng thị trường,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+brand strategy,chiến lược thương hiệu,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+causal research,nghiên cứu nhân quả,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+conjoint analysis,phân tích kết hợp,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+cost-led pricing,định giá dựa trên chi phí,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+customer-led pricing,định giá theo khách hàng,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+direct mail,thư trực tiếp,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+ethnographic research,nghiên cứu dân tộc học,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+expeditionary marketing,tiếp thị thăm dò,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+focus group,nhóm thảo luận,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+guerrilla marketing,tiếp thị du kích,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+introductory offers,ưu đãi giới thiệu,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+loss leader pricing,định giá mồi,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+marketing mix,marketing mix (4P),other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+odd numbers strategy,chiến lược giá số lẻ,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+penetration pricing,định giá thâm nhập,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+premium pricing,định giá cao cấp,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+qualitative research,nghiên cứu định tính,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+quantitative research,nghiên cứu định lượng,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+real-time marketing,tiếp thị thời gian thực,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+relationship marketing,tiếp thị quan hệ,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+sales strategy,chiến lược bán hàng,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+segmenting,phân khúc thị trường,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+situation analysis,phân tích tình huống,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+skimming,định giá hớt váng,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+viral marketing,tiếp thị lan truyền,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+word-of-mouth (wom) marketing,tiếp thị truyền miệng (WOM),other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_known
+Product Within,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Under Armour,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Marketing Techniques and Tools for Entrepreneurs,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Dave Gilboa and Neil Blumenthal,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Market Opportunity Recognition,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Merkadoteknia Research and Consulting,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Fact Finder,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Pew Research Center,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Current Population Survey,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Texas State Data Center,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+The Wag,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Constant Contact,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Mad Mimi,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Los Angeles,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Marketing Opportunity,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Unmet Need,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Model and Plan,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Marketing Strategies As,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Spin Selling,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Can I,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+According to Hubspot,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Katia Beauchamp and Hayley Barna,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurial Branding,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Google Ads,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Google Analytics,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Zig Ziglar,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+Target Market Market,,other,candidate,medium,auto_extraction,chapter-8,,,false,Extracted via terminology_analysis_candidate
+charitable organization,tổ chức từ thiện,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+contribution margin,lợi nhuận đóng góp,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+debt financing,tài trợ bằng nợ,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+equity financing,tài trợ bằng vốn chủ sở hữu,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+financing activities,hoạt động tài chính,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+gross profit,lợi nhuận gộp,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+income (profit-and-loss) statement,báo cáo kết quả kinh doanh,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+investing activities,hoạt động đầu tư,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+mature stage,giai đoạn trưởng thành,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+moonlighting,làm thêm ngoài giờ,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+net income,lợi nhuận ròng,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+operating activities,hoạt động kinh doanh,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+program services,dịch vụ chương trình,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+run rate,tốc độ vận hành (run rate),other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+seed stage,giai đoạn hạt giống,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+statement of cash flows,báo cáo lưu chuyển tiền tệ,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+sustainable strategy,chiến lược bền vững,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_known
+Overview of Entrepreneurial Finance and Accounting,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Strategies Learning Objectives By,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Ted Herget,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Accounting Basics for Entrepreneurs,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Securities and Exchange Commission,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+The IPO,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Special Funding Strategies,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Small Loan,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+In Special Funding Strategies,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Metropolitan Museum of Art,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Internal Revenue Service,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+National Institutes of Health,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+The NIH,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+The TOMS,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Business Plan Competition,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+The Boston Beer Company,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Boston Beer Company,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Developing Startup Financial Statements,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+The Balance Sheet The,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Hometown Pizzeria,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+The Income Statement The,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+When Shanti,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+The Statement of Cash Flows,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+If Shanti,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+Best Buy,,other,candidate,medium,auto_extraction,chapter-9,,,false,Extracted via terminology_analysis_candidate
+born global,doanh nghiệp toàn cầu ngay từ đầu,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_known
+build-measure-learn loop,vòng lặp xây dựng – đo lường – học hỏi,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_known
+business lifecycle,vòng đời doanh nghiệp,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_known
+innovation accounting,kế toán đổi mới,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_known
+lean pitch,bài thuyết trình tinh gọn,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_known
+lean plan,kế hoạch kinh doanh tinh gọn,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_known
+mergers and acquisitions,sáp nhập và mua lại,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_known
+strategic alliance,liên minh chiến lược,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_known
+Launching the Imperfect Business,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+The CEO,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Drew Houston,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Eric Ries,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+After Ries,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+General Electric,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Fast Works,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Telling Your Entrepreneurial Story,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Pitching the Idea,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Types of Pivots,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+The Internet,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+The Lean Startup,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Color TV Block Breaker,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Why Early Failure Can,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+El Paso,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Michael Jordan,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Dual Cyclone,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Fear of Failure,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+The Global Entrepreneurship Monitor,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Global Entrepreneurship Monitor,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Evan Williams,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Kathryn Minshew,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+The Muse,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+The Challenging Truth,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Pros and Cons of Business Ownership,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Marketing and Sales,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Because I,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Business Center,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+National Association for Women Owners,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Female Entrepreneur Association,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Ladies Who Launch,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Minority Business Development Agency,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+National Association of Professional Women,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Business Enterprise National Council,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Asian Americans,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Write a Short and Simple Document,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Test Your MVP,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Tim Berry,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+For Berry,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+GoPro and Fitbit,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Johnson Security,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Red Bull,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Pros and Cons of Growth Strategies,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Drew Houston and Arash Ferdowsi,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Lead to Success Later,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Business Ownership,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Adjusting the Initial Plan,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurship Monitor,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+Chamber of Commerce,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+The Female Entrepreneur Association,,other,candidate,medium,auto_extraction,chapter-10,,,false,Extracted via terminology_analysis_candidate
+value creation,tạo ra giá trị,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+cost structure,cơ cấu chi phí,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+business model innovation,đổi mới mô hình kinh doanh,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+competitive matrix,ma trận cạnh tranh,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+customer empathy map,bản đồ thấu cảm khách hàng,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+feasibility analysis,phân tích tính khả thi,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+financial analysis,phân tích tài chính,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+go-or-no-go decision,quyết định tiếp tục hoặc dừng,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+lean model canvas,mô hình lean canvas,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+projected cash flow,dòng tiền dự kiến,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+social business model canvas,mô hình kinh doanh xã hội canvas,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+value proposition canvas,mô hình giá trị đề xuất canvas,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_known
+Field of Dreams,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+San Francisco,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Steve Blank,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Scaling Lean,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Ash Maurya,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Clayton Christensen,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Designing the Business Model,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Business Model Generation,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Osterwalder and Pigneur,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Link to Learning Visit,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Business Model Canvases,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+The Lean Model Canvas,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Unfair Advantage,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Link to Learning This,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+The Birthday Party Project,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Birthday Party Project,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+The Business Plan,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+S T,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Average Revenue,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Love Beyond Walls,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Pretty Young Professional,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+The Cut Buddy,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Daymond John,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Cut Buddy,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Joshua Esnard,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Brief Business Plan,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Rice University,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Create a Brief Business Plan,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+La Vida Lola,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Vida Lola,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Latin American and Caribbean,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Puerto Rican and Cuban,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Lola Gonz,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Business Description for La Vida,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Mobile Food Services,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Conducting a Feasibility Analysis,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Industry Analysis and Market Strategy,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Mobile Food Trends and Insights,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Off the Grid,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+The Atlanta,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+The SAM,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Atlanta Journal-Constitution,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Bento Bus,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+The Fry Guy,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+The Blaxican,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Operations and Management Plan for La,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Cameron Hamilton,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Chef Lola Gonz,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Marketing Plan for La Vida,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Instagram and Twitter,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Hugh Jackman,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Laughing Man Coffee,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Laughing Man,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Laughing Man Foundation,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Textbooks for Change,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Innovation Challenge,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Innovation Center,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Good Sports,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+State Department,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Tech Talent South,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Vita Coco,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Michael Kirban and Ira Liran,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+Kirban and Liran,,other,candidate,medium,auto_extraction,chapter-11,,,false,Extracted via terminology_analysis_candidate
+absolute capacity,công suất tối đa tuyệt đối,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+baselining,thiết lập đường cơ sở,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+business accelerator,chương trình tăng tốc khởi nghiệp,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+business incubator,vườn ươm doanh nghiệp,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+capital expense,chi phí đầu tư tài sản,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+capital improvements,cải tiến tài sản,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+closed group,nhóm đóng,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+debt service,nghĩa vụ trả nợ,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+ergonomics,công thái học,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+flat organization,tổ chức phẳng,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+hybrid group,nhóm lai,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+nepotism,chủ nghĩa thân hữu,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+open group,nhóm mở,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+operational capacity,công suất vận hành,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+operational reserve,dự trữ vận hành,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+self-performing,tự thực hiện,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+total cost of ownership,tổng chi phí sở hữu,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+trade association,hiệp hội ngành nghề,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_known
+Key West,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Do I,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+National Association,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Business Network International,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Small Business Development Centers,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Business Centers,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Department of Commerce,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+The WBC,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+SDVO SBC,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Building the Entrepreneurial Dream Team,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+North American Industry Classification,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Who Am I,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Make a List,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Should I,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Designing a Startup Operational Plan,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Frederick Taylor,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Avni Patel Thompson,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Link to Learning The,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Industrial Revolution,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Scheduling Sounds Simple,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Entrepreneurial Dream Team,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Checklist of Operational Needs,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+The IA,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Dallas Cowboys,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Jimmy Johnson,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Jiffy Lube,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+SuperGlass Windshield Repair,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Florida Keys,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+Building and Connecting to Networks,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+US Department of Commerce,,other,candidate,medium,auto_extraction,chapter-12,,,false,Extracted via terminology_analysis_candidate
+b corporation,doanh nghiệp B Corp,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+business purpose,mục đích kinh doanh,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+c corporation,công ty C,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+economic nexus,liên kết kinh tế,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+enterprise risk management,quản trị rủi ro doanh nghiệp,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+equity crowdfunding,gọi vốn cộng đồng bằng vốn cổ phần,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+legal risk,rủi ro pháp lý,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+privately held corporation,công ty tư nhân (không niêm yết),other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+public corporation,công ty công,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+publicly held corporation,công ty đại chúng,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+s corporation,công ty S,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+ownership structure,cơ cấu sở hữu,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+business continuity,duy trì hoạt động kinh doanh,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_known
+Business Structures,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Overview of Legal and Tax Considerations,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Internal Revenue Code,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Purpose of Your Business,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Gravity Payments,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Dan Price,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+C Corporations,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+S Corporations,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Secretary of State,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Piercing the Veil,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+An S,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+The B,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Public Transparency,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Privately Held,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+The PCAOB,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Bombas Socks,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Is Bombas,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Tax Cuts and Jobs Act,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+A C,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+The IRS,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+In GPs,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+An LLP,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+A GP,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Tax Foundation,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+A DBA,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Leroy Bautista,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Additional Considerations,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Capital Acquisition,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Business Domicile,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+South Dakota,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+The Balance,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Sole Proprietor,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Limited Partnership,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Limited Liability Company,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Risk Appetite,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Information Technology,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Step Action,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Partnerships and Joint Ventures,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Limited Liability Companies,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Sole Proprietorships,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Create a Business Plan,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Corporations A,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+Sole Proprietorships The,,other,candidate,medium,auto_extraction,chapter-13,,,false,Extracted via terminology_analysis_candidate
+decision tree,cây quyết định,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+intangible resources,nguồn lực vô hình,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+pest framework,mô hình PEST,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+pre-launch costs,chi phí trước khi ra mắt,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+quota,hạn ngạch,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+resource dependence theory (rdt) model,mô hình lý thuyết phụ thuộc nguồn lực (RDT),other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+service mark,nhãn hiệu dịch vụ,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+sociocultural factors,các yếu tố xã hội–văn hóa,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+technological factors,các yếu tố công nghệ,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_known
+See Business Structure Options,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+The Ethical and Social Responsibilities,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+US Patent and Trademark Office,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+The USPTO,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Chuck Hull,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Copyright Office,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Determining Your Resource Needs,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Vehicles Are,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Business News Daily,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Johnny Cupcakes,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Johnny Earle,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Natalia Oberti Noguera,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Pipeline Angels,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+New Story,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Using the PEST Framework to Assess,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Light and Motion,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Types of Resources,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Managing Resources,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Katia Beauchamp,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Auntie Anne,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Link to Learning Take,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Will I,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Resource Needs,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+New York University,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+Stern School of Business,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+The PEST,,other,candidate,medium,auto_extraction,chapter-14,,,false,Extracted via terminology_analysis_candidate
+buyback clause,điều khoản mua lại,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+delphi method,phương pháp Delphi,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+escalation of commitment,sự leo thang cam kết,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+fail-safe point,điểm an toàn,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+founders’ agreement,thỏa thuận giữa các nhà sáng lập,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+gantt chart,biểu đồ Gantt,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+hindsight bias,thiên kiến nhìn lại,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+hubris,sự tự cao,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+nominal group technique,kỹ thuật nhóm danh nghĩa,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+planning fallacy,ngụy biện lập kế hoạch,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+social capital,vốn xã hội,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+status quo bias,thiên kiến hiện trạng,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+fail-safe points,điểm kiểm soát an toàn,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+nominal group,kỹ thuật nhóm danh nghĩa,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_known
+Making Difficult Business Decisions,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Response to Challenges,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Mike Smith,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Link to Learning This TED,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Rose and Wise,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Stacy Madison,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+National Business Ethics Survey,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Seeking Help,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Deciding What Advice to Follow,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+The Delphi,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+The Nominal Group,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+The Power of Intuition,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+How to Use Your Gut,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Feelings to Make Better Decisions,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Now What,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+The Startup Champions Network,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Startup Champions Network,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Rehman and Bailey,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Andrea Sreshta and Ana Stork,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Launching Your Venture,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Microsoft Excel,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate
+Support Entrepreneurs,,other,candidate,medium,auto_extraction,chapter-15,,,false,Extracted via terminology_analysis_candidate

@@ -1,0 +1,889 @@
+{
+  "knownTerms": [
+    {
+      "term": "entrepreneur",
+      "glossaryTranslation": "doanh nhân/nhà khởi nghiệp",
+      "frequency": 83,
+      "context": "The entrepreneur visualizes the prospect of filling the gap with an innovative solution that might entail the revision of a product or the creation of an entirely new product."
+    },
+    {
+      "term": "entrepreneurial venture",
+      "glossaryTranslation": "dự án khởi nghiệp",
+      "frequency": 1,
+      "context": "Although we don’t necessarily think of the creation of automobiles as an entrepreneurial venture in today’s world, Henry Ford was truly an entrepreneur for his time when the manufacture of automobiles was just beginning."
+    },
+    {
+      "term": "harvest",
+      "glossaryTranslation": "thoái vốn/hiện thực hóa giá trị",
+      "frequency": 1,
+      "context": "IDEO puts it this way: “You’ll use this method while you’re conducting an interview and start with really broad questions like “Do you save much money?” or “How was your harvest this year?” Then, by asking why five times you’ll get some essential answers to complicated problems."
+    },
+    {
+      "term": "value proposition",
+      "glossaryTranslation": "giá trị đề xuất",
+      "frequency": 1,
+      "context": "The problem Shine tackles is that “self-help is broken” and its value proposition addresses in part what is known as “the confidence gap,” often cited as a barrier that holds women back when it comes to advancing in their careers, raising money, investing, and planning retirement."
+    },
+    {
+      "term": "opportunity recognition",
+      "glossaryTranslation": "nhận diện cơ hội kinh doanh",
+      "frequency": 2,
+      "context": "This chapter is more about problem solving as it pertains to the entrepreneur’s thought process and approach rather than on problem solving in the sense of opportunity recognition and filling those gaps with new products."
+    },
+    {
+      "term": "business model",
+      "glossaryTranslation": "mô hình kinh doanh",
+      "frequency": 3,
+      "context": "A business model canvas , which is covered in Business Model and Plan and other activities outlined in other chapters can be used internally or externally to identify problems and work toward creating a viable solution."
+    },
+    {
+      "term": "entrepreneurial journey",
+      "glossaryTranslation": "hành trình khởi nghiệp",
+      "frequency": 1,
+      "context": "While general entrepreneurial problem-solving skills such as critical thinking, decisiveness, communication, and the ability to analyze data will likely be used on a regular basis in your life and entrepreneurial journey, other problem-solving skills and the approach you take will depend on the problem as it arises."
+    },
+    {
+      "term": "entrepreneurial process",
+      "glossaryTranslation": "quy trình khởi nghiệp",
+      "frequency": 2,
+      "context": "Problem-Solving Skills While identifying problems is a necessary part of the origin of the entrepreneurial process, managing problems is an entirely different aspect once a venture is off the ground and running."
+    },
+    {
+      "term": "innovation",
+      "glossaryTranslation": "đổi mới",
+      "frequency": 30,
+      "context": "The original is freely available under the terms of the CC BY 4.0 license at https://press.rebus.community/media-innovation-and-entrepreneurship/ ."
+    },
+    {
+      "term": "venture",
+      "glossaryTranslation": "doanh nghiệp (venture)",
+      "frequency": 10,
+      "context": "Problem-Solving Skills While identifying problems is a necessary part of the origin of the entrepreneurial process, managing problems is an entirely different aspect once a venture is off the ground and running."
+    },
+    {
+      "term": "copyright",
+      "glossaryTranslation": "bản quyền",
+      "frequency": 8,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Critical Thinking Critical thinking is the complex analysis of a problem or issue with the goal of solving the problem or making a decision."
+    },
+    {
+      "term": "intellectual property",
+      "glossaryTranslation": "tài sản trí tuệ",
+      "frequency": 1,
+      "context": "Before proposing the solution, volunteers learn that the solutions become the intellectual property of the startup posting the problem."
+    },
+    {
+      "term": "brainstorming",
+      "glossaryTranslation": "động não",
+      "frequency": 17,
+      "context": "Ideation exercises, such as brainstorming sessions (discussed in Creativity, Innovation, and Invention , are good communication tools that entrepreneurs can use to generate solutions to problems."
+    },
+    {
+      "term": "creativity",
+      "glossaryTranslation": "sự sáng tạo",
+      "frequency": 27,
+      "context": "Entrepreneurs are problem solvers who offer solutions using creativity or innovative ventures that exploit opportunities."
+    },
+    {
+      "term": "design thinking",
+      "glossaryTranslation": "tư duy thiết kế",
+      "frequency": 53,
+      "context": "6.3 Design Thinking Portions of the material in this section are based on original work by Geoffrey Graybeal and produced with support from the Rebus Community."
+    },
+    {
+      "term": "empathy",
+      "glossaryTranslation": "sự thấu cảm",
+      "frequency": 5,
+      "context": "The current IDEO CEO Tim Brown defines design thinking as “a human-centered and collaborative approach to problem-solving, using a designed mindset to solve complex problems.” 21 Design thinking is a method to focus the design and development decisions of a product on the needs of the customer, typically involving an empathy-driven process to define complex problems and create solutions that address those problems."
+    },
+    {
+      "term": "ideation",
+      "glossaryTranslation": "quá trình hình thành ý tưởng",
+      "frequency": 10,
+      "context": "Ideation exercises, such as brainstorming sessions (discussed in Creativity, Innovation, and Invention , are good communication tools that entrepreneurs can use to generate solutions to problems."
+    },
+    {
+      "term": "invention",
+      "glossaryTranslation": "phát minh",
+      "frequency": 5,
+      "context": "Ideation exercises, such as brainstorming sessions (discussed in Creativity, Innovation, and Invention , are good communication tools that entrepreneurs can use to generate solutions to problems."
+    },
+    {
+      "term": "competitive advantage",
+      "glossaryTranslation": "lợi thế cạnh tranh",
+      "frequency": 6,
+      "context": "Communication Communication skills , the ability to communicate messages effectively to an intended recipient, are the skills entrepreneurs use to pool resources for the purposes of investigating solutions leading to innovative problem solving and competitive advantage."
+    },
+    {
+      "term": "customers",
+      "glossaryTranslation": "khách hàng",
+      "frequency": 12,
+      "context": "A network may consist of potential employees, customers, board members, outside advisors, investors, or champions (people who just love your product) with no direct vested interest."
+    },
+    {
+      "term": "entrepreneurial opportunity",
+      "glossaryTranslation": "cơ hội khởi nghiệp",
+      "frequency": 5,
+      "context": "For example, as we read in Identifying Entrepreneurial Opportunity , Sara Blakely (as shown in Figure 6.2 ) saw a need for body contouring and smoothing undergarments one day in the late 1990s when she was getting dressed for a party and couldn’t find what she needed to give her a silhouette she’d be pleased with in a pair of slacks."
+    },
+    {
+      "term": "supply",
+      "glossaryTranslation": "cung",
+      "frequency": 1,
+      "context": "Data analysis can be applied to manage customer relations, inform financial and marketing activities, make pricing decisions, manage the supply chain, and plan for human resource needs, among other functions of a venture."
+    },
+    {
+      "term": "adaptive model",
+      "glossaryTranslation": "mô hình thích ứng",
+      "frequency": 5,
+      "context": "Learning Objectives By the end of this section, you will be able to: Define problem solving in the context of entrepreneurship Describe and compare the adaptive model and the innovative model of problem solving Identify the skills entrepreneurs need for effective problem solving Identify types of problem solvers As you’ve learned, entrepreneurs often visualize an opportunity gap, a gap between what exists and what could exist, as Hirabayashi and Lidey did with Shine."
+    },
+    {
+      "term": "assessment",
+      "glossaryTranslation": "giai đoạn đánh giá (assessment)",
+      "frequency": 7,
+      "context": "In entrepreneurship, analyzing data can help with opportunity recognition, creation, and assessment by analyzing data in a variety of ways."
+    },
+    {
+      "term": "clarify",
+      "glossaryTranslation": "làm rõ",
+      "frequency": 8,
+      "context": "The Steps of the Creative Problem-Solving Process Training oneself to think like an entrepreneur means learning the steps to evaluating a challenge: clarify, ideate, develop, implement, and evaluate ( Figure 6.9 )."
+    },
+    {
+      "term": "communication skills",
+      "glossaryTranslation": "kỹ năng giao tiếp",
+      "frequency": 2,
+      "context": "Communication Communication skills , the ability to communicate messages effectively to an intended recipient, are the skills entrepreneurs use to pool resources for the purposes of investigating solutions leading to innovative problem solving and competitive advantage."
+    },
+    {
+      "term": "critical thinking",
+      "glossaryTranslation": "tư duy phản biện",
+      "frequency": 6,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Critical Thinking Critical thinking is the complex analysis of a problem or issue with the goal of solving the problem or making a decision."
+    },
+    {
+      "term": "crowdsourcing",
+      "glossaryTranslation": "huy động trí tuệ đám đông",
+      "frequency": 15,
+      "context": "Some entrepreneurial collaborative methodologies include crowdsourcing, brainstorming, storyboarding, conducting quick online surveys to test ideas and concepts, and team creativity activities."
+    },
+    {
+      "term": "data analysis",
+      "glossaryTranslation": "phân tích dữ liệu",
+      "frequency": 3,
+      "context": "Ability to Analyze Data Data analysis is the process of analyzing data and modeling it into a structure that leads to innovative conclusions."
+    },
+    {
+      "term": "decisiveness",
+      "glossaryTranslation": "tính quyết đoán",
+      "frequency": 10,
+      "context": "Decisiveness Decisiveness is as it sounds: the ability to make a quick, effective decision, not letting too much time go by in the process."
+    },
+    {
+      "term": "develop",
+      "glossaryTranslation": "phát triển",
+      "frequency": 17,
+      "context": "The Steps of the Creative Problem-Solving Process Training oneself to think like an entrepreneur means learning the steps to evaluating a challenge: clarify, ideate, develop, implement, and evaluate ( Figure 6.9 )."
+    },
+    {
+      "term": "entrepreneurial problem solving",
+      "glossaryTranslation": "giải quyết vấn đề khởi nghiệp",
+      "frequency": 5,
+      "context": "Entrepreneurial problem solving is the process of using innovation and creative solutions to close that gap by resolving societal, business, or technological problems."
+    },
+    {
+      "term": "evaluate",
+      "glossaryTranslation": "đánh giá (evaluate)",
+      "frequency": 9,
+      "context": "The solution may be a risk, but a self-regulating problem solver will recognize, evaluate, and mitigate the risk."
+    },
+    {
+      "term": "evaluation",
+      "glossaryTranslation": "giai đoạn đánh giá (evaluation)",
+      "frequency": 5,
+      "context": "Figure 6.9 The process of creativity is not random; it is a specific and logical process that includes evaluation."
+    },
+    {
+      "term": "external environment",
+      "glossaryTranslation": "môi trường bên ngoài",
+      "frequency": 3,
+      "context": "The external environment encompasses customers, industry trends, and competition."
+    },
+    {
+      "term": "hackathon",
+      "glossaryTranslation": "hackathon",
+      "frequency": 3,
+      "context": "Another such tool is a hackathon —an event, usually hosted by a tech company or organization, which brings together programmers and workers with other degrees of specialization within the company, community, or organization to collaborate on a project over a short period of time."
+    },
+    {
+      "term": "human-centered design",
+      "glossaryTranslation": "thiết kế lấy con người làm trung tâm",
+      "frequency": 6,
+      "context": "One design thinking approach that is taught at places like Stanford’s Design School and organizations like the LUMA Institute (a global company that teaches people how to be innovative) is human-centered design (HCD) ."
+    },
+    {
+      "term": "ideate",
+      "glossaryTranslation": "hình thành ý tưởng",
+      "frequency": 6,
+      "context": "The Steps of the Creative Problem-Solving Process Training oneself to think like an entrepreneur means learning the steps to evaluating a challenge: clarify, ideate, develop, implement, and evaluate ( Figure 6.9 )."
+    },
+    {
+      "term": "implement",
+      "glossaryTranslation": "triển khai",
+      "frequency": 10,
+      "context": "They ask what problem needs to be solved, think about solutions, and then consider the means necessary to implement an idea."
+    },
+    {
+      "term": "innovative model",
+      "glossaryTranslation": "mô hình đổi mới",
+      "frequency": 3,
+      "context": "Learning Objectives By the end of this section, you will be able to: Define problem solving in the context of entrepreneurship Describe and compare the adaptive model and the innovative model of problem solving Identify the skills entrepreneurs need for effective problem solving Identify types of problem solvers As you’ve learned, entrepreneurs often visualize an opportunity gap, a gap between what exists and what could exist, as Hirabayashi and Lidey did with Shine."
+    },
+    {
+      "term": "internal environment",
+      "glossaryTranslation": "môi trường bên trong",
+      "frequency": 3,
+      "context": "The internal environment comprises the factors inside the enterprise, such as employees, and internal practices and processes."
+    },
+    {
+      "term": "lean process",
+      "glossaryTranslation": "quy trình tinh gọn",
+      "frequency": 12,
+      "context": "Learning Objectives By the end of this section, you will be able to: Discuss the lean process methodology Understand the phases of the lean problem-solving process."
+    },
+    {
+      "term": "need awareness",
+      "glossaryTranslation": "nhận thức nhu cầu",
+      "frequency": 2,
+      "context": "This can also be thought of as having need awareness , which occurs when the entrepreneur notes a gap between societal or customer needs and actual circumstances."
+    },
+    {
+      "term": "observation",
+      "glossaryTranslation": "quan sát",
+      "frequency": 8,
+      "context": "Lean Problem-Solving Process The lean problem-solving process is a cycle of observation, assessment, and continual evaluation."
+    },
+    {
+      "term": "petitioner problem solvers",
+      "glossaryTranslation": "người tìm kiếm giải pháp từ người khác",
+      "frequency": 4,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Petitioner Problem Solvers Petitioner problem solvers ( Figure 6.8 ) see a problem and ask others for solution ideas."
+    },
+    {
+      "term": "resourcefulness",
+      "glossaryTranslation": "tính tháo vát",
+      "frequency": 9,
+      "context": "(credit: photo provided by AGW Group) Resourcefulness Resourcefulness is the ability to discover clever solutions to obstacles."
+    },
+    {
+      "term": "self-regulating problem solvers",
+      "glossaryTranslation": "người giải quyết vấn đề tự chủ",
+      "frequency": 4,
+      "context": "Self-Regulating Problem Solvers Self-regulating problem solvers are autonomous and work on their own without external influence."
+    },
+    {
+      "term": "storyboarding",
+      "glossaryTranslation": "xây dựng bảng phân cảnh",
+      "frequency": 8,
+      "context": "Some entrepreneurial collaborative methodologies include crowdsourcing, brainstorming, storyboarding, conducting quick online surveys to test ideas and concepts, and team creativity activities."
+    },
+    {
+      "term": "team creativity",
+      "glossaryTranslation": "sáng tạo nhóm",
+      "frequency": 5,
+      "context": "Some entrepreneurial collaborative methodologies include crowdsourcing, brainstorming, storyboarding, conducting quick online surveys to test ideas and concepts, and team creativity activities."
+    },
+    {
+      "term": "theorist problem solvers",
+      "glossaryTranslation": "người giải quyết vấn đề theo lý thuyết",
+      "frequency": 4,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Theorist Problem Solvers Theorist problem solvers see a problem and begin to consider a path toward solving the problem using a theory."
+    },
+    {
+      "term": "whiteboarding",
+      "glossaryTranslation": "phác thảo trên bảng trắng",
+      "frequency": 5,
+      "context": "An often-used lean problem-solving tool is whiteboarding ( Figure 6.16 )."
+    },
+    {
+      "term": "ask",
+      "glossaryTranslation": "khoản yêu cầu (ask)",
+      "frequency": 6,
+      "context": "They ask what problem needs to be solved, think about solutions, and then consider the means necessary to implement an idea."
+    },
+    {
+      "term": "advertising",
+      "glossaryTranslation": "quảng cáo",
+      "frequency": 1,
+      "context": "Later, the original agency started floundering because it did not offer social media advertising."
+    },
+    {
+      "term": "close",
+      "glossaryTranslation": "chốt bán hàng",
+      "frequency": 3,
+      "context": "Entrepreneurial problem solving is the process of using innovation and creative solutions to close that gap by resolving societal, business, or technological problems."
+    },
+    {
+      "term": "marketing",
+      "glossaryTranslation": "tiếp thị",
+      "frequency": 11,
+      "context": "What better method is there of presenting one’s concept, gaining funding and buy-in, and marketing for the startup than through building a network of individuals willing to support your venture?"
+    },
+    {
+      "term": "people",
+      "glossaryTranslation": "con người (nguồn nhân lực)",
+      "frequency": 12,
+      "context": "Imbellus says it aims to test “how people think,” not just what they know."
+    },
+    {
+      "term": "place",
+      "glossaryTranslation": "phân phối (place)",
+      "frequency": 5,
+      "context": "(credit: “social media connections networking” by “GDJ”/Pixabay, CC0) In fact, many young entrepreneurs, including tech entrepreneur Oliver Isaacs , realize college is a great place to begin building teams."
+    },
+    {
+      "term": "price",
+      "glossaryTranslation": "giá",
+      "frequency": 1,
+      "context": "Not only did he recognize the opportunity inherent in the sale of automobiles, he recognized the need to create an efficient process for automobile production that could decrease costs and, consequently, the selling price of the vehicle."
+    },
+    {
+      "term": "process",
+      "glossaryTranslation": "quy trình",
+      "frequency": 128,
+      "context": "Entrepreneurial problem solving is the process of using innovation and creative solutions to close that gap by resolving societal, business, or technological problems."
+    },
+    {
+      "term": "product",
+      "glossaryTranslation": "sản phẩm",
+      "frequency": 30,
+      "context": "The entrepreneur visualizes the prospect of filling the gap with an innovative solution that might entail the revision of a product or the creation of an entirely new product."
+    },
+    {
+      "term": "sample",
+      "glossaryTranslation": "mẫu khảo sát",
+      "frequency": 1,
+      "context": "Innovation Flowchart: A sample innovation flowchart may map out the details of the process."
+    },
+    {
+      "term": "social media",
+      "glossaryTranslation": "mạng xã hội",
+      "frequency": 14,
+      "context": "External communications could include press releases, blogs and websites, social media, public speeches, and presentations that explain the company’s solutions to problems."
+    },
+    {
+      "term": "targeting",
+      "glossaryTranslation": "lựa chọn thị trường mục tiêu",
+      "frequency": 1,
+      "context": "Vital Vio , led by Colleen Costello , has developed white light technology that effectively disinfects healthcare facilities by targeting a molecule specific to bacteria."
+    },
+    {
+      "term": "accounting",
+      "glossaryTranslation": "kế toán",
+      "frequency": 1,
+      "context": "There are many sources available to fund the business with little or no debt and options, as you will see in the chapter on Entrepreneurial Finance and Accounting ."
+    },
+    {
+      "term": "credit",
+      "glossaryTranslation": "tín dụng",
+      "frequency": 12,
+      "context": "(credit: “Ed Bastian and Sara Blakely at the Fast Company Innovation Festival” by “Nan Palmero”/Flickr, CC BY 2.0) Before getting into the heart of this chapter, we need to make a distinction: Decision making is different from problem solving ."
+    },
+    {
+      "term": "crowdfunding",
+      "glossaryTranslation": "gọi vốn cộng đồng",
+      "frequency": 3,
+      "context": "Entrepreneur In Action BitGiving and Design Thinking At age twenty-two, Ishita Anand created India’s first live social crowdfunding platform that enabled artists, engineers, and creators to collaborate and raise funds for special causes by verifying causes and how the funds would be used, while charging a small percentage of the funds raised as a fee."
+    },
+    {
+      "term": "funds",
+      "glossaryTranslation": "nguồn vốn",
+      "frequency": 4,
+      "context": "Entrepreneur In Action BitGiving and Design Thinking At age twenty-two, Ishita Anand created India’s first live social crowdfunding platform that enabled artists, engineers, and creators to collaborate and raise funds for special causes by verifying causes and how the funds would be used, while charging a small percentage of the funds raised as a fee."
+    },
+    {
+      "term": "grant",
+      "glossaryTranslation": "khoản tài trợ",
+      "frequency": 1,
+      "context": "For example, as explained in Adam Grant’s book The Originals , the co-founders of Warby Parker, a venture-backed startup focused on the eyewear industry, started their company while they were graduate students."
+    },
+    {
+      "term": "revenue",
+      "glossaryTranslation": "doanh thu",
+      "frequency": 2,
+      "context": "Try to examine ways in which waste products that you usually pay to have hauled away can now generate revenue."
+    },
+    {
+      "term": "business model canvas",
+      "glossaryTranslation": "mô hình kinh doanh canvas",
+      "frequency": 1,
+      "context": "A business model canvas , which is covered in Business Model and Plan and other activities outlined in other chapters can be used internally or externally to identify problems and work toward creating a viable solution."
+    },
+    {
+      "term": "networking",
+      "glossaryTranslation": "xây dựng mạng lưới quan hệ",
+      "frequency": 4,
+      "context": "Networking and communication within an industry allow the entrepreneur to recognize the position of an enterprise in the market and work toward verbalizing solutions that move an organization beyond its current state."
+    },
+    {
+      "term": "outsourcing",
+      "glossaryTranslation": "thuê ngoài",
+      "frequency": 1,
+      "context": "This new business prototype, similar to outsourcing, features an enterprise posting a problem online and asking for volunteers to consider the problem and propose solutions."
+    },
+    {
+      "term": "capital",
+      "glossaryTranslation": "vốn",
+      "frequency": 1,
+      "context": "While the exact reason for its failure is unknown, some reasons the venture could have failed were insufficient capital, regulation, management problems or strategic misalignment, or even poor timing."
+    },
+    {
+      "term": "corporation",
+      "glossaryTranslation": "công ty cổ phần",
+      "frequency": 2,
+      "context": "In the case of innovation contests and outsourced tasks from corporations, those tasks may be hosted internally by the corporation."
+    },
+    {
+      "term": "for-profit business",
+      "glossaryTranslation": "doanh nghiệp vì lợi nhuận",
+      "frequency": 1,
+      "context": "Crowdsourcing Professor Daren Brabham at the University of Southern California has written books on crowdsourcing and touts its potential in for-profit and not-for-profit business sectors."
+    },
+    {
+      "term": "legal compliance",
+      "glossaryTranslation": "tuân thủ pháp luật",
+      "frequency": 1,
+      "context": "Some of these problems include staffing, hiring and managing employees, handling legal compliance, funding, marketing, and paying taxes."
+    },
+    {
+      "term": "entrepreneur in action",
+      "glossaryTranslation": "doanh nhân thực chiến",
+      "frequency": 3,
+      "context": "And that’s what I spend all my time on.” 19 Entrepreneur In Action Taaluma Totes 20 Young entrepreneurs Jack DuFour and Alley Heffern began to notice the beautiful fabrics that came from the different countries they visited."
+    },
+    {
+      "term": "toyota",
+      "glossaryTranslation": "Toyota",
+      "frequency": 4,
+      "context": "Toyota pioneered the lean process in the 1980s."
+    },
+    {
+      "term": "link to learning",
+      "glossaryTranslation": "liên kết học tập",
+      "frequency": 8,
+      "context": "5 Link to Learning Visit Inc."
+    },
+    {
+      "term": "work it out",
+      "glossaryTranslation": "thực hành",
+      "frequency": 1,
+      "context": "Work It Out A Crowdsourced Potato Chip In an effort to increase sales among millennials, PepsiCo turned to crowdsourcing to get new flavor ideas for their Lay’s potato chips (called Walker’s in the UK)."
+    },
+    {
+      "term": "learning objectives",
+      "glossaryTranslation": "mục tiêu học tập",
+      "frequency": 4,
+      "context": "Learning Objectives By the end of this section, you will be able to: Define problem solving in the context of entrepreneurship Describe and compare the adaptive model and the innovative model of problem solving Identify the skills entrepreneurs need for effective problem solving Identify types of problem solvers As you’ve learned, entrepreneurs often visualize an opportunity gap, a gap between what exists and what could exist, as Hirabayashi and Lidey did with Shine."
+    },
+    {
+      "term": "suggested resources",
+      "glossaryTranslation": "tài nguyên gợi ý",
+      "frequency": 1,
+      "context": "Suggested Resources 6.1 Problem Solving to Find Entrepreneurial Solutions Tony Robbins’ tips on decisiveness: https://www.tonyrobbins.com/stories/unleash-the-power/be-decisive/ 6.2 Creative Problem-Solving Process https://www.nngroup.com/articles/storyboards-visualize-ideas/ https://www.studiobinder.com/blog/downloads/storyboard-template/ https://www.mturk.com/ https://www.mindtools.com 6.3 Design Thinking Google Ventures Design sprint: https://www.gv.com/sprint/ IDEO Design Kit: http://www.designkit.org Stanford Design Thinking Mix Tapes: https://dschool.stanford.edu/resources/chart-a-new-course-put-design-thinking-to-work Stanford Design Thinking Process Diagram: https://dschool.stanford.edu/executive-education/dbootcamp 6.4 Lean Processes Lean Enterprise Institute: https://www.lean.org/WhatsLean/ Summary 6.1 Problem Solving to Find Entrepreneurial Solutions Problem solving involves more than making decisions."
+    },
+    {
+      "term": "key terms",
+      "glossaryTranslation": "thuật ngữ chính",
+      "frequency": 1,
+      "context": "Key Terms adaptive model method of entrepreneurial problem solving that seeks solutions in ways that are tested and known to be effective assessment lean problem-solving process phase in which the entrepreneur experiments and analyzes the potential process and its capabilities brainstorming generation of ideas in an environment free of judgment or dissension with the goal of creating solutions clarify first step of the creative process, which involves recognizing the existence of a gap between the current state and a desired state communication skills skills entrepreneurs use to pool resources for the purposes of investigating solutions leading to innovative problem solving and competitive advantage creativity development of original ideas critical thinking complex analysis of a problem or issue with the goal of solving the problem or making a decision crowdsourcing teams of amateurs and non-experts working together to form a solution to a problem data analysis process of analyzing data and modeling the data into a structure that leads to innovative conclusions decisiveness ability to make a quick, effective decision, not letting too much time go by in the process design thinking method to focus the design and development decisions of a product on the needs of the customer, typically involving an empathy-driven process to define complex problems and create solutions that address those problems develop stage in which the entrepreneur takes the list of ideas generated and tests each solution for feasibility entrepreneurial problem solving process of using innovation and creative solutions to close the opportunity gap by resolving complex societal, business, or technological problems evaluate stage in which the final solution is assessed evaluation lean problem-solving process phase in which behaviors are analyzed to assess success external environment outside the enterprise and encompasses customers, industry trends, and competition hackathon event, usually hosted by a tech company or organization, which brings together programmers and workers with other degrees of specialization within the company, community, or organization to collaborate on a project over a short period of time human-centered design focuses on people during design and development ideate stage of the creative problem-solving process leading to the detailing and formation of idea generation by the entrepreneur implement means to enact the plan and test for success innovative model method of entrepreneurial problem solving that uses techniques unknown to the market and that bring competitive advantage to an organization internal environment comprises the factors inside the enterprise, such as employees, and internal practices and processes lean process systematic process for the maximizing of continuous improvement and the minimization of surplus or unused material in the production of a process need awareness occurs when the entrepreneur notes a gap between societal or customer needs and actual circumstances observation lean problem-solving process phase in which the entrepreneur studies the challenge and notes all facets of the challenge requiring solution petitioner problem solvers problem solvers who see a problem and ask others for solution ideas resourcefulness ability to discover clever solutions to obstacles self-regulating problem solvers problem solvers who are autonomous and work on their own, without external influence; they have the ability to see a problem, immediately visualize a possible solution to the problem, and seek to devise a solution storyboarding process of presenting an idea in a step-by-step graphic format team creativity process of a team creating an unexpected solution for an issue or challenge theorist problem solvers problem solvers who see a problem and begin to consider a path toward solving the problem using a theory whiteboarding type of graphing that permits the entrepreneur to plot each step in a process to build comprehension and detailing of the process Review Questions 1 ."
+    },
+    {
+      "term": "review questions",
+      "glossaryTranslation": "câu hỏi ôn tập",
+      "frequency": 1,
+      "context": "Key Terms adaptive model method of entrepreneurial problem solving that seeks solutions in ways that are tested and known to be effective assessment lean problem-solving process phase in which the entrepreneur experiments and analyzes the potential process and its capabilities brainstorming generation of ideas in an environment free of judgment or dissension with the goal of creating solutions clarify first step of the creative process, which involves recognizing the existence of a gap between the current state and a desired state communication skills skills entrepreneurs use to pool resources for the purposes of investigating solutions leading to innovative problem solving and competitive advantage creativity development of original ideas critical thinking complex analysis of a problem or issue with the goal of solving the problem or making a decision crowdsourcing teams of amateurs and non-experts working together to form a solution to a problem data analysis process of analyzing data and modeling the data into a structure that leads to innovative conclusions decisiveness ability to make a quick, effective decision, not letting too much time go by in the process design thinking method to focus the design and development decisions of a product on the needs of the customer, typically involving an empathy-driven process to define complex problems and create solutions that address those problems develop stage in which the entrepreneur takes the list of ideas generated and tests each solution for feasibility entrepreneurial problem solving process of using innovation and creative solutions to close the opportunity gap by resolving complex societal, business, or technological problems evaluate stage in which the final solution is assessed evaluation lean problem-solving process phase in which behaviors are analyzed to assess success external environment outside the enterprise and encompasses customers, industry trends, and competition hackathon event, usually hosted by a tech company or organization, which brings together programmers and workers with other degrees of specialization within the company, community, or organization to collaborate on a project over a short period of time human-centered design focuses on people during design and development ideate stage of the creative problem-solving process leading to the detailing and formation of idea generation by the entrepreneur implement means to enact the plan and test for success innovative model method of entrepreneurial problem solving that uses techniques unknown to the market and that bring competitive advantage to an organization internal environment comprises the factors inside the enterprise, such as employees, and internal practices and processes lean process systematic process for the maximizing of continuous improvement and the minimization of surplus or unused material in the production of a process need awareness occurs when the entrepreneur notes a gap between societal or customer needs and actual circumstances observation lean problem-solving process phase in which the entrepreneur studies the challenge and notes all facets of the challenge requiring solution petitioner problem solvers problem solvers who see a problem and ask others for solution ideas resourcefulness ability to discover clever solutions to obstacles self-regulating problem solvers problem solvers who are autonomous and work on their own, without external influence; they have the ability to see a problem, immediately visualize a possible solution to the problem, and seek to devise a solution storyboarding process of presenting an idea in a step-by-step graphic format team creativity process of a team creating an unexpected solution for an issue or challenge theorist problem solvers problem solvers who see a problem and begin to consider a path toward solving the problem using a theory whiteboarding type of graphing that permits the entrepreneur to plot each step in a process to build comprehension and detailing of the process Review Questions 1 ."
+    },
+    {
+      "term": "discussion questions",
+      "glossaryTranslation": "câu hỏi thảo luận",
+      "frequency": 1,
+      "context": "Discussion Questions 1 ."
+    },
+    {
+      "term": "case questions",
+      "glossaryTranslation": "câu hỏi tình huống",
+      "frequency": 1,
+      "context": "(credit: “Kiichiro Toyoda” by “Scanyaro”/Wikimedia Commons, Public Domain) Case Questions 1 ."
+    },
+    {
+      "term": "chapter outline",
+      "glossaryTranslation": "dàn ý chương",
+      "frequency": 1,
+      "context": "(credit: modification of “human hand company paper solutions” by “Eluj”/Pixabay, CC0) Chapter Outline 6.1 Problem Solving to Find Entrepreneurial Solutions 6.2 Creative Problem-Solving Process 6.3 Design Thinking 6.4 Lean Processes Introduction Portions of the material in this section are based on original work by Geoffrey Graybeal and produced with support from the Rebus Community."
+    }
+  ],
+  "candidateTerms": [
+    {
+      "term": "Problem Solving to Find Entrepreneurial",
+      "frequency": 4,
+      "context": "6.1 Problem Solving to Find Entrepreneurial Solutions Portions of the material in this section are based on original work by Geoffrey Graybeal and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Geoffrey Graybeal",
+      "frequency": 5,
+      "context": "6.1 Problem Solving to Find Entrepreneurial Solutions Portions of the material in this section are based on original work by Geoffrey Graybeal and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Rebus Community",
+      "frequency": 5,
+      "context": "6.1 Problem Solving to Find Entrepreneurial Solutions Portions of the material in this section are based on original work by Geoffrey Graybeal and produced with support from the Rebus Community."
+    },
+    {
+      "term": "CC BY",
+      "frequency": 15,
+      "context": "The original is freely available under the terms of the CC BY 4.0 license at https://press.rebus.community/media-innovation-and-entrepreneurship/ ."
+    },
+    {
+      "term": "Learning Objectives By",
+      "frequency": 4,
+      "context": "Learning Objectives By the end of this section, you will be able to: Define problem solving in the context of entrepreneurship Describe and compare the adaptive model and the innovative model of problem solving Identify the skills entrepreneurs need for effective problem solving Identify types of problem solvers As you’ve learned, entrepreneurs often visualize an opportunity gap, a gap between what exists and what could exist, as Hirabayashi and Lidey did with Shine."
+    },
+    {
+      "term": "Hirabayashi and Lidey",
+      "frequency": 3,
+      "context": "Learning Objectives By the end of this section, you will be able to: Define problem solving in the context of entrepreneurship Describe and compare the adaptive model and the innovative model of problem solving Identify the skills entrepreneurs need for effective problem solving Identify types of problem solvers As you’ve learned, entrepreneurs often visualize an opportunity gap, a gap between what exists and what could exist, as Hirabayashi and Lidey did with Shine."
+    },
+    {
+      "term": "Identifying Entrepreneurial Opportunity",
+      "frequency": 3,
+      "context": "For example, as we read in Identifying Entrepreneurial Opportunity , Sara Blakely (as shown in Figure 6.2 ) saw a need for body contouring and smoothing undergarments one day in the late 1990s when she was getting dressed for a party and couldn’t find what she needed to give her a silhouette she’d be pleased with in a pair of slacks."
+    },
+    {
+      "term": "Sara Blakely",
+      "frequency": 3,
+      "context": "For example, as we read in Identifying Entrepreneurial Opportunity , Sara Blakely (as shown in Figure 6.2 ) saw a need for body contouring and smoothing undergarments one day in the late 1990s when she was getting dressed for a party and couldn’t find what she needed to give her a silhouette she’d be pleased with in a pair of slacks."
+    },
+    {
+      "term": "Fast Company Innovation Festival",
+      "frequency": 2,
+      "context": "2 Figure 6.2 Sara Blakely (right) participates in a discussion at the 2018 Fast Company Innovation Festival."
+    },
+    {
+      "term": "Vital Vio",
+      "frequency": 2,
+      "context": "Vital Vio , led by Colleen Costello , has developed white light technology that effectively disinfects healthcare facilities by targeting a molecule specific to bacteria."
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 8,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Critical Thinking Critical thinking is the complex analysis of a problem or issue with the goal of solving the problem or making a decision."
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 8,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Critical Thinking Critical thinking is the complex analysis of a problem or issue with the goal of solving the problem or making a decision."
+    },
+    {
+      "term": "Link to Learning Read",
+      "frequency": 3,
+      "context": "6 Link to Learning Read more about problem solving and EnterpriseWorks/Vita’s story at Harvard Business Review ."
+    },
+    {
+      "term": "Warby Parker",
+      "frequency": 2,
+      "context": "For example, as explained in Adam Grant’s book The Originals , the co-founders of Warby Parker, a venture-backed startup focused on the eyewear industry, started their company while they were graduate students."
+    },
+    {
+      "term": "Katie Witkin",
+      "frequency": 2,
+      "context": "A similar experience occurred for entrepreneur Katie Witkin ."
+    },
+    {
+      "term": "AGW Group",
+      "frequency": 3,
+      "context": "After working in traditional marketing roles, the University of Wisconsin-Madison graduate, pictured in Figure 6.5 , left agency life behind four years out of college to cofound her own company, AGW Group ."
+    },
+    {
+      "term": "The Steps",
+      "frequency": 8,
+      "context": "That is, the entrepreneur proceeds through the steps to solve the problem and then builds on the successes, rejects the failures, and works toward the outcome by experimenting and building on known results."
+    },
+    {
+      "term": "Are You Ready",
+      "frequency": 2,
+      "context": "Are You Ready?"
+    },
+    {
+      "term": "Mechanical Turk",
+      "frequency": 2,
+      "context": "Amazon ’s Mechanical Turk is an online crowdsourcing platform that allows individuals to post tasks for workers to complete."
+    },
+    {
+      "term": "Link to Learning Watch",
+      "frequency": 2,
+      "context": "Link to Learning Watch this video from ABC’s Nightline that shows how IDEO designed a new shopping cart for an example of a design process that involves brainstorming."
+    },
+    {
+      "term": "Taaluma Totes",
+      "frequency": 4,
+      "context": "And that’s what I spend all my time on.” 19 Entrepreneur In Action Taaluma Totes 20 Young entrepreneurs Jack DuFour and Alley Heffern began to notice the beautiful fabrics that came from the different countries they visited."
+    },
+    {
+      "term": "DuFour and Heffern",
+      "frequency": 2,
+      "context": "DuFour and Heffern also wanted to promote the production of these fabrics and help underserved populations in countries where the fabric originated maintain a living or follow a dream."
+    },
+    {
+      "term": "David Kelley",
+      "frequency": 3,
+      "context": "Learning Objectives By the end of this section, you will be able to: Explain the design thinking process Discuss some design thinking tools David Kelley , founder of Stanford University’s Design School and cofounder of design company IDEO , is credited as the originator of design thinking, at least within business and entrepreneurial contexts."
+    },
+    {
+      "term": "Stanford University",
+      "frequency": 2,
+      "context": "Learning Objectives By the end of this section, you will be able to: Explain the design thinking process Discuss some design thinking tools David Kelley , founder of Stanford University’s Design School and cofounder of design company IDEO , is credited as the originator of design thinking, at least within business and entrepreneurial contexts."
+    },
+    {
+      "term": "Design School",
+      "frequency": 5,
+      "context": "Learning Objectives By the end of this section, you will be able to: Explain the design thinking process Discuss some design thinking tools David Kelley , founder of Stanford University’s Design School and cofounder of design company IDEO , is credited as the originator of design thinking, at least within business and entrepreneurial contexts."
+    },
+    {
+      "term": "Tim Brown",
+      "frequency": 3,
+      "context": "The current IDEO CEO Tim Brown defines design thinking as “a human-centered and collaborative approach to problem-solving, using a designed mindset to solve complex problems.” 21 Design thinking is a method to focus the design and development decisions of a product on the needs of the customer, typically involving an empathy-driven process to define complex problems and create solutions that address those problems."
+    },
+    {
+      "term": "Top Five",
+      "frequency": 3,
+      "context": "A few examples of ideation exercises include Top Five, How Might We, Mash-up, and Co-Creation Session."
+    },
+    {
+      "term": "How Might We",
+      "frequency": 4,
+      "context": "A few examples of ideation exercises include Top Five, How Might We, Mash-up, and Co-Creation Session."
+    },
+    {
+      "term": "Co-Creation Session",
+      "frequency": 2,
+      "context": "A few examples of ideation exercises include Top Five, How Might We, Mash-up, and Co-Creation Session."
+    },
+    {
+      "term": "Frame Your Design",
+      "frequency": 2,
+      "context": "“Frame Your Design” is one such challenge in what IDEO calls its “toolkit” that works well here."
+    },
+    {
+      "term": "Innovation Flowchart",
+      "frequency": 2,
+      "context": "Innovation Flowchart: A sample innovation flowchart may map out the details of the process."
+    },
+    {
+      "term": "Question Ladder",
+      "frequency": 2,
+      "context": "Question Ladder: A tool that helps you ask the “right” questions by refining your questions ( Figure 6.15 )."
+    },
+    {
+      "term": "IDEO Design Kit",
+      "frequency": 2,
+      "context": "IDEO Design Kit: IDEO offers an approximately 200-page free PDF, “The Field Guide to Human Centered Design,” with activities on mindsets, ideation, inspiration, implementation and a few case studies: http://www.designkit.org/resources/1 ."
+    },
+    {
+      "term": "Centered Design",
+      "frequency": 7,
+      "context": "One design thinking approach that is taught at places like Stanford’s Design School and organizations like the LUMA Institute (a global company that teaches people how to be innovative) is human-centered design (HCD) ."
+    },
+    {
+      "term": "Google Ventures Design Sprint",
+      "frequency": 2,
+      "context": "Google Ventures Design Sprint: A five-day design-thinking exercise that helps resolve questions through design, prototyping, and testing: https://www.gv.com/sprint/ ."
+    },
+    {
+      "term": "Design Thinking Mix Tapes",
+      "frequency": 2,
+      "context": "Design Thinking Mix Tapes: Stanford’s Design School offers three “mixtapes” that serve as guides through a half day of design thinking work in the areas of understanding, experimentation, and ideation: https://dschool.stanford.edu/resources/chart-a-new-course-put-design-thinking-to-work ."
+    },
+    {
+      "term": "Six Sigma",
+      "frequency": 3,
+      "context": "The Six Sigma methodology, pioneered at Motorola in the 1970s and 1980s, and adopted by many companies, is a disciplined, data-driven approach that provides companies tools to improve the capability of their business processes."
+    },
+    {
+      "term": "Process Excellence",
+      "frequency": 2,
+      "context": "This increase in performance and decrease in process variation helps lead to defect reduction and improvement in profits, employee morale, and quality of products or services.” 26 GE copied it and created the “ Process Excellence ” programs that millions of managers and others have taken to get certified at various “belts.” Although Six Sigma and Process Excellence do not fit strictly in terms of entrepreneurship, as they are used mainly by large, mature companies, many of the methods fit in the lean model."
+    },
+    {
+      "term": "New Balance",
+      "frequency": 2,
+      "context": "In a real-world example of a company applying lean processes, the New Balance Company , which designs and manufactures both athletic and casual shoes, used a batching approach in the early 2000s that organized production by departments, so that all of the cutting took place in one department, all of the stitching took place in another, and so forth."
+    },
+    {
+      "term": "Henry Ford",
+      "frequency": 2,
+      "context": "Entrepreneur In Action The Origin of Lean Would it surprise you to know the origin of lean, in modern times, is considered to be Henry Ford’s production line?"
+    },
+    {
+      "term": "The Ford",
+      "frequency": 2,
+      "context": "The Ford system was built around one static product."
+    },
+    {
+      "term": "Kiichiro Toyoda",
+      "frequency": 3,
+      "context": "Kiichiro Toyoda ( Figure 6.17 ), the second president of Toyota Motor Corporation , visited the Ford plant in Michigan to learn more about their application of the assembly line concept."
+    },
+    {
+      "term": "Design Thinking for Educators",
+      "frequency": 2,
+      "context": "For example, the “design thinking for educators” toolkit has design thinking resources related to education."
+    },
+    {
+      "term": "Creative Problem-Solving Process",
+      "frequency": 12,
+      "context": "6.2 Creative Problem-Solving Process Portions of the material in this section are based on original work by Geoffrey Graybeal and produced with support from the Rebus Community."
+    },
+    {
+      "term": "Lean Processes Lean",
+      "frequency": 2,
+      "context": "Suggested Resources 6.1 Problem Solving to Find Entrepreneurial Solutions Tony Robbins’ tips on decisiveness: https://www.tonyrobbins.com/stories/unleash-the-power/be-decisive/ 6.2 Creative Problem-Solving Process https://www.nngroup.com/articles/storyboards-visualize-ideas/ https://www.studiobinder.com/blog/downloads/storyboard-template/ https://www.mturk.com/ https://www.mindtools.com 6.3 Design Thinking Google Ventures Design sprint: https://www.gv.com/sprint/ IDEO Design Kit: http://www.designkit.org Stanford Design Thinking Mix Tapes: https://dschool.stanford.edu/resources/chart-a-new-course-put-design-thinking-to-work Stanford Design Thinking Process Diagram: https://dschool.stanford.edu/executive-education/dbootcamp 6.4 Lean Processes Lean Enterprise Institute: https://www.lean.org/WhatsLean/ Summary 6.1 Problem Solving to Find Entrepreneurial Solutions Problem solving involves more than making decisions."
+    }
+  ],
+  "missingGlossaryTerms": [],
+  "termFrequency": {
+    "entrepreneur": 83,
+    "entrepreneurial venture": 1,
+    "harvest": 1,
+    "value proposition": 1,
+    "opportunity recognition": 2,
+    "business model": 3,
+    "entrepreneurial journey": 1,
+    "entrepreneurial process": 2,
+    "innovation": 30,
+    "venture": 10,
+    "copyright": 8,
+    "intellectual property": 1,
+    "brainstorming": 17,
+    "creativity": 27,
+    "design thinking": 53,
+    "empathy": 5,
+    "ideation": 10,
+    "invention": 5,
+    "competitive advantage": 6,
+    "customers": 12,
+    "entrepreneurial opportunity": 5,
+    "supply": 1,
+    "adaptive model": 5,
+    "assessment": 7,
+    "clarify": 8,
+    "communication skills": 2,
+    "critical thinking": 6,
+    "crowdsourcing": 15,
+    "data analysis": 3,
+    "decisiveness": 10,
+    "develop": 17,
+    "entrepreneurial problem solving": 5,
+    "evaluate": 9,
+    "evaluation": 5,
+    "external environment": 3,
+    "hackathon": 3,
+    "human-centered design": 6,
+    "ideate": 6,
+    "implement": 10,
+    "innovative model": 3,
+    "internal environment": 3,
+    "lean process": 12,
+    "need awareness": 2,
+    "observation": 8,
+    "petitioner problem solvers": 4,
+    "resourcefulness": 9,
+    "self-regulating problem solvers": 4,
+    "storyboarding": 8,
+    "team creativity": 5,
+    "theorist problem solvers": 4,
+    "whiteboarding": 5,
+    "ask": 6,
+    "advertising": 1,
+    "close": 3,
+    "marketing": 11,
+    "people": 12,
+    "place": 5,
+    "price": 1,
+    "process": 128,
+    "product": 30,
+    "sample": 1,
+    "social media": 14,
+    "targeting": 1,
+    "accounting": 1,
+    "credit": 12,
+    "crowdfunding": 3,
+    "funds": 4,
+    "grant": 1,
+    "revenue": 2,
+    "business model canvas": 1,
+    "networking": 4,
+    "outsourcing": 1,
+    "capital": 1,
+    "corporation": 2,
+    "for-profit business": 1,
+    "legal compliance": 1,
+    "entrepreneur in action": 3,
+    "toyota": 4,
+    "link to learning": 8,
+    "work it out": 1,
+    "learning objectives": 4,
+    "suggested resources": 1,
+    "key terms": 1,
+    "review questions": 1,
+    "discussion questions": 1,
+    "case questions": 1,
+    "chapter outline": 1,
+    "Problem Solving to Find Entrepreneurial": 4,
+    "Geoffrey Graybeal": 5,
+    "Rebus Community": 5,
+    "CC BY": 15,
+    "Learning Objectives By": 4,
+    "Hirabayashi and Lidey": 3,
+    "Identifying Entrepreneurial Opportunity": 3,
+    "Sara Blakely": 3,
+    "Fast Company Innovation Festival": 2,
+    "Vital Vio": 2,
+    "Copyright Rice University": 8,
+    "CC BY NC-SA": 8,
+    "Link to Learning Read": 3,
+    "Warby Parker": 2,
+    "Katie Witkin": 2,
+    "AGW Group": 3,
+    "The Steps": 8,
+    "Are You Ready": 2,
+    "Mechanical Turk": 2,
+    "Link to Learning Watch": 2,
+    "Taaluma Totes": 4,
+    "DuFour and Heffern": 2,
+    "David Kelley": 3,
+    "Stanford University": 2,
+    "Design School": 5,
+    "Tim Brown": 3,
+    "Top Five": 3,
+    "How Might We": 4,
+    "Co-Creation Session": 2,
+    "Frame Your Design": 2,
+    "Innovation Flowchart": 2,
+    "Question Ladder": 2,
+    "IDEO Design Kit": 2,
+    "Centered Design": 7,
+    "Google Ventures Design Sprint": 2,
+    "Design Thinking Mix Tapes": 2,
+    "Six Sigma": 3,
+    "Process Excellence": 2,
+    "New Balance": 2,
+    "Henry Ford": 2,
+    "The Ford": 2,
+    "Kiichiro Toyoda": 3,
+    "Design Thinking for Educators": 2,
+    "Creative Problem-Solving Process": 12,
+    "Lean Processes Lean": 2
+  },
+  "warnings": []
+}

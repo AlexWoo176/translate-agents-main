@@ -1,0 +1,938 @@
+{
+  "knownTerms": [
+    {
+      "term": "entrepreneur",
+      "glossaryTranslation": "doanh nhân/nhà khởi nghiệp",
+      "frequency": 24,
+      "context": "Entrepreneur In Action Ted Herget and Gearhead Outfitters Gearhead Outfitters , founded by Ted Herget in 1997 in Jonesboro, Arkansas, is a retail chain that sells outdoor gear for men, women, and children."
+    },
+    {
+      "term": "entrepreneurial venture",
+      "glossaryTranslation": "dự án khởi nghiệp",
+      "frequency": 1,
+      "context": "Whereas banks are traditionally wary of lending to new businesses because they are unproven, the SBA guarantee takes on some of the risk that the bank would normally be exposed to, providing more incentive to the lending institution to finance an entrepreneurial venture."
+    },
+    {
+      "term": "mission statement",
+      "glossaryTranslation": "tuyên bố sứ mệnh",
+      "frequency": 2,
+      "context": "Consider the original mission statement of the Metropolitan Museum of Art (commonly known as the “Met”) in New York City ( Figure 9.3 )."
+    },
+    {
+      "term": "value proposition",
+      "glossaryTranslation": "giá trị đề xuất",
+      "frequency": 1,
+      "context": "First, they often post an introductory video that explains the project goal and the specific value proposition."
+    },
+    {
+      "term": "bootstrapping",
+      "glossaryTranslation": "tự huy động vốn",
+      "frequency": 24,
+      "context": "9.2 Special Funding Strategies Learning Objectives By the end of this section, you will be able to: Identify funding strategies used by charitable organizations Describe financing opportunities available to startups Define bootstrapping Describe the advantages and disadvantages of bootstrapping It’s important to recognize that not all startups are Silicon Valley tech companies."
+    },
+    {
+      "term": "breakeven point",
+      "glossaryTranslation": "điểm hòa vốn",
+      "frequency": 2,
+      "context": "Break-Even Analysis Another critical part of planning for new business owners is to understand the breakeven point , which is the level of operations that results in exactly enough revenue to cover costs."
+    },
+    {
+      "term": "business model",
+      "glossaryTranslation": "mô hình kinh doanh",
+      "frequency": 4,
+      "context": "For example, the TOMS shoe company was able to create a business model through which the company gives one pair of shoes to children in need in foreign countries for every pair of shoes that a customer purchases."
+    },
+    {
+      "term": "cash flow",
+      "glossaryTranslation": "dòng tiền",
+      "frequency": 7,
+      "context": "For example, measuring revenue and expenses, providing information about cash flow to potential lenders, analyzing whether profit and positive cash flow is sustainable to allow for expansion, and managing inventory levels."
+    },
+    {
+      "term": "venture",
+      "glossaryTranslation": "doanh nghiệp (venture)",
+      "frequency": 29,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "copyright",
+      "glossaryTranslation": "bản quyền",
+      "frequency": 14,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) This is a different goal than that of most small businesses (providing a product or service in exchange for a profit) and, as a result, requires different financing strategies, such as a combination of program services, donations, and grants."
+    },
+    {
+      "term": "social entrepreneurship",
+      "glossaryTranslation": "khởi nghiệp xã hội",
+      "frequency": 5,
+      "context": "Some business ventures fall somewhere between organizations completely committed to charitable work and traditional small businesses with entrepreneurs focused on social entrepreneurship."
+    },
+    {
+      "term": "sustainability",
+      "glossaryTranslation": "tính bền vững",
+      "frequency": 1,
+      "context": "Key Terms accounting system of recording and classifying a company’s financial transactions and summarizing and communicating those transactions in the form of financial statements accounting equation assets = liabilities + equity accounts payable account that includes vendors that the company owes money to accounts receivable account that includes customers that owe the business money angel investor wealthy, private individual seeking investment options with a greater potential return than is generally available with traditional publicly traded stocks assets items a business owns and derives future use from balance sheet financial statement that summarizes a company’s financial condition according to the accounting equation bartering exchanging goods or services for other goods or services instead of for cash bootstrapping funding strategy that seeks to optimize use of personal funds and other creative strategies (such as bartering) to minimize cash outflows breakeven point level of operations that results in exactly enough revenue to cover costs burn rate rate at which cash outflow exceeds cash inflow charitable organization nonprofit company founded for altruistic purposes collateral something of value pledged to secure a loan contribution margin gross profit from a single item sold cost of goods sold cost required to produce the product or service credit lending of funds in exchange for a promise to repay crowdfunding financing with investments of small amounts of money from a large number of people debt financing borrowing funds that must be repaid, usually with interest donation financial gift intended to support an organization’s general operations early stage company lifecycle stage in which the product or service has begun development equity owner’s interest in the assets of the business equity financing funds provided in exchange for a share of ownership in a business expenses costs incurred in the normal course of business operations financial statement output of an accounting system that is used to make financial decisions financial viability long-term financial sustainability of an organization to fulfill its mission financing raising money to fund the startup and operation of a business financing activities section of the statement of cash flows that shows where new infusions of cash are coming from fixed assets major purchases with a long life, such as buildings, land, and so on fixed costs costs that do not change, regardless of the amount of sales funds financial resources for acquiring assets grant financial gift intended to fund a specific goal or project gross profit selling price of a product or service minus its direct costs income (profit-and-loss) statement financial statement that describes how much a company earned while the business was operating and what costs were incurred to generate those revenues initial public offering (IPO) process by which a company lists its ownership shares on a public stock exchange investing activities section of the statement of cash flows that shows major purchases of equipment or facilities liability company’s debt to another party mature stage company lifecycle stage in which the business has reached commercial viability moonlighting earning income from a source outside of one’s primary employ net income revenue minus expenses operating activities section of the statement of cash flows that shows day-to-day activities of the business, such as purchasing supplies, paying rent, and receiving cash from customers profit margin amount by which revenue exceeds costs, typically described as a percent program services basic offerings that a nonprofit provides to generate a portion of its revenue to sustain operations projection forecast of the future operations of a business revenue amount a business earns through product sales or providing a service run rate cost of running a business over a specified period of time seed stage company lifecycle stage in which the business is largely still an idea statement of cash flows financial statement that explains the sources and uses of the company’s cash sustainable strategy strategy that can maintain an organization’s financial stability tax-exempt status treatment under U.S."
+    },
+    {
+      "term": "creativity",
+      "glossaryTranslation": "sự sáng tạo",
+      "frequency": 2,
+      "context": "This creativity applies to bringing customers and sales in the door as well as to managing expenses."
+    },
+    {
+      "term": "customers",
+      "glossaryTranslation": "khách hàng",
+      "frequency": 25,
+      "context": "They are operating in the manner described in the business plan: providing value to customers, generating sales, and collecting customer payments in a timely manner."
+    },
+    {
+      "term": "demand",
+      "glossaryTranslation": "nhu cầu",
+      "frequency": 3,
+      "context": "For loans over $25,000, the SBA requires lenders to demand collateral."
+    },
+    {
+      "term": "financial viability",
+      "glossaryTranslation": "tính khả thi tài chính",
+      "frequency": 2,
+      "context": "For the Met, with such a low percentage of revenue generated by program services, it’s clear that donations and charitable gifts are vital to the organization’s financial viability ."
+    },
+    {
+      "term": "infrastructure",
+      "glossaryTranslation": "cơ sở hạ tầng",
+      "frequency": 1,
+      "context": "Companies at the mature stage have different financing needs from those in the previous two stages, where the focus was on building the product and creating a sales/manufacturing infrastructure."
+    },
+    {
+      "term": "supply",
+      "glossaryTranslation": "cung",
+      "frequency": 1,
+      "context": "This is influenced by many things, including the supply and demand of jobs and employees, and the field in which you plan to work."
+    },
+    {
+      "term": "develop",
+      "glossaryTranslation": "phát triển",
+      "frequency": 4,
+      "context": "Thus, these organizations must develop a sustainable strategy —one that can maintain the organization’s financial stability."
+    },
+    {
+      "term": "implement",
+      "glossaryTranslation": "triển khai",
+      "frequency": 2,
+      "context": "Some crowdfunding websites, such as Kickstarter , implement an “all or nothing” model in which projects do not receive any funds unless their overall funding goal is met."
+    },
+    {
+      "term": "ask",
+      "glossaryTranslation": "khoản yêu cầu (ask)",
+      "frequency": 3,
+      "context": "Thus, in approving a larger loan, a bank might ask you to offer your home or other investments to secure the loan."
+    },
+    {
+      "term": "pitch",
+      "glossaryTranslation": "bài thuyết trình gọi vốn (pitch)",
+      "frequency": 3,
+      "context": "Contestants on the series pitch a new business idea in order to raise money to start or expand their business."
+    },
+    {
+      "term": "advertising",
+      "glossaryTranslation": "quảng cáo",
+      "frequency": 3,
+      "context": "For a software company or app provider, this means generating sales of the software or subscriptions under an SaaS model (Software as a Service) and possibly securing advertising revenue from access to the user base."
+    },
+    {
+      "term": "close",
+      "glossaryTranslation": "chốt bán hàng",
+      "frequency": 1,
+      "context": "After investments from close personal sources, the business idea may begin to build traction and attract the attention of an angel investor."
+    },
+    {
+      "term": "marketing",
+      "glossaryTranslation": "tiếp thị",
+      "frequency": 4,
+      "context": "Word-of-mouth marketing can lead to more backers or future customers after launch."
+    },
+    {
+      "term": "people",
+      "glossaryTranslation": "con người (nguồn nhân lực)",
+      "frequency": 7,
+      "context": "Social Entrepreneurship Like the founder of TOMS, sometimes in our everyday life, we are presented with an opportunity to help people."
+    },
+    {
+      "term": "place",
+      "glossaryTranslation": "phân phối (place)",
+      "frequency": 3,
+      "context": "The first-place award yields $15,000 in prize money, which can be a great start toward turning an entrepreneurial idea into a business reality."
+    },
+    {
+      "term": "price",
+      "glossaryTranslation": "giá",
+      "frequency": 9,
+      "context": "In this case, the majority of loan proceeds will likely go toward the purchase price of the property."
+    },
+    {
+      "term": "process",
+      "glossaryTranslation": "quy trình",
+      "frequency": 15,
+      "context": "Once a new business plan has been developed or a potential acquisition has been identified, it’s time to start thinking about financing , which is the process of raising money for an intended purpose."
+    },
+    {
+      "term": "product",
+      "glossaryTranslation": "sản phẩm",
+      "frequency": 32,
+      "context": "But funding cannot make up for a lack of experience, poor management, or a product with no viable market."
+    },
+    {
+      "term": "profit margin",
+      "glossaryTranslation": "biên lợi nhuận",
+      "frequency": 4,
+      "context": "After identifying total revenue and expenses, a business can calculate its profit margin."
+    },
+    {
+      "term": "social media",
+      "glossaryTranslation": "mạng xã hội",
+      "frequency": 4,
+      "context": "For example, for a contribution of $5, the chef might thank the backer on social media; for $25, the backer would get a t-shirt and a hat featuring the food truck’s logo; for $100, the backer would get five free meals when the food truck opens."
+    },
+    {
+      "term": "accounting",
+      "glossaryTranslation": "kế toán",
+      "frequency": 77,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "accounting equation",
+      "glossaryTranslation": "phương trình kế toán",
+      "frequency": 29,
+      "context": "9.3 Accounting Basics for Entrepreneurs Learning Objectives By the end of this section, you will be able to: Explain the accounting equation and define its parts (assets, liabilities, and equity) Define revenue, expenses, and income Although financing and accounting complement and rely on each other, they are distinct."
+    },
+    {
+      "term": "accounts payable",
+      "glossaryTranslation": "các khoản phải trả",
+      "frequency": 2,
+      "context": "Accounts payable is an account that covers many different vendors that the company buys from on credit, which means the vendors let the pizzeria pay them after they have delivered their goods."
+    },
+    {
+      "term": "accounts receivable",
+      "glossaryTranslation": "các khoản phải thu",
+      "frequency": 2,
+      "context": "As soon as she completes the client’s website, the accounting system will record the revenue , the amount that is due from that client; this second item is referred to as accounts receivable ."
+    },
+    {
+      "term": "angel investor",
+      "glossaryTranslation": "nhà đầu tư thiên thần",
+      "frequency": 4,
+      "context": "After investments from close personal sources, the business idea may begin to build traction and attract the attention of an angel investor."
+    },
+    {
+      "term": "assets",
+      "glossaryTranslation": "tài sản",
+      "frequency": 52,
+      "context": "These requirements translate into monthly rent on a restaurant location and the purchase of physical assets: ovens and furniture."
+    },
+    {
+      "term": "balance sheet",
+      "glossaryTranslation": "bảng cân đối kế toán",
+      "frequency": 19,
+      "context": "Accounting, or the preparation of financial statements (balance sheet, income statement, and statement of cash flows), provides the mechanism for business owners such as Herget to make fundamentally sound business decisions."
+    },
+    {
+      "term": "bartering",
+      "glossaryTranslation": "trao đổi hàng hóa (barter)",
+      "frequency": 12,
+      "context": "The financing methods described here are more creative funding strategies, including crowdfunding, bartering, and other methods."
+    },
+    {
+      "term": "burn rate",
+      "glossaryTranslation": "tốc độ đốt tiền",
+      "frequency": 5,
+      "context": "9.4 Developing Startup Financial Statements and Projections Learning Objectives By the end of this section, you will be able to: Understand the three primary financial statements: balance sheet, income statement, and statement of cash flows Understand how financial projections are made and how to use the run rate and the burn rate Understand how to create a break-even analysis You have learned how an accounting system classifies transactions in terms of assets, liabilities, and equity; what those transactions mean in terms of the accounting equation; and what that information says about an entity’s overall financial health."
+    },
+    {
+      "term": "charitable organization",
+      "glossaryTranslation": "tổ chức từ thiện",
+      "frequency": 4,
+      "context": "The benefactors of a charitable organization want to help further the mission of the organization."
+    },
+    {
+      "term": "collateral",
+      "glossaryTranslation": "tài sản thế chấp",
+      "frequency": 10,
+      "context": "For loans over $25,000, the SBA requires lenders to demand collateral."
+    },
+    {
+      "term": "contribution margin",
+      "glossaryTranslation": "lợi nhuận đóng góp",
+      "frequency": 9,
+      "context": "The first step in understanding the break-even point is to calculate the contribution margin of each item sold."
+    },
+    {
+      "term": "cost of goods sold",
+      "glossaryTranslation": "giá vốn hàng bán",
+      "frequency": 5,
+      "context": "We refer to these expenses as the cost of goods sold ."
+    },
+    {
+      "term": "credit",
+      "glossaryTranslation": "tín dụng",
+      "frequency": 29,
+      "context": "Do you have other funding resources, such as loans or credit?"
+    },
+    {
+      "term": "crowdfunding",
+      "glossaryTranslation": "gọi vốn cộng đồng",
+      "frequency": 30,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "debt financing",
+      "glossaryTranslation": "tài trợ bằng nợ",
+      "frequency": 14,
+      "context": "Equity Financing &nbsp; Debt Financing Equity Financing Ownership Lender does not own stake in company Lender owns stake in company Cash Requires early and regular cash outflow No immediate cash outflow Table 9.1 Debt Financing Debt financing is the process of borrowing funds from another party."
+    },
+    {
+      "term": "donation",
+      "glossaryTranslation": "khoản quyên góp",
+      "frequency": 3,
+      "context": "A donation is a financial gift with no expectation of repayment or receiving anything in return."
+    },
+    {
+      "term": "early stage",
+      "glossaryTranslation": "giai đoạn đầu",
+      "frequency": 5,
+      "context": "From inception through successful operations, a business’s funding grows generally through three stages: seed stage, early stage, and maturity ( Figure 9.2 )."
+    },
+    {
+      "term": "equity",
+      "glossaryTranslation": "vốn chủ sở hữu",
+      "frequency": 46,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "equity financing",
+      "glossaryTranslation": "tài trợ bằng vốn chủ sở hữu",
+      "frequency": 15,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "expenses",
+      "glossaryTranslation": "chi phí",
+      "frequency": 36,
+      "context": "For example, measuring revenue and expenses, providing information about cash flow to potential lenders, analyzing whether profit and positive cash flow is sustainable to allow for expansion, and managing inventory levels."
+    },
+    {
+      "term": "financial statement",
+      "glossaryTranslation": "báo cáo tài chính",
+      "frequency": 9,
+      "context": "The Balance Sheet The first financial statement is the balance sheet."
+    },
+    {
+      "term": "financing",
+      "glossaryTranslation": "huy động vốn",
+      "frequency": 70,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "financing activities",
+      "glossaryTranslation": "hoạt động tài chính",
+      "frequency": 2,
+      "context": "The third section of the statement of cash flows is financing activities ."
+    },
+    {
+      "term": "fixed assets",
+      "glossaryTranslation": "tài sản cố định",
+      "frequency": 4,
+      "context": "Loans backed by the SBA typically fall into one of two categories: working capital and fixed assets."
+    },
+    {
+      "term": "fixed costs",
+      "glossaryTranslation": "chi phí cố định",
+      "frequency": 7,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) The other main category of costs is fixed costs."
+    },
+    {
+      "term": "funds",
+      "glossaryTranslation": "nguồn vốn",
+      "frequency": 30,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "grant",
+      "glossaryTranslation": "khoản tài trợ",
+      "frequency": 13,
+      "context": "A grant is a financial gift given for a specific purpose by a government agency or a charitable organization such as the Bill and Melinda Gates Foundation ."
+    },
+    {
+      "term": "gross profit",
+      "glossaryTranslation": "lợi nhuận gộp",
+      "frequency": 7,
+      "context": "The selling price of an item minus its direct costs—or cost of goods sold—is the gross profit ."
+    },
+    {
+      "term": "income (profit-and-loss) statement",
+      "glossaryTranslation": "báo cáo kết quả kinh doanh",
+      "frequency": 1,
+      "context": "Key Terms accounting system of recording and classifying a company’s financial transactions and summarizing and communicating those transactions in the form of financial statements accounting equation assets = liabilities + equity accounts payable account that includes vendors that the company owes money to accounts receivable account that includes customers that owe the business money angel investor wealthy, private individual seeking investment options with a greater potential return than is generally available with traditional publicly traded stocks assets items a business owns and derives future use from balance sheet financial statement that summarizes a company’s financial condition according to the accounting equation bartering exchanging goods or services for other goods or services instead of for cash bootstrapping funding strategy that seeks to optimize use of personal funds and other creative strategies (such as bartering) to minimize cash outflows breakeven point level of operations that results in exactly enough revenue to cover costs burn rate rate at which cash outflow exceeds cash inflow charitable organization nonprofit company founded for altruistic purposes collateral something of value pledged to secure a loan contribution margin gross profit from a single item sold cost of goods sold cost required to produce the product or service credit lending of funds in exchange for a promise to repay crowdfunding financing with investments of small amounts of money from a large number of people debt financing borrowing funds that must be repaid, usually with interest donation financial gift intended to support an organization’s general operations early stage company lifecycle stage in which the product or service has begun development equity owner’s interest in the assets of the business equity financing funds provided in exchange for a share of ownership in a business expenses costs incurred in the normal course of business operations financial statement output of an accounting system that is used to make financial decisions financial viability long-term financial sustainability of an organization to fulfill its mission financing raising money to fund the startup and operation of a business financing activities section of the statement of cash flows that shows where new infusions of cash are coming from fixed assets major purchases with a long life, such as buildings, land, and so on fixed costs costs that do not change, regardless of the amount of sales funds financial resources for acquiring assets grant financial gift intended to fund a specific goal or project gross profit selling price of a product or service minus its direct costs income (profit-and-loss) statement financial statement that describes how much a company earned while the business was operating and what costs were incurred to generate those revenues initial public offering (IPO) process by which a company lists its ownership shares on a public stock exchange investing activities section of the statement of cash flows that shows major purchases of equipment or facilities liability company’s debt to another party mature stage company lifecycle stage in which the business has reached commercial viability moonlighting earning income from a source outside of one’s primary employ net income revenue minus expenses operating activities section of the statement of cash flows that shows day-to-day activities of the business, such as purchasing supplies, paying rent, and receiving cash from customers profit margin amount by which revenue exceeds costs, typically described as a percent program services basic offerings that a nonprofit provides to generate a portion of its revenue to sustain operations projection forecast of the future operations of a business revenue amount a business earns through product sales or providing a service run rate cost of running a business over a specified period of time seed stage company lifecycle stage in which the business is largely still an idea statement of cash flows financial statement that explains the sources and uses of the company’s cash sustainable strategy strategy that can maintain an organization’s financial stability tax-exempt status treatment under U.S."
+    },
+    {
+      "term": "investing activities",
+      "glossaryTranslation": "hoạt động đầu tư",
+      "frequency": 3,
+      "context": "Investing activities include major purchases of equipment or facilities."
+    },
+    {
+      "term": "liability",
+      "glossaryTranslation": "nợ phải trả",
+      "frequency": 5,
+      "context": "A liability is a debt that a company has incurred with another party, as when it borrows money from a bank or purchases materials from other suppliers."
+    },
+    {
+      "term": "mature stage",
+      "glossaryTranslation": "giai đoạn trưởng thành",
+      "frequency": 3,
+      "context": "Companies in the mature stage have reached commercial viability."
+    },
+    {
+      "term": "moonlighting",
+      "glossaryTranslation": "làm thêm ngoài giờ",
+      "frequency": 5,
+      "context": "One of the simplest bootstrapping strategies is to start a business by moonlighting , or treating your business venture as a second job."
+    },
+    {
+      "term": "net income",
+      "glossaryTranslation": "lợi nhuận ròng",
+      "frequency": 5,
+      "context": "Revenue minus expenses results in net income , or profit if there are funds left over."
+    },
+    {
+      "term": "operating activities",
+      "glossaryTranslation": "hoạt động kinh doanh",
+      "frequency": 2,
+      "context": "The first is operating activities , the day-to-day activities of the business, including purchasing supplies, paying rent, and receiving cash from customers."
+    },
+    {
+      "term": "program services",
+      "glossaryTranslation": "dịch vụ chương trình",
+      "frequency": 6,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) This is a different goal than that of most small businesses (providing a product or service in exchange for a profit) and, as a result, requires different financing strategies, such as a combination of program services, donations, and grants."
+    },
+    {
+      "term": "projection",
+      "glossaryTranslation": "dự báo",
+      "frequency": 3,
+      "context": "A projection is a forecast of the future operations of the business."
+    },
+    {
+      "term": "revenue",
+      "glossaryTranslation": "doanh thu",
+      "frequency": 41,
+      "context": "For example, measuring revenue and expenses, providing information about cash flow to potential lenders, analyzing whether profit and positive cash flow is sustainable to allow for expansion, and managing inventory levels."
+    },
+    {
+      "term": "run rate",
+      "glossaryTranslation": "tốc độ vận hành (run rate)",
+      "frequency": 5,
+      "context": "9.4 Developing Startup Financial Statements and Projections Learning Objectives By the end of this section, you will be able to: Understand the three primary financial statements: balance sheet, income statement, and statement of cash flows Understand how financial projections are made and how to use the run rate and the burn rate Understand how to create a break-even analysis You have learned how an accounting system classifies transactions in terms of assets, liabilities, and equity; what those transactions mean in terms of the accounting equation; and what that information says about an entity’s overall financial health."
+    },
+    {
+      "term": "seed stage",
+      "glossaryTranslation": "giai đoạn hạt giống",
+      "frequency": 4,
+      "context": "From inception through successful operations, a business’s funding grows generally through three stages: seed stage, early stage, and maturity ( Figure 9.2 )."
+    },
+    {
+      "term": "statement of cash flows",
+      "glossaryTranslation": "báo cáo lưu chuyển tiền tệ",
+      "frequency": 17,
+      "context": "Accounting, or the preparation of financial statements (balance sheet, income statement, and statement of cash flows), provides the mechanism for business owners such as Herget to make fundamentally sound business decisions."
+    },
+    {
+      "term": "sustainable strategy",
+      "glossaryTranslation": "chiến lược bền vững",
+      "frequency": 2,
+      "context": "Thus, these organizations must develop a sustainable strategy —one that can maintain the organization’s financial stability."
+    },
+    {
+      "term": "tax-exempt status",
+      "glossaryTranslation": "tình trạng miễn thuế",
+      "frequency": 3,
+      "context": "In the United States, such organizations can qualify for tax-exempt status , meaning that if there is a profit from operations, it is not typically subject to taxes."
+    },
+    {
+      "term": "valuation",
+      "glossaryTranslation": "định giá",
+      "frequency": 2,
+      "context": "The drawback of equity financing is that the investor in our example is entitled to 40 percent of the profits for all future years unless the business owner repurchases the ownership interest, typically at a much higher valuation —an estimate of worth, usually described in relation to the price an investor would pay to acquire the entire company."
+    },
+    {
+      "term": "variable costs",
+      "glossaryTranslation": "chi phí biến đổi",
+      "frequency": 5,
+      "context": "Variable costs fluctuate with the level of revenue."
+    },
+    {
+      "term": "venture capitalist",
+      "glossaryTranslation": "nhà đầu tư mạo hiểm",
+      "frequency": 2,
+      "context": "A venture capitalist is an individual or investment firm that specializes in funding early stage companies."
+    },
+    {
+      "term": "working capital",
+      "glossaryTranslation": "vốn lưu động",
+      "frequency": 5,
+      "context": "Loans backed by the SBA typically fall into one of two categories: working capital and fixed assets."
+    },
+    {
+      "term": "financial sustainability",
+      "glossaryTranslation": "tính bền vững tài chính",
+      "frequency": 1,
+      "context": "Key Terms accounting system of recording and classifying a company’s financial transactions and summarizing and communicating those transactions in the form of financial statements accounting equation assets = liabilities + equity accounts payable account that includes vendors that the company owes money to accounts receivable account that includes customers that owe the business money angel investor wealthy, private individual seeking investment options with a greater potential return than is generally available with traditional publicly traded stocks assets items a business owns and derives future use from balance sheet financial statement that summarizes a company’s financial condition according to the accounting equation bartering exchanging goods or services for other goods or services instead of for cash bootstrapping funding strategy that seeks to optimize use of personal funds and other creative strategies (such as bartering) to minimize cash outflows breakeven point level of operations that results in exactly enough revenue to cover costs burn rate rate at which cash outflow exceeds cash inflow charitable organization nonprofit company founded for altruistic purposes collateral something of value pledged to secure a loan contribution margin gross profit from a single item sold cost of goods sold cost required to produce the product or service credit lending of funds in exchange for a promise to repay crowdfunding financing with investments of small amounts of money from a large number of people debt financing borrowing funds that must be repaid, usually with interest donation financial gift intended to support an organization’s general operations early stage company lifecycle stage in which the product or service has begun development equity owner’s interest in the assets of the business equity financing funds provided in exchange for a share of ownership in a business expenses costs incurred in the normal course of business operations financial statement output of an accounting system that is used to make financial decisions financial viability long-term financial sustainability of an organization to fulfill its mission financing raising money to fund the startup and operation of a business financing activities section of the statement of cash flows that shows where new infusions of cash are coming from fixed assets major purchases with a long life, such as buildings, land, and so on fixed costs costs that do not change, regardless of the amount of sales funds financial resources for acquiring assets grant financial gift intended to fund a specific goal or project gross profit selling price of a product or service minus its direct costs income (profit-and-loss) statement financial statement that describes how much a company earned while the business was operating and what costs were incurred to generate those revenues initial public offering (IPO) process by which a company lists its ownership shares on a public stock exchange investing activities section of the statement of cash flows that shows major purchases of equipment or facilities liability company’s debt to another party mature stage company lifecycle stage in which the business has reached commercial viability moonlighting earning income from a source outside of one’s primary employ net income revenue minus expenses operating activities section of the statement of cash flows that shows day-to-day activities of the business, such as purchasing supplies, paying rent, and receiving cash from customers profit margin amount by which revenue exceeds costs, typically described as a percent program services basic offerings that a nonprofit provides to generate a portion of its revenue to sustain operations projection forecast of the future operations of a business revenue amount a business earns through product sales or providing a service run rate cost of running a business over a specified period of time seed stage company lifecycle stage in which the business is largely still an idea statement of cash flows financial statement that explains the sources and uses of the company’s cash sustainable strategy strategy that can maintain an organization’s financial stability tax-exempt status treatment under U.S."
+    },
+    {
+      "term": "business plan",
+      "glossaryTranslation": "kế hoạch kinh doanh",
+      "frequency": 7,
+      "context": "This same basic inquiry and analysis should be completed as part of every business plan."
+    },
+    {
+      "term": "operational expenses",
+      "glossaryTranslation": "chi phí vận hành",
+      "frequency": 1,
+      "context": "A new enterprise that is bootstrapping must also carefully manage operational expenses."
+    },
+    {
+      "term": "capital",
+      "glossaryTranslation": "vốn",
+      "frequency": 18,
+      "context": "Funds are the necessary capital to get a business, or idea, off the ground."
+    },
+    {
+      "term": "corporation",
+      "glossaryTranslation": "công ty cổ phần",
+      "frequency": 1,
+      "context": "Equity Financing In terms of investment opportunities, equity investments are those that involve purchasing an ownership stake in a company, usually through shares of stock in a corporation."
+    },
+    {
+      "term": "insurance",
+      "glossaryTranslation": "bảo hiểm",
+      "frequency": 2,
+      "context": "Their compensation is generally lower than that of a full-time, salaried employee, often in part because these positions do not usually come with any benefits, such as health insurance or paid time off."
+    },
+    {
+      "term": "independent contractors",
+      "glossaryTranslation": "nhà thầu độc lập",
+      "frequency": 1,
+      "context": "One strategy for controlling these costs is utilizing independent contractors (freelancers) and other part-time employees."
+    },
+    {
+      "term": "entrepreneur in action",
+      "glossaryTranslation": "doanh nhân thực chiến",
+      "frequency": 1,
+      "context": "Entrepreneur In Action Ted Herget and Gearhead Outfitters Gearhead Outfitters , founded by Ted Herget in 1997 in Jonesboro, Arkansas, is a retail chain that sells outdoor gear for men, women, and children."
+    },
+    {
+      "term": "contracts",
+      "glossaryTranslation": "Contracts",
+      "frequency": 1,
+      "context": "She may want to have her business formally incorporated or may require other legal help, such as review of standard contracts."
+    },
+    {
+      "term": "stakeholders",
+      "glossaryTranslation": "stakeholders",
+      "frequency": 3,
+      "context": "Accounting is essentially documenting what happens to money once a company receives it and thereby makes that information available for reporting to stakeholders and regulatory agencies, and informing business decisions."
+    },
+    {
+      "term": "funding resources",
+      "glossaryTranslation": "nguồn tài trợ",
+      "frequency": 1,
+      "context": "Do you have other funding resources, such as loans or credit?"
+    },
+    {
+      "term": "link to learning",
+      "glossaryTranslation": "liên kết học tập",
+      "frequency": 5,
+      "context": "Link to Learning Go to the Internal Revenue Service’s website and look at the most recently updated Pub 334 Tax Guide for Small Business to learn more about the rules for income tax preparation for a small business."
+    },
+    {
+      "term": "work it out",
+      "glossaryTranslation": "thực hành",
+      "frequency": 2,
+      "context": "Work It Out Venture Capitalists Consider this statement from John Mackey , the CEO of Whole Foods Market : “Venture capitalists are like hitchhikers—hitchhikers with credit cards—and as long as you take them where they want to go, they’ll pay for the gas."
+    },
+    {
+      "term": "learning objectives",
+      "glossaryTranslation": "mục tiêu học tập",
+      "frequency": 4,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "suggested resources",
+      "glossaryTranslation": "tài nguyên gợi ý",
+      "frequency": 1,
+      "context": "Suggested Resources 9.1 Overview of Entrepreneurial Finance and Accounting Strategies Small Business Administration lending program: https://www.sba.gov/funding-programs/loans “The Top Twenty Venture Capitalists Worldwide,” New York Times (March 27, 2017): https://www.nytimes.com/interactive/2017/03/27/technology/Top-20-Venture-Capitalists.html?_r=0 National Public Radio “How I Built This” podcast series (example episodes: Instagram, Airbnb, Spanx): https://www.npr.org/podcasts/510313/how-i-built-this TED Radio Hour (example episodes: Big Data Revolution, Disruptive Leadership): https://www.npr.org/programs/ted-radio-hour/?showDate=2019-07-05 9.2 Special Funding Strategies Tax information for charitable organizations from the Internal Revenue Service: https://www.irs.gov/charities-non-profits/charitable-organizations Information from the National Institutes of Health on grants and the application process: https://grants.nih.gov/grants/about_grants.htm Small Business Administration, “How to Start a Non-Profit”: https://www.sba.gov/blogs/how-start-non-profit Kickstarter: www.kickstarter.com Indiegogo, “The Essential Guide to Crowdfunding”: https://learn.indiegogo.com/the-essential-guide-to-crowdfunding Startupfest, “The $100K Investment Prize”: http://www.startupfestival.com/news/100k-investment-prize/ G-Startup Worldwide’s global startup competition: https://www.f6s.com/g-startupworldwide/ Extending Credit to Your Customers: https://fitsmallbusiness.com/invoicing-extending-credit-to-customers/ 7 Ways to Bootstrap Your Business to Success: https://www.entrepreneur.com/article/254217 4 Must-Follow Tips for Moonlighting as an Entrepreneur: https://www.entrepreneur.com/article/298310 5 Ways Nonprofits Can Engage Donors: https://www.ama.org/publications/MarketingNews/Pages/5-ways-nonprofits-engage-donors.aspx 9.3 Accounting Basics for Entrepreneurs Small Business Administration Introduction to Accounting Course: https://www.sba.gov/tools/learning-center-view-course/364071 Accounting Coach free Accounting Basics Explanation: https://www.accountingcoach.com/accounting-basics/explanation Khan Academy Accounting and Financial Statements Course: https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme 9.4 Developing Startup Financial Statements and Projections U.S."
+    },
+    {
+      "term": "key terms",
+      "glossaryTranslation": "thuật ngữ chính",
+      "frequency": 3,
+      "context": "Before moving on to visualizing operational income, let’s pause here to review some of the basic distinctions between these key terms."
+    },
+    {
+      "term": "review questions",
+      "glossaryTranslation": "câu hỏi ôn tập",
+      "frequency": 1,
+      "context": "tax law that removes the burden of taxes from nonprofit organizations valuation estimate of a company’s worth variable costs costs that fluctuate with the level of revenue venture capitalist individual or investment firm that specializes in funding startup companies working capital funds available for day-to-day operations Review Questions 1 ."
+    },
+    {
+      "term": "discussion questions",
+      "glossaryTranslation": "câu hỏi thảo luận",
+      "frequency": 1,
+      "context": "Discussion Questions 1 ."
+    },
+    {
+      "term": "case questions",
+      "glossaryTranslation": "câu hỏi tình huống",
+      "frequency": 1,
+      "context": "Case Questions 1 ."
+    },
+    {
+      "term": "chapter outline",
+      "glossaryTranslation": "dàn ý chương",
+      "frequency": 1,
+      "context": "Chapter Outline 9.1 Overview of Entrepreneurial Finance and Accounting Strategies 9.2 Special Funding Strategies 9.3 Accounting Basics for Entrepreneurs 9.4 Developing Startup Financial Statements and Projections Introduction In 2015, Doug Monahan , the CEO and founder of iBackPack of Texas, Inc., introduced a revolutionary technology package encased in a typical backpack."
+    }
+  ],
+  "candidateTerms": [
+    {
+      "term": "Overview of Entrepreneurial Finance and Accounting",
+      "frequency": 5,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "Strategies Learning Objectives By",
+      "frequency": 2,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "Ted Herget",
+      "frequency": 2,
+      "context": "Entrepreneur In Action Ted Herget and Gearhead Outfitters Gearhead Outfitters , founded by Ted Herget in 1997 in Jonesboro, Arkansas, is a retail chain that sells outdoor gear for men, women, and children."
+    },
+    {
+      "term": "Accounting Basics for Entrepreneurs",
+      "frequency": 6,
+      "context": "The output of accounting consists of financial statements, discussed in Accounting Basics for Entrepreneurs ."
+    },
+    {
+      "term": "Securities and Exchange Commission",
+      "frequency": 2,
+      "context": "For that reason, they must be investors accredited by the federal Securities and Exchange Commission (SEC) and they must meet a net worth or income test."
+    },
+    {
+      "term": "The IPO",
+      "frequency": 2,
+      "context": "The IPO process is highly regulated by the SEC, which requires companies to provide comprehensive information up front to potential investors before completing the IPO."
+    },
+    {
+      "term": "Special Funding Strategies",
+      "frequency": 7,
+      "context": "Business owners can acquire funding through different avenues, each with its own advantages and disadvantages, which we will explore in Special Funding Strategies ."
+    },
+    {
+      "term": "How I Built This",
+      "frequency": 3,
+      "context": "they will try to hijack the car and they will hire a new driver and throw you out on the road.” He spoke on the NPR podcast How I Built This ."
+    },
+    {
+      "term": "Small Business Administration",
+      "frequency": 6,
+      "context": "One source of debt financing for entrepreneurs is the Small Business Administration (SBA) , a government agency founded as part of the Small Business Act of 1963, whose mission is to “aid, counsel, assist and protect, insofar as is possible, the interests of small business concerns.” 6 The SBA partners with lending institutions such as banks and credit unions to guarantee loans for small businesses."
+    },
+    {
+      "term": "The SBA",
+      "frequency": 6,
+      "context": "One source of debt financing for entrepreneurs is the Small Business Administration (SBA) , a government agency founded as part of the Small Business Act of 1963, whose mission is to “aid, counsel, assist and protect, insofar as is possible, the interests of small business concerns.” 6 The SBA partners with lending institutions such as banks and credit unions to guarantee loans for small businesses."
+    },
+    {
+      "term": "Small Loan",
+      "frequency": 2,
+      "context": "To illustrate an SBA loan , let’s consider the 7(a) Small Loan program."
+    },
+    {
+      "term": "In Special Funding Strategies",
+      "frequency": 3,
+      "context": "Business owners can acquire funding through different avenues, each with its own advantages and disadvantages, which we will explore in Special Funding Strategies ."
+    },
+    {
+      "term": "Shark Tank",
+      "frequency": 5,
+      "context": "You may have seen this type of financing on the TV show Shark Tank ."
+    },
+    {
+      "term": "Are You Ready",
+      "frequency": 3,
+      "context": "Are You Ready?"
+    },
+    {
+      "term": "Objectives By",
+      "frequency": 4,
+      "context": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies Learning Objectives By the end of this section, you will be able to: Distinguish between financing and accounting Describe common financing strategies for different stages of the company lifecycle: personal savings, personal loans, friends and family, crowdfunding, angel investors, venture capitalists, self-sustaining, private equity sales, and initial public offering Explain debt and equity financing and the advantages and disadvantages of each The case of iBackPack demonstrates that entrepreneurial success is not guaranteed simply because a company can secure funds."
+    },
+    {
+      "term": "Metropolitan Museum of Art",
+      "frequency": 3,
+      "context": "Charitable Missions and Example Organizations Mission Examples Advance education Teach for America, Khan Academy Protect the natural environment Sierra Club, Wildlife Conservation Society Defend human rights Amnesty International, Human Rights Watch Provide disaster relief American Red Cross Support the arts Metropolitan Museum of Art, Americans for the Arts Table 9.2 These goals supersede the profit motive that a traditional company would have."
+    },
+    {
+      "term": "In the United States",
+      "frequency": 2,
+      "context": "In the United States, such organizations can qualify for tax-exempt status , meaning that if there is a profit from operations, it is not typically subject to taxes."
+    },
+    {
+      "term": "Internal Revenue Service",
+      "frequency": 3,
+      "context": "Organizations seeking this exemption must apply to the Internal Revenue Service for tax-exempt status and provide information about what kind of mission the organization carries out—charitable, scientific, educational, and so on."
+    },
+    {
+      "term": "New York City",
+      "frequency": 2,
+      "context": "Consider the original mission statement of the Metropolitan Museum of Art (commonly known as the “Met”) in New York City ( Figure 9.3 )."
+    },
+    {
+      "term": "New York",
+      "frequency": 6,
+      "context": "An initial public offering (IPO) occurs the first time a company offers ownership shares for sale on a public stock exchange, such as the New York Stock Exchange ."
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 14,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) This is a different goal than that of most small businesses (providing a product or service in exchange for a profit) and, as a result, requires different financing strategies, such as a combination of program services, donations, and grants."
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 14,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) This is a different goal than that of most small businesses (providing a product or service in exchange for a profit) and, as a result, requires different financing strategies, such as a combination of program services, donations, and grants."
+    },
+    {
+      "term": "Red Cross",
+      "frequency": 2,
+      "context": "Charitable Missions and Example Organizations Mission Examples Advance education Teach for America, Khan Academy Protect the natural environment Sierra Club, Wildlife Conservation Society Defend human rights Amnesty International, Human Rights Watch Provide disaster relief American Red Cross Support the arts Metropolitan Museum of Art, Americans for the Arts Table 9.2 These goals supersede the profit motive that a traditional company would have."
+    },
+    {
+      "term": "National Institutes of Health",
+      "frequency": 2,
+      "context": "For example, the National Institutes of Health (NIH) provides grants “to support the advancement of the NIH mission to enhance health, extend healthy lives, and reduce the burdens of illness and disability.” 9 This federal organization invests over $32 billion annually for medical research."
+    },
+    {
+      "term": "The NIH",
+      "frequency": 6,
+      "context": "For example, the National Institutes of Health (NIH) provides grants “to support the advancement of the NIH mission to enhance health, extend healthy lives, and reduce the burdens of illness and disability.” 9 This federal organization invests over $32 billion annually for medical research."
+    },
+    {
+      "term": "The TOMS",
+      "frequency": 2,
+      "context": "For example, the TOMS shoe company was able to create a business model through which the company gives one pair of shoes to children in need in foreign countries for every pair of shoes that a customer purchases."
+    },
+    {
+      "term": "Business Plan Competition",
+      "frequency": 2,
+      "context": "For example, the New York City Public Library holds an annual business plan competition called the New York StartUP!"
+    },
+    {
+      "term": "The Boston Beer Company",
+      "frequency": 2,
+      "context": "The Boston Beer Company , which today produces the Samuel Adams line of beers, provides a classic example of minimizing these costs in its early days."
+    },
+    {
+      "term": "Boston Beer Company",
+      "frequency": 2,
+      "context": "The Boston Beer Company , which today produces the Samuel Adams line of beers, provides a classic example of minimizing these costs in its early days."
+    },
+    {
+      "term": "United States",
+      "frequency": 2,
+      "context": "In the United States, such organizations can qualify for tax-exempt status , meaning that if there is a profit from operations, it is not typically subject to taxes."
+    },
+    {
+      "term": "Developing Startup Financial Statements",
+      "frequency": 4,
+      "context": "9.4 Developing Startup Financial Statements and Projections Learning Objectives By the end of this section, you will be able to: Understand the three primary financial statements: balance sheet, income statement, and statement of cash flows Understand how financial projections are made and how to use the run rate and the burn rate Understand how to create a break-even analysis You have learned how an accounting system classifies transactions in terms of assets, liabilities, and equity; what those transactions mean in terms of the accounting equation; and what that information says about an entity’s overall financial health."
+    },
+    {
+      "term": "The Balance Sheet The",
+      "frequency": 2,
+      "context": "We will examine three basic types of financial statements: The balance sheet The income statement The statement of cash flows Each type of statement communicates specific information to its audience."
+    },
+    {
+      "term": "Hometown Pizzeria",
+      "frequency": 13,
+      "context": "Figure 9.11 shows the 2020 balance sheet for Hometown Pizzeria."
+    },
+    {
+      "term": "The Income Statement The",
+      "frequency": 2,
+      "context": "We will examine three basic types of financial statements: The balance sheet The income statement The statement of cash flows Each type of statement communicates specific information to its audience."
+    },
+    {
+      "term": "When Shanti",
+      "frequency": 3,
+      "context": "This was the case when Shanti paid for her computer with a credit card."
+    },
+    {
+      "term": "The Statement of Cash Flows",
+      "frequency": 13,
+      "context": "We will examine three basic types of financial statements: The balance sheet The income statement The statement of cash flows Each type of statement communicates specific information to its audience."
+    },
+    {
+      "term": "If Shanti",
+      "frequency": 2,
+      "context": "For example, if Shanti does not have sufficient cash to pay for the laptop, she may have the electronics store charge her credit card for the purchase."
+    },
+    {
+      "term": "Best Buy",
+      "frequency": 2,
+      "context": "Peruse Best Buy’s 2017 annual report to learn more about Best Buy."
+    }
+  ],
+  "missingGlossaryTerms": [],
+  "termFrequency": {
+    "entrepreneur": 24,
+    "entrepreneurial venture": 1,
+    "mission statement": 2,
+    "value proposition": 1,
+    "bootstrapping": 24,
+    "breakeven point": 2,
+    "business model": 4,
+    "cash flow": 7,
+    "venture": 29,
+    "copyright": 14,
+    "social entrepreneurship": 5,
+    "sustainability": 1,
+    "creativity": 2,
+    "customers": 25,
+    "demand": 3,
+    "financial viability": 2,
+    "infrastructure": 1,
+    "supply": 1,
+    "develop": 4,
+    "implement": 2,
+    "ask": 3,
+    "pitch": 3,
+    "advertising": 3,
+    "close": 1,
+    "marketing": 4,
+    "people": 7,
+    "place": 3,
+    "price": 9,
+    "process": 15,
+    "product": 32,
+    "profit margin": 4,
+    "social media": 4,
+    "accounting": 77,
+    "accounting equation": 29,
+    "accounts payable": 2,
+    "accounts receivable": 2,
+    "angel investor": 4,
+    "assets": 52,
+    "balance sheet": 19,
+    "bartering": 12,
+    "burn rate": 5,
+    "charitable organization": 4,
+    "collateral": 10,
+    "contribution margin": 9,
+    "cost of goods sold": 5,
+    "credit": 29,
+    "crowdfunding": 30,
+    "debt financing": 14,
+    "donation": 3,
+    "early stage": 5,
+    "equity": 46,
+    "equity financing": 15,
+    "expenses": 36,
+    "financial statement": 9,
+    "financing": 70,
+    "financing activities": 2,
+    "fixed assets": 4,
+    "fixed costs": 7,
+    "funds": 30,
+    "grant": 13,
+    "gross profit": 7,
+    "income (profit-and-loss) statement": 1,
+    "investing activities": 3,
+    "liability": 5,
+    "mature stage": 3,
+    "moonlighting": 5,
+    "net income": 5,
+    "operating activities": 2,
+    "program services": 6,
+    "projection": 3,
+    "revenue": 41,
+    "run rate": 5,
+    "seed stage": 4,
+    "statement of cash flows": 17,
+    "sustainable strategy": 2,
+    "tax-exempt status": 3,
+    "valuation": 2,
+    "variable costs": 5,
+    "venture capitalist": 2,
+    "working capital": 5,
+    "financial sustainability": 1,
+    "business plan": 7,
+    "operational expenses": 1,
+    "capital": 18,
+    "corporation": 1,
+    "insurance": 2,
+    "independent contractors": 1,
+    "entrepreneur in action": 1,
+    "contracts": 1,
+    "stakeholders": 3,
+    "funding resources": 1,
+    "link to learning": 5,
+    "work it out": 2,
+    "learning objectives": 4,
+    "suggested resources": 1,
+    "key terms": 3,
+    "review questions": 1,
+    "discussion questions": 1,
+    "case questions": 1,
+    "chapter outline": 1,
+    "Overview of Entrepreneurial Finance and Accounting": 5,
+    "Strategies Learning Objectives By": 2,
+    "Ted Herget": 2,
+    "Accounting Basics for Entrepreneurs": 6,
+    "Securities and Exchange Commission": 2,
+    "The IPO": 2,
+    "Special Funding Strategies": 7,
+    "How I Built This": 3,
+    "Small Business Administration": 6,
+    "The SBA": 6,
+    "Small Loan": 2,
+    "In Special Funding Strategies": 3,
+    "Shark Tank": 5,
+    "Are You Ready": 3,
+    "Objectives By": 4,
+    "Metropolitan Museum of Art": 3,
+    "In the United States": 2,
+    "Internal Revenue Service": 3,
+    "New York City": 2,
+    "New York": 6,
+    "Copyright Rice University": 14,
+    "CC BY NC-SA": 14,
+    "Red Cross": 2,
+    "National Institutes of Health": 2,
+    "The NIH": 6,
+    "The TOMS": 2,
+    "Business Plan Competition": 2,
+    "The Boston Beer Company": 2,
+    "Boston Beer Company": 2,
+    "United States": 2,
+    "Developing Startup Financial Statements": 4,
+    "The Balance Sheet The": 2,
+    "Hometown Pizzeria": 13,
+    "The Income Statement The": 2,
+    "When Shanti": 3,
+    "The Statement of Cash Flows": 13,
+    "If Shanti": 2,
+    "Best Buy": 2
+  },
+  "warnings": []
+}

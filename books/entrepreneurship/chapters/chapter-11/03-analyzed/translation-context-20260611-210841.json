@@ -1,0 +1,860 @@
+{
+  "chapterTitle": "Introduction",
+  "sections": [
+    {
+      "file": "11-1-avoiding-the-field-of-dreams-approach.html",
+      "title": "11.1 Avoiding the “Field of Dreams” Approach"
+    },
+    {
+      "file": "11-2-designing-the-business-model.html",
+      "title": "11.2 Designing the Business Model"
+    },
+    {
+      "file": "11-3-conducting-a-feasibility-analysis.html",
+      "title": "11.3 Conducting a Feasibility Analysis"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "title": "11.4 The Business Plan"
+    },
+    {
+      "file": "11-case-questions.html",
+      "title": "Case Questions"
+    },
+    {
+      "file": "11-discussion-questions.html",
+      "title": "Discussion Questions"
+    },
+    {
+      "file": "11-introduction.html",
+      "title": "Introduction"
+    },
+    {
+      "file": "11-key-terms.html",
+      "title": "Key Terms"
+    },
+    {
+      "file": "11-review-questions.html",
+      "title": "Review Questions"
+    },
+    {
+      "file": "11-suggested-resources.html",
+      "title": "Suggested Resources"
+    },
+    {
+      "file": "11-summary.html",
+      "title": "Summary"
+    }
+  ],
+  "learningObjectives": [
+    "11.1 Avoiding the “Field of Dreams” Approach",
+    "11.2 Designing the Business Model",
+    "11.3 Conducting a Feasibility Analysis",
+    "11.4 The Business Plan"
+  ],
+  "keyConcepts": [
+    "business model",
+    "business plan",
+    "innovation",
+    "customers",
+    "product",
+    "business model canvas",
+    "venture",
+    "value proposition",
+    "revenue",
+    "feasibility analysis",
+    "process",
+    "social media",
+    "crowdfunding",
+    "empathy",
+    "executive summary",
+    "marketing",
+    "expenses",
+    "people",
+    "entrepreneur",
+    "cash flow",
+    "copyright",
+    "market analysis",
+    "promotion",
+    "financial analysis",
+    "lean model canvas",
+    "link to learning",
+    "social entrepreneurship",
+    "disruptive innovation",
+    "marketing plan",
+    "accounting",
+    "projection",
+    "social business model canvas",
+    "develop",
+    "sample",
+    "credit",
+    "business model innovation",
+    "customer empathy map",
+    "target market",
+    "competitive advantage",
+    "demand",
+    "pitch",
+    "advertising",
+    "brand",
+    "place",
+    "value proposition canvas",
+    "breakeven point",
+    "framework",
+    "social impact",
+    "price",
+    "balance sheet",
+    "capital",
+    "stakeholders",
+    "tesla",
+    "disruptive technology",
+    "entrepreneurial process",
+    "ideation",
+    "financial viability",
+    "marketing strategy",
+    "equity",
+    "fixed costs",
+    "cost structure",
+    "advisory board",
+    "learning objectives",
+    "value creation",
+    "public relations",
+    "sales promotion",
+    "assets",
+    "funds",
+    "variable costs",
+    "iterations",
+    "lean startup",
+    "competitive matrix",
+    "work it out",
+    "entrepreneurial journey",
+    "intellectual property",
+    "supply",
+    "swot analysis",
+    "assessment",
+    "evaluate",
+    "ask",
+    "personal selling",
+    "financing",
+    "early adopters",
+    "go-or-no-go decision",
+    "projected cash flow",
+    "insurance",
+    "entrepreneur in action",
+    "entrepreneurial venture",
+    "entrepreneurial vision",
+    "mission statement",
+    "serial entrepreneur",
+    "entrepreneurial ecosystem",
+    "creative destruction",
+    "patent",
+    "diversity",
+    "sustainability",
+    "invention",
+    "infrastructure",
+    "data analysis",
+    "evaluation",
+    "implement",
+    "observation",
+    "market opportunity",
+    "targeting",
+    "customer acquisition",
+    "customer retention",
+    "accounting equation",
+    "collateral",
+    "early stage",
+    "financial statement",
+    "grant",
+    "valuation",
+    "venture capitalist",
+    "working capital",
+    "pro forma",
+    "nondisclosure agreement",
+    "suggested resources",
+    "key terms",
+    "review questions",
+    "discussion questions",
+    "case questions",
+    "chapter outline"
+  ],
+  "difficultTerms": [
+    "La Vida Lola",
+    "The Business Plan",
+    "Brief Business Plan",
+    "Copyright Rice University",
+    "CC BY NC-SA",
+    "Field of Dreams",
+    "The Lean Model Canvas",
+    "Conducting a Feasibility Analysis",
+    "Osterwalder and Pigneur",
+    "The Cut Buddy",
+    "Designing the Business Model",
+    "Learning Objectives By",
+    "What Can You Do",
+    "The Birthday Party Project",
+    "Birthday Party Project",
+    "Pretty Young Professional",
+    "Puerto Rican and Cuban",
+    "Laughing Man Coffee",
+    "Are You Ready",
+    "Link to Learning Watch",
+    "Business Model Generation",
+    "Entrepreneurial Finance and Accounting",
+    "Latin American and Caribbean",
+    "Industry Analysis and Market Strategy",
+    "Off the Grid",
+    "Chef Lola Gonz",
+    "Textbooks for Change",
+    "Tech Talent South",
+    "Link to Learning Read",
+    "Link to Learning Visit",
+    "Business Model Canvases",
+    "Link to Learning This",
+    "Love Beyond Walls",
+    "Create a Brief Business Plan",
+    "Business Description for La Vida",
+    "Mobile Food Services",
+    "Mobile Food Trends and Insights",
+    "The Fry Guy",
+    "Operations and Management Plan for La",
+    "Marketing Plan for La Vida",
+    "Instagram and Twitter",
+    "Laughing Man Foundation",
+    "Michael Kirban and Ira Liran",
+    "Kirban and Liran"
+  ],
+  "tables": [
+    {
+      "file": "11-1-avoiding-the-field-of-dreams-approach.html",
+      "id": "fs-idm408071648",
+      "summary": "No Summary"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "fs-idm353643616",
+      "summary": "No Summary"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "fs-idm366618080",
+      "summary": "No Summary"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "fs-idm329591776",
+      "summary": "No Summary"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "fs-idm331506384",
+      "summary": "No Summary"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "fs-idm326177680",
+      "summary": "No Summary"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "fs-idm361316656",
+      "summary": "No Summary"
+    }
+  ],
+  "figures": [
+    {
+      "file": "11-1-avoiding-the-field-of-dreams-approach.html",
+      "id": "OSX_Eship_11_01_Field",
+      "caption": "Figure 11.2 This field in Dyersville, Iowa, was used in the filming of Field of Dreams . (credit: “FieldofDreamsMay06” by “JoeyBLS”/Wikimedia Commons, CC BY 2.5)"
+    },
+    {
+      "file": "11-1-avoiding-the-field-of-dreams-approach.html",
+      "id": "OSX_Eship_11_01_Team",
+      "caption": "Figure 11.3 While solopreneurs can certainly find success, many ventures find value in a team approach. (credit: “achievement agreement arms business” by rawpixel/Pixabay, CC0)"
+    },
+    {
+      "file": "11-1-avoiding-the-field-of-dreams-approach.html",
+      "id": "OSX_Eship_11_01_CChristen",
+      "caption": "Figure 11.4 Clayton M. Christensen has contributed many ideas about innovation to the field of entrepreneurship. (credit: “Follow Business of Software - Clayton Christensen” by Betsy Weber/Flickr, CC BY 2.0)"
+    },
+    {
+      "file": "11-1-avoiding-the-field-of-dreams-approach.html",
+      "id": "OSX_Eship_11_01_Rides_img",
+      "caption": "Figure 11.5 Uber and Lyft are popular ride-sharing services. (credit: “navigation car drive road gps” by “DariuszSankowski”/Pixabay, CC0)"
+    },
+    {
+      "file": "11-2-designing-the-business-model.html",
+      "id": "OSX_Eship_11_02_BMCParts",
+      "caption": "Figure 11.6 The business model canvas can be used to map or lay out the initial concept of your business. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-2-designing-the-business-model.html",
+      "id": "OSX_Eship_11_02_IVPFormula",
+      "caption": "Figure 11.7 Maurya’s formula to determine value proposition considers customer needs and potential objections within a specific period of time. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-2-designing-the-business-model.html",
+      "id": "OSX_Eship_11_02_LeanCanv",
+      "caption": "Figure 11.8 The lean model canvas is a modification of the Business Model Canvas. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-2-designing-the-business-model.html",
+      "id": "OSX_Eship_11_02_EmpMap",
+      "caption": "Figure 11.9 An empathy map portrays the target customer in order to understand the market needs. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-2-designing-the-business-model.html",
+      "id": "OSX_Eship_11_02_Framework",
+      "caption": "Figure 11.10 The framework of desirability, feasibility, and viability form a story about a company’s startup. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-2-designing-the-business-model.html",
+      "id": "OSX_Eship_11_02_Party_img",
+      "caption": "Figure 11.11 The Birthday Party Project helps provide celebrations to honor the birthdays of homeless children. (credit: modification of \"children's birthday table\" by \"Efraimstochter\"/Pixabay, CC0)"
+    },
+    {
+      "file": "11-3-conducting-a-feasibility-analysis.html",
+      "id": "OSX_Eship_11_03_OrgFeas",
+      "caption": "Figure 11.12 An analysis of organizational feasibility focuses on resource needs and management capabilities. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-3-conducting-a-feasibility-analysis.html",
+      "id": "OSX_Eship_11_03_FinFeas",
+      "caption": "Figure 11.13 An analysis of financial feasibility focuses on expenses, cash flow, and projected revenue. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-3-conducting-a-feasibility-analysis.html",
+      "id": "OSX_Eship_11_03_MarFeas",
+      "caption": "Figure 11.14 An analysis of market feasibility examines the overall market and focuses on the anticipated share of the target market. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-3-conducting-a-feasibility-analysis.html",
+      "id": "OSX_Eship_11_03_GA",
+      "caption": "Figure 11.15 If you wanted to open a business in downtown Atlanta, you would need to research the feasibility of operating a location there. (credit: “Atlanta,Georgia,downtown skyline,dusk” by “tableatny”/Flickr, CC BY 2.0)"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "OSX_Eship_11_03_BPlan",
+      "caption": "Figure 11.16 Most business plans include the same important sections. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "OSX_Eship_11_04_Compet1",
+      "caption": "Figure 11.17 This chart shows one sample format for a competitor analysis. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "OSX_Eship_11_04_Compet2",
+      "caption": "Figure 11.18 This chart provides a more complex template for creating a competitive analysis. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "OSX_Eship_11_06_CashFlow",
+      "caption": "Figure 11.19 La Vida Lola can use a template like this to project cash flow. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"
+    },
+    {
+      "file": "11-4-the-business-plan.html",
+      "id": "OSX_Eship_11_03_Hugh",
+      "caption": "Figure 11.20 Hugh Jackman launched a social entrepreneurship venture called Laughing Man Coffee. (credit: “Hugh Jackman navy” by “U.S. Navy photo by Photographer's Mate Airman Dennard Vinson”/Wikimedia Commons, Public Domain)"
+    },
+    {
+      "file": "11-introduction.html",
+      "id": "OSX_Eship_11_00_VitaCoco",
+      "caption": "Figure 11.1 The initial plan for Vita Coco did not work for its founders, Michael Kirban and Ira Liran, but the coconut water found later success, ultimately becoming the market leader, by using customer-focused design throughout the entrepreneurial process. (credit: modification of “Vita Coco at Vitality Show” by Zeyus Media/Flickr, CC BY 2.0)"
+    }
+  ],
+  "relevantGlossaryTerms": [
+    {
+      "term": "business model",
+      "translation": "mô hình kinh doanh"
+    },
+    {
+      "term": "business plan",
+      "translation": "kế hoạch kinh doanh"
+    },
+    {
+      "term": "innovation",
+      "translation": "đổi mới"
+    },
+    {
+      "term": "customers",
+      "translation": "khách hàng"
+    },
+    {
+      "term": "product",
+      "translation": "sản phẩm"
+    },
+    {
+      "term": "business model canvas",
+      "translation": "mô hình kinh doanh canvas"
+    },
+    {
+      "term": "venture",
+      "translation": "doanh nghiệp (venture)"
+    },
+    {
+      "term": "value proposition",
+      "translation": "giá trị đề xuất"
+    },
+    {
+      "term": "revenue",
+      "translation": "doanh thu"
+    },
+    {
+      "term": "feasibility analysis",
+      "translation": "phân tích tính khả thi"
+    },
+    {
+      "term": "process",
+      "translation": "quy trình"
+    },
+    {
+      "term": "social media",
+      "translation": "mạng xã hội"
+    },
+    {
+      "term": "crowdfunding",
+      "translation": "gọi vốn cộng đồng"
+    },
+    {
+      "term": "empathy",
+      "translation": "sự thấu cảm"
+    },
+    {
+      "term": "executive summary",
+      "translation": "tóm tắt điều hành"
+    },
+    {
+      "term": "marketing",
+      "translation": "tiếp thị"
+    },
+    {
+      "term": "expenses",
+      "translation": "chi phí"
+    },
+    {
+      "term": "people",
+      "translation": "con người (nguồn nhân lực)"
+    },
+    {
+      "term": "entrepreneur",
+      "translation": "doanh nhân/nhà khởi nghiệp"
+    },
+    {
+      "term": "cash flow",
+      "translation": "dòng tiền"
+    },
+    {
+      "term": "copyright",
+      "translation": "bản quyền"
+    },
+    {
+      "term": "market analysis",
+      "translation": "phân tích thị trường"
+    },
+    {
+      "term": "promotion",
+      "translation": "xúc tiến"
+    },
+    {
+      "term": "financial analysis",
+      "translation": "phân tích tài chính"
+    },
+    {
+      "term": "lean model canvas",
+      "translation": "mô hình lean canvas"
+    },
+    {
+      "term": "link to learning",
+      "translation": "liên kết học tập"
+    },
+    {
+      "term": "social entrepreneurship",
+      "translation": "khởi nghiệp xã hội"
+    },
+    {
+      "term": "disruptive innovation",
+      "translation": "đổi mới đột phá"
+    },
+    {
+      "term": "marketing plan",
+      "translation": "kế hoạch marketing"
+    },
+    {
+      "term": "accounting",
+      "translation": "kế toán"
+    },
+    {
+      "term": "projection",
+      "translation": "dự báo"
+    },
+    {
+      "term": "social business model canvas",
+      "translation": "mô hình kinh doanh xã hội canvas"
+    },
+    {
+      "term": "develop",
+      "translation": "phát triển"
+    },
+    {
+      "term": "sample",
+      "translation": "mẫu khảo sát"
+    },
+    {
+      "term": "credit",
+      "translation": "tín dụng"
+    },
+    {
+      "term": "business model innovation",
+      "translation": "đổi mới mô hình kinh doanh"
+    },
+    {
+      "term": "customer empathy map",
+      "translation": "bản đồ thấu cảm khách hàng"
+    },
+    {
+      "term": "target market",
+      "translation": "thị trường mục tiêu"
+    },
+    {
+      "term": "competitive advantage",
+      "translation": "lợi thế cạnh tranh"
+    },
+    {
+      "term": "demand",
+      "translation": "nhu cầu"
+    },
+    {
+      "term": "pitch",
+      "translation": "bài thuyết trình gọi vốn (pitch)"
+    },
+    {
+      "term": "advertising",
+      "translation": "quảng cáo"
+    },
+    {
+      "term": "brand",
+      "translation": "thương hiệu"
+    },
+    {
+      "term": "place",
+      "translation": "phân phối (place)"
+    },
+    {
+      "term": "value proposition canvas",
+      "translation": "mô hình giá trị đề xuất canvas"
+    },
+    {
+      "term": "breakeven point",
+      "translation": "điểm hòa vốn"
+    },
+    {
+      "term": "framework",
+      "translation": "khuôn khổ"
+    },
+    {
+      "term": "social impact",
+      "translation": "tác động xã hội"
+    },
+    {
+      "term": "price",
+      "translation": "giá"
+    },
+    {
+      "term": "balance sheet",
+      "translation": "bảng cân đối kế toán"
+    },
+    {
+      "term": "capital",
+      "translation": "vốn"
+    },
+    {
+      "term": "stakeholders",
+      "translation": "stakeholders"
+    },
+    {
+      "term": "tesla",
+      "translation": "Tesla"
+    },
+    {
+      "term": "disruptive technology",
+      "translation": "công nghệ đột phá"
+    },
+    {
+      "term": "entrepreneurial process",
+      "translation": "quy trình khởi nghiệp"
+    },
+    {
+      "term": "ideation",
+      "translation": "quá trình hình thành ý tưởng"
+    },
+    {
+      "term": "financial viability",
+      "translation": "tính khả thi tài chính"
+    },
+    {
+      "term": "marketing strategy",
+      "translation": "chiến lược marketing"
+    },
+    {
+      "term": "equity",
+      "translation": "vốn chủ sở hữu"
+    },
+    {
+      "term": "fixed costs",
+      "translation": "chi phí cố định"
+    },
+    {
+      "term": "cost structure",
+      "translation": "cơ cấu chi phí"
+    },
+    {
+      "term": "advisory board",
+      "translation": "hội đồng cố vấn"
+    },
+    {
+      "term": "learning objectives",
+      "translation": "mục tiêu học tập"
+    },
+    {
+      "term": "value creation",
+      "translation": "tạo ra giá trị"
+    },
+    {
+      "term": "public relations",
+      "translation": "quan hệ công chúng"
+    },
+    {
+      "term": "sales promotion",
+      "translation": "xúc tiến bán hàng"
+    },
+    {
+      "term": "assets",
+      "translation": "tài sản"
+    },
+    {
+      "term": "funds",
+      "translation": "nguồn vốn"
+    },
+    {
+      "term": "variable costs",
+      "translation": "chi phí biến đổi"
+    },
+    {
+      "term": "iterations",
+      "translation": "các lần lặp cải tiến"
+    },
+    {
+      "term": "lean startup",
+      "translation": "khởi nghiệp tinh gọn"
+    },
+    {
+      "term": "competitive matrix",
+      "translation": "ma trận cạnh tranh"
+    },
+    {
+      "term": "work it out",
+      "translation": "thực hành"
+    },
+    {
+      "term": "entrepreneurial journey",
+      "translation": "hành trình khởi nghiệp"
+    },
+    {
+      "term": "intellectual property",
+      "translation": "tài sản trí tuệ"
+    },
+    {
+      "term": "supply",
+      "translation": "cung"
+    },
+    {
+      "term": "swot analysis",
+      "translation": "phân tích SWOT"
+    },
+    {
+      "term": "assessment",
+      "translation": "giai đoạn đánh giá (assessment)"
+    },
+    {
+      "term": "evaluate",
+      "translation": "đánh giá (evaluate)"
+    },
+    {
+      "term": "ask",
+      "translation": "khoản yêu cầu (ask)"
+    },
+    {
+      "term": "personal selling",
+      "translation": "bán hàng cá nhân"
+    },
+    {
+      "term": "financing",
+      "translation": "huy động vốn"
+    },
+    {
+      "term": "early adopters",
+      "translation": "người chấp nhận sớm"
+    },
+    {
+      "term": "go-or-no-go decision",
+      "translation": "quyết định tiếp tục hoặc dừng"
+    },
+    {
+      "term": "projected cash flow",
+      "translation": "dòng tiền dự kiến"
+    },
+    {
+      "term": "insurance",
+      "translation": "bảo hiểm"
+    },
+    {
+      "term": "entrepreneur in action",
+      "translation": "doanh nhân thực chiến"
+    },
+    {
+      "term": "entrepreneurial venture",
+      "translation": "dự án khởi nghiệp"
+    },
+    {
+      "term": "entrepreneurial vision",
+      "translation": "tầm nhìn khởi nghiệp"
+    },
+    {
+      "term": "mission statement",
+      "translation": "tuyên bố sứ mệnh"
+    },
+    {
+      "term": "serial entrepreneur",
+      "translation": "doanh nhân khởi nghiệp liên tiếp"
+    },
+    {
+      "term": "entrepreneurial ecosystem",
+      "translation": "hệ sinh thái khởi nghiệp"
+    },
+    {
+      "term": "creative destruction",
+      "translation": "sự hủy diệt sáng tạo"
+    },
+    {
+      "term": "patent",
+      "translation": "bằng sáng chế"
+    },
+    {
+      "term": "diversity",
+      "translation": "đa dạng"
+    },
+    {
+      "term": "sustainability",
+      "translation": "tính bền vững"
+    },
+    {
+      "term": "invention",
+      "translation": "phát minh"
+    },
+    {
+      "term": "infrastructure",
+      "translation": "cơ sở hạ tầng"
+    },
+    {
+      "term": "data analysis",
+      "translation": "phân tích dữ liệu"
+    },
+    {
+      "term": "evaluation",
+      "translation": "giai đoạn đánh giá (evaluation)"
+    },
+    {
+      "term": "implement",
+      "translation": "triển khai"
+    },
+    {
+      "term": "observation",
+      "translation": "quan sát"
+    },
+    {
+      "term": "market opportunity",
+      "translation": "cơ hội thị trường"
+    },
+    {
+      "term": "targeting",
+      "translation": "lựa chọn thị trường mục tiêu"
+    },
+    {
+      "term": "customer acquisition",
+      "translation": "thu hút khách hàng"
+    },
+    {
+      "term": "customer retention",
+      "translation": "giữ chân khách hàng"
+    },
+    {
+      "term": "accounting equation",
+      "translation": "phương trình kế toán"
+    },
+    {
+      "term": "collateral",
+      "translation": "tài sản thế chấp"
+    },
+    {
+      "term": "early stage",
+      "translation": "giai đoạn đầu"
+    },
+    {
+      "term": "financial statement",
+      "translation": "báo cáo tài chính"
+    },
+    {
+      "term": "grant",
+      "translation": "khoản tài trợ"
+    },
+    {
+      "term": "valuation",
+      "translation": "định giá"
+    },
+    {
+      "term": "venture capitalist",
+      "translation": "nhà đầu tư mạo hiểm"
+    },
+    {
+      "term": "working capital",
+      "translation": "vốn lưu động"
+    },
+    {
+      "term": "pro forma",
+      "translation": "báo cáo tài chính dự kiến"
+    },
+    {
+      "term": "nondisclosure agreement",
+      "translation": "thỏa thuận không tiết lộ"
+    },
+    {
+      "term": "suggested resources",
+      "translation": "tài nguyên gợi ý"
+    },
+    {
+      "term": "key terms",
+      "translation": "thuật ngữ chính"
+    },
+    {
+      "term": "review questions",
+      "translation": "câu hỏi ôn tập"
+    },
+    {
+      "term": "discussion questions",
+      "translation": "câu hỏi thảo luận"
+    },
+    {
+      "term": "case questions",
+      "translation": "câu hỏi tình huống"
+    },
+    {
+      "term": "chapter outline",
+      "translation": "dàn ý chương"
+    }
+  ],
+  "translationNotes": [
+    "Chapter contains 7 tables. In the prep phase, table cells (td/th) will be wrapped in bilingual spans. Be careful to preserve cells layout and IDs during translation.",
+    "Chapter contains 20 figures. Figures captions must be prepped and translated, preserving media references and buttons.",
+    "Chapter contains 4 learning objectives. Objectives lists should be translated accurately following technical tone."
+  ],
+  "warnings": []
+}

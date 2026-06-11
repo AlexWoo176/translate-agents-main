@@ -1,0 +1,55 @@
+{
+  "chapterId": "chapter-6",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm199996224-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.nngroup.com/articles/storyboards-visua...\""
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm221994752-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.studiobinder.com/blog/downloads/storyb...\""
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm203593296-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.mturk.com/...\""
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm217192032-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.mindtools.com...\""
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm189525856-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"IDEO Design Kit: http://www.designkit.org...\""
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm282890304-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Stanford Design Thinking Mix Tapes: https://dschoo...\""
+    },
+    {
+      "file": "6-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm182525744-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Lean Enterprise Institute: https://www.lean.org/Wh...\""
+    }
+  ]
+}

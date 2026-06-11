@@ -1,0 +1,86 @@
+{
+  "bookSlug": "psychology-2e",
+  "title": "Psychology 2e",
+  "status": "planned",
+  "source": {
+    "provider": "openstax",
+    "bookUrl": "https://openstax.org/details/books/psychology-2e",
+    "webviewUrl": "",
+    "downloadUrl": "",
+    "canonicalSlug": "psychology-2e",
+    "license": "CC BY",
+    "attribution": "Vietnamese translation adapted from OpenStax."
+  },
+  "targetLanguage": "vi",
+  "workflow": {
+    "phases": [
+      {
+        "id": "plan",
+        "status": "passed"
+      },
+      {
+        "id": "scrape",
+        "status": "pending"
+      },
+      {
+        "id": "clean",
+        "status": "pending"
+      },
+      {
+        "id": "analyze",
+        "status": "pending"
+      },
+      {
+        "id": "prep",
+        "status": "pending"
+      },
+      {
+        "id": "translate",
+        "status": "pending"
+      },
+      {
+        "id": "review",
+        "status": "pending"
+      },
+      {
+        "id": "archive",
+        "status": "pending"
+      },
+      {
+        "id": "build_preview",
+        "status": "pending"
+      },
+      {
+        "id": "export_epub",
+        "status": "pending"
+      },
+      {
+        "id": "qa_summary",
+        "status": "pending"
+      },
+      {
+        "id": "generate_state",
+        "status": "pending"
+      },
+      {
+        "id": "final_validate",
+        "status": "pending"
+      }
+    ]
+  },
+  "qualityGates": {
+    "planCompleteness": "pending",
+    "rawHtmlExists": "pending",
+    "cleanHtmlValid": "pending",
+    "analysisCompleteness": "pending",
+    "prepCompleteness": "pending",
+    "translationCompleteness": "pending",
+    "reviewCompleteness": "pending",
+    "archiveCompleteness": "pending",
+    "previewCssReferences": "pending",
+    "epubValidity": "pending",
+    "finalValidation": "pending"
+  },
+  "risks": [],
+  "nextRecommendedCommand": "node cli/index.js run psychology-2e --phase scrape --dry-run"
+}

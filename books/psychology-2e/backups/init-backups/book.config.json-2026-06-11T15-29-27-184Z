@@ -1,0 +1,67 @@
+{
+  "bookSlug": "psychology-2e",
+  "title": "Psychology 2e",
+  "datasetVersion": "v1",
+  "datasetStatus": "planned",
+  "sourceLanguage": "en",
+  "targetLanguage": "vi",
+  "source": {
+    "provider": "openstax",
+    "bookUrl": "https://openstax.org/details/books/psychology-2e",
+    "webviewUrl": "",
+    "downloadUrl": "",
+    "canonicalSlug": "psychology-2e",
+    "license": "CC BY",
+    "attribution": "Vietnamese translation adapted from OpenStax."
+  },
+  "workflow": {
+    "masterWorkflow": "../../workflow/master-workflow.json",
+    "currentPhase": "plan",
+    "enabledPhases": [
+      "plan",
+      "scrape",
+      "clean",
+      "analyze",
+      "prep",
+      "translate",
+      "review",
+      "archive",
+      "build_preview",
+      "export_epub",
+      "qa_summary",
+      "generate_state",
+      "final_validate"
+    ]
+  },
+  "language": {
+    "source": "en",
+    "target": "vi"
+  },
+  "translation": {
+    "provider": "mock",
+    "sourceLanguage": "en",
+    "targetLanguage": "vi",
+    "writeFinalByDefault": false,
+    "requiresHumanReview": true
+  },
+  "dataset": {
+    "name": "Psychology 2e Reference Dataset",
+    "version": "v1",
+    "status": "planned"
+  },
+  "quality": {
+    "requiredGates": [
+      "planCompleteness",
+      "rawHtmlExists",
+      "cleanHtmlValid",
+      "analysisCompleteness",
+      "prepCompleteness",
+      "translationCompleteness",
+      "reviewCompleteness",
+      "archiveCompleteness",
+      "previewCssReferences",
+      "epubValidity",
+      "finalValidation"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "bookSlug": "psychology-2e",
+  "workflowRunId": "wf-20260611-224116",
+  "startedAt": "2026-06-11T15:41:16.013Z",
+  "updatedAt": "2026-06-11T15:41:16.017Z",
+  "status": "failed",
+  "currentPhase": "translate",
+  "completedPhases": [],
+  "pendingPhases": [
+    "translate",
+    "review"
+  ],
+  "options": {
+    "from": "translate",
+    "to": "review",
+    "phases": null,
+    "resume": false,
+    "force": false,
+    "stopOnFailure": true,
+    "continueOnWarning": false,
+    "chapterId": null,
+    "all": false,
+    "provider": null,
+    "writeFinal": false
+  },
+  "failedAt": "translate"
+}

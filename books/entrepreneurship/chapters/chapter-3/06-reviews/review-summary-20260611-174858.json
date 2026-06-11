@@ -1,0 +1,130 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-3",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:48:58.803Z",
+  "finishedAt": "2026-06-11T10:48:58.924Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "3-1-ethical-and-legal-issues-in-entrepreneurship.html",
+    "3-2-corporate-social-responsibility-and-social-entrepreneurship.html",
+    "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+    "3-case-questions.html",
+    "3-discussion-questions.html",
+    "3-introduction.html",
+    "3-key-terms.html",
+    "3-review-questions.html",
+    "3-suggested-resources.html",
+    "3-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-174858.json",
+    "glossary-review-20260611-174858.json",
+    "semantic-review-20260611-174858.json"
+  ],
+  "issues": [
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm411331504-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"To develop an organization’s foundation for ethics...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm409494448-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"The framework and foundation of ethics and respons...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm385947152-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Once the entrepreneur has designed and configured ...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm373233344-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Significant research shows that the culture of the...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm390819856-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"According to management guru Peter Drucker , whose...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm398614336-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"The next building block is developing a culture of...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm402349296-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"One example of a problem that can arise in an over...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm404337328-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"As an entrepreneur, you need to recognize the sign...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm378954368-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Enron is one of the most infamous examples of corp...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm387743248-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"An example of a system of accountability that is a...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm390723872-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"One classic example of doing the right thing which...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "3-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm409508928-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"https://www.dol.gov/agencies/oasam/business-operat...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

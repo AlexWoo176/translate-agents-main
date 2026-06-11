@@ -1,0 +1,876 @@
+{
+  "knownTerms": [
+    {
+      "term": "due diligence",
+      "glossaryTranslation": "thẩm định kỹ lưỡng",
+      "frequency": 2,
+      "context": "This lack of due diligence can be detrimental to the success of the business."
+    },
+    {
+      "term": "entrepreneur",
+      "glossaryTranslation": "doanh nhân/nhà khởi nghiệp",
+      "frequency": 46,
+      "context": "1 (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Earlier, we discussed the importance of the lead entrepreneur taking the initiative to discover the investor’s business knowledge and learning about the investor’s previous experience in funding an entrepreneurial venture."
+    },
+    {
+      "term": "entrepreneurial venture",
+      "glossaryTranslation": "dự án khởi nghiệp",
+      "frequency": 2,
+      "context": "1 (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Earlier, we discussed the importance of the lead entrepreneur taking the initiative to discover the investor’s business knowledge and learning about the investor’s previous experience in funding an entrepreneurial venture."
+    },
+    {
+      "term": "entrepreneurial vision",
+      "glossaryTranslation": "tầm nhìn khởi nghiệp",
+      "frequency": 1,
+      "context": "(See Entrepreneurial Vision and Goals for a discussion around creating a vision statement.) The entrepreneurship team needs to be in complete agreement on the vision of the venture before they can successfully create the founders’ agreement."
+    },
+    {
+      "term": "harvest",
+      "glossaryTranslation": "thoái vốn/hiện thực hóa giá trị",
+      "frequency": 5,
+      "context": "If some team members have an interest in creating a lifestyle business (a venture that provides an income that replaces other types of employment), while other team members want to harvest the venture with significant returns, there is a clash between these expectations."
+    },
+    {
+      "term": "serial entrepreneur",
+      "glossaryTranslation": "doanh nhân khởi nghiệp liên tiếp",
+      "frequency": 4,
+      "context": "If you enjoyed the experience, felt the thrill and excitement of taking an idea from launch through to the successful harvesting of the venture, you might want to become involved in another new venture—that is, maybe your path is to become a serial entrepreneur."
+    },
+    {
+      "term": "social entrepreneur",
+      "glossaryTranslation": "doanh nhân xã hội",
+      "frequency": 2,
+      "context": "You might want to consider ideas for giving back to the entrepreneurial community or becoming a social entrepreneur in your next venture."
+    },
+    {
+      "term": "vision statement",
+      "glossaryTranslation": "tuyên bố tầm nhìn",
+      "frequency": 5,
+      "context": "15.1 Launching Your Venture Learning Objectives By the end of this section, you will be able to: Explain the importance of creating and discussing the vision statement Determine the documents necessary for managing risks Describe company culture and the purpose of a code of conduct Summarize how to outline and schedule the operational steps of the launch The big day has arrived."
+    },
+    {
+      "term": "opportunity recognition",
+      "glossaryTranslation": "nhận diện cơ hội kinh doanh",
+      "frequency": 1,
+      "context": "Your opportunity recognition process noted that your idea solves a significant problem or need, you double-checked that the target market is large enough for potential profitability, you have a method to reach this target market, you have a passion to start this company, and you found resources to support the start-up."
+    },
+    {
+      "term": "business model",
+      "glossaryTranslation": "mô hình kinh doanh",
+      "frequency": 4,
+      "context": "Does a team member have access to that idea, but with a different team, or implemented using a different business model?"
+    },
+    {
+      "term": "cash flow",
+      "glossaryTranslation": "dòng tiền",
+      "frequency": 1,
+      "context": "Classic article serves as a good reference on cash flow and self-financed growth, covering key levers to help manage profitable growth without having to go “hat in hand” to investors again."
+    },
+    {
+      "term": "entrepreneurial journey",
+      "glossaryTranslation": "hành trình khởi nghiệp",
+      "frequency": 2,
+      "context": "(See Entrepreneurial Journey and Pathways for a discussion on the life cycle stages of a venture, including end stages of harvesting, transition, and reincarnation of the business.) The buyback clause addresses the situations in which a team member exits the venture prior to the next financing round or harvesting due to internal disputes with team members, illness, death, or other circumstances, clearly stating compensation and profit distribution (with consideration of what is reinvested into the venture)."
+    },
+    {
+      "term": "framework",
+      "glossaryTranslation": "khuôn khổ",
+      "frequency": 1,
+      "context": "Planning for both extremes provides a framework for the entrepreneurial team to consider their own expectations and the expectations of other people involved in the project before these types of situations happen."
+    },
+    {
+      "term": "innovation",
+      "glossaryTranslation": "đổi mới",
+      "frequency": 2,
+      "context": "The Startup Champions Network seeks people who support a history of supporting entrepreneurship and innovation within their communities, recognize and model inclusiveness and collaboration skills, enjoy helping other people and work well with people, embrace humility, are action oriented, and focus on possibilities."
+    },
+    {
+      "term": "milestone",
+      "glossaryTranslation": "cột mốc",
+      "frequency": 1,
+      "context": "Did you identify milestone timelines within your business plan?"
+    },
+    {
+      "term": "target market",
+      "glossaryTranslation": "thị trường mục tiêu",
+      "frequency": 17,
+      "context": "Your opportunity recognition process noted that your idea solves a significant problem or need, you double-checked that the target market is large enough for potential profitability, you have a method to reach this target market, you have a passion to start this company, and you found resources to support the start-up."
+    },
+    {
+      "term": "venture",
+      "glossaryTranslation": "doanh nghiệp (venture)",
+      "frequency": 204,
+      "context": "15.1 Launching Your Venture Learning Objectives By the end of this section, you will be able to: Explain the importance of creating and discussing the vision statement Determine the documents necessary for managing risks Describe company culture and the purpose of a code of conduct Summarize how to outline and schedule the operational steps of the launch The big day has arrived."
+    },
+    {
+      "term": "business ethics",
+      "glossaryTranslation": "đạo đức kinh doanh",
+      "frequency": 2,
+      "context": "According to the National Business Ethics Survey of the U.S."
+    },
+    {
+      "term": "copyright",
+      "glossaryTranslation": "bản quyền",
+      "frequency": 9,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Figure 15.3 This code of conduct addresses more traditional and general topics than in the first example."
+    },
+    {
+      "term": "disclosure",
+      "glossaryTranslation": "công bố thông tin",
+      "frequency": 1,
+      "context": "non-disclosure clause personnel plan buyback clause marketing plan 4 ."
+    },
+    {
+      "term": "diversity",
+      "glossaryTranslation": "đa dạng",
+      "frequency": 1,
+      "context": "This diversity of experience and knowledge provides you with the greatest breadth of advice, which leads to your difficult decision: what advice to follow."
+    },
+    {
+      "term": "ethics",
+      "glossaryTranslation": "đạo đức",
+      "frequency": 7,
+      "context": "According to the National Business Ethics Survey of the U.S."
+    },
+    {
+      "term": "intellectual property",
+      "glossaryTranslation": "tài sản trí tuệ",
+      "frequency": 2,
+      "context": "Often, this time period is one year, but it can be longer depending on the know-how or intellectual property the exiting team member has."
+    },
+    {
+      "term": "social entrepreneurship",
+      "glossaryTranslation": "khởi nghiệp xã hội",
+      "frequency": 1,
+      "context": "Specific areas of expertise might include commercialization of a new technology, safeguarding intellectual property, marketing, or funding sources for a nonprofit social entrepreneurship venture."
+    },
+    {
+      "term": "brainstorming",
+      "glossaryTranslation": "động não",
+      "frequency": 10,
+      "context": "Some tools that help in problem identification include brainstorming, creating mindmap s, and conducting additional research."
+    },
+    {
+      "term": "creativity",
+      "glossaryTranslation": "sự sáng tạo",
+      "frequency": 1,
+      "context": "Mindmaps can be created to inform and increase creativity in both understanding the topic or problem, and in discovering connections."
+    },
+    {
+      "term": "customers",
+      "glossaryTranslation": "khách hàng",
+      "frequency": 8,
+      "context": "As her business became more popular, customers had to wait in line for longer times."
+    },
+    {
+      "term": "infrastructure",
+      "glossaryTranslation": "cơ sở hạ tầng",
+      "frequency": 2,
+      "context": "Figure 15.1 Consider the importance of having a source of light when the sky is dark, or when disaster strikes and electricity is lost, or for some people, when the infrastructure for electricity doesn’t exist."
+    },
+    {
+      "term": "supply",
+      "glossaryTranslation": "cung",
+      "frequency": 2,
+      "context": "Ideally, the angel investor has knowledge related to your industry, your target market, and your supply chain or distribution channel."
+    },
+    {
+      "term": "clarify",
+      "glossaryTranslation": "làm rõ",
+      "frequency": 2,
+      "context": "Then the team can create a master list of activities to discuss: This helps clarify who is contributing to or owning each task."
+    },
+    {
+      "term": "data analysis",
+      "glossaryTranslation": "phân tích dữ liệu",
+      "frequency": 1,
+      "context": "The researchers used data analysis software to process and categorize the highly varied responses, then management professors validated the results."
+    },
+    {
+      "term": "develop",
+      "glossaryTranslation": "phát triển",
+      "frequency": 8,
+      "context": "To protect the interests of all parties involved at launch, the team should develop several important documents, such as a founders’ agreement, nondisclosure and noncompete forms, and a code of conduct."
+    },
+    {
+      "term": "evaluate",
+      "glossaryTranslation": "đánh giá (evaluate)",
+      "frequency": 6,
+      "context": "After completing the formal vision statement and the founders’ agreement, you might want to have an attorney evaluate the documents."
+    },
+    {
+      "term": "evaluation",
+      "glossaryTranslation": "giai đoạn đánh giá (evaluation)",
+      "frequency": 1,
+      "context": "Is there an evaluation period during which the team members discuss each other’s performance?"
+    },
+    {
+      "term": "ask",
+      "glossaryTranslation": "khoản yêu cầu (ask)",
+      "frequency": 2,
+      "context": "Ask the following questions: Are your assumptions still realistic?"
+    },
+    {
+      "term": "noncompete agreement",
+      "glossaryTranslation": "thỏa thuận không cạnh tranh",
+      "frequency": 4,
+      "context": "Founder’s Agreement, Nondisclosure Agreement, and Noncompete Agreement Honest and open discussions between the entrepreneurial team members, including your angel investor if an angel investor is part of your initial funding, must take place before opening the venture."
+    },
+    {
+      "term": "pitch",
+      "glossaryTranslation": "bài thuyết trình gọi vốn (pitch)",
+      "frequency": 1,
+      "context": "These types of organizations are considered accelerator entities intended to fast track a select number of new ventures through information sharing, seed funding with a small equity stake in the funded venture, mentoring, and offering formal angel investor “pitch” events."
+    },
+    {
+      "term": "brand",
+      "glossaryTranslation": "thương hiệu",
+      "frequency": 1,
+      "context": "Consider if you would adopt this same transparency strategy, become more involved in the supply chain to determine how clothing factory workers were treated at your offshore factories owned by other entities, increase brand name marketing to support the profit markup on your clothing, or some other action?"
+    },
+    {
+      "term": "close",
+      "glossaryTranslation": "chốt bán hàng",
+      "frequency": 1,
+      "context": "According to ASTMH, close to half of the world’s population lives in areas at risk of contracting malaria."
+    },
+    {
+      "term": "digital marketing",
+      "glossaryTranslation": "tiếp thị kỹ thuật số",
+      "frequency": 1,
+      "context": "In this example, the incubator might assist with providing support in various marketing areas such as digital marketing, business-to-business marketing, global marketing, sports marketing, video creation, or other areas that fit within the topic of marketing."
+    },
+    {
+      "term": "marketing",
+      "glossaryTranslation": "tiếp thị",
+      "frequency": 13,
+      "context": "This could result from inadequate marketing, targeting the wrong market or audience, selecting the wrong distribution system, communicating the wrong message or benefit within the marketing plan, or perhaps lack of training for sales personnel or first responders who manage the venture-customer relationship."
+    },
+    {
+      "term": "marketing plan",
+      "glossaryTranslation": "kế hoạch marketing",
+      "frequency": 2,
+      "context": "This could result from inadequate marketing, targeting the wrong market or audience, selecting the wrong distribution system, communicating the wrong message or benefit within the marketing plan, or perhaps lack of training for sales personnel or first responders who manage the venture-customer relationship."
+    },
+    {
+      "term": "people",
+      "glossaryTranslation": "con người (nguồn nhân lực)",
+      "frequency": 41,
+      "context": "Codes of conduct should be created as documents that include a sensitivity to people within the company as well as the greater community."
+    },
+    {
+      "term": "place",
+      "glossaryTranslation": "phân phối (place)",
+      "frequency": 5,
+      "context": "Founder’s Agreement, Nondisclosure Agreement, and Noncompete Agreement Honest and open discussions between the entrepreneurial team members, including your angel investor if an angel investor is part of your initial funding, must take place before opening the venture."
+    },
+    {
+      "term": "price",
+      "glossaryTranslation": "giá",
+      "frequency": 1,
+      "context": "Consider the example of YouTube , a startup with zero dollars in sales but with a harvest price of $1.65 billion in stock from Google ."
+    },
+    {
+      "term": "process",
+      "glossaryTranslation": "quy trình",
+      "frequency": 33,
+      "context": "Your opportunity recognition process noted that your idea solves a significant problem or need, you double-checked that the target market is large enough for potential profitability, you have a method to reach this target market, you have a passion to start this company, and you found resources to support the start-up."
+    },
+    {
+      "term": "product",
+      "glossaryTranslation": "sản phẩm",
+      "frequency": 11,
+      "context": "If you need ten employees to manually prepare and package your product, how long will it take to interview and hire each person?"
+    },
+    {
+      "term": "sample",
+      "glossaryTranslation": "mẫu khảo sát",
+      "frequency": 3,
+      "context": "Figure 15.2 This sample code of conduct demonstrates how a code of conduct needs to fit the specific organization’s needs."
+    },
+    {
+      "term": "targeting",
+      "glossaryTranslation": "lựa chọn thị trường mục tiêu",
+      "frequency": 1,
+      "context": "This could result from inadequate marketing, targeting the wrong market or audience, selecting the wrong distribution system, communicating the wrong message or benefit within the marketing plan, or perhaps lack of training for sales personnel or first responders who manage the venture-customer relationship."
+    },
+    {
+      "term": "accounting",
+      "glossaryTranslation": "kế toán",
+      "frequency": 3,
+      "context": "Ideally, the entrepreneurial team conducted due diligence in their quest for funding (see Entrepreneurial Finance and Accounting )."
+    },
+    {
+      "term": "angel investor",
+      "glossaryTranslation": "nhà đầu tư thiên thần",
+      "frequency": 24,
+      "context": "An angel investor will also have a strong opinion on the vision for the venture."
+    },
+    {
+      "term": "assets",
+      "glossaryTranslation": "tài sản",
+      "frequency": 1,
+      "context": "What happens to the assets, and how are the liabilities paid?"
+    },
+    {
+      "term": "burn rate",
+      "glossaryTranslation": "tốc độ đốt tiền",
+      "frequency": 3,
+      "context": "Burn rate is the rate at which the venture burns through the available cash needed to sustain the business: More cash is going out than is coming into the business (review burn rate in Developing Startup Financial Statements and Projections )."
+    },
+    {
+      "term": "credit",
+      "glossaryTranslation": "tín dụng",
+      "frequency": 4,
+      "context": "(credit: modification of “Max Levchin speaks to Startup School” by Robert Scoble/Flickr, CC BY 2.0) Although each incubation program offers different—and sometimes uniquely specialized—help, they can be generally categorized by the types of support potentially available through these programs."
+    },
+    {
+      "term": "early stage",
+      "glossaryTranslation": "giai đoạn đầu",
+      "frequency": 1,
+      "context": "In the early stage of launching the venture, the level of uncertainty is high, as is the need for agility and spontaneity."
+    },
+    {
+      "term": "equity",
+      "glossaryTranslation": "vốn chủ sở hữu",
+      "frequency": 11,
+      "context": "Is there a vesting plan with defined timelines aligned with equity percentages?"
+    },
+    {
+      "term": "financing",
+      "glossaryTranslation": "huy động vốn",
+      "frequency": 3,
+      "context": "Along with these topics, the founders’ agreement should also state the legal form of ownership, division of ownership (this refers to the division of equity at either the next round of financing, or harvesting of the company), as well as the buyout, or buyback clause."
+    },
+    {
+      "term": "funds",
+      "glossaryTranslation": "nguồn vốn",
+      "frequency": 4,
+      "context": "The culture within a bank conveys security of our deposited funds; we want a bank to have processes and systems in place that reinforce that we can trust the bank with our finances."
+    },
+    {
+      "term": "grant",
+      "glossaryTranslation": "khoản tài trợ",
+      "frequency": 5,
+      "context": "Link to Learning This TED Talk on creatives by Adam Grant presents some of the concepts of this chapter, framed around Dr."
+    },
+    {
+      "term": "revenue",
+      "glossaryTranslation": "doanh thu",
+      "frequency": 2,
+      "context": "Lovepop , the name of their greeting card line, has grown to 30 employees and $6.7 million in revenue."
+    },
+    {
+      "term": "business plan",
+      "glossaryTranslation": "kế hoạch kinh doanh",
+      "frequency": 11,
+      "context": "15.2 Making Difficult Business Decisions in Response to Challenges Learning Objectives By the end of this section, you will be able to: Recognize that cognitive biases can sabotage the success of the venture Identify key problem indicators Distinguish the emotional components involved in difficult decisions Now that you are prepared to launch your business venture, let’s look at your business plan and the assumptions you made while preparing it."
+    },
+    {
+      "term": "networking",
+      "glossaryTranslation": "xây dựng mạng lưới quan hệ",
+      "frequency": 2,
+      "context": "Another response to lack of sales or customers is to use social networking sites to draw attention to your business."
+    },
+    {
+      "term": "outsourcing",
+      "glossaryTranslation": "thuê ngoài",
+      "frequency": 2,
+      "context": "Opening and managing a business takes time, and assigning a professional accountant the responsibility of preparing monthly financial statements and tax reports can provide you with expert support as well as provide you with time necessary to position your venture into a successful growing business, as does outsourcing personnel tasks such as processing payroll."
+    },
+    {
+      "term": "capital",
+      "glossaryTranslation": "vốn",
+      "frequency": 2,
+      "context": "Giving back to others continues the creation of social capital , the goodwill we create by giving back to individuals, organizations, and communities."
+    },
+    {
+      "term": "funding sources",
+      "glossaryTranslation": "nguồn vốn",
+      "frequency": 1,
+      "context": "Specific areas of expertise might include commercialization of a new technology, safeguarding intellectual property, marketing, or funding sources for a nonprofit social entrepreneurship venture."
+    },
+    {
+      "term": "tangible resources",
+      "glossaryTranslation": "nguồn lực hữu hình",
+      "frequency": 1,
+      "context": "These decisions depend on your experience as an entrepreneur and money and less-tangible resources you gained through harvesting the venture."
+    },
+    {
+      "term": "buyback clause",
+      "glossaryTranslation": "điều khoản mua lại",
+      "frequency": 5,
+      "context": "Along with these topics, the founders’ agreement should also state the legal form of ownership, division of ownership (this refers to the division of equity at either the next round of financing, or harvesting of the company), as well as the buyout, or buyback clause."
+    },
+    {
+      "term": "code of conduct",
+      "glossaryTranslation": "quy tắc ứng xử",
+      "frequency": 32,
+      "context": "15.1 Launching Your Venture Learning Objectives By the end of this section, you will be able to: Explain the importance of creating and discussing the vision statement Determine the documents necessary for managing risks Describe company culture and the purpose of a code of conduct Summarize how to outline and schedule the operational steps of the launch The big day has arrived."
+    },
+    {
+      "term": "company culture",
+      "glossaryTranslation": "văn hóa công ty",
+      "frequency": 5,
+      "context": "15.1 Launching Your Venture Learning Objectives By the end of this section, you will be able to: Explain the importance of creating and discussing the vision statement Determine the documents necessary for managing risks Describe company culture and the purpose of a code of conduct Summarize how to outline and schedule the operational steps of the launch The big day has arrived."
+    },
+    {
+      "term": "delphi method",
+      "glossaryTranslation": "phương pháp Delphi",
+      "frequency": 4,
+      "context": "(credit “left”: modification of “Articulamos nuestras ideas” by Cultura de Red/Flickr, CC BY 2.0; attribution “right”: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Two other tools for sorting through advice are the Delphi method and the Nominal Group technique."
+    },
+    {
+      "term": "escalation of commitment",
+      "glossaryTranslation": "sự leo thang cam kết",
+      "frequency": 5,
+      "context": "It is important to return to your business plan and consider what you will do if your assumptions are incorrect, so if your milestones aren’t met, you can avoid the problem of escalation of commitment."
+    },
+    {
+      "term": "fail-safe point",
+      "glossaryTranslation": "điểm an toàn",
+      "frequency": 1,
+      "context": "Key Terms burn rate rate at which cash outflow exceeds cash inflow buyback clause legal agreement regarding an exit by a founding team member prior to the harvesting of the venture code of conduct formal statement that provides guidance on how ethical conduct is demonstrated company culture shared beliefs, values and assumptions held by people regarding how to behave or conduct themselves within the context of fitting into an organization Delphi method group decision-making process that includes a diverse group of people who are located at different locations and willing to respond to a series of questionnaires to assist in providing ideas, information or solutions to a defined question or problem escalation of commitment tendency to continue with a predetermined action based on the past efforts and contributions to the project rather than an analysis of the current realities that disclose a new solution or approach is necessary fail-safe point identified point that triggers the entrepreneur to consider what actions are needed to bring the venture back to a healthy position and whether this action is reasonable and feasible founders’ agreement written document that addresses contractual topics such as division of equity, compensation, contributions to the venture, and commitments to the venture with timelines included Gannt chart bar chart used to organize and plan sequential steps in a process hindsight bias belief that, in retrospect, the outcome was predictable when the outcome wasn’t predictable due to various uncontrollable factors hubris overinflated belief in oneself lifestyle business business that provides incomes similar to other forms of employment Nominal Group technique group decision-making process that requests multiple rounds of responses and discussions of response noncompete agreement formal agreement that the person signing the document will not work for another organization that is a direct competitor of their current employer during employment and usually for a specified length of time after employment ends nondisclosure agreement formal agreement that the person signing the document will not sharing proprietary information with outside sources planning fallacy creation of a plan that is too optimistic and not aligned with conservative assumptions serial entrepreneur entrepreneur who becomes involved in starting multiple entrepreneurial ventures social capital goodwill that is created through helping someone else status quo bias pattern of relying on previous actions and results as the accepted pattern and outcome with a bias against change or new information or new results Review Questions 1 ."
+    },
+    {
+      "term": "founders’ agreement",
+      "glossaryTranslation": "thỏa thuận giữa các nhà sáng lập",
+      "frequency": 12,
+      "context": "To protect the interests of all parties involved at launch, the team should develop several important documents, such as a founders’ agreement, nondisclosure and noncompete forms, and a code of conduct."
+    },
+    {
+      "term": "gantt chart",
+      "glossaryTranslation": "biểu đồ Gantt",
+      "frequency": 10,
+      "context": "Below is a sample Gantt chart , a method to track a list of tasks or activities aligned with time intervals."
+    },
+    {
+      "term": "hindsight bias",
+      "glossaryTranslation": "thiên kiến nhìn lại",
+      "frequency": 3,
+      "context": "Other causes for the entrepreneur’s failure to end the venture include “the law of small numbers, the illusion of control, the planning fallacy, escalation of commitment, the status quo bias, and the hindsight bias,” 4 as shown in Figure 15.5 ."
+    },
+    {
+      "term": "hubris",
+      "glossaryTranslation": "sự tự cao",
+      "frequency": 3,
+      "context": "As you can see, many of these problems are related to the hubris of the entrepreneur."
+    },
+    {
+      "term": "lifestyle business",
+      "glossaryTranslation": "doanh nghiệp phục vụ lối sống",
+      "frequency": 2,
+      "context": "If some team members have an interest in creating a lifestyle business (a venture that provides an income that replaces other types of employment), while other team members want to harvest the venture with significant returns, there is a clash between these expectations."
+    },
+    {
+      "term": "nominal group technique",
+      "glossaryTranslation": "kỹ thuật nhóm danh nghĩa",
+      "frequency": 5,
+      "context": "(credit “left”: modification of “Articulamos nuestras ideas” by Cultura de Red/Flickr, CC BY 2.0; attribution “right”: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Two other tools for sorting through advice are the Delphi method and the Nominal Group technique."
+    },
+    {
+      "term": "nondisclosure agreement",
+      "glossaryTranslation": "thỏa thuận không tiết lộ",
+      "frequency": 5,
+      "context": "Founder’s Agreement, Nondisclosure Agreement, and Noncompete Agreement Honest and open discussions between the entrepreneurial team members, including your angel investor if an angel investor is part of your initial funding, must take place before opening the venture."
+    },
+    {
+      "term": "planning fallacy",
+      "glossaryTranslation": "ngụy biện lập kế hoạch",
+      "frequency": 4,
+      "context": "Other causes for the entrepreneur’s failure to end the venture include “the law of small numbers, the illusion of control, the planning fallacy, escalation of commitment, the status quo bias, and the hindsight bias,” 4 as shown in Figure 15.5 ."
+    },
+    {
+      "term": "social capital",
+      "glossaryTranslation": "vốn xã hội",
+      "frequency": 2,
+      "context": "Giving back to others continues the creation of social capital , the goodwill we create by giving back to individuals, organizations, and communities."
+    },
+    {
+      "term": "status quo bias",
+      "glossaryTranslation": "thiên kiến hiện trạng",
+      "frequency": 3,
+      "context": "Other causes for the entrepreneur’s failure to end the venture include “the law of small numbers, the illusion of control, the planning fallacy, escalation of commitment, the status quo bias, and the hindsight bias,” 4 as shown in Figure 15.5 ."
+    },
+    {
+      "term": "entrepreneur in action",
+      "glossaryTranslation": "doanh nhân thực chiến",
+      "frequency": 2,
+      "context": "Entrepreneur In Action A New Greeting Card Concept Is there a connection between ship architecture and greeting cards?"
+    },
+    {
+      "term": "codes of conduct",
+      "glossaryTranslation": "các quy tắc ứng xử",
+      "frequency": 2,
+      "context": "Codes of conduct should be created as documents that include a sensitivity to people within the company as well as the greater community."
+    },
+    {
+      "term": "stakeholders",
+      "glossaryTranslation": "stakeholders",
+      "frequency": 1,
+      "context": "The law of small numbers refers to: an inability to attract a large target market a target market that is too small to lead to success a target market that aligns with key stakeholders both a and b 6 ."
+    },
+    {
+      "term": "fail-safe points",
+      "glossaryTranslation": "điểm kiểm soát an toàn",
+      "frequency": 1,
+      "context": "To avoid this failure to exit the venture, we can identify fail-safe points within the business plan."
+    },
+    {
+      "term": "nominal group",
+      "glossaryTranslation": "kỹ thuật nhóm danh nghĩa",
+      "frequency": 5,
+      "context": "(credit “left”: modification of “Articulamos nuestras ideas” by Cultura de Red/Flickr, CC BY 2.0; attribution “right”: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Two other tools for sorting through advice are the Delphi method and the Nominal Group technique."
+    },
+    {
+      "term": "link to learning",
+      "glossaryTranslation": "liên kết học tập",
+      "frequency": 3,
+      "context": "Link to Learning This TED Talk features Paul Tasner sharing how he found himself changing his career at the age of 66, reinforcing the idea that the world of entrepreneurship is open to all people regardless of age, race, background, health, or geographic location."
+    },
+    {
+      "term": "learning objectives",
+      "glossaryTranslation": "mục tiêu học tập",
+      "frequency": 5,
+      "context": "15.1 Launching Your Venture Learning Objectives By the end of this section, you will be able to: Explain the importance of creating and discussing the vision statement Determine the documents necessary for managing risks Describe company culture and the purpose of a code of conduct Summarize how to outline and schedule the operational steps of the launch The big day has arrived."
+    },
+    {
+      "term": "suggested resources",
+      "glossaryTranslation": "tài nguyên gợi ý",
+      "frequency": 2,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) See the Suggested Resources for more information on how to use a Gantt chart to assist in tracking the actions needed to support the start-up of your venture and to organize each action based on your necessary timelines."
+    },
+    {
+      "term": "key terms",
+      "glossaryTranslation": "thuật ngữ chính",
+      "frequency": 1,
+      "context": "Key Terms burn rate rate at which cash outflow exceeds cash inflow buyback clause legal agreement regarding an exit by a founding team member prior to the harvesting of the venture code of conduct formal statement that provides guidance on how ethical conduct is demonstrated company culture shared beliefs, values and assumptions held by people regarding how to behave or conduct themselves within the context of fitting into an organization Delphi method group decision-making process that includes a diverse group of people who are located at different locations and willing to respond to a series of questionnaires to assist in providing ideas, information or solutions to a defined question or problem escalation of commitment tendency to continue with a predetermined action based on the past efforts and contributions to the project rather than an analysis of the current realities that disclose a new solution or approach is necessary fail-safe point identified point that triggers the entrepreneur to consider what actions are needed to bring the venture back to a healthy position and whether this action is reasonable and feasible founders’ agreement written document that addresses contractual topics such as division of equity, compensation, contributions to the venture, and commitments to the venture with timelines included Gannt chart bar chart used to organize and plan sequential steps in a process hindsight bias belief that, in retrospect, the outcome was predictable when the outcome wasn’t predictable due to various uncontrollable factors hubris overinflated belief in oneself lifestyle business business that provides incomes similar to other forms of employment Nominal Group technique group decision-making process that requests multiple rounds of responses and discussions of response noncompete agreement formal agreement that the person signing the document will not work for another organization that is a direct competitor of their current employer during employment and usually for a specified length of time after employment ends nondisclosure agreement formal agreement that the person signing the document will not sharing proprietary information with outside sources planning fallacy creation of a plan that is too optimistic and not aligned with conservative assumptions serial entrepreneur entrepreneur who becomes involved in starting multiple entrepreneurial ventures social capital goodwill that is created through helping someone else status quo bias pattern of relying on previous actions and results as the accepted pattern and outcome with a bias against change or new information or new results Review Questions 1 ."
+    },
+    {
+      "term": "review questions",
+      "glossaryTranslation": "câu hỏi ôn tập",
+      "frequency": 1,
+      "context": "Key Terms burn rate rate at which cash outflow exceeds cash inflow buyback clause legal agreement regarding an exit by a founding team member prior to the harvesting of the venture code of conduct formal statement that provides guidance on how ethical conduct is demonstrated company culture shared beliefs, values and assumptions held by people regarding how to behave or conduct themselves within the context of fitting into an organization Delphi method group decision-making process that includes a diverse group of people who are located at different locations and willing to respond to a series of questionnaires to assist in providing ideas, information or solutions to a defined question or problem escalation of commitment tendency to continue with a predetermined action based on the past efforts and contributions to the project rather than an analysis of the current realities that disclose a new solution or approach is necessary fail-safe point identified point that triggers the entrepreneur to consider what actions are needed to bring the venture back to a healthy position and whether this action is reasonable and feasible founders’ agreement written document that addresses contractual topics such as division of equity, compensation, contributions to the venture, and commitments to the venture with timelines included Gannt chart bar chart used to organize and plan sequential steps in a process hindsight bias belief that, in retrospect, the outcome was predictable when the outcome wasn’t predictable due to various uncontrollable factors hubris overinflated belief in oneself lifestyle business business that provides incomes similar to other forms of employment Nominal Group technique group decision-making process that requests multiple rounds of responses and discussions of response noncompete agreement formal agreement that the person signing the document will not work for another organization that is a direct competitor of their current employer during employment and usually for a specified length of time after employment ends nondisclosure agreement formal agreement that the person signing the document will not sharing proprietary information with outside sources planning fallacy creation of a plan that is too optimistic and not aligned with conservative assumptions serial entrepreneur entrepreneur who becomes involved in starting multiple entrepreneurial ventures social capital goodwill that is created through helping someone else status quo bias pattern of relying on previous actions and results as the accepted pattern and outcome with a bias against change or new information or new results Review Questions 1 ."
+    },
+    {
+      "term": "discussion questions",
+      "glossaryTranslation": "câu hỏi thảo luận",
+      "frequency": 1,
+      "context": "Discussion Questions 1 ."
+    },
+    {
+      "term": "case questions",
+      "glossaryTranslation": "câu hỏi tình huống",
+      "frequency": 1,
+      "context": "Case Questions 1 ."
+    },
+    {
+      "term": "chapter outline",
+      "glossaryTranslation": "dàn ý chương",
+      "frequency": 1,
+      "context": "(credit: modification of work by LuminAID) Chapter Outline 15.1 Launching Your Venture 15.2 Making Difficult Business Decisions in Response to Challenges 15.3 Seeking Help or Support 15.4 Now What?"
+    }
+  ],
+  "candidateTerms": [
+    {
+      "term": "Objectives By",
+      "frequency": 5,
+      "context": "15.1 Launching Your Venture Learning Objectives By the end of this section, you will be able to: Explain the importance of creating and discussing the vision statement Determine the documents necessary for managing risks Describe company culture and the purpose of a code of conduct Summarize how to outline and schedule the operational steps of the launch The big day has arrived."
+    },
+    {
+      "term": "Making Difficult Business Decisions",
+      "frequency": 5,
+      "context": "Making Difficult Business Decisions in Response to Challenges will help in finalizing your founders’ agreement."
+    },
+    {
+      "term": "Response to Challenges",
+      "frequency": 5,
+      "context": "Making Difficult Business Decisions in Response to Challenges will help in finalizing your founders’ agreement."
+    },
+    {
+      "term": "Copyright Rice University",
+      "frequency": 9,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Figure 15.3 This code of conduct addresses more traditional and general topics than in the first example."
+    },
+    {
+      "term": "CC BY NC-SA",
+      "frequency": 9,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Figure 15.3 This code of conduct addresses more traditional and general topics than in the first example."
+    },
+    {
+      "term": "Are You Ready",
+      "frequency": 2,
+      "context": "Are You Ready?"
+    },
+    {
+      "term": "Mike Smith",
+      "frequency": 2,
+      "context": "For example, in Figure 15.4 , we see that Mike Smith cannot perform system testing until Sam Watson has developed the system modules, and in turn, that task can’t be done until Mike Smith has documented the current systems."
+    },
+    {
+      "term": "Link to Learning This TED",
+      "frequency": 2,
+      "context": "Link to Learning This TED Talk features Paul Tasner sharing how he found himself changing his career at the age of 66, reinforcing the idea that the world of entrepreneurship is open to all people regardless of age, race, background, health, or geographic location."
+    },
+    {
+      "term": "Rose and Wise",
+      "frequency": 2,
+      "context": "3 What evidence is there that Rose and Wise followed the concept of “begin with the end in mind”?"
+    },
+    {
+      "term": "Stacy Madison",
+      "frequency": 4,
+      "context": "Let’s examine a real story from Stacy Madison’s life."
+    },
+    {
+      "term": "National Business Ethics Survey",
+      "frequency": 2,
+      "context": "According to the National Business Ethics Survey of the U.S."
+    },
+    {
+      "term": "Seeking Help",
+      "frequency": 6,
+      "context": "15.3 Seeking Help or Support Learning Objectives By the end of this section, you will be able to: Identify sources for assistance Explain the benefits provided through seeking assistance Compare tools to assist in deciding what advice to follow You’ve learned about some of the challenges in starting the venture and the types of decisions that the entrepreneurial team must make, as well as the importance of recognizing when you don’t know something or that you have encountered a problem."
+    },
+    {
+      "term": "Service Corps of Retired Executives",
+      "frequency": 2,
+      "context": "Other free sources of support are instructors of your business courses, other business owners, organizations such as the SCORE (originally called the Service Corps of Retired Executives) and resources within the Small Business Administration (SBA) ."
+    },
+    {
+      "term": "Small Business Administration",
+      "frequency": 3,
+      "context": "Other free sources of support are instructors of your business courses, other business owners, organizations such as the SCORE (originally called the Service Corps of Retired Executives) and resources within the Small Business Administration (SBA) ."
+    },
+    {
+      "term": "The SBA",
+      "frequency": 4,
+      "context": "and is a resource partner with the SBA."
+    },
+    {
+      "term": "Y Combinator",
+      "frequency": 4,
+      "context": "Companies like Y Combinator in Silicon Valley and Techstars in Boulder, Colorado, provide unique assistance to new startup ventures ( Figure 15.8 )."
+    },
+    {
+      "term": "CC BY",
+      "frequency": 11,
+      "context": "(attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Figure 15.3 This code of conduct addresses more traditional and general topics than in the first example."
+    },
+    {
+      "term": "Deciding What Advice to Follow",
+      "frequency": 2,
+      "context": "15.3 Seeking Help or Support Learning Objectives By the end of this section, you will be able to: Identify sources for assistance Explain the benefits provided through seeking assistance Compare tools to assist in deciding what advice to follow You’ve learned about some of the challenges in starting the venture and the types of decisions that the entrepreneurial team must make, as well as the importance of recognizing when you don’t know something or that you have encountered a problem."
+    },
+    {
+      "term": "The Delphi",
+      "frequency": 5,
+      "context": "(credit “left”: modification of “Articulamos nuestras ideas” by Cultura de Red/Flickr, CC BY 2.0; attribution “right”: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Two other tools for sorting through advice are the Delphi method and the Nominal Group technique."
+    },
+    {
+      "term": "The Nominal Group",
+      "frequency": 4,
+      "context": "(credit “left”: modification of “Articulamos nuestras ideas” by Cultura de Red/Flickr, CC BY 2.0; attribution “right”: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) Two other tools for sorting through advice are the Delphi method and the Nominal Group technique."
+    },
+    {
+      "term": "The Power of Intuition",
+      "frequency": 2,
+      "context": "Resources like Gary Klein’s The Power of Intuition: How to Use Your Gut Feelings to Make Better Decisions at Work explains how this process works in the human brain."
+    },
+    {
+      "term": "How to Use Your Gut",
+      "frequency": 2,
+      "context": "Resources like Gary Klein’s The Power of Intuition: How to Use Your Gut Feelings to Make Better Decisions at Work explains how this process works in the human brain."
+    },
+    {
+      "term": "Feelings to Make Better Decisions",
+      "frequency": 2,
+      "context": "Resources like Gary Klein’s The Power of Intuition: How to Use Your Gut Feelings to Make Better Decisions at Work explains how this process works in the human brain."
+    },
+    {
+      "term": "Now What",
+      "frequency": 4,
+      "context": "15.4 Now What?"
+    },
+    {
+      "term": "The Startup Champions Network",
+      "frequency": 3,
+      "context": "The Startup Champions Network is a startup organization located in Boulder, Colorado."
+    },
+    {
+      "term": "Startup Champions Network",
+      "frequency": 4,
+      "context": "The Startup Champions Network is a startup organization located in Boulder, Colorado."
+    },
+    {
+      "term": "Rehman and Bailey",
+      "frequency": 3,
+      "context": "As Rehman and Bailey wrote, “Mistakes provide raw evidence of what we should not do in the future."
+    },
+    {
+      "term": "Andrea Sreshta and Ana Stork",
+      "frequency": 2,
+      "context": "Andrea Sreshta and Ana Stork identified this situation as an opportunity to create a new product that provides light when the infrastructure does not."
+    },
+    {
+      "term": "Launching Your Venture",
+      "frequency": 5,
+      "context": "15.1 Launching Your Venture Learning Objectives By the end of this section, you will be able to: Explain the importance of creating and discussing the vision statement Determine the documents necessary for managing risks Describe company culture and the purpose of a code of conduct Summarize how to outline and schedule the operational steps of the launch The big day has arrived."
+    },
+    {
+      "term": "Harvard Business Review",
+      "frequency": 3,
+      "context": "\"Case Study: Is a Start-up's Strength Becoming Its Weakness?\" Harvard Business Review 93, no."
+    },
+    {
+      "term": "Microsoft Excel",
+      "frequency": 2,
+      "context": "Ablebit’s instructions for making a Gantt chart in Microsoft Excel: https://www.ablebits.com/office-addins-blog/2014/05/23/make-gantt-chart-excel/ Smartsheet’s step-by-step instructions for making a Gantt chart in Microsoft Excel: https://www.smartsheet.com/blog/gantt-chart-excel Project Manager’s Ultimate Guide to Gantt Charts: https://www.projectmanager.com/gantt-chart The Startup Checklist by David Rose, founder of NY Angels and GUST.com Shortcut: How Analogies Reveal Connections, Spark Innovation, and Sell Our Greatest Ideas by John Pollock discusses using analogies to think about unmet needs and innovative solutions."
+    },
+    {
+      "term": "Support Entrepreneurs",
+      "frequency": 2,
+      "context": "Most states have organizations that support entrepreneurs, from business plan development and decision making through opportunities to give back to the entrepreneurial world in whatever capacity a person desires."
+    }
+  ],
+  "missingGlossaryTerms": [
+    {
+      "term": "Gannt chart",
+      "frequency": 1,
+      "context": "Key Terms burn rate rate at which cash outflow exceeds cash inflow buyback clause legal agreement regarding an exit by a founding team member prior to the harvesting of the venture code of conduct formal statement that provides guidance on how ethical conduct is demonstrated company culture shared beliefs, values and assumptions held by people regarding how to behave or conduct themselves within the context of fitting into an organization Delphi method group decision-making process that includes a diverse group of people who are located at different locations and willing to respond to a series of questionnaires to assist in providing ideas, information or solutions to a defined question or problem escalation of commitment tendency to continue with a predetermined action based on the past efforts and contributions to the project rather than an analysis of the current realities that disclose a new solution or approach is necessary fail-safe point identified point that triggers the entrepreneur to consider what actions are needed to bring the venture back to a healthy position and whether this action is reasonable and feasible founders’ agreement written document that addresses contractual topics such as division of equity, compensation, contributions to the venture, and commitments to the venture with timelines included Gannt chart bar chart used to organize and plan sequential steps in a process hindsight bias belief that, in retrospect, the outcome was predictable when the outcome wasn’t predictable due to various uncontrollable factors hubris overinflated belief in oneself lifestyle business business that provides incomes similar to other forms of employment Nominal Group technique group decision-making process that requests multiple rounds of responses and discussions of response noncompete agreement formal agreement that the person signing the document will not work for another organization that is a direct competitor of their current employer during employment and usually for a specified length of time after employment ends nondisclosure agreement formal agreement that the person signing the document will not sharing proprietary information with outside sources planning fallacy creation of a plan that is too optimistic and not aligned with conservative assumptions serial entrepreneur entrepreneur who becomes involved in starting multiple entrepreneurial ventures social capital goodwill that is created through helping someone else status quo bias pattern of relying on previous actions and results as the accepted pattern and outcome with a bias against change or new information or new results Review Questions 1 ."
+    }
+  ],
+  "termFrequency": {
+    "due diligence": 2,
+    "entrepreneur": 46,
+    "entrepreneurial venture": 2,
+    "entrepreneurial vision": 1,
+    "harvest": 5,
+    "serial entrepreneur": 4,
+    "social entrepreneur": 2,
+    "vision statement": 5,
+    "opportunity recognition": 1,
+    "business model": 4,
+    "cash flow": 1,
+    "entrepreneurial journey": 2,
+    "framework": 1,
+    "innovation": 2,
+    "milestone": 1,
+    "target market": 17,
+    "venture": 204,
+    "business ethics": 2,
+    "copyright": 9,
+    "disclosure": 1,
+    "diversity": 1,
+    "ethics": 7,
+    "intellectual property": 2,
+    "social entrepreneurship": 1,
+    "brainstorming": 10,
+    "creativity": 1,
+    "customers": 8,
+    "infrastructure": 2,
+    "supply": 2,
+    "clarify": 2,
+    "data analysis": 1,
+    "develop": 8,
+    "evaluate": 6,
+    "evaluation": 1,
+    "ask": 2,
+    "noncompete agreement": 4,
+    "pitch": 1,
+    "brand": 1,
+    "close": 1,
+    "digital marketing": 1,
+    "marketing": 13,
+    "marketing plan": 2,
+    "people": 41,
+    "place": 5,
+    "price": 1,
+    "process": 33,
+    "product": 11,
+    "sample": 3,
+    "targeting": 1,
+    "accounting": 3,
+    "angel investor": 24,
+    "assets": 1,
+    "burn rate": 3,
+    "credit": 4,
+    "early stage": 1,
+    "equity": 11,
+    "financing": 3,
+    "funds": 4,
+    "grant": 5,
+    "revenue": 2,
+    "business plan": 11,
+    "networking": 2,
+    "outsourcing": 2,
+    "capital": 2,
+    "funding sources": 1,
+    "tangible resources": 1,
+    "buyback clause": 5,
+    "code of conduct": 32,
+    "company culture": 5,
+    "delphi method": 4,
+    "escalation of commitment": 5,
+    "fail-safe point": 1,
+    "founders’ agreement": 12,
+    "gantt chart": 10,
+    "hindsight bias": 3,
+    "hubris": 3,
+    "lifestyle business": 2,
+    "nominal group technique": 5,
+    "nondisclosure agreement": 5,
+    "planning fallacy": 4,
+    "social capital": 2,
+    "status quo bias": 3,
+    "entrepreneur in action": 2,
+    "codes of conduct": 2,
+    "stakeholders": 1,
+    "fail-safe points": 1,
+    "nominal group": 5,
+    "link to learning": 3,
+    "learning objectives": 5,
+    "suggested resources": 2,
+    "key terms": 1,
+    "review questions": 1,
+    "discussion questions": 1,
+    "case questions": 1,
+    "chapter outline": 1,
+    "Gannt chart": 1,
+    "Objectives By": 5,
+    "Making Difficult Business Decisions": 5,
+    "Response to Challenges": 5,
+    "Copyright Rice University": 9,
+    "CC BY NC-SA": 9,
+    "Are You Ready": 2,
+    "Mike Smith": 2,
+    "Link to Learning This TED": 2,
+    "Rose and Wise": 2,
+    "Stacy Madison": 4,
+    "National Business Ethics Survey": 2,
+    "Seeking Help": 6,
+    "Service Corps of Retired Executives": 2,
+    "Small Business Administration": 3,
+    "The SBA": 4,
+    "Y Combinator": 4,
+    "CC BY": 11,
+    "Deciding What Advice to Follow": 2,
+    "The Delphi": 5,
+    "The Nominal Group": 4,
+    "The Power of Intuition": 2,
+    "How to Use Your Gut": 2,
+    "Feelings to Make Better Decisions": 2,
+    "Now What": 4,
+    "The Startup Champions Network": 3,
+    "Startup Champions Network": 4,
+    "Rehman and Bailey": 3,
+    "Andrea Sreshta and Ana Stork": 2,
+    "Launching Your Venture": 5,
+    "Harvard Business Review": 3,
+    "Microsoft Excel": 2,
+    "Support Entrepreneurs": 2
+  },
+  "warnings": [
+    "Found 1 key terms defined in <dt> tags that are missing from glossary.csv."
+  ]
+}

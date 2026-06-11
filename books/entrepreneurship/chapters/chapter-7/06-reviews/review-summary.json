@@ -1,0 +1,85 @@
+{
+  "phase": "review",
+  "bookSlug": "entrepreneurship",
+  "chapterId": "chapter-7",
+  "status": "needs_human_review",
+  "startedAt": "2026-06-11T10:55:49.649Z",
+  "finishedAt": "2026-06-11T10:55:49.701Z",
+  "reviewTypes": [
+    "integrity",
+    "glossary",
+    "semantic"
+  ],
+  "inputFiles": [
+    "7-1-clarifying-your-vision-mission-and-goals.html",
+    "7-2-sharing-your-entrepreneurial-story.html",
+    "7-3-developing-pitches-for-various-audiences-and-goals.html",
+    "7-4-protecting-your-idea-and-polishing-the-pitch-through-feedback.html",
+    "7-5-reality-check-contests-and-competitions.html",
+    "7-case-questions.html",
+    "7-discussion-questions.html",
+    "7-introduction.html",
+    "7-key-terms.html",
+    "7-review-questions.html",
+    "7-suggested-resources.html",
+    "7-summary.html"
+  ],
+  "reports": [
+    "integrity-review-20260611-175549.json",
+    "glossary-review-20260611-175549.json",
+    "semantic-review-20260611-175549.json"
+  ],
+  "issues": [
+    {
+      "file": "7-case-questions.html",
+      "type": "tag-count-mismatch",
+      "tag": "a",
+      "expected": 14,
+      "actual": 13,
+      "message": "Tag <a> count mismatch. Expected prep count: 14, found in translated: 13",
+      "reviewType": "integrity"
+    },
+    {
+      "file": "7-case-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm249133760-vn",
+      "tagName": "li",
+      "message": "Vietnamese target text matches English source exactly: \"39 Anne-Marie Slaughter. “Why Women Still Can’t Ha...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "7-case-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm241130480-vn",
+      "tagName": "li",
+      "message": "Vietnamese target text matches English source exactly: \"40 Jeremy Bell. “Well, We Failed.” Medium . May 5,...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "7-case-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm238769664-vn",
+      "tagName": "li",
+      "message": "Vietnamese target text matches English source exactly: \"41 Jeremy Bell. “Pitching the Wrong Paradigm.” Med...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "7-case-questions.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm365138800-vn",
+      "tagName": "li",
+      "message": "Vietnamese target text matches English source exactly: \"42 Eric Ries. The Lean Startup . New York: Crown B...\"",
+      "reviewType": "semantic"
+    },
+    {
+      "file": "7-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm347026768-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"http://www.ipwatchdog.com/2016/01/23/patent-drafti...\"",
+      "reviewType": "semantic"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

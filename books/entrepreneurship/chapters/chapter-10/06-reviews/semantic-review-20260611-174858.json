@@ -1,0 +1,83 @@
+{
+  "chapterId": "chapter-10",
+  "status": "needs_human_review",
+  "issues": [
+    {
+      "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty."
+    },
+    {
+      "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty."
+    },
+    {
+      "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty."
+    },
+    {
+      "file": "10-2-why-early-failure-can-lead-to-success-later.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty."
+    },
+    {
+      "file": "10-3-the-challenging-truth-about-business-ownership.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty."
+    },
+    {
+      "file": "10-3-the-challenging-truth-about-business-ownership.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty."
+    },
+    {
+      "file": "10-3-the-challenging-truth-about-business-ownership.html",
+      "type": "empty-target-block",
+      "id": null,
+      "tagName": "td",
+      "message": "Vietnamese target block <td id=\"null\"> is empty."
+    },
+    {
+      "file": "10-3-the-challenging-truth-about-business-ownership.html",
+      "type": "empty-table-cell",
+      "id": null,
+      "tagName": "td",
+      "message": "Table cell target is empty."
+    },
+    {
+      "file": "10-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm364251168-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Lean startup: http://theleanstartup.com/#principle...\""
+    },
+    {
+      "file": "10-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm243758976-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Global Entrepreneurship Monitor: http://www.gemcon...\""
+    },
+    {
+      "file": "10-suggested-resources.html",
+      "type": "untranslated-leak",
+      "id": "fs-idm358103600-vn",
+      "tagName": "p",
+      "message": "Vietnamese target text matches English source exactly: \"Ladies Who Launch: https://www.ladieswholaunch.org...\""
+    }
+  ]
+}

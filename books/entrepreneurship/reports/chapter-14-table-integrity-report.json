@@ -1,0 +1,91 @@
+{
+  "status": "Passed",
+  "archiveCheck": {
+    "status": "Passed",
+    "reference": "F:\\LIBERO\\translate-agents-main\\books\\entrepreneurship\\chapters\\chapter-14\\02-clean\\14-1-types-of-resources.html",
+    "translated": "F:\\LIBERO\\translate-agents-main\\books\\entrepreneurship\\chapters\\chapter-14\\07-archive\\vn-only\\14-1-types-of-resources.html",
+    "tableDetails": [
+      {
+        "index": 0,
+        "refRows": 4,
+        "transRows": 4,
+        "refTd": 9,
+        "transTd": 9,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 1,
+        "refRows": 7,
+        "transRows": 7,
+        "refTd": 18,
+        "transTd": 18,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 2,
+        "refRows": 4,
+        "transRows": 4,
+        "refTd": 9,
+        "transTd": 9,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 3,
+        "refRows": 9,
+        "transRows": 9,
+        "refTd": 24,
+        "transTd": 24,
+        "diff": 0,
+        "status": "Passed"
+      }
+    ],
+    "mismatches": []
+  },
+  "bilingualCheck": {
+    "status": "Passed",
+    "reference": "F:\\LIBERO\\translate-agents-main\\books\\entrepreneurship\\chapters\\chapter-14\\04-prep\\14-1-types-of-resources.html",
+    "translated": "F:\\LIBERO\\translate-agents-main\\books\\entrepreneurship\\chapters\\chapter-14\\05-translated\\14-1-types-of-resources.html",
+    "tableDetails": [
+      {
+        "index": 0,
+        "refRows": 4,
+        "transRows": 4,
+        "refTd": 9,
+        "transTd": 9,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 1,
+        "refRows": 7,
+        "transRows": 7,
+        "refTd": 18,
+        "transTd": 18,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 2,
+        "refRows": 4,
+        "transRows": 4,
+        "refTd": 9,
+        "transTd": 9,
+        "diff": 0,
+        "status": "Passed"
+      },
+      {
+        "index": 3,
+        "refRows": 9,
+        "transRows": 9,
+        "refTd": 24,
+        "transTd": 24,
+        "diff": 0,
+        "status": "Passed"
+      }
+    ],
+    "mismatches": []
+  }
+}
