@@ -1,0 +1,12 @@
+{
+  "name": "translate-agents-workflow-core",
+  "version": "1.0.0",
+  "description": "OpenStax translation agent orchestrator release manifest with Antigravity AI Provider Policy.",
+  "aiProviderPolicy": {
+    "defaultForRealContentWork": "antigravity-selected-model",
+    "defaultForWorkflowTesting": "mock",
+    "externalAiProvider": "requires explicit configuration and confirmation",
+    "realTranslationOutput": "draft only by default",
+    "finalTranslation": "requires human review and explicit confirmation"
+  }
+}
